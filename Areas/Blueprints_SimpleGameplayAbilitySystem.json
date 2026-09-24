@@ -1,0 +1,1486 @@
+{
+	"schemaVersion": 1,
+	"area": "Blueprints/SimpleGameplayAbilitySystem",
+	"entries": [
+		{
+			"ns": "",
+			"key": "108D226141E005547016C7896460815F",
+			"source": "{x}",
+			"sourceHash": "c8ed11f1",
+			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:ExecuteUbergraph_W_DebugSimpleAbilitySystem [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "11F952DE4EF140A766BD43AEEB01340B",
+			"source": "Bleeding",
+			"sourceHash": "0bae2e7f",
+			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Effects/SGE_IsWounded.Default__SGE_IsWounded_C.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "14ADC7064788E015C1170D8BAFD7CC9D",
+			"source": "{x}",
+			"sourceHash": "c8ed11f1",
+			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:ExecuteUbergraph_W_DebugSimpleAbilitySystem [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "19AD764E4525EAB68FA84ABB31C42C8C",
+			"source": "Character Braking Friction: ",
+			"sourceHash": "b8f0324c",
+			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:WidgetTree.WeaponAmmunitionState_5.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "1EC47A834FAF7995FB75F893773ED6C7",
+			"source": "Bleeding",
+			"sourceHash": "0bae2e7f",
+			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Effects/SGE_TearGas.Default__SGE_TearGas_C.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "2B7B6CA24B55F494FB1BA48D14D3F620",
+			"source": "Character Braking: ",
+			"sourceHash": "cf2c88b0",
+			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:WidgetTree.WeaponAmmunitionState_4.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "2BCFE1FE458CD71806EEF5B85C0730C1",
+			"source": "Weapon Weight: ",
+			"sourceHash": "a12b0406",
+			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:WidgetTree.WeaponWeight_1.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "41A54C5547DCCF27EA635C9989919913",
+			"source": "Mag Capacity: {x} Cahmber Empty? {y}",
+			"sourceHash": "4b85974a",
+			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:ExecuteUbergraph_W_DebugSimpleAbilitySystem [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "474CDE5B4F804ED8390883BE855649C8",
+			"source": "Weapon Ergo: ",
+			"sourceHash": "87dbe228",
+			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:WidgetTree.WeaponWeight_3.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "512069B04CA39F1B18F4A7918235948D",
+			"source": "Weapon Ammunition State: ",
+			"sourceHash": "2beee5b4",
+			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:WidgetTree.WeaponAmmunitionState.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "51E3571A4E75EB3B49744CACBE82972C",
+			"source": "{x}",
+			"sourceHash": "c8ed11f1",
+			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:ExecuteUbergraph_W_DebugSimpleAbilitySystem [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "5E0D5BF74966D692270BF9A9B12E5C0D",
+			"source": "{x}",
+			"sourceHash": "c8ed11f1",
+			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:ExecuteUbergraph_W_DebugSimpleAbilitySystem [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "630CF5BE4AF9BF432DBA50981CDFEDBC",
+			"source": "Adrenaline",
+			"sourceHash": "15234707",
+			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Effects/SGE_Arm_Influence.Default__SGE_Arm_Influence_C.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "6AE29E444DB6EDA0E2A46594F0E47C85",
+			"source": "Character Max Walk Speed: ",
+			"sourceHash": "5cc41993",
+			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:WidgetTree.WeaponAmmunitionState_2.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "6D7BE73D43FF138E1106758F887BF137",
+			"source": "Weapon Length: ",
+			"sourceHash": "ef762c58",
+			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:WidgetTree.WeaponWeight_2.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "707EA3DC4AEF0D0CB9F14B8CF2827341",
+			"source": "Active Abilities",
+			"sourceHash": "619574e9",
+			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:WidgetTree.WeaponLength.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "72BD4F164A765B9492339191F3A45800",
+			"source": "Bleeding",
+			"sourceHash": "0bae2e7f",
+			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Effects/SGE_Smoke.Default__SGE_Smoke_C.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "730897714D5562C2C515888BD1CA4329",
+			"source": "Chamber",
+			"sourceHash": "02ea3f25",
+			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_SimpleAbilityTagItem.W_SimpleAbilityTagItem_C:WidgetTree.TextBlock_122.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "7C2A7D834CCA4B2ACAADC5BF48BC418C",
+			"source": "Weapon Recoil : ",
+			"sourceHash": "fe5bf9b2",
+			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:WidgetTree.WeaponWeight_4.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "87776DA148E2A88A500B50948651A542",
+			"source": "Bleeding",
+			"sourceHash": "0bae2e7f",
+			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Effects/SGE_NeutralCombat.Default__SGE_NeutralCombat_C.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "88ED7A9F4A5E390BBC5345A0AF92E911",
+			"source": "Active Tags",
+			"sourceHash": "93006fe1",
+			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:WidgetTree.WeaponRecoil.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "8D6890ED4754B654C1240A97A65C2DAE",
+			"source": "Hold Breath",
+			"sourceHash": "e2b1b61c",
+			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Effects/SGE_HoldBreath.Default__SGE_HoldBreath_C.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "964A1DF04D714030E97992A0E9AD78F6",
+			"source": "Abilities Blocked",
+			"sourceHash": "2f59a33c",
+			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:WidgetTree.AbilitesBlocked.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "985CDF244A2920F23A722F81A3398642",
+			"source": "Stops Bleeding",
+			"sourceHash": "e74c6dd3",
+			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Effects/SGE_StopWound.Default__SGE_StopWound_C.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "9874E7404AC9D5FE5B8E4788949831AF",
+			"source": "Fractured",
+			"sourceHash": "e0957ec5",
+			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Effects/SGE_Fractured.Default__SGE_Fractured_C.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "9B012EBB409CAB65C1B5AAAEF83C2376",
+			"source": "Bleeding",
+			"sourceHash": "0bae2e7f",
+			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Effects/SGE_UnderSuppresion.Default__SGE_UnderSuppresion_C.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "A03735BA4DD8455F3B28DE989EACDD8F",
+			"source": "Heavy Bleeding",
+			"sourceHash": "d4ece7ae",
+			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Effects/SGE_IsWounded.Default__SGE_IsWounded_C.HeavyName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "A14508FD47716778138AB2A38CAB2A5F",
+			"source": "Stops Bleeding",
+			"sourceHash": "e74c6dd3",
+			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Effects/SGE_StopHeavyWound.Default__SGE_StopHeavyWound_C.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "A26D89B14D320AF640C63CAD1D8C22C0",
+			"source": "Character Accel: ",
+			"sourceHash": "3b596164",
+			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:WidgetTree.WeaponAmmunitionState_3.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "BFEC78E54E7CC801C46D498BAFEA6652",
+			"source": "Stops Bleeding",
+			"sourceHash": "e74c6dd3",
+			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Effects/SGE_StopFractured.Default__SGE_StopFractured_C.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "CB386CD641FA2687A64C8FA1C2D492B5",
+			"source": "Character Weight: ",
+			"sourceHash": "d61f4a77",
+			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:WidgetTree.WeaponAmmunitionState_1.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "CE89A44E4E352DC700ADB8A5F97AD859",
+			"source": "Painkiller",
+			"sourceHash": "a67ccedb",
+			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Effects/SGE_Painkiller_Debug.Default__SGE_Painkiller_Debug_C.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "E2168AA04C13328ACFC75E9DDE75DCBA",
+			"source": "Weapon Sway : ",
+			"sourceHash": "93873f5d",
+			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:WidgetTree.WeaponWeight_5.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "E2E272914D254D2628076B86AE61181E",
+			"source": "{x}",
+			"sourceHash": "c8ed11f1",
+			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:ExecuteUbergraph_W_DebugSimpleAbilitySystem [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "E4DEE1224E867F256A133691CC7947CC",
+			"source": "Stops Bleeding",
+			"sourceHash": "e74c6dd3",
+			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Effects/SGE_StopWound_Debug.Default__SGE_StopWound_Debug_C.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "F1C452144FB1D5955DC3E8ABB266449B",
+			"source": "Buffered Abilities",
+			"sourceHash": "8abc15a4",
+			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:WidgetTree.WeaponErgonomics.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "FF33CFCC4A2A12A25185288E0B3BE667",
+			"source": "Ground Friction: ",
+			"sourceHash": "c6988ec7",
+			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:WidgetTree.WeaponAmmunitionState_6.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		}
+	]
+}
