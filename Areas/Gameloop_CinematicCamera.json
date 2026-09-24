@@ -1,0 +1,286 @@
+{
+	"schemaVersion": 1,
+	"area": "Gameloop/CinematicCamera",
+	"entries": [
+		{
+			"ns": "",
+			"key": "12EC01B54B692465B81F148968624273",
+			"source": "Show AI",
+			"sourceHash": "94971b43",
+			"origin": "/Game/Blueprints/Gameloop/CinematicCamera/W_CinematicCamera_HUD.W_CinematicCamera_HUD_C:WidgetTree.ShowAI.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "4A5AD49A4378C227D4CCD0929E89D3F9",
+			"source": "ON",
+			"sourceHash": "ee542026",
+			"origin": "/Game/Blueprints/Gameloop/CinematicCamera/W_CinematicCamera_HUD.W_CinematicCamera_HUD_C:WidgetTree.ShowAI.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "5D6612F8435A89A05685D2BB5AC83F83",
+			"source": "OFF",
+			"sourceHash": "68af2265",
+			"origin": "/Game/Blueprints/Gameloop/CinematicCamera/W_CinematicCamera_HUD.W_CinematicCamera_HUD_C:WidgetTree.ShowAI.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "81776F664B02F2A05D0A42B08600CD70",
+			"source": "FOV",
+			"sourceHash": "ba505440",
+			"origin": "/Game/Blueprints/Gameloop/CinematicCamera/W_CinematicCamera_HUD.W_CinematicCamera_HUD_C:WidgetTree.FOV.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "835E7C5B491AD6BA842F8BBBFB8808D3",
+			"source": "Camera Start/Stop Speed",
+			"sourceHash": "096817cc",
+			"origin": "/Game/Blueprints/Gameloop/CinematicCamera/W_CinematicCamera_HUD.W_CinematicCamera_HUD_C:WidgetTree.FlyStartStop.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "988D25664573499CD16583A15C33AEF6",
+			"source": "Camera Lag",
+			"sourceHash": "c5a42fc3",
+			"origin": "/Game/Blueprints/Gameloop/CinematicCamera/W_CinematicCamera_HUD.W_CinematicCamera_HUD_C:WidgetTree.FlySmoothing.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "B885D60E47053064049D0EAE3A9704F4",
+			"source": "Camera Max Speed",
+			"sourceHash": "74ed6c4b",
+			"origin": "/Game/Blueprints/Gameloop/CinematicCamera/W_CinematicCamera_HUD.W_CinematicCamera_HUD_C:WidgetTree.FlySpeed.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		}
+	]
+}
