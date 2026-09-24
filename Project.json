@@ -10,13 +10,13 @@
 		"ja",
 		"es-ES"
 	],
-	"exportedAt": "2026-09-24T21:12:23.706Z",
-	"entries": 3220,
+	"exportedAt": "2026-09-24T21:30:50.381Z",
+	"entries": 2877,
 	"areas": [
 		{
 			"area": "Blueprints/AI",
 			"file": "Areas/Blueprints_AI.json",
-			"entries": 6,
+			"entries": 5,
 			"translated":
 			{
 				"de": 0,
@@ -450,49 +450,7 @@
 		{
 			"area": "Test_C/AdvancedAudio",
 			"file": "Areas/Test_C_AdvancedAudio.json",
-			"entries": 18,
-			"translated":
-			{
-				"de": 0,
-				"zh-Hans": 0,
-				"ru": 0,
-				"ko": 0,
-				"ja": 0,
-				"es-ES": 0
-			}
-		},
-		{
-			"area": "Test_C/AI",
-			"file": "Areas/Test_C_AI.json",
-			"entries": 146,
-			"translated":
-			{
-				"de": 0,
-				"zh-Hans": 0,
-				"ru": 0,
-				"ko": 0,
-				"ja": 0,
-				"es-ES": 0
-			}
-		},
-		{
-			"area": "Test_C/Debug",
-			"file": "Areas/Test_C_Debug.json",
-			"entries": 14,
-			"translated":
-			{
-				"de": 0,
-				"zh-Hans": 0,
-				"ru": 0,
-				"ko": 0,
-				"ja": 0,
-				"es-ES": 0
-			}
-		},
-		{
-			"area": "Test_C/General",
-			"file": "Areas/Test_C_General.json",
-			"entries": 13,
+			"entries": 1,
 			"translated":
 			{
 				"de": 0,
@@ -549,34 +507,6 @@
 			"area": "UI/Data",
 			"file": "Areas/UI_Data.json",
 			"entries": 17,
-			"translated":
-			{
-				"de": 0,
-				"zh-Hans": 0,
-				"ru": 0,
-				"ko": 0,
-				"ja": 0,
-				"es-ES": 0
-			}
-		},
-		{
-			"area": "UI/Debug",
-			"file": "Areas/UI_Debug.json",
-			"entries": 67,
-			"translated":
-			{
-				"de": 0,
-				"zh-Hans": 0,
-				"ru": 0,
-				"ko": 0,
-				"ja": 0,
-				"es-ES": 0
-			}
-		},
-		{
-			"area": "UI/Private",
-			"file": "Areas/UI_Private.json",
-			"entries": 85,
 			"translated":
 			{
 				"de": 0,
