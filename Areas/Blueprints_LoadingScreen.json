@@ -8,37 +8,42 @@
 			"source": "Loading",
 			"sourceHash": "ac1002c2",
 			"origin": "/Game/Blueprints/LoadingScreen/W_LoadingScreenWidget.W_LoadingScreenWidget_C:WidgetTree.IRRTextBlock_78.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Laden",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "加载中",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Загрузка",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "로딩",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "読み込み中",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Cargando",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		}

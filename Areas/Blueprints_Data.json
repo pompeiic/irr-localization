@@ -8,37 +8,42 @@
 			"source": "kg",
 			"sourceHash": "4e52ac3e",
 			"origin": "/Game/Blueprints/Data/Tables/DT_StatItems.DT_StatItems.Weight.UnitText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "kg",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "kg",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "кг",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "kg",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "kg",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "kg",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		},
@@ -48,37 +53,42 @@
 			"source": "Recoil",
 			"sourceHash": "d3d89a82",
 			"origin": "/Game/Blueprints/Data/Tables/DT_StatItems.DT_StatItems.Recoil.StatName",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Rückstoß",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "后坐力",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "отдача",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "반동",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "リコイル",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "retroceso",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		},
@@ -88,37 +98,42 @@
 			"source": "Muzzle Velocity",
 			"sourceHash": "db0b17f6",
 			"origin": "/Game/Blueprints/Data/Tables/DT_StatItems.DT_StatItems.MuzzleVelocity.StatName",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Mündungsgeschwindigkeit",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "初速",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "начальная скорость",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "총구 속도",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "初速",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "velocidad de boca",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		},
@@ -128,37 +143,42 @@
 			"source": "m/s",
 			"sourceHash": "94f4d401",
 			"origin": "/Game/Blueprints/Data/Tables/DT_StatItems.DT_StatItems.RPM.UnitText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "m/s",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "m/s",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "m/s",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "m/s",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "m/s",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "m/s",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		},
@@ -168,37 +188,42 @@
 			"source": "Sighting Range",
 			"sourceHash": "b6b2c9f3",
 			"origin": "/Game/Blueprints/Data/Tables/DT_StatItems.DT_StatItems.SightingRange.StatName",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Visierreichweite",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "瞄准距离",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Дальность прицеливания",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "조준 거리",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "照準距離",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Alcance de mira",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		},
@@ -208,37 +233,42 @@
 			"source": "rpm",
 			"sourceHash": "d6b8674a",
 			"origin": "/Game/Blueprints/Data/Tables/DT_StatItems.DT_StatItems.RPM.StatName",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "rpm",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "rpm",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "выстр/мин",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "rpm",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "rpm",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "rpm",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		},
@@ -248,37 +278,42 @@
 			"source": "m/s",
 			"sourceHash": "94f4d401",
 			"origin": "/Game/Blueprints/Data/Tables/DT_StatItems.DT_StatItems.MuzzleVelocity.UnitText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "m/s",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "m/s",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "m/s",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "m/s",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "m/s",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "m/s",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		},
@@ -288,37 +323,42 @@
 			"source": "Turn Speed",
 			"sourceHash": "30800e7a",
 			"origin": "/Game/Blueprints/Data/Tables/DT_StatItems.DT_StatItems.TurnSpeed.StatName",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drehgeschwindigkeit",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "转向速度",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Скорость поворота",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "선회 속도",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "旋回速度",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Velocidad de giro",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		},
@@ -328,37 +368,42 @@
 			"source": "Ergonomics",
 			"sourceHash": "270935a7",
 			"origin": "/Game/Blueprints/Data/Tables/DT_StatItems.DT_StatItems.Ergonomics.StatName",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Ergonomie",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "人机工效",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "эргономика",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "인체공학",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "エルゴノミクス",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "ergonomía",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		},
@@ -368,37 +413,42 @@
 			"source": "m",
 			"sourceHash": "e808f0c2",
 			"origin": "/Game/Blueprints/Data/Tables/DT_StatItems.DT_StatItems.Range.UnitText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "m",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "m",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "m",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "m",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "m",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "m",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		},
@@ -408,37 +458,42 @@
 			"source": "Weight",
 			"sourceHash": "9043d2c6",
 			"origin": "/Game/Blueprints/Data/Tables/DT_StatItems.DT_StatItems.Weight.StatName",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Gewicht",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "重量",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Вес",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "무게",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "重量",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Peso",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		},
@@ -448,37 +503,42 @@
 			"source": "Health",
 			"sourceHash": "3f675130",
 			"origin": "/Game/Blueprints/Data/Tables/DT_StatItems.DT_StatItems.Health.StatName",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Gesundheit",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "生命值",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Здоровье",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "체력",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "体力",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Salud",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		},
@@ -488,37 +548,42 @@
 			"source": "Accuracy",
 			"sourceHash": "0395d0f7",
 			"origin": "/Game/Blueprints/Data/Tables/DT_StatItems.DT_StatItems.Accuracy.StatName",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Genauigkeit",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "精度",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Точность",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "정확도",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "精度",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Precisión",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		},
@@ -528,37 +593,42 @@
 			"source": "cm / 100 m",
 			"sourceHash": "d22e906d",
 			"origin": "/Game/Blueprints/Data/Tables/DT_StatItems.DT_StatItems.Accuracy.UnitText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "cm / 100 m",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "cm / 100 m",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "см / 100 м",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "cm / 100 m",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "cm / 100 m",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "cm / 100 m",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		},
@@ -568,37 +638,42 @@
 			"source": "Effective Fire Range",
 			"sourceHash": "83756d6b",
 			"origin": "/Game/Blueprints/Data/Tables/DT_StatItems.DT_StatItems.Range.StatName",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Effektive Reichweite",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "有效射程",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Эффективная дальность",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "유효 사거리",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "有効射程",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Alcance efectivo",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		},
@@ -608,37 +683,42 @@
 			"source": "Durability",
 			"sourceHash": "c96465b5",
 			"origin": "/Game/Blueprints/Data/Tables/DT_StatItems.DT_StatItems.Durability.StatName",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Haltbarkeit",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "耐久度",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "прочность",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "내구도",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "耐久値",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "durabilidad",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		}

@@ -8,37 +8,42 @@
 			"source": "Already on the table.",
 			"sourceHash": "92ad063c",
 			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(153)",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Liegt bereits auf dem Tisch.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "已在交易台上。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Уже на столе.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "이미 테이블에 있습니다.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "既にテーブルの上にあります。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Ya está sobre la mesa.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		},
@@ -48,37 +53,42 @@
 			"source": "x{0}",
 			"sourceHash": "098e69c5",
 			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTradeOfferWidget.h(92)",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "x{0}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "x{0}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "x{0}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "x{0}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "x{0}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "x{0}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		},
@@ -88,37 +98,42 @@
 			"source": "Nothing on the table.",
 			"sourceHash": "1e0f8bc2",
 			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(434)",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Nichts auf dem Tisch.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "交易台上没有任何物品。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "На столе ничего нет.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "테이블에 아무것도 없습니다.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "テーブルの上に何もありません。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "No hay nada sobre la mesa.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		},
@@ -128,37 +143,42 @@
 			"source": "Only your own items or the trader's stock can be traded.",
 			"sourceHash": "4deb8370",
 			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(165)",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Nur eigene Gegenstände oder das Sortiment des Händlers können gehandelt werden.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "只有你自己的物品或商人的库存才可以进行交易。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Торговать можно только собственными предметами или товарами торговца.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "자신의 아이템이나 상인의 재고만 거래할 수 있습니다.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "自分のアイテムまたは商人の在庫のみ取引できます。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Solo se pueden comerciar tus propios objetos o las existencias del comerciante.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		},
@@ -168,37 +188,42 @@
 			"source": "Invalid item.",
 			"sourceHash": "071cc4dd",
 			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(145)",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Ungültiger Gegenstand.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "无效物品。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Недопустимый предмет.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "유효하지 않은 아이템입니다.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "無効なアイテムです。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Objeto no válido.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		},
@@ -208,37 +233,42 @@
 			"source": "An offered item is no longer available.",
 			"sourceHash": "46be6181",
 			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(535)",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Ein angebotener Gegenstand ist nicht mehr verfügbar.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "所提供的物品已不可用。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Один из предложенных предметов больше недоступен.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "제안된 아이템을 더 이상 사용할 수 없습니다.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "提示されたアイテムは利用できなくなりました。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Uno de los objetos ofrecidos ya no está disponible.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		},
@@ -248,37 +278,42 @@
 			"source": "No inventory.",
 			"sourceHash": "a7827431",
 			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(446)",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Kein Inventar.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "无物品栏。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нет инвентаря.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "인벤토리가 없습니다.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "インベントリがありません。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Sin inventario.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		},
@@ -288,37 +323,42 @@
 			"source": "No trader session.",
 			"sourceHash": "9ce0aa0f",
 			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTradeWidget.cpp(106)",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Keine Händlersitzung.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "无商人会话。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нет сессии с торговцем.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "상인 세션이 없습니다.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "商人セッションがありません。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "No hay sesión con el comerciante.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		},
@@ -328,37 +368,42 @@
 			"source": "Not enough space in your inventory.",
 			"sourceHash": "4278aa81",
 			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(475)",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Nicht genug Platz in deinem Inventar.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "你的物品栏空间不足。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Недостаточно места в твоём инвентаре.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "인벤토리에 공간이 부족합니다.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "インベントリに十分な空きがありません。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "No hay suficiente espacio en tu inventario.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		},
@@ -368,37 +413,42 @@
 			"source": "The trader has no room for that.",
 			"sourceHash": "23b23b61",
 			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(480)",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Der Händler hat dafür keinen Platz.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "商人没有空间容纳该物品。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "У торговца нет места для этого.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "상인에게 보관할 공간이 없습니다.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "商人にそれを受け取る空きがありません。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "El comerciante no tiene espacio para eso.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		},
@@ -408,37 +458,42 @@
 			"source": "No trade table.",
 			"sourceHash": "1beae47b",
 			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTradeWidget.cpp(304)",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Kein Handelstisch.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "无交易台。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нет торгового стола.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "거래 테이블이 없습니다.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "取引テーブルがありません。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "No hay mesa de comercio.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		},
@@ -448,37 +503,42 @@
 			"source": "Not enough cash. Missing $ {0}",
 			"sourceHash": "aa06e24b",
 			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(454)",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Nicht genug Bargeld. Es fehlen $ {0}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "现金不足。缺少 $ {0}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Недостаточно наличных. Не хватает $ {0}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "현금이 부족합니다. 부족 금액: $ {0}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "現金が足りません。不足分：$ {0}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "No hay suficiente efectivo. Faltan $ {0}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		},
@@ -488,37 +548,42 @@
 			"source": "Pick something from the trader.",
 			"sourceHash": "a3aef1ca",
 			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(439)",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Wähle etwas vom Händler aus.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "请从商人处选择一件物品。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Выбери что-нибудь у торговца.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "상인에게서 물건을 선택하십시오.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "商人から何か選んでください。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Elige algo del comerciante.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		},
@@ -528,37 +593,42 @@
 			"source": "The trader isn't interested in this.",
 			"sourceHash": "86d059c0",
 			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(176)",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Der Händler hat daran kein Interesse.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "商人对此物品不感兴趣。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Торговца это не интересует.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "상인이 이 물품에 관심이 없습니다.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "商人はこれに興味がありません。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Al comerciante no le interesa esto.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		},
@@ -568,37 +638,42 @@
 			"source": "Balance $ {0}",
 			"sourceHash": "94d0c235",
 			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(485)",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Differenz $ {0}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "差额 $ {0}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Баланс $ {0}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "정산 금액 $ {0}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "差額 $ {0}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Saldo $ {0}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		},
@@ -608,37 +683,42 @@
 			"source": "{0} $",
 			"sourceHash": "6fbec40b",
 			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTradeOfferWidget.h(96)",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "{0} $",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "{0} $",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "{0} $",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "{0} $",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "{0} $",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "{0} $",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		}

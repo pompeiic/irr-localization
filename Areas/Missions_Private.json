@@ -8,37 +8,42 @@
 			"source": "Operation complete, operator. Clean execution in the field - your handler is more than pleased with the result. Your compensation has been cleared; collect it whenever you're ready.",
 			"sourceHash": "a17c6c37",
 			"origin": "Source/IRRMissionSystem/Private/Events/IRRMissionEvent_AddInboxEntry.cpp(18)",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Einsatz abgeschlossen, Operator. Saubere Durchführung im Feld – dein Kontaktmann ist mehr als zufrieden mit dem Ergebnis. Deine Vergütung wurde freigegeben; hole sie ab, sobald du bereit bist.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "行动完成，干员。战场行动干净利落——你的联络人对结果非常满意。报酬已发放完毕，随时可以领取。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Операция завершена, оперативник. Чистая работа в поле — куратор более чем доволен результатом. Твоя награда переведена, забирай в любое время.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "작전 완료, 오퍼레이터. 현장에서 깔끔하게 처리했군. 담당자가 결과에 아주 만족하고 있어. 보수가 승인되었으니 준비되는 대로 수령하게.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "作戦完了だ、オペレーター。現場での見事な手際だった。担当官も結果に大満足している。報酬は支払われた。準備ができ次第受け取ってくれ。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Operación completada, operador. Ejecución impecable en el campo; tu intermediario está más que satisfecho con el resultado. Tu compensación ha sido autorizada; recógela cuando estés listo.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		},
@@ -48,37 +53,42 @@
 			"source": "Nice work out there. Objective secured without leaving a mess, and that buys you real goodwill with us. Your reward is waiting - don't leave it sitting.",
 			"sourceHash": "d154fddd",
 			"origin": "Source/IRRMissionSystem/Private/Events/IRRMissionEvent_AddInboxEntry.cpp(19)",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Gute Arbeit da draußen. Ziel gesichert, ohne Chaos zu hinterlassen – das verschafft dir echtes Ansehen bei uns. Deine Belohnung wartet – lass sie nicht liegen.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "干得不错。目标已达成且没留烂摊子，这为你在我们这儿赢得了实在的信誉。报酬已备好，别让它放太久。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Отличная работа. Цель взята без лишнего шума и грязи, а это дорогого стоит. Награда ждёт — не тяни с получением.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "수고했네. 뒤탈 없이 목표를 확보했더군. 덕분에 우리 쪽 신뢰를 제대로 얻었어. 보상이 기다리고 있으니 잊지 말고 찾아가게.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "見事な仕事ぶりだ。余計な混乱を残さず目標を確保したな。我々としても大いに助かった。報酬を用意して待っているぞ。放置せず回収しろ。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Buen trabajo ahí fuera. Objetivo asegurado sin dejar problemas, y eso te hace ganar buena reputación con nosotros. Tu recompensa te espera; no la dejes olvidada.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		},
@@ -88,37 +98,42 @@
 			"source": "Mission successful. You got the job done and the higher-ups are impressed with how you handled it. Head over and claim what you've earned.",
 			"sourceHash": "c955c398",
 			"origin": "Source/IRRMissionSystem/Private/Events/IRRMissionEvent_AddInboxEntry.cpp(20)",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Mission erfolgreich. Du hast den Auftrag erledigt und die Führungsebene ist beeindruckt von deiner Leistung. Komm vorbei und hol dir ab, was du dir verdient hast.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "任务成功。你完成了任务，高层对你的处理方式印象深刻。过去领取你应得的报酬吧。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Задание выполнено. Работа сделана, и начальство впечатлено тем, как ты всё провернул. Зайди и забери заработанное.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "임무 성공. 해낼 줄 알았지. 윗선에서도 자네 실력에 깊은 인상을 받았네. 어서 가서 자네 몫을 챙기게.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "ミッション成功だ。きっちり仕事をこなしてくれた。上層部も君の働きに感銘を受けている。稼いだ分を受け取りに行け。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Misión cumplida. Hiciste el trabajo y los mandos están impresionados con cómo lo resolviste. Ve a reclamar lo que te has ganado.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		},
@@ -128,37 +143,42 @@
 			"source": "That's a wrap. The faction is happy with your execution on this one - exactly the kind of work we like to see. Your payment has been released for pickup.",
 			"sourceHash": "b31e8ae0",
 			"origin": "Source/IRRMissionSystem/Private/Events/IRRMissionEvent_AddInboxEntry.cpp(21)",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Das war's. Die Fraktion ist zufrieden mit deinem Einsatz – genau so wollen wir das sehen. Deine Bezahlung wurde zur Abholung freigegeben.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "收工。阵营对你这次的执行非常满意——这正是我们希望看到的利落手笔。报酬已发放，随时可以领取。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Дело сделано. Фракция довольна тем, как ты всё исполнил — именно такой работы мы и ждём. Оплата выдана и готова к получению.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "상황 종료. 이번 건 처리 방식에 세력 측도 아주 만족하고 있네. 바로 이런 모습을 원했지. 수령할 수 있도록 보수가 지급되었네.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "これで一件落着だ。今回の君の手際に勢力側も満足している。まさに期待通りの働きだ。報酬の受け取り準備が整った。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Misión terminada. La facción está contenta con cómo has ejecutado esto; exactamente el tipo de trabajo que nos gusta ver. Tu pago ya se ha liberado para su recogida.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		},
@@ -168,37 +188,42 @@
 			"source": "Debrief received: flawless. You came through in the raid and the faction won't forget it. Your reward is ready to be collected at your convenience.",
 			"sourceHash": "ad250395",
 			"origin": "Source/IRRMissionSystem/Private/Events/IRRMissionEvent_AddInboxEntry.cpp(22)",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Debriefing erhalten: fehlerfrei. Du hast dich im Raid bewährt und die Fraktion wird das nicht vergessen. Deine Belohnung liegt bereit und kann jederzeit abgeholt werden.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "收到任务汇报：完美无瑕。你在突袭中表现出色，派系不会忘记你的功劳。你的奖励已备好，随时可以领取。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Отчёт получен: безупречно. Ты отлично показал себя в рейде, и фракция этого не забудет. Твоя награда готова, забирай в любое удобное время.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "디브리핑 접수: 완벽함. 레이드에서 큰 활약을 펼쳤으니 파벌에서도 잊지 않을 것이다. 보상이 준비되었으니 편할 때 수령해라.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "デブリーフィングを受信：完璧だ。レイドで見事やり遂げたな、派閥もこの貢献を忘れないだろう。報酬の準備ができているので、都合のいい時に受け取ってくれ。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Informe final recibido: impecable. Cumpliste en la incursión y la facción no lo olvidará. Tu recompensa está lista para ser recogida cuando quieras.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		},
@@ -208,37 +233,42 @@
 			"source": "Operation complete on {Level}, operator. Item and cash rewards are in your inbox - collect them when you are ready.",
 			"sourceHash": "cc50910b",
 			"origin": "Source/IRRMissionSystem/Private/Events/IRRMissionEvent_AddOperationInboxEntry.cpp(103)",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Operation auf {Level} abgeschlossen, Operator. Gegenstands- und Bargeldbelohnungen sind in deinem Posteingang – hol sie ab, sobald du bereit bist.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "{Level}的行动已完成，干员。物品和现金奖励已发送至你的收件箱——准备好后即可领取。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Операция на {Level} завершена, оперативник. Награды в виде предметов и наличных уже во входящих — забирай, когда будешь готов.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "{Level} 작전 완료, 오퍼레이터. 아이템 및 현금 보상이 수신함에 들어왔으니 준비되는 대로 수령해라.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "{Level}での作戦完了だ、オペレーター。アイテムと現金の報酬が受信トレイに届いている。準備ができたら受け取ってくれ。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Operación completada en {Level}, operador. Las recompensas de objetos y efectivo están en tu buzón; recógelas cuando estés listo.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		},
@@ -248,37 +278,42 @@
 			"source": "The field work on {Level} is done. Your compensation is waiting in your messages.",
 			"sourceHash": "a20e1f7e",
 			"origin": "Source/IRRMissionSystem/Private/Events/IRRMissionEvent_AddOperationInboxEntry.cpp(104)",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Die Feldarbeit auf {Level} ist erledigt. Deine Vergütung wartet in deinen Nachrichten.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "{Level}的外勤工作已完成。你的报酬已在消息箱中等待领取。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Полевая работа на {Level} завершена. Твоя выплата ожидает в сообщениях.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "{Level} 현장 작업 완료. 보수가 메시지함에서 기다리고 있다.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "{Level}での現地任務は完了した。報酬がメッセージに届いている。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "El trabajo de campo en {Level} ha terminado. Tu compensación te espera en tus mensajes.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		},
@@ -288,37 +323,42 @@
 			"source": "Objective secured on {Level}. Payment has been cleared to your inbox.",
 			"sourceHash": "e9ca4aa3",
 			"origin": "Source/IRRMissionSystem/Private/Events/IRRMissionEvent_AddOperationInboxEntry.cpp(105)",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Ziel auf {Level} gesichert. Die Bezahlung wurde an deinen Posteingang überwiesen.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "{Level}的目标已确保。报酬已发放到你的收件箱。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Цель на {Level} выполнена. Оплата переведена в твои входящие.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "{Level}에서 목표를 확보했다. 보수가 수신함으로 지급되었다.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "{Level}で目標を確保した。支払いが受信トレイに届いている。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Objetivo asegurado en {Level}. El pago se ha tramitado a tu buzón.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		},
@@ -328,37 +368,42 @@
 			"source": "Completed on {Level}.",
 			"sourceHash": "0b4a741f",
 			"origin": "Source/IRRMissionSystem/Private/Events/IRRMissionEvent_AddOperationInboxEntry.cpp(191)",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Abgeschlossen auf {Level}.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "已在{Level}完成。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Завершено на {Level}.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "{Level}에서 완료됨.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "{Level}で完了。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Completado en {Level}.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		},
@@ -368,37 +413,42 @@
 			"source": "this raid",
 			"sourceHash": "17f8832a",
 			"origin": "Source/IRRMissionSystem/Private/Events/IRRMissionEvent_AddOperationInboxEntry.cpp(177)",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "diesem Raid",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "本次突袭",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "этом рейде",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "이번 레이드",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "今回のレイド",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "esta incursión",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		}

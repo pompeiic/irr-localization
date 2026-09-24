@@ -8,37 +8,42 @@
 			"source": "Voice Chat",
 			"sourceHash": "d42e5d8a",
 			"origin": "Source/Test_C/AdvancedAudio/IRRVoiceChatSubsystem.cpp(585)",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Voice-Chat",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "语音聊天",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Голосовой чат",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "보이스 채팅",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "ボイスチャット",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Chat de voz",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:18:10Z"
 				}
 			}
 		}
