@@ -1,0 +1,166 @@
+{
+	"schemaVersion": 1,
+	"area": "Inventory/ExampleActors",
+	"entries": [
+		{
+			"ns": "",
+			"key": "2ED48D6E430F8DED5EED2F81D3209C9D",
+			"source": "Unlock additional weapon storage and increase max resources.",
+			"sourceHash": "11c07695",
+			"origin": "/Game/Blueprints/InventorySystem/ExampleActors/BP_InventoryStash.BP_InventoryStash_C:BP_IRRHideoutUnitComponent_GEN_VARIABLE.UpgradeLevels(2).UpgradeLevels.UpgradeLevelDescription",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "465D8E08453C8FBD83C83180DC6296A9",
+			"source": "Unlock additional med storage and increase max resources.",
+			"sourceHash": "804d01e3",
+			"origin": "/Game/Blueprints/InventorySystem/ExampleActors/BP_InventoryStash.BP_InventoryStash_C:BP_IRRHideoutUnitComponent_GEN_VARIABLE.UpgradeLevels(0).UpgradeLevels.UpgradeLevelDescription",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "85814017445A056B5FB049821ACB5B80",
+			"source": "Unlock additional gear storage and increase max resources.",
+			"sourceHash": "a5e267c5",
+			"origin": "/Game/Blueprints/InventorySystem/ExampleActors/BP_InventoryStash.BP_InventoryStash_C:BP_IRRHideoutUnitComponent_GEN_VARIABLE.UpgradeLevels(3).UpgradeLevels.UpgradeLevelDescription",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "E76EF44F4C4949BE99D772BE44BAE6D4",
+			"source": "Unlock additional ammunition storage and increase max resources.",
+			"sourceHash": "e268f065",
+			"origin": "/Game/Blueprints/InventorySystem/ExampleActors/BP_InventoryStash.BP_InventoryStash_C:BP_IRRHideoutUnitComponent_GEN_VARIABLE.UpgradeLevels(1).UpgradeLevels.UpgradeLevelDescription",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		}
+	]
+}
