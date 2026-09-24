@@ -8,37 +8,42 @@
 			"source": "tset {x}",
 			"sourceHash": "6d4e963a",
 			"origin": "/Game/Blueprints/MissionSystem/NewQuest.NewQuest:QuestNode_Stage_9.NodeText.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "tset {x}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "tset {x}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "tset {x}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "tset {x}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "tset {x}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "tset {x}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -48,37 +53,42 @@
 			"source": "tet {x}",
 			"sourceHash": "d3395598",
 			"origin": "/Game/Blueprints/MissionSystem/NewQuest.NewQuest:QuestNode_Stage_9.QuestObjective_0.ShortDescription.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "tet {x}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "tet {x}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "tet {x}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "tet {x}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "tet {x}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "tet {x}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -88,37 +98,42 @@
 			"source": "stes",
 			"sourceHash": "dcd85798",
 			"origin": "/Game/Blueprints/MissionSystem/NewQuest.NewQuest:QuestNode_Stage_9.QuestObjective_0.LongDescription.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "stes",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "stes",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "stes",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "stes",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "stes",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "stes",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		}

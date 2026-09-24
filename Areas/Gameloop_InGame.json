@@ -8,37 +8,42 @@
 			"source": "Unknown",
 			"sourceHash": "681779b8",
 			"origin": "/Game/Blueprints/Gameloop/InGame/WBP_KronosExampleInGamePlayer.WBP_KronosExampleInGamePlayer_C:WidgetTree.PlayerNameText.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Unbekannt",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "未知",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Неизвестно",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "알 수 없음",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "不明",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Desconocido",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		}

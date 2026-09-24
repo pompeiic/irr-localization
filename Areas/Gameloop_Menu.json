@@ -8,37 +8,42 @@
 			"source": "Travis Siegel - Assistent Writer",
 			"sourceHash": "4c86409a",
 			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_41.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Travis Siegel - Assistenzautor",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "Travis Siegel - 助理编剧",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Travis Siegel - помощник сценариста",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "Travis Siegel - 보조 작가",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "Travis Siegel - アシスタントライター",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Travis Siegel - Asistente de guion",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -48,37 +53,42 @@
 			"source": "PERFORMANCE, CONTENT, & GRAPHICS ARE SUBJECT TO CHANGE",
 			"sourceHash": "cd009a97",
 			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_BeginPlayScreen.WB_BeginPlayScreen_C:WidgetTree.InfoText_4.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "LEISTUNG, INHALTE UND GRAFIK KÖNNEN SICH NOCH ÄNDERN",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "性能、内容和画面可能会发生变化",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "ПРОИЗВОДИТЕЛЬНОСТЬ, КОНТЕНТ И ГРАФИКА МОГУТ БЫТЬ ИЗМЕНЕНЫ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "성능, 콘텐츠 및 그래픽은 변경될 수 있습니다",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "パフォーマンス、コンテンツ、グラフィックは変更される場合があります",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "EL RENDIMIENTO, EL CONTENIDO Y LOS GRÁFICOS ESTÁN SUJETOS A CAMBIOS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -88,37 +98,42 @@
 			"source": "Alpha {build}",
 			"sourceHash": "7dcb5323",
 			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_BeginPlayScreen.WB_BeginPlayScreen_C:ExecuteUbergraph_WB_BeginPlayScreen [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Alpha {build}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "Alpha {build}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Альфа {build}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "알파 {build}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "アルファ {build}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Alfa {build}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -128,37 +143,42 @@
 			"source": "Mark - Environment Art / Technical Artist",
 			"sourceHash": "fccc1ec3",
 			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Mark.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Mark - Environment Art / Technical Artist",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "Mark - 环境美术 / 技术美术",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Mark - художник по окружению / технический художник",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "Mark - 환경 아트 / 테크니컬 아티스트",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "Mark - 環境アート / テクニカルアーティスト",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Mark - Arte de entornos / Artista técnico",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -168,37 +188,42 @@
 			"source": "PRESS ANY KEY TO START",
 			"sourceHash": "0448b84d",
 			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_BeginPlayScreen.WB_BeginPlayScreen_C:WidgetTree.IRRTextBlock_8.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "BELIEBIGE TASTE DRÜCKEN ZUM STARTEN",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按任意键开始",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "НАЖМИТЕ ЛЮБУЮ КЛАВИШУ ДЛЯ НАЧАЛА",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "아무 키나 눌러 시작",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "いずれかのキーを押してスタート",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "PULSA CUALQUIER TECLA PARA EMPEZAR",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -208,37 +233,42 @@
 			"source": "Special Thanks ",
 			"sourceHash": "dd2477c4",
 			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.TextBlock_3.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Besonderer Dank ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "特别鸣谢 ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Особая благодарность ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "특별 감사 ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "スペシャルサンクス ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Agradecimientos especiales ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -248,37 +278,42 @@
 			"source": "Marcin - 3D Artist",
 			"sourceHash": "94c0b61c",
 			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_25.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Marcin - 3D-Grafiker",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "Marcin - 3D 美术",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Marcin - 3D-художник",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "Marcin - 3D 아티스트",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "Marcin - 3D アーティスト",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Marcin - Artista 3D",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -288,37 +323,42 @@
 			"source": "Liam - Sound Designer",
 			"sourceHash": "5ca670bf",
 			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_5.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Liam - Sound Designer",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "Liam - 音效设计师",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Liam - звукорежиссёр",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "Liam - 사운드 디자이너",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "Liam - サウンドデザイナー",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Liam - Diseñador de sonido",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -328,37 +368,42 @@
 			"source": "Sacha - Sound Designer",
 			"sourceHash": "e8f3c0fd",
 			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_21.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Sacha - Sound Designer",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "Sacha - 音效设计师",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Sacha - звукорежиссёр",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "Sacha - 사운드 디자이너",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "Sacha - サウンドデザイナー",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Sacha - Diseñador de sonido",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -368,37 +413,42 @@
 			"source": "Moritz - Lead Developer/Engineering",
 			"sourceHash": "1f2f4d4c",
 			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Moritz - Leitender Entwickler / Technik",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "Moritz - 首席开发者 / 工程",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Moritz - ведущий разработчик / инженер",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "Moritz - 리드 개발자 / 엔지니어링",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "Moritz - リード開発者 / エンジニアリング",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Moritz - Desarrollador principal / Ingeniería",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -408,37 +458,42 @@
 			"source": "Robin - Creative Director/Level Designer/UI & UX",
 			"sourceHash": "af91c151",
 			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_20.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Robin - Creative Director / Level Designer / UI & UX",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "Robin - 创意总监 / 关卡设计师 / UI 与 UX",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Robin - креативный директор / левел-дизайнер / UI и UX",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "Robin - 크리에이티브 디렉터 / 레벨 디자이너 / UI & UX",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "Robin - クリエイティブディレクター / レベルデザイナー / UI & UX",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Robin - Director creativo / Diseñador de niveles / UI y UX",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -448,37 +503,42 @@
 			"source": "ALPHA v1.0.10.5",
 			"sourceHash": "73099f25",
 			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_BeginPlayScreen.WB_BeginPlayScreen_C:WidgetTree.BuildText.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "ALPHA v1.0.10.5",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "ALPHA v1.0.10.5",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "ALPHA v1.0.10.5",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "ALPHA v1.0.10.5",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "ALPHA v1.0.10.5",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "ALPHA v1.0.10.5",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -488,37 +548,42 @@
 			"source": "Erwin - Gameplay Animator",
 			"sourceHash": "833dfc92",
 			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_22.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Erwin - Gameplay-Animator",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "Erwin - 游戏玩法动画师",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Erwin - аниматор геймплея",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "Erwin - 게임플레이 애니메이터",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "Erwin - ゲームプレイアニメーター",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Erwin - Animador de jugabilidad",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -528,37 +593,42 @@
 			"source": "Powered by Wwise © 2006 – 2024 Audiokinetic Inc. All rights reserved.",
 			"sourceHash": "26891721",
 			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.LongText.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Powered by Wwise © 2006 – 2024 Audiokinetic Inc. Alle Rechte vorbehalten.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "Powered by Wwise © 2006 – 2024 Audiokinetic Inc. 保留所有权利。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Powered by Wwise © 2006 – 2024 Audiokinetic Inc. Все права защищены.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "Powered by Wwise © 2006 – 2024 Audiokinetic Inc. All rights reserved.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "Powered by Wwise © 2006 – 2024 Audiokinetic Inc. All rights reserved.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Powered by Wwise © 2006 – 2024 Audiokinetic Inc. Todos los derechos reservados.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -568,37 +638,42 @@
 			"source": "Noah - Technical Art Advisory",
 			"sourceHash": "506d9c4b",
 			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_17.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Noah - Beratung Technical Art",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "Noah - 技术美术顾问",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Noah - консультант по техническому арту",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "Noah - 테크니컬 아트 자문",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "Noah - テクニカルアートアドバイザー",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Noah - Asesoría de arte técnico",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -608,37 +683,42 @@
 			"source": "Dakota Dawe [Sneaky Kitty] - Programming Advisory",
 			"sourceHash": "959b2c08",
 			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_10.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Dakota Dawe [Sneaky Kitty] - Programmierberatung",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "Dakota Dawe [Sneaky Kitty] - 编程顾问",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Dakota Dawe [Sneaky Kitty] - консультант по программированию",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "Dakota Dawe [Sneaky Kitty] - 프로그래밍 자문",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "Dakota Dawe [Sneaky Kitty] - プログラミングアドバイザー",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Dakota Dawe [Sneaky Kitty] - Asesoría de programación",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -648,37 +728,42 @@
 			"source": "Solarint - AI Engineer",
 			"sourceHash": "9613ec69",
 			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_6.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Solarint - KI-Entwickler",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "Solarint - AI 工程师",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Solarint - ИИ-инженер",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "Solarint - AI 엔지니어",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "Solarint - AI エンジニア",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Solarint - Ingeniero de IA",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -688,37 +773,42 @@
 			"source": "Satyaki Mandal - 3D Artist",
 			"sourceHash": "19e8f66a",
 			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_2.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Satyaki Mandal - 3D-Grafiker",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "Satyaki Mandal - 3D 美术",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Satyaki Mandal - 3D-художник",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "Satyaki Mandal - 3D 아티스트",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "Satyaki Mandal - 3D アーティスト",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Satyaki Mandal - Artista 3D",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -728,37 +818,42 @@
 			"source": "Chad Siegel - Assistent Writer",
 			"sourceHash": "57047ac0",
 			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_45.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Chad Siegel - Assistenzautor",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "Chad Siegel - 助理编剧",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Chad Siegel - помощник сценариста",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "Chad Siegel - 보조 작가",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "Chad Siegel - アシスタントライター",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Chad Siegel - Asistente de guion",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -768,37 +863,42 @@
 			"source": "OUR FELLOW PATREON SUPPORTERS",
 			"sourceHash": "fa95b806",
 			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.TextBlock_4.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "UNSERE PATREON-UNTERSTÜTZER",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "我们的 PATREON 赞助者",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "НАШИ СПОНСОРЫ НА PATREON",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "우리의 패트리온 후원자 여러분",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "PATREON サポーターの皆様",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "NUESTROS MECENAS DE PATREON",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -808,37 +908,42 @@
 			"source": "Josh - Level Designer",
 			"sourceHash": "7bce5a85",
 			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_3.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Josh - Level Designer",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "Josh - 关卡设计师",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Josh - левел-дизайнер",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "Josh - 레벨 디자이너",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "Josh - レベルデザイナー",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Josh - Diseñador de niveles",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -848,37 +953,42 @@
 			"source": "Taylor - Weapon Expertise",
 			"sourceHash": "28a9a8ae",
 			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_23.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Taylor - Waffenexperte",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "Taylor - 武器专家",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Taylor - оружейный эксперт",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "Taylor - 무기 전문 자문",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "Taylor - 武器専門知識",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Taylor - Experto en armas",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -888,37 +998,42 @@
 			"source": "Hiago - 2D/3D Artist",
 			"sourceHash": "7f908868",
 			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_15.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Hiago - 2D/3D-Grafiker",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "Hiago - 2D/3D 美术",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Hiago - 2D/3D-художник",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "Hiago - 2D/3D 아티스트",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "Hiago - 2D/3D アーティスト",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Hiago - Artista 2D/3D",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -928,37 +1043,42 @@
 			"source": "BlueTheRobot - Community Manager/Level Designer",
 			"sourceHash": "c739625f",
 			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_1.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "BlueTheRobot - Community Manager / Level Designer",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "BlueTheRobot - 社区经理 / 关卡设计师",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "BlueTheRobot - комьюнити-менеджер / левел-дизайнер",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "BlueTheRobot - 커뮤니티 매니저 / 레벨 디자이너",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "BlueTheRobot - コミュニティマネージャー / レベルデザイナー",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "BlueTheRobot - Gestor de comunidad / Diseñador de niveles",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -968,37 +1088,42 @@
 			"source": "Toby - Sound Designer",
 			"sourceHash": "7587bc13",
 			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_4.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Toby - Sound Designer",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "Toby - 音效设计师",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Toby - звукорежиссёр",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "Toby - 사운드 디자이너",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "Toby - サウンドデザイナー",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Toby - Diseñador de sonido",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -1008,37 +1133,42 @@
 			"source": "INCURSION RED RIVER",
 			"sourceHash": "373956c4",
 			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.TextBlock_88.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "INCURSION RED RIVER",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "INCURSION RED RIVER",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "INCURSION RED RIVER",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "INCURSION RED RIVER",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "INCURSION RED RIVER",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "INCURSION RED RIVER",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -1048,37 +1178,42 @@
 			"source": "Voice ACtors",
 			"sourceHash": "23b6474a",
 			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.TextBlock_1.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Synchronsprecher",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "配音演员",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Актёры озвучивания",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "성우진",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "声優",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Actores de doblaje",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -1088,37 +1223,42 @@
 			"source": "Developers",
 			"sourceHash": "54b653b8",
 			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.TextBlock.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Entwickler",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "开发者",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Разработчики",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "개발진",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "開発者",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Desarrolladores",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -1128,37 +1268,42 @@
 			"source": "Jane Perry - Observer",
 			"sourceHash": "6df9d296",
 			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_7.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Jane Perry - Beobachter",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "Jane Perry - 观察员",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Jane Perry - наблюдатель",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "Jane Perry - 옵서버",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "Jane Perry - オブザーバー",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Jane Perry - Observadora",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -1168,37 +1313,42 @@
 			"source": "Paul - Operations Manager",
 			"sourceHash": "a7809c9a",
 			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_24.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Paul - Operations Manager",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "Paul - 运营经理",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Paul - операционный менеджер",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "Paul - 오퍼레이션 매니저",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "Paul - オペレーションマネージャー",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Paul - Director de operaciones",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -1208,37 +1358,42 @@
 			"source": "Venny - Level Design/Media Creation/Voice Actor",
 			"sourceHash": "5dd5dd8c",
 			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_16.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Venny - Leveldesign / Mediengestaltung / Synchronsprecher",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "Venny - 关卡设计 / 媒体创作 / 配音演员",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Venny - левел-дизайн / медиа / актёр озвучивания",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "Venny - 레벨 디자인 / 미디어 제작 / 성우",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "Venny - レベルデザイン / メディア制作 / 声優",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Venny - Diseño de niveles / Creación de medios / Actor de doblaje",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -1248,37 +1403,42 @@
 			"source": "Nemesis - QA / Moderator",
 			"sourceHash": "b533dd42",
 			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Mark_1.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Nemesis - QA / Moderator",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "Nemesis - 质量保证 / 社区管理员",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Nemesis - тестирование / модератор",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "Nemesis - QA / 모더레이터",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "Nemesis - QA / モデレーター",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Nemesis - Control de calidad / Moderador",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		}

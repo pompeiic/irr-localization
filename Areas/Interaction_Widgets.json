@@ -8,37 +8,42 @@
 			"source": "Press <Red>F</> to <Red>pickup item</>",
 			"sourceHash": "25e71af5",
 			"origin": "/Game/Blueprints/InteractionSystem/Widgets/W_InteractionText.W_InteractionText_C:WidgetTree.Text.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drücke <Red>F</>, um den <Red>Gegenstand aufzuheben</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按 <Red>F</> <Red>拾取物品</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нажмите <Red>F</>, чтобы <Red>подобрать предмет</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 키를 눌러 <Red>아이템 획득</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</> を押して<Red>アイテムを拾う</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Pulsa <Red>F</> para <Red>recoger objeto</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -48,37 +53,42 @@
 			"source": "Item",
 			"sourceHash": "69b588fb",
 			"origin": "/Game/Blueprints/InteractionSystem/Widgets/W_InteractionText.W_InteractionText_C:GetItemText [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Gegenstand",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "物品",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Предмет",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "아이템",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "アイテム",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Objeto",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		}

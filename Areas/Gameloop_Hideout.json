@@ -8,37 +8,42 @@
 			"source": "SOCIAL TAB",
 			"sourceHash": "2d7e3102",
 			"origin": "/Game/Blueprints/Gameloop/Hideout/WIdgets/W_SocialTabMenu.W_SocialTabMenu_C:WidgetTree.TextBlock_235.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "SOZIALER TAB",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "社交页",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "СОЦИАЛЬНАЯ ВКЛАДКА",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "소셜 탭",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "ソーシャルタブ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "PESTAÑA SOCIAL",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -48,37 +53,42 @@
 			"source": "{x} Left The Party",
 			"sourceHash": "7e7ade26",
 			"origin": "/Game/Blueprints/Gameloop/Hideout/GM_HideoutGamemode.GM_HideoutGamemode_C:ExecuteUbergraph_GM_HideoutGamemode [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "{x} hat die Party verlassen",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "{x} 离开了小队",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "{x} покинул(а) группу",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "{x} 님이 파티를 떠났습니다",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "{x} がパーティーを退出しました",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "{x} ha abandonado el grupo",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -88,37 +98,42 @@
 			"source": "Create Party",
 			"sourceHash": "2e3360a3",
 			"origin": "/Game/Blueprints/Gameloop/Hideout/WIdgets/W_SocialTab.W_SocialTab_C:WidgetTree.CreatePartyButton.Default",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Party erstellen",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "创建小队",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Создать группу",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "파티 생성",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "パーティー作成",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Crear grupo",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -128,37 +143,42 @@
 			"source": "NicknameText",
 			"sourceHash": "67b3c565",
 			"origin": "/Game/Blueprints/Gameloop/Hideout/WIdgets/W_SocialTab.W_SocialTab_C:WidgetTree.NicknameText.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "NicknameText",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "NicknameText",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "NicknameText",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "NicknameText",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "NicknameText",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "NicknameText",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -168,37 +188,42 @@
 			"source": "{x} Joined The Party",
 			"sourceHash": "8d9840fd",
 			"origin": "/Game/Blueprints/Gameloop/Hideout/GM_HideoutGamemode.GM_HideoutGamemode_C:ExecuteUbergraph_GM_HideoutGamemode [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "{x} ist der Party beigetreten",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "{x} 加入了小队",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "{x} присоединился(ась) к группе",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "{x} 님이 파티에 참가했습니다",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "{x} がパーティーに参加しました",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "{x} se ha unido al grupo",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -208,37 +233,42 @@
 			"source": "Create Party",
 			"sourceHash": "2e3360a3",
 			"origin": "/Game/Blueprints/Gameloop/Hideout/WIdgets/W_SocialTab.W_SocialTab_C:WidgetTree.CreatePartyButton.Hover",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Party erstellen",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "创建小队",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Создать группу",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "파티 생성",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "パーティー作成",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Crear grupo",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		}
