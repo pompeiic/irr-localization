@@ -1,0 +1,605 @@
+{
+	"schemaVersion": 1,
+	"target": "Game",
+	"nativeCulture": "en",
+	"cultures": [
+		"de",
+		"zh-Hans",
+		"ru",
+		"ko",
+		"ja",
+		"es-ES"
+	],
+	"exportedAt": "2026-09-24T21:12:23.706Z",
+	"entries": 3220,
+	"areas": [
+		{
+			"area": "Blueprints/AI",
+			"file": "Areas/Blueprints_AI.json",
+			"entries": 6,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "Blueprints/Airstrike",
+			"file": "Areas/Blueprints_Airstrike.json",
+			"entries": 10,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "Blueprints/Data",
+			"file": "Areas/Blueprints_Data.json",
+			"entries": 16,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "Blueprints/InputSystem",
+			"file": "Areas/Blueprints_InputSystem.json",
+			"entries": 57,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "Blueprints/LoadingScreen",
+			"file": "Areas/Blueprints_LoadingScreen.json",
+			"entries": 1,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "Blueprints/PatchSystem",
+			"file": "Areas/Blueprints_PatchSystem.json",
+			"entries": 2,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "Blueprints/ResourceSystem",
+			"file": "Areas/Blueprints_ResourceSystem.json",
+			"entries": 5,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "Blueprints/SimpleGameplayAbilitySystem",
+			"file": "Areas/Blueprints_SimpleGameplayAbilitySystem.json",
+			"entries": 37,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "Gameloop",
+			"file": "Areas/Gameloop.json",
+			"entries": 8,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "Gameloop/CinematicCamera",
+			"file": "Areas/Gameloop_CinematicCamera.json",
+			"entries": 7,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "Gameloop/Hideout",
+			"file": "Areas/Gameloop_Hideout.json",
+			"entries": 6,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "Gameloop/InGame",
+			"file": "Areas/Gameloop_InGame.json",
+			"entries": 1,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "Gameloop/Lobby",
+			"file": "Areas/Gameloop_Lobby.json",
+			"entries": 35,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "Gameloop/Menu",
+			"file": "Areas/Gameloop_Menu.json",
+			"entries": 32,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "Interaction/Widgets",
+			"file": "Areas/Interaction_Widgets.json",
+			"entries": 2,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "Inventory/Components",
+			"file": "Areas/Inventory_Components.json",
+			"entries": 2,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "Inventory/ExampleActors",
+			"file": "Areas/Inventory_ExampleActors.json",
+			"entries": 4,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "Inventory/Items",
+			"file": "Areas/Inventory_Items.json",
+			"entries": 157,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "Inventory/Objects",
+			"file": "Areas/Inventory_Objects.json",
+			"entries": 88,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "Inventory/RaidTrader",
+			"file": "Areas/Inventory_RaidTrader.json",
+			"entries": 16,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "Inventory/SecureContainer",
+			"file": "Areas/Inventory_SecureContainer.json",
+			"entries": 2,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "Inventory/Templates",
+			"file": "Areas/Inventory_Templates.json",
+			"entries": 152,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "Inventory/Widgets",
+			"file": "Areas/Inventory_Widgets.json",
+			"entries": 310,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "Missions",
+			"file": "Areas/Missions.json",
+			"entries": 3,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "Missions/Actors",
+			"file": "Areas/Missions_Actors.json",
+			"entries": 17,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "Missions/DataAssets",
+			"file": "Areas/Missions_DataAssets.json",
+			"entries": 929,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "Missions/Objects",
+			"file": "Areas/Missions_Objects.json",
+			"entries": 37,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "Missions/Private",
+			"file": "Areas/Missions_Private.json",
+			"entries": 10,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "Missions/Public",
+			"file": "Areas/Missions_Public.json",
+			"entries": 6,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "Missions/UI",
+			"file": "Areas/Missions_UI.json",
+			"entries": 270,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "Patch Notes/Private",
+			"file": "Areas/Patch_Notes_Private.json",
+			"entries": 9,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "Test_C/AdvancedAudio",
+			"file": "Areas/Test_C_AdvancedAudio.json",
+			"entries": 18,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "Test_C/AI",
+			"file": "Areas/Test_C_AI.json",
+			"entries": 146,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "Test_C/Debug",
+			"file": "Areas/Test_C_Debug.json",
+			"entries": 14,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "Test_C/General",
+			"file": "Areas/Test_C_General.json",
+			"entries": 13,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "Test_C/Optics",
+			"file": "Areas/Test_C_Optics.json",
+			"entries": 2,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "Test_C/Spectator",
+			"file": "Areas/Test_C_Spectator.json",
+			"entries": 17,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "Tutorial",
+			"file": "Areas/Tutorial.json",
+			"entries": 36,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "UI/Data",
+			"file": "Areas/UI_Data.json",
+			"entries": 17,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "UI/Debug",
+			"file": "Areas/UI_Debug.json",
+			"entries": 67,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "UI/Private",
+			"file": "Areas/UI_Private.json",
+			"entries": 85,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "UI/Widgets",
+			"file": "Areas/UI_Widgets.json",
+			"entries": 568,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		}
+	]
+}
