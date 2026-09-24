@@ -15247,7 +15247,7 @@
 			"key": "6C396E724B0CC4AE7CAD3799F12B73CB",
 			"source": "We intercepted a courier who was carrying a disc — something they weren’t supposed to have. It’s UICS material, and our sources say it was meant to stay buried.\r\nI need you to recover it, then take it to one of their factory terminals outside the quarry. You’ll have to boot their system and scan the contents.\r\nThat might trigger a response. They guard their secrets well — but we have every right to know what they’re planning. Don’t let them hide behind shadows.",
 			"sourceHash": "333697ad",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/GREYFOR/CIPHER/Contracts/Quarry/Defense/DA_GREYFOR_CIPHER_Contract_Quarry_Defense_D.DA_GREYFOR_CIPHER_Contract_Quarry_Defense_D.MissionInfo.Briefing.Text(0).Text.Text",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/GREYFOR/CIPHER/Contracts/Quarry/Defense/DA_GREYFOR_CIPHER_Contract_Quarry_Defense_LEGACY.DA_GREYFOR_CIPHER_Contract_Quarry_Defense_LEGACY.MissionInfo.Briefing.Text(0).Text.Text",
 			"t":
 			{
 				"de":
