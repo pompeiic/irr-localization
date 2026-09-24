@@ -1,0 +1,3526 @@
+{
+	"schemaVersion": 1,
+	"area": "Inventory/Objects",
+	"entries": [
+		{
+			"ns": "",
+			"key": "084555AA43697C306E102ABA35A982F0",
+			"source": "Default Size",
+			"sourceHash": "ab96f025",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_DefaultSize.Default__U_DefaultSize_C.StatDisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "086CF1EA480B89C5A14F0889DB44D71D",
+			"source": "mm",
+			"sourceHash": "e78045dd",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Caliber.Default__U_Caliber_C.Unit",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "08CA48644C18710AE3BDF9BB2008933E",
+			"source": "LP",
+			"sourceHash": "d01d0769",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Content.Default__U_Content_C.Unit",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "111D5348461E5387A46FDD98EE3D3196",
+			"source": "Armor Points",
+			"sourceHash": "8169088b",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Armor.Default__U_Armor_C.StatDisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "136664484725D9DBC4768884522802ED",
+			"source": "Discard",
+			"sourceHash": "f9de60d2",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_Discard.U_Discard_C:ExecuteUbergraph_U_Discard [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "15936F28458DF6E533CF2BA17A7D42F3",
+			"source": "%",
+			"sourceHash": "b6a88010",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Heat.Default__U_Heat_C.Unit",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "26F8140B4540771F559DEEB02E2B3294",
+			"source": "Receiver",
+			"sourceHash": "e7bb8c1c",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContainers/U_Receiver.Default__U_Receiver_C.SlotName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "2834665245059EA49D5E8DB5CA19D1DF",
+			"source": "m",
+			"sourceHash": "e808f0c2",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_ExplosionRadius.Default__U_ExplosionRadius_C.Unit",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "2D5EB4744DD52D56D868DC8DB5AEEDBF",
+			"source": "HP",
+			"sourceHash": "54570993",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_PainDebuff.Default__U_PainDebuff_C.Unit",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "2FF50F404866ADD57E711695205A9483",
+			"source": "Influences how fast the weapon cooldowns again.",
+			"sourceHash": "d62be021",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Cooldown.Default__U_Cooldown_C.StatDescription",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "350491A34F9F56FF2DA4DB94CEFA5529",
+			"source": "%",
+			"sourceHash": "b6a88010",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_StaminaBoost.Default__U_StaminaBoost_C.Unit",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "366401314541AEAA426BDCACA291B283",
+			"source": "MRAD",
+			"sourceHash": "ea8e367c",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Accuracy.Default__U_Accuracy_C.Unit",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "3BC036F0466644D6908E23BF9556818E",
+			"source": "Pistol Grip",
+			"sourceHash": "5c258b04",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContainers/U_PistolGrip.Default__U_PistolGrip_C.SlotName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "40CE81E344F56BC1F34DDA82D07CCC39",
+			"source": "Explosion Delay",
+			"sourceHash": "0eba1415",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_ExplosionDelay.Default__U_ExplosionDelay_C.StatDisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "43F1E4704F5C86254C8FFC87F02D6DFC",
+			"source": "Eff. Distance",
+			"sourceHash": "546433be",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_EffectiveDistance.Default__U_EffectiveDistance_C.StatDisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "4664361C4526F0378274E09A201D5A4C",
+			"source": "Mag",
+			"sourceHash": "6fa91fee",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContainers/U_Mag.Default__U_Mag_C.SlotName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "47BCC57C4C4922DFFD2B469D76BAD539",
+			"source": "Fire Rate",
+			"sourceHash": "7c45a2de",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_RoundsPerMinute.Default__U_RoundsPerMinute_C.StatDisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "49B89A4D4132F0B7F11742B20CC0D8AF",
+			"source": "Handguard",
+			"sourceHash": "f79a935c",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContainers/U_Handguard.Default__U_Handguard_C.SlotName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "4C584FD943FE0895F5EBEF984976CE8C",
+			"source": "Usage Time",
+			"sourceHash": "8d9109f6",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_UsageTime.Default__U_UsageTime_C.StatDisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "5BC3FCF941D08F94F6EC7A9D572CFF65",
+			"source": "m",
+			"sourceHash": "e808f0c2",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_EffectiveDistance.Default__U_EffectiveDistance_C.Unit",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "5D36E34C4D56D2643A4DEA836CDFBA88",
+			"source": "Grip",
+			"sourceHash": "53d641bd",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContainers/U_Foregrip.Default__U_Foregrip_C.SlotName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "5DFFA4E140288F0746374CBD6E9D025A",
+			"source": "Influences how fast the weapon durability degrades.",
+			"sourceHash": "4670c9b2",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_DurabilityBurn.Default__U_DurabilityBurn_C.StatDescription",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "5FAF5FC446C071032731A1936F753F84",
+			"source": "Barrel",
+			"sourceHash": "6f0958b4",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContainers/U_Barrel.Default__U_Barrel_C.SlotName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "60DAB4B34C9CCD002BE7AFAFF5EC4FE8",
+			"source": "Velocity",
+			"sourceHash": "cf1e43d4",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_MuzzleVelocity.Default__U_MuzzleVelocity_C.StatDisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "63C4D7E04C519AFCD0ADB08DDCD14A25",
+			"source": "Gas Block",
+			"sourceHash": "8eab1709",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContainers/U_GasTube.Default__U_GasTube_C.SlotName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "672F4B54457B6BD70EF50EA7C2247C7C",
+			"source": "Pain Debuff",
+			"sourceHash": "63739a77",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_PainDebuff.Default__U_PainDebuff_C.StatDisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "685AE38A461703C5AD90419C31FDCDC2",
+			"source": "Heat",
+			"sourceHash": "f93bae16",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Heat.Default__U_Heat_C.StatDisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "6E519D504AF8896A88C2CEB2C088AFB7",
+			"source": "Protection Level",
+			"sourceHash": "a4b99448",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_ProtectionLevel.Default__U_ProtectionLevel_C.StatDisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "6EBB63684A83D16725B893A76188B93B",
+			"source": "Night Vision",
+			"sourceHash": "071e78cb",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContainers/U_NightVision.Default__U_NightVision_C.SlotName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "6EDA3E704EAE7B17A60CB0BFD8DCB781",
+			"source": "Stamina Boost",
+			"sourceHash": "3432fd1e",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_StaminaBoost.Default__U_StaminaBoost_C.StatDisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "6F98739846C8FF3D71A683821F4F1241",
+			"source": "Cover",
+			"sourceHash": "b0657e30",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContainers/U_DustCover.Default__U_DustCover_C.SlotName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "717FD7B540F8EE72098F93A6E8262C71",
+			"source": "Compatible Items",
+			"sourceHash": "944936a3",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_CompatibleItems.Default__U_CompatibleItems_C.StatDisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "746C86884F74B0F5F23D51A1F9A46705",
+			"source": "Cancel",
+			"sourceHash": "38947156",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_Discard.U_Discard_C:ExecuteUbergraph_U_Discard [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "759FAAC14DB48492CA1A628486C856D8",
+			"source": "[{x} s] {y}",
+			"sourceHash": "89080fe3",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_PainDebuff.U_PainDebuff_C:GetStatValueText [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "78E85AC84CDF394614543790F5C18ABF",
+			"source": "Penetration",
+			"sourceHash": "ac8c5843",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Penetration.Default__U_Penetration_C.StatDisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "7A6B3CF149F6230DDD092D8A1457DBFB",
+			"source": "%",
+			"sourceHash": "b6a88010",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_ShrapnelChance.Default__U_ShrapnelChance_C.Unit",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "7C2EAA7746653E92FE93D58AB654BED1",
+			"source": "Rail",
+			"sourceHash": "aee1751e",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContainers/U_Rail.Default__U_Rail_C.SlotName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "7D2A70924A3DC90228A61FAF9166A3C3",
+			"source": "Tactical",
+			"sourceHash": "8db54b8e",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContainers/U_Tactical.Default__U_Tactical_C.SlotName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "7EC2AFF641FF0A8D0DD72D83A0D55455",
+			"source": "[{x} s] {y}",
+			"sourceHash": "89080fe3",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_StaminaBoost.U_StaminaBoost_C:GetStatValueText [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "834BFB454C8EF40FE92404BA916C70B8",
+			"source": "Chamber",
+			"sourceHash": "02ea3f25",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContainers/U_Chamber.Default__U_Chamber_C.SlotName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "8408876D4B806945B4D213880EA5894D",
+			"source": "Content",
+			"sourceHash": "78a8e236",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Content.Default__U_Content_C.StatDisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "863190E04654FF567B6D6DBBBD2AA088",
+			"source": "Stock",
+			"sourceHash": "969006c9",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContainers/U_Stock.Default__U_Stock_C.SlotName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "871FC60A4EEDAAECB3D51DBC1DA13F42",
+			"source": "Damage",
+			"sourceHash": "f35224bb",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Damage.Default__U_Damage_C.StatDisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "89063F034A382C5DBF154E8B40BCF72A",
+			"source": "Stop Wound",
+			"sourceHash": "45ce18a4",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_StopWound.Default__U_StopWound_C.StatDisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "92D4FBAF4BF00DB712F926A31C871F2B",
+			"source": "Recoil",
+			"sourceHash": "d3d89a82",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Recoil.Default__U_Recoil_C.StatDisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "9362FD13473EFA009314639E9FFF370E",
+			"source": "HP",
+			"sourceHash": "54570993",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_HealOverTime.Default__U_HealOverTime_C.Unit",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "964DA4FE4865437C3E01DEA2141A1D1C",
+			"source": "Discard Item?",
+			"sourceHash": "45f950a1",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_Discard.U_Discard_C:ExecuteUbergraph_U_Discard [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "96DF409D468F35321EE175808429C1A5",
+			"source": "Chance To Wound",
+			"sourceHash": "ef673a16",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_ChanceToWound.Default__U_ChanceToWound_C.StatDisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "98FFC40445C4E7598A0C8E986505F26D",
+			"source": "Influences how much the weapon heats over time while firing it.",
+			"sourceHash": "11ec2e4f",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Heat.Default__U_Heat_C.StatDescription",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "9D11AAEB4C1283A1C347968C1148B20E",
+			"source": "Gas Tube",
+			"sourceHash": "55bbb540",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContainers/Plattforms/AR-15/M4/U_GasTube_M4.Default__U_GasTube_M4_C.SlotName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "9D9342604E97F09AFA4A4C8439946394",
+			"source": "rpm",
+			"sourceHash": "d6b8674a",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_RoundsPerMinute.Default__U_RoundsPerMinute_C.Unit",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "A688B86C441C84C51DBF0F8211857693",
+			"source": "Accuracy",
+			"sourceHash": "0395d0f7",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Accuracy.Default__U_Accuracy_C.StatDisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "AD067A4349E80B524A63FDA875990C15",
+			"source": "s",
+			"sourceHash": "58ced06e",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Duration.Default__U_Duration_C.Unit",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "AD431BB544D50E3EA5B236A262B63DF2",
+			"source": "Range",
+			"sourceHash": "90b9eba1",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_SightingRange.Default__U_SightingRange_C.StatDisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "AF4D9369456052124366C090534EFA1C",
+			"source": "%",
+			"sourceHash": "b6a88010",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_StaminaDrain.Default__U_StaminaDrain_C.Unit",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "AFF3339E46C7E1F8736071AA157B317C",
+			"source": "Muzzle",
+			"sourceHash": "356fae11",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContainers/U_Muzzle.Default__U_Muzzle_C.SlotName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "B45CCC4A4D2ADE8F0BDE709D37CE5C4C",
+			"source": "m/s",
+			"sourceHash": "94f4d401",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_MuzzleVelocity.Default__U_MuzzleVelocity_C.Unit",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "B4A4E5C34E3ED052224AC9B2C61E4998",
+			"source": "Chamber",
+			"sourceHash": "02ea3f25",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContainers/U_Ammunition.Default__U_Ammunition_C.SlotName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "B9F247364DF3B9A2A7C883AE4EEA969F",
+			"source": "Durability",
+			"sourceHash": "c96465b5",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Durability.Default__U_Durability_C.StatDisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "BB1DFC1340314EF0B3859DA08D36844E",
+			"source": "Headphones",
+			"sourceHash": "1038ae2e",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContainers/U_Headphones.Default__U_Headphones_C.SlotName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "BB47A1394161AF954EA9C78098DAA488",
+			"source": "Cooldown",
+			"sourceHash": "fae1f1dd",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Cooldown.Default__U_Cooldown_C.StatDisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "BC18449C4F9E19EA94ACAFB59C9749FF",
+			"source": "Piercing Level",
+			"sourceHash": "ecf292dd",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_PiercingLevel.Default__U_PiercingLevel_C.StatDisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "BCD42A594C9A0F3FAF2834ACA6BF81AA",
+			"source": "Ergonomics",
+			"sourceHash": "270935a7",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Ergonomics.Default__U_Ergonomics_C.StatDisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "BD6F784C4AEB43A5F68DFFA0476FF0FE",
+			"source": "%",
+			"sourceHash": "b6a88010",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Durability.Default__U_Durability_C.Unit",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "C40106FC47E2403D40E8898427A011D0",
+			"source": "HP",
+			"sourceHash": "54570993",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_HealInstant.Default__U_HealInstant_C.Unit",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "C5E8AF1847A1E17EA5B11C93D4A15DBB",
+			"source": "s",
+			"sourceHash": "58ced06e",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_ExplosionDelay.Default__U_ExplosionDelay_C.Unit",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "C7AF64F44801DD7B7D5008A15B764232",
+			"source": "Duration",
+			"sourceHash": "02bf2ffc",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Duration.Default__U_Duration_C.StatDisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "C7F140064C37AB7E301533B2D2BC4183",
+			"source": "%",
+			"sourceHash": "b6a88010",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_ChanceToWound.Default__U_ChanceToWound_C.Unit",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "D232E65A4FEEA1A2585156845820CD78",
+			"source": "Caliber",
+			"sourceHash": "33a22c96",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Caliber.Default__U_Caliber_C.StatDisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "D24987CE45E3D1A49FD733ABAD8C80F1",
+			"source": "%",
+			"sourceHash": "b6a88010",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_DurabilityBurn.Default__U_DurabilityBurn_C.Unit",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "D35D67944B7E6C8F8A2FB9BD740A0D87",
+			"source": "Heal Instant",
+			"sourceHash": "67f7be23",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_HealInstant.Default__U_HealInstant_C.StatDisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "D9178DFD42527C7821FF6DAF8AF713EB",
+			"source": "Heal Over Time",
+			"sourceHash": "58d21684",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_HealOverTime.Default__U_HealOverTime_C.StatDisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "DAC039414945CEF464A252A26AA3FF8B",
+			"source": "s",
+			"sourceHash": "58ced06e",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_UsageTime.Default__U_UsageTime_C.Unit",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "DC75AF764105940249A744ADB2EBC8CF",
+			"source": "Firemodes",
+			"sourceHash": "5a7e4d39",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_FireModes.Default__U_FireModes_C.StatDisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "DEF18CE745DF1E6C9CE91C945496260A",
+			"source": "{x} x {y}",
+			"sourceHash": "8a096aa5",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_DefaultSize.U_DefaultSize_C:GetStatValueText [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "E246D58C41477DC852F1FBB57035BC35",
+			"source": "%",
+			"sourceHash": "b6a88010",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Cooldown.Default__U_Cooldown_C.Unit",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "E37E57584EAAF75FB73E1BAECF94BC2B",
+			"source": "Shrapnel Chance",
+			"sourceHash": "45c61b49",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_ShrapnelChance.Default__U_ShrapnelChance_C.StatDisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "E744EC7548E2D591C2E8F9850C4711CD",
+			"source": "Durability Burn",
+			"sourceHash": "b0cab12a",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_DurabilityBurn.Default__U_DurabilityBurn_C.StatDisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "F08D222F4E39DFA926F49E856A597C9B",
+			"source": "m",
+			"sourceHash": "e808f0c2",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_SightingRange.Default__U_SightingRange_C.Unit",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "F549CCC34FFE6C123B1614A37C15D378",
+			"source": "[{x} s] {y}",
+			"sourceHash": "89080fe3",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_HealOverTime.U_HealOverTime_C:GetStatValueText [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "F60D302E47C1E719F9ABBBB556FD3B35",
+			"source": "Explosion Radius",
+			"sourceHash": "7ebf2d90",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_ExplosionRadius.Default__U_ExplosionRadius_C.StatDisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "F67A84274A20269DBCA03F96CC1689A9",
+			"source": "Types Of Fire",
+			"sourceHash": "63586a8c",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_FireModes.Default__U_FireModes_C.StatDescription",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "F8471A6C49B54101E8F5AEABAC92F119",
+			"source": "Stamina Buff",
+			"sourceHash": "4292a30c",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_StaminaDrain.Default__U_StaminaDrain_C.StatDisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "F8986CC248497609E78821BD51427C39",
+			"source": "Sight",
+			"sourceHash": "2ae1576f",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContainers/U_Sight.Default__U_Sight_C.SlotName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "UObjectToolTips",
+			"key": "ContainerItem:bQuestItem",
+			"source": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\n       bool bIsNestedVitalPart = false;",
+			"sourceHash": "561c7b97",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_RollUp.IsValidContext:K2Node_BreakStruct_0.ShowPinForProperties(16).ShowPinForProperties.PropertyTooltip",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "UObjectToolTips",
+			"key": "ContainerItem:CanStack",
+			"source": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFItemDimensions CurrentDimensions;",
+			"sourceHash": "4b9297b2",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_RollUp.IsValidContext:K2Node_BreakStruct_0.ShowPinForProperties(11).ShowPinForProperties.PropertyTooltip",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "UObjectToolTips",
+			"key": "ContainerItem:CurrentState",
+			"source": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFGameplayTagContainer CurrentEquipToRequirements;\nTODO Rename to state and stats and remove everything below",
+			"sourceHash": "8c2c3cec",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_RollUp.IsValidContext:K2Node_BreakStruct_0.ShowPinForProperties(6).ShowPinForProperties.PropertyTooltip",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "UObjectToolTips",
+			"key": "ContainerItem:RequiredByItemUIDs",
+			"source": "UPROPERTY(EditAnywhere, BlueprintReadWrite, Transient)\n       FGameplayTagContainer InstalledAttachments;",
+			"sourceHash": "21536ca1",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_RollUp.IsValidContext:K2Node_BreakStruct_0.ShowPinForProperties(8).ShowPinForProperties.PropertyTooltip",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		}
+	]
+}
