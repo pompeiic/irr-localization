@@ -1,0 +1,126 @@
+{
+	"schemaVersion": 1,
+	"area": "Missions",
+	"entries": [
+		{
+			"ns": "",
+			"key": "3E75B88142BB95AB542064AB948BFE9A",
+			"source": "tset {x}",
+			"sourceHash": "6d4e963a",
+			"origin": "/Game/Blueprints/MissionSystem/NewQuest.NewQuest:QuestNode_Stage_9.NodeText.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "737343A94CF92F23D8A64998058AD7F0",
+			"source": "tet {x}",
+			"sourceHash": "d3395598",
+			"origin": "/Game/Blueprints/MissionSystem/NewQuest.NewQuest:QuestNode_Stage_9.QuestObjective_0.ShortDescription.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "A4559061467C55C193C91D8E6F0334E7",
+			"source": "stes",
+			"sourceHash": "dcd85798",
+			"origin": "/Game/Blueprints/MissionSystem/NewQuest.NewQuest:QuestNode_Stage_9.QuestObjective_0.LongDescription.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		}
+	]
+}
