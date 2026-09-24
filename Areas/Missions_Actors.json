@@ -1,0 +1,686 @@
+{
+	"schemaVersion": 1,
+	"area": "Missions/Actors",
+	"entries": [
+		{
+			"ns": "",
+			"key": "0C0926214FC3DEDE03E9B686D4D7815D",
+			"source": "<strong>Cleans</> up the <strong>rocks</>, adds <strong>fresh concrete flooring</>, as well as <strong>seal</> the gaps in the roof and <strong>repaints</> the wall bricks.",
+			"sourceHash": "94cc3025",
+			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_Structure.BP_HideoutUnit_Structure_C:BP_IRRHideoutUnitComponent_GEN_VARIABLE.UpgradeLevels(1).UpgradeLevels.UpgradeLevelDescription",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "14727CA44C1BA2D77F5826A34B12C8D8",
+			"source": "Installs a <strong>large</> generator powered by <strong>diesel</> in your safehouse.",
+			"sourceHash": "cf3ca614",
+			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_Generator.BP_HideoutUnit_Generator_C:BP_IRRHideoutUnitComponent_GEN_VARIABLE.UpgradeLevels(0).UpgradeLevels.UpgradeLevelDescription",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "3BF0C5A24463D85EF871129C81FEBB16",
+			"source": "Unlocks the gunsmith to <strong>customize and assemble</> all guns.",
+			"sourceHash": "ceb0030a",
+			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/Gunsmith/BP_Gunsmith.BP_Gunsmith_C:BP_IRRHideoutUnitComponent_GEN_VARIABLE.UpgradeLevels(0).UpgradeLevels.UpgradeLevelDescription",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "424D1B4E44533B3A71C3E999AD5A37D2",
+			"source": "Unlocks <strong>material repairs</> for guns & attachments.",
+			"sourceHash": "ff685f9b",
+			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/Gunsmith/BP_Gunsmith.BP_Gunsmith_C:BP_IRRHideoutUnitComponent_GEN_VARIABLE.UpgradeLevels(1).UpgradeLevels.UpgradeLevelDescription",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "533B1ECA4A7D56DE10A485AC968F5D52",
+			"source": "<strong>Replaces</> the basic lighting with more advanced <strong>fluorescent</> lighting.",
+			"sourceHash": "4317f500",
+			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_Lighting.BP_HideoutUnit_Lighting_C:BP_IRRHideoutUnitComponent_GEN_VARIABLE.UpgradeLevels(1).UpgradeLevels.UpgradeLevelDescription",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "5D6852944B18261FE2433C937EF27129",
+			"source": "Builds a <strong>satelliate antenna</> that provides additional <strong>information</> from each faction at your deploy screen. ",
+			"sourceHash": "1be0869b",
+			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_IntelCenter.BP_HideoutUnit_IntelCenter_C:BP_IRRHideoutUnitComponent_GEN_VARIABLE.UpgradeLevels(2).UpgradeLevels.UpgradeLevelDescription",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "6D8A303D47EC414C49404094226EB86D",
+			"source": "Adds more <strong>targets</> that are <strong>lit</> to help visibility during night times.",
+			"sourceHash": "d54f6e59",
+			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_Master_ShootingRange.BP_HideoutUnit_Master_ShootingRange_C:BP_IRRHideoutUnitComponent_GEN_VARIABLE.UpgradeLevels(1).UpgradeLevels.UpgradeLevelDescription",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "6F1118864B28A5DEFAEAD4B5C3A85F70",
+			"source": "Enables <strong>repairing</> of gear items with <strong>materials</>.",
+			"sourceHash": "9d329df7",
+			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_RepairStation.BP_HideoutUnit_RepairStation_C:BP_IRRHideoutUnitComponent_GEN_VARIABLE.UpgradeLevels(0).UpgradeLevels.UpgradeLevelDescription",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "75CD863A4EE40674A074F59CC6E76731",
+			"source": "Gameplay Effect",
+			"sourceHash": "3df17c49",
+			"origin": "/Game/Blueprints/MissionSystem/Actors/Triggers/BP_LevelTrigger_GameplayEffectZone.Default__BP_LevelTrigger_GameplayEffectZone_C.DisplayLabel",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "869D7F3A4D728542FA47408EC7B9D2DE",
+			"source": "Adds <strong>basic</> lighting to your safehouse.",
+			"sourceHash": "bf64e875",
+			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_Lighting.BP_HideoutUnit_Lighting_C:BP_IRRHideoutUnitComponent_GEN_VARIABLE.UpgradeLevels(0).UpgradeLevels.UpgradeLevelDescription",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "A9E1F43345D72FAF6A43938DCABC6A27",
+			"source": "Investigate Area",
+			"sourceHash": "cfaf4f96",
+			"origin": "/Game/Blueprints/MissionSystem/Actors/Triggers/BP_LevelTrigger_InvestigationArea.Default__BP_LevelTrigger_InvestigationArea_C.DisplayLabel",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "CBF14C464DF628DD6569A6AD07E51839",
+			"source": "Adds the second <strong>antenna piece</>. We are close to get a signal!",
+			"sourceHash": "2d0c6661",
+			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_IntelCenter.BP_HideoutUnit_IntelCenter_C:BP_IRRHideoutUnitComponent_GEN_VARIABLE.UpgradeLevels(1).UpgradeLevels.UpgradeLevelDescription",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "D60EB47048C3FC9458720597C02C9F85",
+			"source": "<strong>Unlocks</> additionally the repair option with <strong>cash</>.",
+			"sourceHash": "748dca1d",
+			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_RepairStation.BP_HideoutUnit_RepairStation_C:BP_IRRHideoutUnitComponent_GEN_VARIABLE.UpgradeLevels(1).UpgradeLevels.UpgradeLevelDescription",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "D92B04FB499E8543759BCC93917121D7",
+			"source": "Clear Area",
+			"sourceHash": "6668e1b5",
+			"origin": "/Game/Blueprints/MissionSystem/Actors/Triggers/BP_LevelTrigger_ClearArea.Default__BP_LevelTrigger_ClearArea_C.DisplayLabel",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "DBD3DBCC49A01CEB13BD8DB1BB7C97C9",
+			"source": "<strong>Replaces</> the diesel generator with an generator that is powered by <strong>gasoline</>.",
+			"sourceHash": "951d77e0",
+			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_Generator.BP_HideoutUnit_Generator_C:BP_IRRHideoutUnitComponent_GEN_VARIABLE.UpgradeLevels(1).UpgradeLevels.UpgradeLevelDescription",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "F8BBA0814E68B3822345CDBD8E964926",
+			"source": "Unlocks <strong>cash repair</> for guns & attachments.",
+			"sourceHash": "9e66b997",
+			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/Gunsmith/BP_Gunsmith.BP_Gunsmith_C:BP_IRRHideoutUnitComponent_GEN_VARIABLE.UpgradeLevels(2).UpgradeLevels.UpgradeLevelDescription",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "FED9842640F42FD0DD9A4EA2A37BBA60",
+			"source": "Adds the first <strong>antenna piece</>. More to come!",
+			"sourceHash": "82336534",
+			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_IntelCenter.BP_HideoutUnit_IntelCenter_C:BP_IRRHideoutUnitComponent_GEN_VARIABLE.UpgradeLevels(0).UpgradeLevels.UpgradeLevelDescription",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		}
+	]
+}
