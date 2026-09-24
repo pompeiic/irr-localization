@@ -1,0 +1,1446 @@
+{
+	"schemaVersion": 1,
+	"area": "Tutorial",
+	"entries": [
+		{
+			"ns": "",
+			"key": "031C9CEA4CB2C32FA066F79C47A5FE5D",
+			"source": "Last but not least, you can adjust the AI Difficulty in the Settings, under the AI tab at the top. If you feel they are too easy or too challenging, tweak them to your liking or choose one of the presets. If you are already experienced with FPS games, we recommend starting with Hard for a decent challenge.",
+			"sourceHash": "04474f66",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.InRaid.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(2).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.MessageText_10_3211E6D14AADC8E7D0DE94BDEAFFA414",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "04B8F2A84AB739DAA3DAA397A5444D9B",
+			"source": "Your Stash is where all of your equipment is stored. \r\n\r\nManage your loadout, weapon attachments and even upgrade the amount of space the Stash can hold to store even more loot.",
+			"sourceHash": "0aa8b834",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.Stash.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(0).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.MessageText_10_3211E6D14AADC8E7D0DE94BDEAFFA414",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "082515EE465995AA87D4C8B068C500EE",
+			"source": "MARKETPLACE",
+			"sourceHash": "118ef67f",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.Laptop.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(2).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.HeadlineText_3_DBCC41F24BA2FB2458CCFC862BE8BF58",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "0AC40CF34B8D55957E3E588C34164FFD",
+			"source": "Welcome to your hideout Terminal – your central hub for preparing raids, managing missions, and claiming rewards.",
+			"sourceHash": "91e33e09",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.Laptop.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(0).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.MessageText_10_3211E6D14AADC8E7D0DE94BDEAFFA414",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "1946E11E4A625BF106B93E8C5287B12E",
+			"source": "The repair station serves as the place to restore firearms and armor. This typically requires materials such as cloth scraps and gun lubricant to be collected in-raid. However, eventually FANG will be able to take care of these materials for a cash fee.",
+			"sourceHash": "ad55b25c",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.Repair.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(0).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.MessageText_10_3211E6D14AADC8E7D0DE94BDEAFFA414",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "1A45293341F5FC6DB96C78A5EE59D651",
+			"source": "WEAPON BENCH",
+			"sourceHash": "6df88940",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.WeaponBench.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(0).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.HeadlineText_3_DBCC41F24BA2FB2458CCFC862BE8BF58",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "37EA7EF54C59FB7D7C7C1CAAFC342BE1",
+			"source": "Generator",
+			"sourceHash": "d408c160",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.Generator.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(0).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.HeadlineText_3_DBCC41F24BA2FB2458CCFC862BE8BF58",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "384EEE5349048020205499951AD3B78C",
+			"source": "Your Safehouse is located on an island some kilometers off Vietnam's coast. This warehouse was originally constructed by FANG operatives during the American Vietnam war as an intelligence outpost, but abandoned in the 1990s. Due to supply line difficulties, you'll want to gather resources for repairs yourself in-raid.",
+			"sourceHash": "a6a2032e",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.Structure.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(0).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.MessageText_10_3211E6D14AADC8E7D0DE94BDEAFFA414",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "3B233B87434AF3F6394E4FBEB8F29730",
+			"source": "GCPS",
+			"sourceHash": "f45f7350",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.InRaid.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(1).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.HeadlineText_3_DBCC41F24BA2FB2458CCFC862BE8BF58",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "5DAB09E44BCBB3A716D285AA1C0A292E",
+			"source": "MISSIONS",
+			"sourceHash": "412d5d07",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.Laptop.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(3).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.HeadlineText_3_DBCC41F24BA2FB2458CCFC862BE8BF58",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "672A560648AC0B64B57468AFEE8A6150",
+			"source": "You can modify both weapons from your stash and weapons previewed from the Marketplace.\r\n\r\nLocked attachments are clearly marked – unlock them via reputation. Items cannot directly be bought from the black market.",
+			"sourceHash": "d68020db",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.WeaponBench.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(1).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.MessageText_10_3211E6D14AADC8E7D0DE94BDEAFFA414",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "6DB490724A916BC1FED60CA3DD5C3242",
+			"source": "Welcome to the Weapon Bench – your place to customize weapons, experiment with builds, and create presets tailored to your playstyle.",
+			"sourceHash": "70d5c3ae",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.WeaponBench.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(0).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.MessageText_10_3211E6D14AADC8E7D0DE94BDEAFFA414",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "6F2E04A44E1354B7E642389B8E36A126",
+			"source": "Once your weapon is set up, you can save it as a preset for later use – or load an existing preset onto any compatible weapon.",
+			"sourceHash": "b47fac13",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.WeaponBench.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(2).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.MessageText_10_3211E6D14AADC8E7D0DE94BDEAFFA414",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "73F5E9624F88337A4D4758A0D32F88CA",
+			"source": "There are two types of missions:\r\n\r\n-> Story missions: Marked with a star. They progress the story and give strong rewards.\r\n\r\n-> Assignments: General repeating missions that provide decent rewards.",
+			"sourceHash": "7dd984b2",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.Laptop.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(3).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.MessageText_10_3211E6D14AADC8E7D0DE94BDEAFFA414",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "761CCC1F4B38F9B4BAE7719E433AB0D0",
+			"source": "RAID",
+			"sourceHash": "2a204b61",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.InRaid.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(0).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.HeadlineText_3_DBCC41F24BA2FB2458CCFC862BE8BF58",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "77E634A044606567402F51B9370AD544",
+			"source": "INBOX",
+			"sourceHash": "ee31085d",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.Laptop.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(4).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.HeadlineText_3_DBCC41F24BA2FB2458CCFC862BE8BF58",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "79BBA5BE45DE0D924122EEA5E44ED386",
+			"source": "STASH",
+			"sourceHash": "47e526ff",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.Stash.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(0).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.HeadlineText_3_DBCC41F24BA2FB2458CCFC862BE8BF58",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "8991C0CF4C562EF0BF3A83BA293CDEA0",
+			"source": "Intel Center",
+			"sourceHash": "2eee5e82",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.IntelCenter.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(0).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.HeadlineText_3_DBCC41F24BA2FB2458CCFC862BE8BF58",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "899AFE6242C8EC4AFE8C14AD1E51E82A",
+			"source": "The Shooting Range contains a number of targets for you to test your equipped weapons on. \r\n\r\nAmmunition is unlimited while you are in the hideout.",
+			"sourceHash": "d022a0c8",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.FiringRange.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(0).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.MessageText_10_3211E6D14AADC8E7D0DE94BDEAFFA414",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "935F9D9B41AC623D2617CE8939C9C42C",
+			"source": "Repair",
+			"sourceHash": "45c0e35c",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.Repair.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(0).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.HeadlineText_3_DBCC41F24BA2FB2458CCFC862BE8BF58",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "A1FE91C849EBD271E5D33BAE40DAE34A",
+			"source": "DEPLOYMENT",
+			"sourceHash": "d328d1a7",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.Laptop.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(1).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.HeadlineText_3_DBCC41F24BA2FB2458CCFC862BE8BF58",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "A76D97AF454F9CD5019D3193BF114976",
+			"source": "Check your Inbox for new messages and rewards.\r\n\r\nMission completed? Your reward is likely waiting here.\r\n\r\nYou have collected a mission item when using lend loadout? Collect it here!\r\n\r\nYou’ll also receive updates from factions and system notices",
+			"sourceHash": "f75edfb0",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.Laptop.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(4).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.MessageText_10_3211E6D14AADC8E7D0DE94BDEAFFA414",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "A7C8E78D4BE39E25896236997C663FC6",
+			"source": "Welcome to your first raid. \r\n\r\nCurrently there are three maps, Delta, Quarry & Bunker. Each map has several infill & extract points. ",
+			"sourceHash": "4d8d71a0",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.InRaid.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(0).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.MessageText_10_3211E6D14AADC8E7D0DE94BDEAFFA414",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "ACFE904F490EBA5C05312585FAA178F3",
+			"source": "Lighting",
+			"sourceHash": "2fdaf041",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.Lighting.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(0).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.HeadlineText_3_DBCC41F24BA2FB2458CCFC862BE8BF58",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "AE1EA2844086F87BA61BBDA12DD149D5",
+			"source": "In the Deploy section, you can:\r\n\r\n-> View your currently tracked missions\r\n-> Choose the map and deployment time\r\n-> Set options like friendly fire, provided loadout, and more\r\n\r\nTip: If you’re low on gear or just want to play safe, choose the provided loadout. You won’t be able to extract anything, but you can still complete missions and earn rewards!",
+			"sourceHash": "b5e55d1a",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.Laptop.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(1).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.MessageText_10_3211E6D14AADC8E7D0DE94BDEAFFA414",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "B5A16934468162B99C7E269838581AB9",
+			"source": "PRESETS",
+			"sourceHash": "292b39f1",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.WeaponBench.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(2).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.HeadlineText_3_DBCC41F24BA2FB2458CCFC862BE8BF58",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "B95F9B8D454B5B6C2B68AA9FED791DC4",
+			"source": "The generator is the main prerequisite of upgrading your Safehouse. Its an important first step of getting everything up and running.",
+			"sourceHash": "7ac8224c",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.Generator.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(0).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.MessageText_10_3211E6D14AADC8E7D0DE94BDEAFFA414",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "BCAF1DAA42F916D60A2C8FB980B408E0",
+			"source": "AI Difficulty Settings",
+			"sourceHash": "9c776c32",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.InRaid.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(2).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.HeadlineText_3_DBCC41F24BA2FB2458CCFC862BE8BF58",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "CF1019DF4F1CC8D2852FD8BB9C2645B5",
+			"source": "SHOOTING RANGE",
+			"sourceHash": "840f0e83",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.FiringRange.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(0).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.HeadlineText_3_DBCC41F24BA2FB2458CCFC862BE8BF58",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "D3F03C464FEE7E74018A37BDA8AF7733",
+			"source": "The Global Combat Positioning System lets you view the map and shows all possible extraction zones and objective locations.\r\n\r\nYou can also see your teammates' positions. Additionally on the top left the 4 LEDs indicate if you are close to an operation start point. Can be very handy in bunker.\r\n\r\nBy default, you can draw the GCPS with 4. Take a look at the key bind settings to modify that.",
+			"sourceHash": "3bb0dc63",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.InRaid.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(1).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.MessageText_10_3211E6D14AADC8E7D0DE94BDEAFFA414",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "DBA4D6F747EB1B31ABE4AA9299F158D3",
+			"source": "Structure",
+			"sourceHash": "26dc56c1",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.Structure.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(0).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.HeadlineText_3_DBCC41F24BA2FB2458CCFC862BE8BF58",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "E1FBCBE646BA4AC6E404A585D0B1008C",
+			"source": "The lighting station serves to upgrade illumination throughout your hideout. Currently, theres only some standing lights, though with additional upgrades icandenscent and flourescent overhead bulbs become the standard.",
+			"sourceHash": "4cf11164",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.Lighting.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(0).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.MessageText_10_3211E6D14AADC8E7D0DE94BDEAFFA414",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "E88F62EF4C8C29D0E14CA693AAB579ED",
+			"source": "THE TERMINAL",
+			"sourceHash": "68c5ffe4",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.Laptop.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(0).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.HeadlineText_3_DBCC41F24BA2FB2458CCFC862BE8BF58",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "F23A506D42F985ECAB188FAB467A156B",
+			"source": "The Intel Center is a data storage and processing rig. Intel picked up in-raid is held here and sent back to FANG headquarters when necessary. Later this area can be used to process radar-based weather data to generate heatmaps of suspicious activity.",
+			"sourceHash": "6376761d",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.IntelCenter.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(0).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.MessageText_10_3211E6D14AADC8E7D0DE94BDEAFFA414",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "F322A269425A180C2EAAFCA02D676614",
+			"source": "Need supplies? The Marketplace lets you buy gear for your raid.\r\n\r\nItems are limited by your reputation with the seller faction.\r\n\r\nDon’t want to wait? Try the Black Market – infinite stock, no restrictions, but very expensive",
+			"sourceHash": "9c6472e2",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.Laptop.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(2).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.MessageText_10_3211E6D14AADC8E7D0DE94BDEAFFA414",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "FD3A6E904559DD1FE448B48912EC9B8E",
+			"source": "MODIFICATION",
+			"sourceHash": "9fc4bc62",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.WeaponBench.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(1).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.HeadlineText_3_DBCC41F24BA2FB2458CCFC862BE8BF58",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		}
+	]
+}
