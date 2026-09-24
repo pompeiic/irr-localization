@@ -1,0 +1,86 @@
+{
+	"schemaVersion": 1,
+	"area": "Blueprints/PatchSystem",
+	"entries": [
+		{
+			"ns": "",
+			"key": "B7AB1D48469B7B4DC6EA0DA354268CD5",
+			"source": "You have no map selected.",
+			"sourceHash": "adf0b3f2",
+			"origin": "/Game/Blueprints/PatchSystem/W_IRR_PatchContent.W_IRR_PatchContent_C:WidgetTree.IRRTextBlock_107.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "EC0DA6DF40B9BCDB0FB18D89C98789FD",
+			"source": "THIS UPDATE RESETS: {x}",
+			"sourceHash": "45ce1df2",
+			"origin": "/Game/Blueprints/PatchSystem/W_IRR_PatchContent.W_IRR_PatchContent_C:ExecuteUbergraph_W_IRR_PatchContent [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		}
+	]
+}
