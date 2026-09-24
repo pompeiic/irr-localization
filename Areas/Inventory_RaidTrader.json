@@ -1,0 +1,646 @@
+{
+	"schemaVersion": 1,
+	"area": "Inventory/RaidTrader",
+	"entries": [
+		{
+			"ns": "IRRRaidTrader",
+			"key": "AlreadyOffered",
+			"source": "Already on the table.",
+			"sourceHash": "92ad063c",
+			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(153)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRRaidTrader",
+			"key": "CountFormat",
+			"source": "x{0}",
+			"sourceHash": "098e69c5",
+			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTradeOfferWidget.h(92)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRRaidTrader",
+			"key": "EmptyTable",
+			"source": "Nothing on the table.",
+			"sourceHash": "1e0f8bc2",
+			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(434)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRRaidTrader",
+			"key": "ForeignItem",
+			"source": "Only your own items or the trader's stock can be traded.",
+			"sourceHash": "4deb8370",
+			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(165)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRRaidTrader",
+			"key": "InvalidItem",
+			"source": "Invalid item.",
+			"sourceHash": "071cc4dd",
+			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(145)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRRaidTrader",
+			"key": "ItemGone",
+			"source": "An offered item is no longer available.",
+			"sourceHash": "46be6181",
+			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(535)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRRaidTrader",
+			"key": "NoInventory",
+			"source": "No inventory.",
+			"sourceHash": "a7827431",
+			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(446)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRRaidTrader",
+			"key": "NoSession",
+			"source": "No trader session.",
+			"sourceHash": "9ce0aa0f",
+			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTradeWidget.cpp(106)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRRaidTrader",
+			"key": "NoSpace",
+			"source": "Not enough space in your inventory.",
+			"sourceHash": "4278aa81",
+			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(475)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRRaidTrader",
+			"key": "NoStockSpace",
+			"source": "The trader has no room for that.",
+			"sourceHash": "23b23b61",
+			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(480)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRRaidTrader",
+			"key": "NoTable",
+			"source": "No trade table.",
+			"sourceHash": "1beae47b",
+			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTradeWidget.cpp(304)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRRaidTrader",
+			"key": "NotEnoughCash",
+			"source": "Not enough cash. Missing $ {0}",
+			"sourceHash": "aa06e24b",
+			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(454)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRRaidTrader",
+			"key": "NoTraderItem",
+			"source": "Pick something from the trader.",
+			"sourceHash": "a3aef1ca",
+			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(439)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRRaidTrader",
+			"key": "NotWanted",
+			"source": "The trader isn't interested in this.",
+			"sourceHash": "86d059c0",
+			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(176)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRRaidTrader",
+			"key": "TradeBalance",
+			"source": "Balance $ {0}",
+			"sourceHash": "94d0c235",
+			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(485)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRRaidTrader",
+			"key": "ValueFormat",
+			"source": "{0} $",
+			"sourceHash": "6fbec40b",
+			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTradeOfferWidget.h(96)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		}
+	]
+}
