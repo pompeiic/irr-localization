@@ -1,0 +1,686 @@
+{
+	"schemaVersion": 1,
+	"area": "UI/Data",
+	"entries": [
+		{
+			"ns": "",
+			"key": "0D46E0A84267A0EC561B24B4450B0855",
+			"source": "Pause Menu",
+			"sourceHash": "731e6983",
+			"origin": "/Game/Blueprints/UICore/Data/DT_UI_SpectatingActions.DT_UI_SpectatingActions.Escape.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "2C238FA64CF54284D1F81CB6C4822B14",
+			"source": "Teleport",
+			"sourceHash": "b4191029",
+			"origin": "/Game/Blueprints/UICore/Data/DT_UI_CinematicCameraActions.DT_UI_CinematicCameraActions.Teleport.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "310FEA4540D6D645F890AAB1349762BA",
+			"source": "Hide UI",
+			"sourceHash": "aa98ff2f",
+			"origin": "/Game/Blueprints/UICore/Data/DT_UI_SpectatingActions.DT_UI_SpectatingActions.HideUI.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "3F62DF35478503179838909D768A00EB",
+			"source": "Hide UI",
+			"sourceHash": "aa98ff2f",
+			"origin": "/Game/Blueprints/UICore/Data/DT_UI_CinematicCameraActions.DT_UI_CinematicCameraActions.HideUI.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "595870B048733E82D4DE96ACA255C95C",
+			"source": "Vendor",
+			"sourceHash": "b4afcba1",
+			"origin": "/Game/Blueprints/UICore/Data/DT_UI_InputActions.DT_UI_InputActions.LeftNav.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "738963ED4CAD241782190D897769E241",
+			"source": "Change Camera Mode",
+			"sourceHash": "d67a55be",
+			"origin": "/Game/Blueprints/UICore/Data/DT_UI_SpectatingActions.DT_UI_SpectatingActions.ToggleCamera.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "80EB5B9A4C7EB33B8120E29A777AB6FF",
+			"source": "Recenter",
+			"sourceHash": "f679eaf6",
+			"origin": "/Game/Blueprints/UICore/Data/DT_UI_InputGCPS.DT_UI_InputGCPS.Tab.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "8E3B1167495028BC3F4C8FABCF81E73A",
+			"source": "Remove Ping",
+			"sourceHash": "28c63bf6",
+			"origin": "/Game/Blueprints/UICore/Data/DT_UI_InputGCPS.DT_UI_InputGCPS.RightMouseButton.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "9999DB2744BC5605602FAD9BDE7757CA",
+			"source": "Exit",
+			"sourceHash": "b1231be8",
+			"origin": "/Game/Blueprints/UICore/Data/DT_UI_CinematicCameraActions.DT_UI_CinematicCameraActions.Exit.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "9B5FC2244F6FD1D037CA16A3F8EC1606",
+			"source": "Hide UI",
+			"sourceHash": "aa98ff2f",
+			"origin": "/Game/Blueprints/UICore/Data/DT_UI_InputActions.DT_UI_InputActions.HideUI.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "AECA87344DF6D36FE47F398F57F2881A",
+			"source": "Take Photo",
+			"sourceHash": "5ecd36a7",
+			"origin": "/Game/Blueprints/UICore/Data/DT_UI_CinematicCameraActions.DT_UI_CinematicCameraActions.Photo.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "B32931CC42C040686B2926BC94429067",
+			"source": "Back",
+			"sourceHash": "44d16ff1",
+			"origin": "/Game/Blueprints/UICore/Data/DT_UI_InputActions.DT_UI_InputActions.Escape.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "C1084CA74CA1C39F7C1EF2B810FDCA50",
+			"source": "Stash",
+			"sourceHash": "11af4b12",
+			"origin": "/Game/Blueprints/UICore/Data/DT_UI_InputActions.DT_UI_InputActions.Stash.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "C124C2C1431CDAEBFCDD65BA7317D6F7",
+			"source": "Gunsmith",
+			"sourceHash": "1a2e65d7",
+			"origin": "/Game/Blueprints/UICore/Data/DT_UI_InputActions.DT_UI_InputActions.Gunsmith.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "D3E3FD314871E3693FB245A906FA3BB2",
+			"source": "Reset",
+			"sourceHash": "7cbf7cb3",
+			"origin": "/Game/Blueprints/UICore/Data/DT_UI_CinematicCameraActions.DT_UI_CinematicCameraActions.Reset.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "E66D28114AD8B6ADF43EBFB797140729",
+			"source": "Terminal",
+			"sourceHash": "f3f9e2df",
+			"origin": "/Game/Blueprints/UICore/Data/DT_UI_InputActions.DT_UI_InputActions.Vendor.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "EFD440474A7CE1C851D4668EFA358FB7",
+			"source": "Set Ping",
+			"sourceHash": "2e2233be",
+			"origin": "/Game/Blueprints/UICore/Data/DT_UI_InputGCPS.DT_UI_InputGCPS.MiddleMouseButton.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		}
+	]
+}
