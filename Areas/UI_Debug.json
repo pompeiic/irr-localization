@@ -1,0 +1,2686 @@
+{
+	"schemaVersion": 1,
+	"area": "UI/Debug",
+	"entries": [
+		{
+			"ns": "",
+			"key": "05AEC3904856E612E8D9BD95BBCE04DC",
+			"source": "Successfully Scanned",
+			"sourceHash": "50565379",
+			"origin": "/Game/Blueprints/UICore/Debug/W_DebugAI_Perception.W_DebugAI_Perception_C:WidgetTree.PlayerScore_3.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "05F9199B4925E9C6CBA1FAAA11C52292",
+			"source": "Y",
+			"sourceHash": "97419f34",
+			"origin": "/Game/Blueprints/UICore/Debug/W_AttachmentSlot.W_AttachmentSlot_C:WidgetTree.Y.HintText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "090D2E3F4FFE9AE0663D248C605FE4B7",
+			"source": "Override Child Items:",
+			"sourceHash": "635c02fe",
+			"origin": "/Game/Blueprints/UICore/Debug/W_AttachmentSlot.W_AttachmentSlot_C:WidgetTree.TextBlock_3.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "0D1F972942082DCAF9866A80FBE781D2",
+			"source": "Current name",
+			"sourceHash": "e3467ef4",
+			"origin": "/Game/Blueprints/UICore/Debug/W_AttachmentSlot.W_AttachmentSlot_C:WidgetTree.TextBlock_70.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "0F34B9F44A8549AE90410F90EF11356D",
+			"source": "Value Type:",
+			"sourceHash": "6ab61420",
+			"origin": "/Game/Blueprints/UICore/Debug/W_StatInfo_Item.W_StatInfo_Item_C:WidgetTree.TextBlock_1.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "1128DA1548AAFA694FC6A4A4047D723A",
+			"source": "Socket Name",
+			"sourceHash": "366f4112",
+			"origin": "/Game/Blueprints/UICore/Debug/W_AttachmentSlot.W_AttachmentSlot_C:WidgetTree.Socket.HintText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "12D78D9B4339BFD6ABD98994522CC22F",
+			"source": "/",
+			"sourceHash": "d9156074",
+			"origin": "/Game/Blueprints/UICore/Debug/W_DebugArmorPenetration.W_DebugArmorPenetration_C:WidgetTree.HealthText_1.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "1567D2DD4F227595E7D411A630032B94",
+			"source": "Modifier Value:",
+			"sourceHash": "bee890c3",
+			"origin": "/Game/Blueprints/UICore/Debug/W_StatInfo_Item.W_StatInfo_Item_C:WidgetTree.TextBlock_2.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "15743F0B42AA4F786D6F8095B22623F8",
+			"source": "100",
+			"sourceHash": "81bf17d8",
+			"origin": "/Game/Blueprints/UICore/Debug/W_DebugArmorPenetration.W_DebugArmorPenetration_C:WidgetTree.MaxHealthText.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "1F255EA1451254B24A568B8E4235A9F2",
+			"source": "Consolidate",
+			"sourceHash": "342c5d82",
+			"origin": "/Game/Blueprints/UICore/Debug/W_ReplaceReferences.W_ReplaceReferences_C:WidgetTree.TextBlock_1.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "20A25FB748DC60BF6365F09B75785A2F",
+			"source": "Socket Name:",
+			"sourceHash": "18455dcb",
+			"origin": "/Game/Blueprints/UICore/Debug/W_AttachmentSlot.W_AttachmentSlot_C:WidgetTree.TextBlock_1.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "254ACCEB4E45BCE469C64EBEC0019AA4",
+			"source": "Exit",
+			"sourceHash": "b1231be8",
+			"origin": "/Game/Blueprints/UICore/Debug/W_ScreenModes.W_ScreenModes_C:WidgetTree.TextBlock.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "25A64D0943B259731D4814A920ED7556",
+			"source": "X",
+			"sourceHash": "2ffdf851",
+			"origin": "/Game/Blueprints/UICore/Debug/W_AttachmentSlot.W_AttachmentSlot_C:WidgetTree.X.HintText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "25F45FE54728EC30A6573AB53322E354",
+			"source": "DEBUG AI PERCEPTION",
+			"sourceHash": "8f84e3e0",
+			"origin": "/Game/Blueprints/UICore/Debug/W_DebugAI_PerceptionData.W_DebugAI_PerceptionData_C:WidgetTree.Accuracy_1.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "2D8621784568BA3614AD0AA42650C4EA",
+			"source": "Target Actor",
+			"sourceHash": "682d19f7",
+			"origin": "/Game/Blueprints/UICore/Debug/W_DebugAI_PerceptionData.W_DebugAI_PerceptionData_C:WidgetTree.PlayerScore_2.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "2E60ECB8424501F1A9807BA51B3ADCE8",
+			"source": "OPEN INVENTORY [TAB]",
+			"sourceHash": "1c1b858d",
+			"origin": "/Game/Blueprints/UICore/Debug/W_OpenInventory.W_OpenInventory_C:WidgetTree.TextBlock_45.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "2EEB5C8D470DA3EB917CF4B7F633441B",
+			"source": "Perceived Data",
+			"sourceHash": "c8ff14e9",
+			"origin": "/Game/Blueprints/UICore/Debug/W_DebugAI_PerceptionData.W_DebugAI_PerceptionData_C:WidgetTree.Accuracy.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "360FB05D43FF90F1E5C97EAF1E125EF7",
+			"source": "Value",
+			"sourceHash": "0cf1a831",
+			"origin": "/Game/Blueprints/UICore/Debug/W_StatInfo_Item.W_StatInfo_Item_C:WidgetTree.Value.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "3B4C435B42CA23343644F0B1A36FD9AB",
+			"source": "Stat Type:",
+			"sourceHash": "1d46c6dc",
+			"origin": "/Game/Blueprints/UICore/Debug/W_StatInfo_Item.W_StatInfo_Item_C:WidgetTree.TextBlock.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "3C5A3CEC49AF9932548F608BFE72EC9B",
+			"source": "Socket Name",
+			"sourceHash": "366f4112",
+			"origin": "/Game/Blueprints/UICore/Debug/W_AttachmentSlot.W_AttachmentSlot_C:WidgetTree.Socket.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "4201D3834B7CE60C616F66B6C876A274",
+			"source": "Value",
+			"sourceHash": "0cf1a831",
+			"origin": "/Game/Blueprints/UICore/Debug/W_StatInfo_Item.W_StatInfo_Item_C:WidgetTree.Value.HintText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "462CC87B46CF2A3A8FDA8B840F1C9F26",
+			"source": "Accuracy",
+			"sourceHash": "0395d0f7",
+			"origin": "/Game/Blueprints/UICore/Debug/W_DebugAI.W_DebugAI_C:WidgetTree.Accuracy.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "47753CA84AFACA1AD39E948AD158757B",
+			"source": "Armor Protection Level",
+			"sourceHash": "810b5148",
+			"origin": "/Game/Blueprints/UICore/Debug/W_DebugArmorPenetration.W_DebugArmorPenetration_C:WidgetTree.Test.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "4C287C5640BD96E625BC8AB49F115BF1",
+			"source": "0",
+			"sourceHash": "d16f27bd",
+			"origin": "/Game/Blueprints/UICore/Debug/W_AttachmentSlot.W_AttachmentSlot_C:WidgetTree.Y.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "4E1AB8B84C620EB2EC88D48F542662E5",
+			"source": "Actor",
+			"sourceHash": "a0725923",
+			"origin": "/Game/Blueprints/UICore/Debug/W_DebugAI_Perception.W_DebugAI_Perception_C:WidgetTree.PlayerScore.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "54D9BCA341146AE0522FF1A29037332F",
+			"source": "Slot Name",
+			"sourceHash": "7d59be1d",
+			"origin": "/Game/Blueprints/UICore/Debug/W_AttachmentSlot.W_AttachmentSlot_C:WidgetTree.Name.HintText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "5F1A90424885F4653F7C388EDA7596A3",
+			"source": "You cannot drop the item here. Please reorder first your inventory. ",
+			"sourceHash": "d572d778",
+			"origin": "/Game/Blueprints/UICore/Debug/W_DragInfo.W_DragInfo_C:WidgetTree.TextBlock_45.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "61CFFF7F42ECE4D768E2CCA56E46D4A8",
+			"source": "100",
+			"sourceHash": "81bf17d8",
+			"origin": "/Game/Blueprints/UICore/Debug/W_DebugArmorPenetration.W_DebugArmorPenetration_C:WidgetTree.HealthText.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "65F504B94EA7D4ACC407F4B226B8723C",
+			"source": "Borderless",
+			"sourceHash": "78d0d203",
+			"origin": "/Game/Blueprints/UICore/Debug/W_ScreenModes.W_ScreenModes_C:WidgetTree.TextBlock_201.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "69033B8547618E7AD4D241B43117B11B",
+			"source": "Armor Durability",
+			"sourceHash": "6db0e63d",
+			"origin": "/Game/Blueprints/UICore/Debug/W_DebugArmorPenetration.W_DebugArmorPenetration_C:WidgetTree.Accuracy_6.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "6C1ECB87429A3AC541C390B3AA3D84C7",
+			"source": "100",
+			"sourceHash": "81bf17d8",
+			"origin": "/Game/Blueprints/UICore/Debug/W_ReplaceReferences.W_ReplaceReferences_C:WidgetTree.ConsolidateAssetCount.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "766F7B8245E3DD74A27FD98B545FB611",
+			"source": "1",
+			"sourceHash": "69d340d8",
+			"origin": "/Game/Blueprints/UICore/Debug/W_PlayerMoney.W_PlayerMoney_C:WidgetTree.TextBlock_251.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "7E3B1B2143324737FF06A49D15712182",
+			"source": "100",
+			"sourceHash": "81bf17d8",
+			"origin": "/Game/Blueprints/UICore/Debug/W_DebugArmorPenetration.W_DebugArmorPenetration_C:WidgetTree.MaxArmorDurabilty.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "7F09C5404B63A5E42AB8D880D1FF135B",
+			"source": "0",
+			"sourceHash": "d16f27bd",
+			"origin": "/Game/Blueprints/UICore/Debug/W_AttachmentSlot.W_AttachmentSlot_C:WidgetTree.X.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "898CF3924EDDD54713B6EA97E339F0E1",
+			"source": "Fix Naming",
+			"sourceHash": "79e55974",
+			"origin": "/Game/Blueprints/UICore/Debug/W_FixAnimMontageNaming.W_FixAnimMontageNaming_C:WidgetTree.TextBlock_1.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "8A74B92D4E11E46BCD56C79528A93A44",
+			"source": "500 000",
+			"sourceHash": "a785903c",
+			"origin": "/Game/Blueprints/UICore/Debug/W_VendorInfo.W_VendorInfo_C:WidgetTree.TextBlock.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "8D5C592340383E3B1F1277AA0808E64D",
+			"source": "Health Points",
+			"sourceHash": "ee3fbec2",
+			"origin": "/Game/Blueprints/UICore/Debug/W_DebugArmorPenetration.W_DebugArmorPenetration_C:WidgetTree.Accuracy.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "8F0EF991466C9312B0F7B99EAF423F16",
+			"source": "Fullscreen",
+			"sourceHash": "e6788a7a",
+			"origin": "/Game/Blueprints/UICore/Debug/W_ScreenModes.W_ScreenModes_C:WidgetTree.TextBlock_61.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "91C2C37E470448D3768AE9922224A440",
+			"source": "Modifier Type:",
+			"sourceHash": "b439d8ed",
+			"origin": "/Game/Blueprints/UICore/Debug/W_StatInfo_Item.W_StatInfo_Item_C:WidgetTree.TextBlock_4.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "9907A29E48C4A54DB8A891BE30C353C1",
+			"source": "Effects",
+			"sourceHash": "64397ce6",
+			"origin": "/Game/Blueprints/UICore/Debug/W_DebugArmorPenetration.W_DebugArmorPenetration_C:WidgetTree.Accuracy_8.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "9C19786F45E30D3ACDAA9481073536E6",
+			"source": "Show ai spread",
+			"sourceHash": "8b16ab97",
+			"origin": "/Game/Blueprints/UICore/Debug/W_DebugAI.W_DebugAI_C:WidgetTree.Accuracy_1.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "A311D35F435B956FF693FB9CC0B761EB",
+			"source": "In Cover? ",
+			"sourceHash": "988ad9e1",
+			"origin": "/Game/Blueprints/UICore/Debug/W_DebugAI_PerceptionData.W_DebugAI_PerceptionData_C:WidgetTree.PlayerScore.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "A69F25C34AA2CE2864F9FF8557E5BBFD",
+			"source": "Distance to Target:",
+			"sourceHash": "a9c6886a",
+			"origin": "/Game/Blueprints/UICore/Debug/W_DebugAI.W_DebugAI_C:WidgetTree.Durability.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "A772948942E8BB69406B08AADABB1921",
+			"source": "500 000",
+			"sourceHash": "a785903c",
+			"origin": "/Game/Blueprints/UICore/Debug/W_PlayerMoney.W_PlayerMoney_C:WidgetTree.TextBlock.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "A77888914A85A1846390BF8F76F0D02E",
+			"source": "Slot Name:",
+			"sourceHash": "96ac701d",
+			"origin": "/Game/Blueprints/UICore/Debug/W_AttachmentSlot.W_AttachmentSlot_C:WidgetTree.TextBlock.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "ACCE670E4E6E16A95E63FF95F888FDAF",
+			"source": "\"",
+			"sourceHash": "2b7fb8a9",
+			"origin": "/Game/Blueprints/UICore/Debug/W_AI_Bark.W_AI_Bark_C:WidgetTree.TextBlock_12.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "AD6E5CBE4F37F57C5C1CCCA94DDD74C6",
+			"source": "PLAYER",
+			"sourceHash": "3d05de03",
+			"origin": "/Game/Blueprints/UICore/Debug/W_VendorInfo.W_VendorInfo_C:WidgetTree.TextBlock_8.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "B1D64DE5475753ADAA2079A513A5AAE4",
+			"source": "$",
+			"sourceHash": "0e14e775",
+			"origin": "/Game/Blueprints/UICore/Debug/W_PlayerMoney.W_PlayerMoney_C:WidgetTree.TextBlock_354.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "B42696E04F6C0CB9757AFBB4BFDB2B44",
+			"source": "Stat Type Name",
+			"sourceHash": "7e2501ac",
+			"origin": "/Game/Blueprints/UICore/Debug/W_StatInfo_Item.W_StatInfo_Item_C:WidgetTree.TextBlock_70.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "BB419DF7490DA51BFBB1A68733960D19",
+			"source": "\"",
+			"sourceHash": "2b7fb8a9",
+			"origin": "/Game/Blueprints/UICore/Debug/W_AI_Bark.W_AI_Bark_C:WidgetTree.TextBlock_1.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "BC04A417412DFBA02265E0969848CB15",
+			"source": "Load Consolidate To Assets",
+			"sourceHash": "23ff3791",
+			"origin": "/Game/Blueprints/UICore/Debug/W_ReplaceReferences.W_ReplaceReferences_C:WidgetTree.TextBlock.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "CD70AC0146BFD07AFA06FEB730547400",
+			"source": "Actor",
+			"sourceHash": "a0725923",
+			"origin": "/Game/Blueprints/UICore/Debug/W_DebugAI_PerceptionData.W_DebugAI_PerceptionData_C:WidgetTree.CoverTExt.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "CE1A9DA941DFD9D7BB85D3A0E5CD7D3C",
+			"source": "Gain Value",
+			"sourceHash": "3af3c60a",
+			"origin": "/Game/Blueprints/UICore/Debug/W_DebugAI_Perception.W_DebugAI_Perception_C:WidgetTree.PlayerScore_1.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "D3E88EB74999BD4E80F94DBCFD4725A1",
+			"source": "I think I've heard something!",
+			"sourceHash": "ee62c500",
+			"origin": "/Game/Blueprints/UICore/Debug/W_AI_Bark.W_AI_Bark_C:WidgetTree.Bark.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "D64FBDBE477AEFB688D352BAD175F08A",
+			"source": "/",
+			"sourceHash": "d9156074",
+			"origin": "/Game/Blueprints/UICore/Debug/W_DebugArmorPenetration.W_DebugArmorPenetration_C:WidgetTree.ArmorDurabilty_1.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "D74AF81044EC37C9F7C6539B1B9A4713",
+			"source": "Load Consolidate Assets",
+			"sourceHash": "0386c273",
+			"origin": "/Game/Blueprints/UICore/Debug/W_ReplaceReferences.W_ReplaceReferences_C:WidgetTree.text.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "DBDDD4544D5EF0B2105A1FA6D61064BE",
+			"source": "Slot Name",
+			"sourceHash": "7d59be1d",
+			"origin": "/Game/Blueprints/UICore/Debug/W_AttachmentSlot.W_AttachmentSlot_C:WidgetTree.Name.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "DE41D03B48CD13846B66E096223D8AD9",
+			"source": "Supported Items:",
+			"sourceHash": "5fd647c7",
+			"origin": "/Game/Blueprints/UICore/Debug/W_AttachmentSlot.W_AttachmentSlot_C:WidgetTree.TextBlock_2.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "DF6A154C4BB11C9734F687A5F442C49F",
+			"source": "Window",
+			"sourceHash": "d162635f",
+			"origin": "/Game/Blueprints/UICore/Debug/W_ScreenModes.W_ScreenModes_C:WidgetTree.test.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "E17EE7CC4EC5F92E4D9420A0ED3527CF",
+			"source": "$",
+			"sourceHash": "0e14e775",
+			"origin": "/Game/Blueprints/UICore/Debug/W_VendorInfo.W_VendorInfo_C:WidgetTree.TextBlock_354.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "E4C718F547DEB6D3A8C79F9C19A9BD26",
+			"source": "Score",
+			"sourceHash": "dd8086a4",
+			"origin": "/Game/Blueprints/UICore/Debug/W_DebugAI_Perception.W_DebugAI_Perception_C:WidgetTree.PlayerScore_2.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "E77FC7EC4FDD396A2D451BB1B27BF396",
+			"source": "4",
+			"sourceHash": "5e0db0ea",
+			"origin": "/Game/Blueprints/UICore/Debug/W_DebugArmorPenetration.W_DebugArmorPenetration_C:WidgetTree.ArmorProtectionLevel.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "EBBCC4B14F9531A575A0389EFD77A6D7",
+			"source": "1",
+			"sourceHash": "69d340d8",
+			"origin": "/Game/Blueprints/UICore/Debug/W_VendorInfo.W_VendorInfo_C:WidgetTree.TextBlock_251.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "F3A9E074422491010E2EB290A53CF766",
+			"source": "100",
+			"sourceHash": "81bf17d8",
+			"origin": "/Game/Blueprints/UICore/Debug/W_DebugArmorPenetration.W_DebugArmorPenetration_C:WidgetTree.ArmorDurabilty.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "F7A6B51C43B18844150D90A4B5093E49",
+			"source": "Health",
+			"sourceHash": "3f675130",
+			"origin": "/Game/Blueprints/UICore/Debug/W_DebugArmorPenetration.W_DebugArmorPenetration_C:WidgetTree.Accuracy_1.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "FF2F50094E7C85563314328FA20C9D49",
+			"source": "Attachment Pos:",
+			"sourceHash": "f7a1c6a2",
+			"origin": "/Game/Blueprints/UICore/Debug/W_AttachmentSlot.W_AttachmentSlot_C:WidgetTree.TextBlock_4.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "FFAD7A7A45370D165F9204A137AA2586",
+			"source": "Armor",
+			"sourceHash": "798c2141",
+			"origin": "/Game/Blueprints/UICore/Debug/W_DebugArmorPenetration.W_DebugArmorPenetration_C:WidgetTree.Accuracy_3.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		}
+	]
+}
