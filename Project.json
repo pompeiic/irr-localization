@@ -10,8 +10,8 @@
 		"ja",
 		"es-ES"
 	],
-	"exportedAt": "2026-09-24T22:05:29.065Z",
-	"entries": 2877,
+	"exportedAt": "2026-09-24T23:30:06.615Z",
+	"entries": 3334,
 	"areas": [
 		{
 			"area": "Blueprints/AI",
@@ -254,7 +254,7 @@
 		{
 			"area": "Inventory/Items",
 			"file": "Areas/Inventory_Items.json",
-			"entries": 157,
+			"entries": 711,
 			"translated":
 			{
 				"de": 0,
@@ -310,7 +310,7 @@
 		{
 			"area": "Inventory/Templates",
 			"file": "Areas/Inventory_Templates.json",
-			"entries": 152,
+			"entries": 52,
 			"translated":
 			{
 				"de": 0,
@@ -520,7 +520,7 @@
 		{
 			"area": "UI/Widgets",
 			"file": "Areas/UI_Widgets.json",
-			"entries": 568,
+			"entries": 571,
 			"translated":
 			{
 				"de": 0,
