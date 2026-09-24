@@ -1,0 +1,6086 @@
+{
+	"schemaVersion": 1,
+	"area": "Inventory/Templates",
+	"entries": [
+		{
+			"ns": "",
+			"key": "001E6F914C2C60921CAE8D86836CBAAF",
+			"source": "The 12/70mm Buckshot is a shotgun shell designed for close-quarters combat and hunting applications. It features a 12-gauge shell with a length of 70 millimeters. Inside the shell, multiple spherical lead pellets, commonly referred to as 'buckshot,' are loaded. Upon firing, the shell discharges these pellets in a spread pattern, making it highly effective for short-range engagements and hunting larger game. The 12/70mm Buckshot is favored by hunters and law enforcement for its ability to deliver a wide and powerful impact on the target, making it a reliable choice in various scenarios.",
+			"sourceHash": "e0a297b1",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/12x70/ID_12x70.ID_12x70.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "01DCAAE840AC7CE7382B44BE943C3E3E",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/GasTube/ID_GasTubeHandguard.ID_GasTubeHandguard.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "02AA25F84F12F3E87104F5ABC07B0C93",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Weapons/SniperRifle/ID_SniperTemplate.ID_SniperTemplate.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "02ACF7394857909C1B9633B1C89E6C0B",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Provisions/Drinks/ID_DrinksTemplate.ID_DrinksTemplate.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "03601A4E4D2B1D211875259371AA3CC4",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/ID_RoundsTemplate.ID_RoundsTemplate.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "03719F164781AC36733B338FCFE7FB0B",
+			"source": "12/70",
+			"sourceHash": "f3b6dd29",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/12x70/ID_12x70.ID_12x70.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "03BC68F14EABD6A4C28859B6DBC0769A",
+			"source": "MP5",
+			"sourceHash": "47ca8b24",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/ID_MasterAttachment.ID_MasterAttachment.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "06B03AA547952E90C2EBD4B907C942A2",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/DustCover/ID_DustCoverHandguard.ID_DustCoverHandguard.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "07FA4D1E441673A6BEA71B96B8161E23",
+			"source": "PLACERHOLDER",
+			"sourceHash": "417379d7",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/545x39/ID_545x39.ID_545x39.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "09BE80514F24114A73AB2385E8F1F454",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Medical/ID_MedicalTemplate.ID_MedicalTemplate.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "0A8FD38A4502F68FB60F13A0A75FE947",
+			"source": "HK MP5 9x19 submachine gun",
+			"sourceHash": "6beddc46",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Weapons/SMG/ID_SMGTemplate.ID_SMGTemplate.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "0B7CA110476C43C12AC97A9AD87219F0",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Handguard/ID_TemplateHandguard.ID_TemplateHandguard.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "0BB265084B6813BC35E57986C8291BDA",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Mag/ID_MagTemplate.ID_MagTemplate.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "0D258D8F4416C566CFB406873432CC0A",
+			"source": "12/70mm Buckshot",
+			"sourceHash": "78c005f3",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/12x70/ID_12x70.ID_12x70.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "0D2F199E487182843125F48A4EBA6AAB",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Sight/ID_SightTemplate.ID_SightTemplate.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "0DF51AD847A8A0050EF99A9B927ED3D9",
+			"source": "A 7.62x39mm PS gzh (GAU Index - 57-N-231) cartridge with a 7.9 gram bullet with a heat-strengthened steel core with lead cladding on the tip and a bimetallic jacket, in a bimetallic case. The PS cartridge (Púlya so Stal'ným serdéchnikom - \"Bullet with a Steel core\") was introduced into service in 1949 for Soviet 7.62x39mm caliber weaponry, and over the years has undergone numerous changes in the materials used for its construction. Thanks to the tempered steel core that this model has, it is able to pierce through basic ballistic body protections as well as some intermediate models in addition to provide a significant stopping power effect, however, it has a high bounce probability off various surfaces.",
+			"sourceHash": "7225e81c",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/ID_RoundsTemplate.ID_RoundsTemplate.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "102A3D474D1F50AA2B9808BB6534B509",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Gear/UnarmoredRig/ID_UnarmoredRigTemplate.ID_UnarmoredRigTemplate.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "116B58E44034900ABA1EEBA35F7C71B9",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/GasTube/ID_GasTubeHandguard.ID_GasTubeHandguard.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "1268A6A745A24051EBA4AE88D4CA71E6",
+			"source": "The Luger (PSO 9х19) 9mm sports and hunting cartridge is intended to be fired from 9 mm pistols at shooting galleries and rifle ranges.",
+			"sourceHash": "0949d837",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/9x19/ID_9x19.ID_9x19.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "1348BA574FCBCD5489BCD5ADD2C31487",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Quest/ID_QuestTemplate.ID_QuestTemplate.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "13C245D346CF3E9F40882291CD0205CB",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Keys/ID_KeyTemplate.ID_KeyTemplate.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "1556F553455A7D9E83DA4F8354C6D86B",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/PistolGrip/ID_TemplatePistolGrip.ID_TemplatePistolGrip.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "15CFF29B4AB44CF9F3606C895B0B7433",
+			"source": "Kolpak-1S protects the head from the cold piercing-cutting weapons in a special class of protection GOST R50744-95, from fragmentation with an energy of impact up to 50 J, and also serves to reduce the dynamic loads arising from the above-mentioned means of destruction. Protective helmets Kolpak-1 are recommended by the Interdepartmental Commission for equipping units of the patrol service, traffic police, OMON and other special units of the Ministry of Internal Affairs of Russia.",
+			"sourceHash": "5d242266",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Gear/Helmet/ID_HelmetTemplate.ID_HelmetTemplate.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "17B3176F422B96C19BACE98199C64567",
+			"source": "AVS PL SGT Vest",
+			"sourceHash": "9bc1566d",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Gear/Belt/ID_BeltTemplate.ID_BeltTemplate.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "184583B94702F094D7221D8A35674AE7",
+			"source": "A tactical belt to fit in magazines, ammunition or medical items.",
+			"sourceHash": "dce379f2",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Gear/Belt/ID_BeltTemplate.ID_BeltTemplate.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "1AD6A75549AA7DD2F9A53490AE6D5949",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Keys/Quarry/ID_KeyTemplate.ID_KeyTemplate.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "1D4729154EF07B57DE04E6A546B1F8E5",
+			"source": "1S",
+			"sourceHash": "f5fd2cc6",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Gear/Helmet/ID_HelmetTemplate.ID_HelmetTemplate.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "1DD02AE2427B3ACE2158D093ABD3EA5C",
+			"source": ".338 300gr UCW",
+			"sourceHash": "48f4c08b",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/x338/ID_x338.ID_x338.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "1EC9E4A245C357967D0FBEA9A7A0CEB7",
+			"source": "57x28 SS198LF",
+			"sourceHash": "ceeb83b0",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/57x28/ID_57x28.ID_57x28.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "20D7E5B3406CA3AE34A888BF1297054A",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Tactical/ID_TemplateTactical.ID_TemplateTactical.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "21BB34B6483CA97ACD10948766322BD1",
+			"source": "Melee",
+			"sourceHash": "76cfe5c0",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Melee/ID_Melee_Temporary.ID_Melee_Temporary.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "22DECD9A49355C77CAFA968CB031E992",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Gear/UnarmoredRig/ID_UnarmoredRigTemplate.ID_UnarmoredRigTemplate.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "23C063D146F033B2DCF29ABEF01CD4B0",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Weapons/Pistol/ID_PistolTemplate.ID_PistolTemplate.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "23DBFA0646ABBAEF9D04C0822F2336AD",
+			"source": "Polymer handguard for HK-produced MP5 SMG, the so-called Wide Tropical version.",
+			"sourceHash": "0eaef1ff",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/ID_MasterAttachment.ID_MasterAttachment.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "24B2E78943EF9790EE656FAB582F8695",
+			"source": "Body Stamina Recovery",
+			"sourceHash": "fbee4d4b",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Provisions/Drinks/ID_DrinksTemplate.ID_DrinksTemplate:U_StaminaBuff_C_2.StatDisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "2530B7C24353F4DC11FB7791BBCF05F5",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Weapons/DMR/ID_DMRTemplate.ID_DMRTemplate.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "2582EE4A4208FF0E288A07BE84CA3EA2",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Receiver/ID_ReceiverTemplate.ID_ReceiverTemplate.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "25A8188A46006ADCAB051BB4B080E158",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Weapons/Rifle/ID_RifleTemplate.ID_RifleTemplate.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "264ECA5247BE74B17C8C1AB86EC6958B",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Handguard/ID_TemplateHandguard.ID_TemplateHandguard.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "291EBC6E4D120A150E5917B61BEA5509",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Gear/NightVision/ID_NightVisionTemplate.ID_NightVisionTemplate.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "2A4A4F414E4B3882730B35A9BEA25B1F",
+			"source": "AK-74M",
+			"sourceHash": "158f5514",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Weapons/ID_MasterWeapon.ID_MasterWeapon.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "310748A2444F0664D1529C9D71AED85B",
+			"source": "PSO",
+			"sourceHash": "5f70202d",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/9x19/ID_9x19.ID_9x19.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "314B3F5344C99070691482B61CBC6840",
+			"source": "545x39",
+			"sourceHash": "51ee2c22",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/545x39/ID_545x39.ID_545x39.ItemAppearance.VendorRow",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "316769F847EE038845137CBB43E040C0",
+			"source": "5.45x39mm SP",
+			"sourceHash": "12da010d",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/762x39/ID_762x39.ID_762x39.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "32DDFD0447893BB7C90B7CB9395B5634",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Keys/ID_KeyTemplate.ID_KeyTemplate.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "34C4C6DF4C3C490E994FC29243FF476E",
+			"source": ".300 Blackout",
+			"sourceHash": "979718ed",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/x300Blackout/ID_x300_Blackout.ID_x300_Blackout.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "35280F9B47BBD3EC76C16BB0D8BCB965",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Gear/PlateCarrier/ID_PlateCarrierTemplate.ID_PlateCarrierTemplate.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "35C3A1DB447815C792E708AC564F7E34",
+			"source": "F-1 Hand Grenade",
+			"sourceHash": "35ba401b",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Grenades/ID_GrenadeTemplate.ID_GrenadeTemplate.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "3869701144B7C87ED5B882AE34100597",
+			"source": "TCW SP",
+			"sourceHash": "34142c45",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/762x51/ID_762x51.ID_762x51.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "3907780F4C0A7074B6834AB9C01F8331",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Weapons/Pistol/ID_PistolTemplate.ID_PistolTemplate.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "3DCEDC444FD22048C576BD86FA7705C3",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Muzzle/ID_TemplateMuzzle.ID_TemplateMuzzle.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "417BC3B849698A170E1A72BD3F06C281",
+			"source": "F-1",
+			"sourceHash": "8e6f3c3c",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Grenades/ID_GrenadeTemplate.ID_GrenadeTemplate.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "423550E3448B456A9BAA4EAF6A273FD8",
+			"source": "The 5.56x45mm FMJ (Full Metal Jacket) cartridge is a widely used ammunition known for its accuracy and reliability. It features a 5.56mm caliber bullet with a full metal jacket, enhancing penetration and flight stability. This ammunition is favored in both military and civilian firearms, such as the M16 and AR-15 platforms, for its versatility in training and combat scenarios, even though it does not expand upon impact.",
+			"sourceHash": "488e3f45",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/556x45/ID_556x45.ID_556x45.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "44B8F340452048A1CBCCCB85C57D9D8D",
+			"source": "The standard ammunition for the KRISS Vector.",
+			"sourceHash": "847c4b67",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/45ACP/ID_45ACP.ID_45ACP.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "4B37D1204F2AE73033F51EAB8892182F",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/GasTube/ID_GasTubeHandguard.ID_GasTubeHandguard.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "4BAC8C5C40F9227F39CF91A83B9EA1FD",
+			"source": "F-1_Hand_Grenade",
+			"sourceHash": "d5436e26",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Grenades/ID_GrenadeTemplate.ID_GrenadeTemplate.ItemAppearance.VendorRow",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "4DCFA24244E2360CEC591CB4725DC5EA",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Muzzle/ID_TemplateMuzzle.ID_TemplateMuzzle.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "4EAC08CC4B4A50AC67EE3FB0C50A0F9E",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Weapons/DMR/ID_DMRTemplate.ID_DMRTemplate.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "4ED496DE440849A233F11EAF8BE5954A",
+			"source": "ANA",
+			"sourceHash": "cfacd277",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Gear/Backpack/ID_BackpackTemplate.ID_BackpackTemplate.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "4F996EB34D1EBBA358D4A5A184542D8B",
+			"source": ".338",
+			"sourceHash": "866ca6a7",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/x338/ID_x338.ID_x338.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "50FCDA3343500E6471A1E99740DE294E",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/ID_RoundsTemplate.ID_RoundsTemplate.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "525D67A5489FB2DADC4A028FFC5EAC67",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Medical/ID_MedicalTemplate.ID_MedicalTemplate.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "528261AE416B3E2852B1C6BE8EFE23AB",
+			"source": "556x45",
+			"sourceHash": "5d521537",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/556x45/ID_556x45.ID_556x45.ItemAppearance.VendorRow",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "5318D0EF4EC24C1093B093B46D4FD7C8",
+			"source": "Placeholder",
+			"sourceHash": "eb3f7275",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Barrel/ID_TemplateBarrel.ID_TemplateBarrel.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "54548F684733069CB4C7B6BDD8AD5757",
+			"source": ".300",
+			"sourceHash": "cd5789ab",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/x300Blackout/ID_x300_Blackout.ID_x300_Blackout.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "56F8E5EE4B912B65AA5F8794CD5C5ADB",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Gear/ArmoredRig/ID_ArmoredRigTemplate.ID_ArmoredRigTemplate.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "59FBAD86455076E2BCB598AB7D9A79F3",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Sight/ID_SightTemplate.ID_SightTemplate.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "5A62395143A79C399934C9835718B087",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Mag/ID_MagTemplate.ID_MagTemplate.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "5BCD62AA47373FD48FB548B867E9FA67",
+			"source": "This small caliber is used by weapons as the P90 and as the name would suggest the Five Seven.",
+			"sourceHash": "1c5845ad",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/57x28/ID_57x28.ID_57x28.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "5BE4940A40351CA44D5A7DA6A775D53B",
+			"source": "9.19mm PSO",
+			"sourceHash": "e530d1f3",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/9x19/ID_9x19.ID_9x19.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "5C59AC104752438033B1278105CDEEBE",
+			"source": "7.62x51mm TCW SP",
+			"sourceHash": "03f96673",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/762x51/ID_762x51.ID_762x51.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "61A7A86042EF50709F6605AF9CA6C57B",
+			"source": "The AK-74M (Avtomat Kalashnikova 74 Modernizirovanny - \"Kalashnikov's Automatic rifle 74 Modernized\") 5.45x39mm assault rifle is a full-scale produced modernized version of the AK-74 that offers more versatility compared with its predecessor. Apart from several minor improvements, such as a lightened bolt and carrier assembly to reduce the impulse of the gas piston and bolt carrier during firing, the rifle features a new glass-filled polyamide stock that retains the shape of the original AK-74 fixed laminated wood stock, but side-folds to the left like the skeletonised AKS-74 buttstock, and also a dovetail side mount for installing various scopes. The AK-74M is a main service rifle of the Russian Federation.",
+			"sourceHash": "388474b5",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Weapons/ID_MasterWeapon.ID_MasterWeapon.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "687A21654AF58DE90A7D57B81662B42A",
+			"source": "Placeholder",
+			"sourceHash": "eb3f7275",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Barrel/ID_TemplateBarrel.ID_TemplateBarrel.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "68B33D2E45280443F92B87994405DB53",
+			"source": "762x51",
+			"sourceHash": "bc394fbc",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/762x51/ID_762x51.ID_762x51.ItemAppearance.VendorRow",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "6D4A074242546E0E618064A5B4B6672C",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Foregrip/ID_ForegripTemplate.ID_ForegripTemplate.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "6E5B76934CBCC4BD053BC8892BEE3FB9",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Sight/ID_SightTemplate.ID_SightTemplate.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "725150D742745828B800DE813B15DE5E",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Weapons/Rifle/ID_RifleTemplate.ID_RifleTemplate.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "7283712F4CD35C72C5EBFE99E6AD6A23",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/PistolGrip/ID_TemplatePistolGrip.ID_TemplatePistolGrip.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "733ED3204D74B337515AAB89B0218A59",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Quest/ID_QuestTemplate.ID_QuestTemplate.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "7397258C481595782ED526A2CC387319",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Mag/ID_MagTemplate.ID_MagTemplate.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "74665162429BA5FFF870899C70E85DEE",
+			"source": "SP",
+			"sourceHash": "758624ee",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/545x39/ID_545x39.ID_545x39.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "74B350AD4642D73FF0486A86856601FB",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Gear/UnarmoredRig/ID_UnarmoredRigTemplate.ID_UnarmoredRigTemplate.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "782DDD6546096319AF9F7BBEBDD54308",
+			"source": "HK MP5 Polymer Handguard",
+			"sourceHash": "ff602100",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/ID_MasterAttachment.ID_MasterAttachment.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "7B279CC44DE88178C6C9A595320D28CF",
+			"source": "ACP",
+			"sourceHash": "bc0cf75c",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/45ACP/ID_45ACP.ID_45ACP.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "7B2C54E8485F6D23065DD1A9C8D130A0",
+			"source": "MP5",
+			"sourceHash": "47ca8b24",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Weapons/SMG/ID_SMGTemplate.ID_SMGTemplate.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "7B7DD3CF4698E62AD38A40BCBC0A7AEA",
+			"source": "Placeholder",
+			"sourceHash": "eb3f7275",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Barter/ID_BarterTemplate.ID_BarterTemplate.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "7D2AAD7D4CCEB62A166B609829CAC509",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Keys/ID_KeyTemplate.ID_KeyTemplate.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "7D96B6964E04336F9A7B8FAE11568252",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Receiver/ID_ReceiverTemplate.ID_ReceiverTemplate.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "7EDA8AA149A068998768E6ADEDCE4CE7",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/PistolGrip/ID_TemplatePistolGrip.ID_TemplatePistolGrip.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "7FEA073645BC9F197C073A915A2D269B",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Weapons/LMG/ID_LMG_Template.ID_LMG_Template.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "820ECE1B40875DCE9727B89063AEA3D5",
+			"source": "ANA Tactical Beta 2 Battle backpack",
+			"sourceHash": "b994a038",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Gear/Backpack/ID_BackpackTemplate.ID_BackpackTemplate.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "85782013497A19744F72D7BA077FFBB4",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Medical/ID_MedicalTemplate.ID_MedicalTemplate.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "85FDE5324C0B670D2C6560A3D4625A46",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Keys/Bunker/ID_KeyTemplate.ID_KeyTemplate.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "8729FD834D899EC2530047B302B782DB",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Rail/ID_TemplateRail.ID_TemplateRail.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "8CDB69CB4B7DB3EE4C636D8773BD3492",
+			"source": "Kolpak-1S riot helmet",
+			"sourceHash": "33f111e7",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Gear/Helmet/ID_HelmetTemplate.ID_HelmetTemplate.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "92C4EAE74AE9BDFBE773D68B71ADF567",
+			"source": "SP",
+			"sourceHash": "758624ee",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/762x39/ID_762x39.ID_762x39.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "93E261FE4CF418C10E6246A587F6C3EC",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Keys/Bunker/ID_KeyTemplate.ID_KeyTemplate.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "9685E0EB4D6636219A616DA7CA621842",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Keys/Bunker/ID_KeyTemplate.ID_KeyTemplate.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "96B0CBDA4B4D9E12792DED980E26D899",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Gear/NightVision/ID_NightVisionTemplate.ID_NightVisionTemplate.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "97C8C602457B4A5B5D2DBF89FBA6A332",
+			"source": "x338",
+			"sourceHash": "1da40727",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/x300Blackout/ID_x300_Blackout.ID_x300_Blackout.ItemAppearance.VendorRow",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "997051554BA3BB1B7976508EA035BD07",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Weapons/Pistol/ID_PistolTemplate.ID_PistolTemplate.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "9B49492E4C1C13C8D15756B332162D75",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Foregrip/ID_ForegripTemplate.ID_ForegripTemplate.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "A0CB26EE4C40629C4AFAC29060FA1DE1",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Handguard/ID_TemplateHandguard.ID_TemplateHandguard.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "A311DEC344AFB9D0DF6B699FE6A74166",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/DustCover/ID_DustCoverHandguard.ID_DustCoverHandguard.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "A3F9B2BB4386215F58A25EAAFCB5FA1E",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Weapons/LMG/ID_LMG_Template.ID_LMG_Template.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "A5B91B2B49B96ECA7BEBF6B1B6665157",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Tactical/ID_TemplateTactical.ID_TemplateTactical.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "A6D7489540B4B3335B92688A2C669A83",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Gear/ArmoredRig/ID_ArmoredRigTemplate.ID_ArmoredRigTemplate.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "A862EFEC41D7D1593A52D9A870535E1F",
+			"source": "5.45x39mm SP",
+			"sourceHash": "12da010d",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/545x39/ID_545x39.ID_545x39.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "A8E1B8214F740BC5F660B7BFC70C9449",
+			"source": "5.56x45mm FMJ",
+			"sourceHash": "6e57b187",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/556x45/ID_556x45.ID_556x45.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "B0C4C32944B26E9EAE3A159B286DF61E",
+			"source": "45ACP",
+			"sourceHash": "f79a223c",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/45ACP/ID_45ACP.ID_45ACP.ItemAppearance.VendorRow",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "B1493B2E4CD2804A565D1F8E095A3DCD",
+			"source": "12x70",
+			"sourceHash": "bb556eaa",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/12x70/ID_12x70.ID_12x70.ItemAppearance.VendorRow",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "B4E547F3445A3944207AE7800BB2D4CC",
+			"source": "Melee",
+			"sourceHash": "76cfe5c0",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Melee/ID_Melee_Temporary.ID_Melee_Temporary.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "B5E92D324B23A505DE7BF19F2EA5A880",
+			"source": "9x19 PSO",
+			"sourceHash": "509b6535",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/9x19/ID_9x19.ID_9x19.ItemAppearance.VendorRow",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "B5F8F6EE4E11A3A54303C88634795F05",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Weapons/SniperRifle/ID_SniperTemplate.ID_SniperTemplate.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "B65FC8304A4F24F7E596F7A965A5B223",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Quest/ID_QuestTemplate.ID_QuestTemplate.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "B7C6A8094389E02A9D9E059021448834",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Gear/ArmoredRig/ID_ArmoredRigTemplate.ID_ArmoredRigTemplate.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "B8741E294D56A482A7A3A19AF88A1926",
+			"source": "SS198LF",
+			"sourceHash": "9471d112",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/57x28/ID_57x28.ID_57x28.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "BCA4A72144EC41864392A6B32828BB72",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Weapons/SniperRifle/ID_SniperTemplate.ID_SniperTemplate.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "BE01C51D40AE93A15F742686EDFD35BE",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Weapons/Rifle/ID_RifleTemplate.ID_RifleTemplate.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "BEECBFD44D1B230970A88DAF63E649FB",
+			"source": "PLACEHOLDER",
+			"sourceHash": "7e1e0cdf",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/762x51/ID_762x51.ID_762x51.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "BF381E364E39B9E4022B0499940AC776",
+			"source": "PL SGT",
+			"sourceHash": "275572d5",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Gear/Belt/ID_BeltTemplate.ID_BeltTemplate.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "C08BFB6D41104448A99122BD405FCA15",
+			"source": "Placeholder",
+			"sourceHash": "eb3f7275",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Barrel/ID_TemplateBarrel.ID_TemplateBarrel.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "C4C0EB814877D7F92A475F8984EA683B",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Muzzle/ID_TemplateMuzzle.ID_TemplateMuzzle.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "C4D7ACAF443CD18B3E2B70AA8C1392C6",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Stock/ID_TemplateStock.ID_TemplateStock.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "C5C626CE4FA3A4624C5CACBA18EE9FB7",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Stock/ID_TemplateStock.ID_TemplateStock.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "C626057B40CEE7C81C0AD182A0486EBE",
+			"source": "Body Stamina Drain",
+			"sourceHash": "96315ab1",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Provisions/Drinks/ID_DrinksTemplate.ID_DrinksTemplate:U_StaminaDrain_C_0.StatDisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "C76D75C345312E45855866807016CBC4",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Stock/ID_TemplateStock.ID_TemplateStock.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "CA51AC614ECE0BBCDE0854ABF6ACEEC8",
+			"source": ".45ACP Lasermatch Hydra-Shok",
+			"sourceHash": "f583e721",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/45ACP/ID_45ACP.ID_45ACP.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "CC07657A487CFCDF59D75C981E4B857E",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Weapons/DMR/ID_DMRTemplate.ID_DMRTemplate.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "CE706D0244C7DB69FEE67A8A3E5CF1CC",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/DustCover/ID_DustCoverHandguard.ID_DustCoverHandguard.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "CE9E40B54C38CF6FB82CD3B9E9E45024",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Rail/ID_TemplateRail.ID_TemplateRail.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "CF2901704D044C24B9821B8C7B3190F0",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Weapons/LMG/ID_LMG_Template.ID_LMG_Template.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "CF41B6B841DD250979B930B5CD4D0ED3",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Gear/PlateCarrier/ID_PlateCarrierTemplate.ID_PlateCarrierTemplate.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "CFEAF4234726FC4D178D5FA7446F1217",
+			"source": "FMJ",
+			"sourceHash": "e2babb1a",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/556x45/ID_556x45.ID_556x45.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "D39EE2A34E0E0688063B70ACB04A8D49",
+			"source": "57x28",
+			"sourceHash": "02b57e6e",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/57x28/ID_57x28.ID_57x28.ItemAppearance.VendorRow",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "D9CD9B40464ACE9D2864C8A968D8E37A",
+			"source": "Melee",
+			"sourceHash": "76cfe5c0",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Melee/ID_Melee_Temporary.ID_Melee_Temporary.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "DAAB95FA4E9D781722BA3594541D7C1F",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Tactical/ID_TemplateTactical.ID_TemplateTactical.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "DAE044854ABD9364FF5BF8B8952E299A",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Gear/PlateCarrier/ID_PlateCarrierTemplate.ID_PlateCarrierTemplate.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "DB26EC63482255AB9AA014AA6BAD48B1",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Receiver/ID_ReceiverTemplate.ID_ReceiverTemplate.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "E1B5A12F4A6B4F91FE74A18B1EAC9BAA",
+			"source": "PLACERHOLDER",
+			"sourceHash": "417379d7",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/762x39/ID_762x39.ID_762x39.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "E69CEB8544D51264A623018A90149113",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Foregrip/ID_ForegripTemplate.ID_ForegripTemplate.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "E939BEDE4ADD76E6E5D2208A6143909B",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Keys/Quarry/ID_KeyTemplate.ID_KeyTemplate.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "E9F6EE1C4E614AE67248D3A70F7FC668",
+			"source": "A popular frag grenade that has a good chance to pierce through armor as well.",
+			"sourceHash": "dbe22d96",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Grenades/ID_GrenadeTemplate.ID_GrenadeTemplate.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "EACD6AF44F89EF31B29CDFAF7DE918B3",
+			"source": "545x39",
+			"sourceHash": "51ee2c22",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/762x39/ID_762x39.ID_762x39.ItemAppearance.VendorRow",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "F1E310B24735268F5C1018810E09DF93",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Rail/ID_TemplateRail.ID_TemplateRail.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "F2BD321E491B97261E4CD0A528E01B54",
+			"source": "AK-74M",
+			"sourceHash": "158f5514",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Weapons/ID_MasterWeapon.ID_MasterWeapon.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "F4194D33471286603B3637A86D2C990E",
+			"source": "x338",
+			"sourceHash": "1da40727",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/x338/ID_x338.ID_x338.ItemAppearance.VendorRow",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "F43BABF6444F366B4C265FA511F51194",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Gear/NightVision/ID_NightVisionTemplate.ID_NightVisionTemplate.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "F6227EEC4A43498689A29398E0C00636",
+			"source": "Template",
+			"sourceHash": "788e0901",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Keys/Quarry/ID_KeyTemplate.ID_KeyTemplate.ItemAppearance.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "F652A2B14BAF60AA413DBC9B353BC75A",
+			"source": "The .338 300gr AP (Armor-Piercing) cartridge is a formidable ammunition choice. It features a .338 caliber bullet weighing 300 grains, designed for penetrating armored targets. This cartridge is known for its exceptional armor-piercing capabilities, making it ideal for military and law enforcement applications where defeating armored or heavily protected targets is essential. Its design ensures deep penetration and reliable performance, making it a reliable choice for specialized missions requiring enhanced stopping power.",
+			"sourceHash": "8da69288",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/x338/ID_x338.ID_x338.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "F91EA5CE49835B87B5D666AFCA37B523",
+			"source": "A lightweight and capacious backpack from ANA Tactical. Specially designed for use in dynamic conditions and on rough terrain.",
+			"sourceHash": "3a95a9da",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Gear/Backpack/ID_BackpackTemplate.ID_BackpackTemplate.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "FC0EC47941EEDC9DC449AAA35FE77EF5",
+			"source": "HK MP5 9x19 submachinegun with Navy 3 Round Burst firing mechanism version, which features three-round cutoff. Widely acclaimed model of a submachinegun, primarily known as weapon of GSG9 and similar forces of the world, and famous through frequent appearance in movies and video games.",
+			"sourceHash": "16b671e0",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Weapons/SMG/ID_SMGTemplate.ID_SMGTemplate.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		}
+	]
+}
