@@ -1,0 +1,1486 @@
+{
+	"schemaVersion": 1,
+	"area": "Missions/Objects",
+	"entries": [
+		{
+			"ns": "",
+			"key": "08D072D84C99FC75B8C175951963E753",
+			"source": "Cancel",
+			"sourceHash": "38947156",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/HideoutCondition/BP_HideoutCondition_PlayerLevel.BP_HideoutCondition_PlayerLevel_C:ExecuteUbergraph_BP_HideoutCondition_PlayerLevel [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "101FFE4D4917F98DA8AB82B86B431300",
+			"source": "Requires Player Level {level} .",
+			"sourceHash": "c1aceb97",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/HideoutCondition/BP_HideoutCondition_PlayerLevel.BP_HideoutCondition_PlayerLevel_C:GetConditionDescription [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "10F72B0547CA71D9E575318591D43AFD",
+			"source": "RequestLogin",
+			"sourceHash": "f5a90c45",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/Terminal/Sequences/BP_TerminalSequence_RequestLogin.Default__BP_TerminalSequence_RequestLogin_C.Command.Command",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "1178FCB24301A5DA90525589B5FFF267",
+			"source": "Find & collect item.",
+			"sourceHash": "c9718a88",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/Objectives/SubClasses/BP_IRRObjective_FindItem.Default__BP_IRRObjective_FindItem_C.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "159D8DAA475DF4E19918A2B21BCCE84C",
+			"source": "Travel To Terminal?",
+			"sourceHash": "dffcefb4",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/HideoutCondition/BP_HideoutCondition_Reputation.BP_HideoutCondition_Reputation_C:ExecuteUbergraph_BP_HideoutCondition_Reputation [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "16EE2605490F0B1E5246E0A1C5B9F66E",
+			"source": "Start hacking procedure. Interrupt by pressing any key.",
+			"sourceHash": "ba0c456d",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/Terminal/Arguments/BP_TerminalArgument_Hack.Default__BP_TerminalArgument_Hack_C:BP_TerminalSequence_Text_C_0.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "27EB21ED4FF65F003790159FBBE12E7A",
+			"source": "Extract",
+			"sourceHash": "4f26e863",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/Sequences/BP_Sequence_Extract.Default__BP_Sequence_Extract_C.Headline",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "36549CFB46BD6349137661B572ED72D4",
+			"source": "Requires {faction} Level {level}.",
+			"sourceHash": "4cd785a0",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/GraphCondition/BP_GraphCondition_Reputation.BP_GraphCondition_Reputation_C:GetConditionDescription [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "3AB7F6AE4FAF995D444515975AC5B901",
+			"source": "Travel To Hideout Unit?",
+			"sourceHash": "0c33764a",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/HideoutCondition/BP_HideoutCondition_HideoutUnitLevel.BP_HideoutCondition_HideoutUnitLevel_C:ExecuteUbergraph_BP_HideoutCondition_HideoutUnitLevel [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "40AC00B34049DE7E01956D9603952BF9",
+			"source": "Deliver {count} {targetdata} to the vendor.",
+			"sourceHash": "7e239e26",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/Objectives/SubClasses/BP_IRRObjective_DeliverItem.Default__BP_IRRObjective_DeliverItem_C.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "56CB88B9428017C9F28BD9BFA8FA30F3",
+			"source": "{Command} {l} {r} {user}",
+			"sourceHash": "f0cfa1fd",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/Terminal/Sequences/BP_TerminalSequence_Text.Default__BP_TerminalSequence_Text_C.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "59847F55453F21F014701E86981661D5",
+			"source": "Continue",
+			"sourceHash": "01126727",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/HideoutCondition/BP_HideoutCondition_PlayerLevel.BP_HideoutCondition_PlayerLevel_C:ExecuteUbergraph_BP_HideoutCondition_PlayerLevel [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "65C9FC7D453C3508A214BFA244EAAD2E",
+			"source": "No need to write anything.",
+			"sourceHash": "c7a536da",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/GraphCondition/BP_GraphCondition_Reputation.Default__BP_GraphCondition_Reputation_C.ConditionDescription",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "67F0BDD940DF46861A963A9A9AB85408",
+			"source": "Sell {count} {targetdata} to the vendor",
+			"sourceHash": "72933220",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/Objectives/SubClasses/BP_IRRObjective_SellItem.Default__BP_IRRObjective_SellItem_C.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "84878F5D4F7A45100D23C5B61760E6C3",
+			"source": "Continue",
+			"sourceHash": "01126727",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/HideoutCondition/BP_HideoutCondition_HideoutUnitLevel.BP_HideoutCondition_HideoutUnitLevel_C:ExecuteUbergraph_BP_HideoutCondition_HideoutUnitLevel [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "89DA7619477EC13D391ECEAE9E04A28E",
+			"source": "Travel To Terminal?",
+			"sourceHash": "dffcefb4",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/HideoutCondition/BP_HideoutCondition_PlayerLevel.BP_HideoutCondition_PlayerLevel_C:ExecuteUbergraph_BP_HideoutCondition_PlayerLevel [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "8D760DE34A7589873DD79C82F9171205",
+			"source": "Failed to login. Credentials do not match.",
+			"sourceHash": "a0e7ed21",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/Terminal/Sequences/BP_TerminalSequence_RequestLogin.Default__BP_TerminalSequence_RequestLogin_C:BP_TerminalSequence_Text_C_1.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "931D07754BC45F54DD5CAAA3667A801C",
+			"source": "Cancel",
+			"sourceHash": "38947156",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/HideoutCondition/BP_HideoutCondition_Reputation.BP_HideoutCondition_Reputation_C:ExecuteUbergraph_BP_HideoutCondition_Reputation [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "93F554134C2E94851BAA4B959F5BA497",
+			"source": "Extract {x} times successfully from a raid.",
+			"sourceHash": "c8f3ffaf",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/Objectives/SubClasses/BP_IRRObjectie_Extract.Default__BP_IRRObjectie_Extract_C.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "9A48A7124A627645EAFA4F8605C7BD65",
+			"source": "{user} has not access to this directory.",
+			"sourceHash": "9d629c27",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/Terminal/DirectoryRequirement/BP_TerminalDirectoryRequirement_IsCorrectUser.Default__BP_TerminalDirectoryRequirement_IsCorrectUser_C:BP_TerminalSequence_Text_C_0.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "9E71521B46DD68DB35FF4C9F2BD567DB",
+			"source": "Complete {count} operations of type {targetdata}.",
+			"sourceHash": "11e62e4f",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/Objectives/SubClasses/BP_IRRObjective_CompleteOperation.Default__BP_IRRObjective_CompleteOperation_C.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "A254F2174A0373F39A2A7E8A5EA0F9B3",
+			"source": "read users.txt",
+			"sourceHash": "e5d92a9b",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/Terminal/DirectoryRequirement/BP_TerminalDirectoryRequirement_IsCorrectUser.BP_TerminalDirectoryRequirement_IsCorrectUser_C:GetAccessCommands [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "AA4672204D5CA7F619AF6D86E228DBB5",
+			"source": "Successfully logged in as [{user}].",
+			"sourceHash": "b47b1ea2",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/Terminal/Sequences/BP_TerminalSequence_RequestLogin.Default__BP_TerminalSequence_RequestLogin_C:BP_TerminalSequence_Text_C_0.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "B891F71943C9041F834EB39D2311F0D0",
+			"source": "Requires {faction} Level {level}.",
+			"sourceHash": "4cd785a0",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/HideoutCondition/BP_HideoutCondition_Reputation.BP_HideoutCondition_Reputation_C:GetConditionDescription [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "BD8C280B4E2593EB12BD9D943659A67D",
+			"source": "Use {x} to upgrade {y}.",
+			"sourceHash": "830ba8f8",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/Objectives/SubClasses/BP_IRRObjectie_UpgradeHideoutUnit.Default__BP_IRRObjectie_UpgradeHideoutUnit_C.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "C096A49241E03944C62F26BE702CA155",
+			"source": "Place {item} at marked position.",
+			"sourceHash": "1ccbf5fa",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/Objectives/SubClasses/BP_IRRObjectie_Place.Default__BP_IRRObjectie_Place_C.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "C75F041E40E6E24F61FE61A94A07F84A",
+			"source": "Kill enemies in the AREA TAG PLACEHOLDER.",
+			"sourceHash": "7b34ba80",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/Objectives/SubClasses/BP_IRRObjectie_ClearArea.Default__BP_IRRObjectie_ClearArea_C.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "CF6BE8F6452B36AA2BE8BF9E2ADB1E24",
+			"source": "Continue",
+			"sourceHash": "01126727",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/HideoutCondition/BP_HideoutCondition_Reputation.BP_HideoutCondition_Reputation_C:ExecuteUbergraph_BP_HideoutCondition_Reputation [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "D37BE9D241811A536FF46BB6C21A1C4C",
+			"source": "Directory {active}\r\n{directories} {files}\r\n",
+			"sourceHash": "b466ee3e",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/Terminal/Sequences/BP_TerminalSequence_Dir.Default__BP_TerminalSequence_Dir_C.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "DB037BE147A3545FDBF1089559021060",
+			"source": "Retrieve evidence from {x}.",
+			"sourceHash": "b1ba3bbf",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/Objectives/SubClasses/BP_IRRObjective_LootArea.Default__BP_IRRObjective_LootArea_C.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "E13E36BE4BCE3F8B3F3CF49BA36635F4",
+			"source": "Cancel",
+			"sourceHash": "38947156",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/HideoutCondition/BP_HideoutCondition_HideoutUnitLevel.BP_HideoutCondition_HideoutUnitLevel_C:ExecuteUbergraph_BP_HideoutCondition_HideoutUnitLevel [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "E46A20EB488DDB5FE518D89FD70AED3F",
+			"source": "Eliminate {count} with a {targetdata}.",
+			"sourceHash": "f67efa95",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/Objectives/SubClasses/BP_IRRObjectie_Kill.Default__BP_IRRObjectie_Kill_C.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "EA5FA62A42CCBF3C99911284C06D993E",
+			"source": "Requires {unit} Level {level} .",
+			"sourceHash": "58be9653",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/HideoutCondition/BP_HideoutCondition_HideoutUnitLevel.BP_HideoutCondition_HideoutUnitLevel_C:GetConditionDescription [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "EF1E1F3C456E73FA548D5CBEAC87904F",
+			"source": "login",
+			"sourceHash": "0cdb02e1",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/Terminal/DirectoryRequirement/BP_TerminalDirectoryRequirement_IsCorrectUser.BP_TerminalDirectoryRequirement_IsCorrectUser_C:GetAccessCommands [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "F8D6266A4E76E034E91A75B33402D3D3",
+			"source": "Find {x} location.",
+			"sourceHash": "2add94dc",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/Objectives/SubClasses/BP_IRRObjective_FindLocation.Default__BP_IRRObjective_FindLocation_C.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "FA1CDC09456E83A2467576893835C495",
+			"source": "Investigate {x} location.",
+			"sourceHash": "abfe9787",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/Objectives/SubClasses/BP_IRRObjective_InvestigateArea.Default__BP_IRRObjective_InvestigateArea_C.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "UObjectToolTips",
+			"key": "ContainerItem:ItemDimensions",
+			"source": "UPROPERTY(EditAnywhere, BlueprintReadWrite, Transient)\n       TArray<FGuid> RequiredFromItemUIDs;",
+			"sourceHash": "dd2c16d4",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/Services/BP_Service_ConvoyDestroyed.TryExecute:K2Node_BreakStruct_2.ShowPinForProperties(9).ShowPinForProperties.PropertyTooltip",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		}
+	]
+}
