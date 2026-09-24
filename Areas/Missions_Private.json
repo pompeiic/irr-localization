@@ -1,0 +1,406 @@
+{
+	"schemaVersion": 1,
+	"area": "Missions/Private",
+	"entries": [
+		{
+			"ns": "IRRInbox",
+			"key": "Complete_1",
+			"source": "Operation complete, operator. Clean execution in the field - your handler is more than pleased with the result. Your compensation has been cleared; collect it whenever you're ready.",
+			"sourceHash": "a17c6c37",
+			"origin": "Source/IRRMissionSystem/Private/Events/IRRMissionEvent_AddInboxEntry.cpp(18)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRInbox",
+			"key": "Complete_2",
+			"source": "Nice work out there. Objective secured without leaving a mess, and that buys you real goodwill with us. Your reward is waiting - don't leave it sitting.",
+			"sourceHash": "d154fddd",
+			"origin": "Source/IRRMissionSystem/Private/Events/IRRMissionEvent_AddInboxEntry.cpp(19)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRInbox",
+			"key": "Complete_3",
+			"source": "Mission successful. You got the job done and the higher-ups are impressed with how you handled it. Head over and claim what you've earned.",
+			"sourceHash": "c955c398",
+			"origin": "Source/IRRMissionSystem/Private/Events/IRRMissionEvent_AddInboxEntry.cpp(20)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRInbox",
+			"key": "Complete_4",
+			"source": "That's a wrap. The faction is happy with your execution on this one - exactly the kind of work we like to see. Your payment has been released for pickup.",
+			"sourceHash": "b31e8ae0",
+			"origin": "Source/IRRMissionSystem/Private/Events/IRRMissionEvent_AddInboxEntry.cpp(21)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRInbox",
+			"key": "Complete_5",
+			"source": "Debrief received: flawless. You came through in the raid and the faction won't forget it. Your reward is ready to be collected at your convenience.",
+			"sourceHash": "ad250395",
+			"origin": "Source/IRRMissionSystem/Private/Events/IRRMissionEvent_AddInboxEntry.cpp(22)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRInbox",
+			"key": "OpComplete_1",
+			"source": "Operation complete on {Level}, operator. Item and cash rewards are in your inbox - collect them when you are ready.",
+			"sourceHash": "cc50910b",
+			"origin": "Source/IRRMissionSystem/Private/Events/IRRMissionEvent_AddOperationInboxEntry.cpp(103)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRInbox",
+			"key": "OpComplete_2",
+			"source": "The field work on {Level} is done. Your compensation is waiting in your messages.",
+			"sourceHash": "a20e1f7e",
+			"origin": "Source/IRRMissionSystem/Private/Events/IRRMissionEvent_AddOperationInboxEntry.cpp(104)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRInbox",
+			"key": "OpComplete_3",
+			"source": "Objective secured on {Level}. Payment has been cleared to your inbox.",
+			"sourceHash": "e9ca4aa3",
+			"origin": "Source/IRRMissionSystem/Private/Events/IRRMissionEvent_AddOperationInboxEntry.cpp(105)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRInbox",
+			"key": "OpCompletedOn",
+			"source": "Completed on {Level}.",
+			"sourceHash": "0b4a741f",
+			"origin": "Source/IRRMissionSystem/Private/Events/IRRMissionEvent_AddOperationInboxEntry.cpp(191)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRInbox",
+			"key": "UnknownLevel",
+			"source": "this raid",
+			"sourceHash": "17f8832a",
+			"origin": "Source/IRRMissionSystem/Private/Events/IRRMissionEvent_AddOperationInboxEntry.cpp(177)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		}
+	]
+}
