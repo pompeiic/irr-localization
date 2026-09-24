@@ -1,0 +1,206 @@
+{
+	"schemaVersion": 1,
+	"area": "Blueprints/ResourceSystem",
+	"entries": [
+		{
+			"ns": "",
+			"key": "26DC57C44521D3428D621A86ACEE75B9",
+			"source": "{x} {y} gathered.",
+			"sourceHash": "c81c51be",
+			"origin": "/Game/Blueprints/ResourceSystem/Actor/BP_ResourceActor.BP_ResourceActor_C:ExecuteUbergraph_BP_ResourceActor [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "B2EA10174206A68544FD9FA223944373",
+			"source": "Concrete",
+			"sourceHash": "0154db22",
+			"origin": "/Game/Blueprints/ResourceSystem/Data/Resources/DA_ResourceType_Concrete.DA_ResourceType_Concrete.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "D663D6234D3A7894E7A7A281E6D1D775",
+			"source": "Metal",
+			"sourceHash": "85993fb2",
+			"origin": "/Game/Blueprints/ResourceSystem/Data/Resources/DA_ResourceType_Metal.DA_ResourceType_Metal.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "EB2E1F214C4A52E37A270EB9C5FEE3E3",
+			"source": "Oil",
+			"sourceHash": "87761dc5",
+			"origin": "/Game/Blueprints/ResourceSystem/Data/Resources/DA_ResourceType_Oil.DA_ResourceType_Oil.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "EC671AF1437DC71AEDD1D08BA6EF8244",
+			"source": "Food",
+			"sourceHash": "761df571",
+			"origin": "/Game/Blueprints/ResourceSystem/Data/Resources/DA_ResourceType_Food.DA_ResourceType_Food.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		}
+	]
+}
