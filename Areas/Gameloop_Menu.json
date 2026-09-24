@@ -1,0 +1,1286 @@
+{
+	"schemaVersion": 1,
+	"area": "Gameloop/Menu",
+	"entries": [
+		{
+			"ns": "",
+			"key": "09DDE7394F8E28B9A7CA5FB42DCBE77F",
+			"source": "Travis Siegel - Assistent Writer",
+			"sourceHash": "4c86409a",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_41.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "1AB68CF34F537878467DE9B40E9E3F97",
+			"source": "PERFORMANCE, CONTENT, & GRAPHICS ARE SUBJECT TO CHANGE",
+			"sourceHash": "cd009a97",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_BeginPlayScreen.WB_BeginPlayScreen_C:WidgetTree.InfoText_4.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "1CE12F7046474A199765A3AB8FF414AC",
+			"source": "Alpha {build}",
+			"sourceHash": "7dcb5323",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_BeginPlayScreen.WB_BeginPlayScreen_C:ExecuteUbergraph_WB_BeginPlayScreen [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "1E08393C42CBB680434791A1BD2D3A0D",
+			"source": "Mark - Environment Art / Technical Artist",
+			"sourceHash": "fccc1ec3",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Mark.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "2177300C4EACCD99F63F7EB03309EABB",
+			"source": "PRESS ANY KEY TO START",
+			"sourceHash": "0448b84d",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_BeginPlayScreen.WB_BeginPlayScreen_C:WidgetTree.IRRTextBlock_8.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "2BA310334DEDCED67D26B5ACF0415E8F",
+			"source": "Special Thanks ",
+			"sourceHash": "dd2477c4",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.TextBlock_3.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "2F7CA24C4E00CF814A34FD92C6EFE08B",
+			"source": "Marcin - 3D Artist",
+			"sourceHash": "94c0b61c",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_25.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "30562B4F4B1EB9D04697E493F027C574",
+			"source": "Liam - Sound Designer",
+			"sourceHash": "5ca670bf",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_5.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "444FCE2F468BC806707688A9A7E40B50",
+			"source": "Sacha - Sound Designer",
+			"sourceHash": "e8f3c0fd",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_21.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "44CA06B940E112701F6B6AAEF039DD84",
+			"source": "Moritz - Lead Developer/Engineering",
+			"sourceHash": "1f2f4d4c",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "636BA8E5472107A98D931CBAF89FF571",
+			"source": "Robin - Creative Director/Level Designer/UI & UX",
+			"sourceHash": "af91c151",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_20.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "63AC75A2478BFDCD31E026A2023FAE41",
+			"source": "ALPHA v1.0.10.5",
+			"sourceHash": "73099f25",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_BeginPlayScreen.WB_BeginPlayScreen_C:WidgetTree.BuildText.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "750FF54F47F45C1A452BA4A27E3C180B",
+			"source": "Erwin - Gameplay Animator",
+			"sourceHash": "833dfc92",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_22.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "7BA62B224EEA290B905F2DB993CB8374",
+			"source": "Powered by Wwise © 2006 – 2024 Audiokinetic Inc. All rights reserved.",
+			"sourceHash": "26891721",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.LongText.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "81CFE1244A0DC99E3AA6D2AF6ED489A9",
+			"source": "Noah - Technical Art Advisory",
+			"sourceHash": "506d9c4b",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_17.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "8829250C45412C6CEFFF2AA983A7D5B3",
+			"source": "Dakota Dawe [Sneaky Kitty] - Programming Advisory",
+			"sourceHash": "959b2c08",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_10.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "8917F18849427A775CB69F9F782F7B18",
+			"source": "Solarint - AI Engineer",
+			"sourceHash": "9613ec69",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_6.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "9855B0954A5977B312316F91CDD6CDB7",
+			"source": "Satyaki Mandal - 3D Artist",
+			"sourceHash": "19e8f66a",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_2.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "A096C706411AE5B0ABAE7CA43EEF318B",
+			"source": "Chad Siegel - Assistent Writer",
+			"sourceHash": "57047ac0",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_45.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "A3A781484ADEAB740843E99DD66E468B",
+			"source": "OUR FELLOW PATREON SUPPORTERS",
+			"sourceHash": "fa95b806",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.TextBlock_4.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "A6A5F72A48E03D240426BDAA9C6C30DB",
+			"source": "Josh - Level Designer",
+			"sourceHash": "7bce5a85",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_3.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "A792C30C4AD91EF6798B008208C2CEB5",
+			"source": "Taylor - Weapon Expertise",
+			"sourceHash": "28a9a8ae",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_23.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "B3EC4B28440468AE63C64A834F8463B0",
+			"source": "Hiago - 2D/3D Artist",
+			"sourceHash": "7f908868",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_15.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "BC4BCC764223CCDC66AAAD9504AA5989",
+			"source": "BlueTheRobot - Community Manager/Level Designer",
+			"sourceHash": "c739625f",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_1.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "BD8394D04921A3A4E60096B3AE3C27B4",
+			"source": "Toby - Sound Designer",
+			"sourceHash": "7587bc13",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_4.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "C14A517346562264ED45CAAF9B722B4E",
+			"source": "INCURSION RED RIVER",
+			"sourceHash": "373956c4",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.TextBlock_88.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "CCCD7B08438B8826D3DA169A4A23D912",
+			"source": "Voice ACtors",
+			"sourceHash": "23b6474a",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.TextBlock_1.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "D94A37E14FE48276B08D248E03C91DBA",
+			"source": "Developers",
+			"sourceHash": "54b653b8",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.TextBlock.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "DAFF368A497EC3CF09F7D0908F11F2BB",
+			"source": "Jane Perry - Observer",
+			"sourceHash": "6df9d296",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_7.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "DC87EE6B4B4A525BF2F07C8EDCE734CC",
+			"source": "Paul - Operations Manager",
+			"sourceHash": "a7809c9a",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_24.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "FE1D5DE641B498C793E836BF5608508A",
+			"source": "Venny - Level Design/Media Creation/Voice Actor",
+			"sourceHash": "5dd5dd8c",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_16.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "FE4F34924D46E29FD7E794966F792B67",
+			"source": "Nemesis - QA / Moderator",
+			"sourceHash": "b533dd42",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Mark_1.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		}
+	]
+}
