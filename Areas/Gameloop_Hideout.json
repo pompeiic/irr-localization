@@ -1,0 +1,246 @@
+{
+	"schemaVersion": 1,
+	"area": "Gameloop/Hideout",
+	"entries": [
+		{
+			"ns": "",
+			"key": "2A8C385F4D9DC51E2011DAAAEB67C3A8",
+			"source": "SOCIAL TAB",
+			"sourceHash": "2d7e3102",
+			"origin": "/Game/Blueprints/Gameloop/Hideout/WIdgets/W_SocialTabMenu.W_SocialTabMenu_C:WidgetTree.TextBlock_235.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "39FFC0314AE3B86DEB42E28E75486619",
+			"source": "{x} Left The Party",
+			"sourceHash": "7e7ade26",
+			"origin": "/Game/Blueprints/Gameloop/Hideout/GM_HideoutGamemode.GM_HideoutGamemode_C:ExecuteUbergraph_GM_HideoutGamemode [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "453D74984A7FE9B010E8CE9EDFEA48EF",
+			"source": "Create Party",
+			"sourceHash": "2e3360a3",
+			"origin": "/Game/Blueprints/Gameloop/Hideout/WIdgets/W_SocialTab.W_SocialTab_C:WidgetTree.CreatePartyButton.Default",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "638511F04F97E39EE55B429E8A3FAA6F",
+			"source": "NicknameText",
+			"sourceHash": "67b3c565",
+			"origin": "/Game/Blueprints/Gameloop/Hideout/WIdgets/W_SocialTab.W_SocialTab_C:WidgetTree.NicknameText.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "BCE1534C430BB33E4BB101AFFAD140E4",
+			"source": "{x} Joined The Party",
+			"sourceHash": "8d9840fd",
+			"origin": "/Game/Blueprints/Gameloop/Hideout/GM_HideoutGamemode.GM_HideoutGamemode_C:ExecuteUbergraph_GM_HideoutGamemode [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "DCFA1A744A6130DBA496F9916BCCBEC3",
+			"source": "Create Party",
+			"sourceHash": "2e3360a3",
+			"origin": "/Game/Blueprints/Gameloop/Hideout/WIdgets/W_SocialTab.W_SocialTab_C:WidgetTree.CreatePartyButton.Hover",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		}
+	]
+}
