@@ -1,0 +1,2286 @@
+{
+	"schemaVersion": 1,
+	"area": "Blueprints/InputSystem",
+	"entries": [
+		{
+			"ns": "",
+			"key": "023DBF1B49EDAB535EBB058ADE4D176F",
+			"source": "IA_SwitchMagnificationLevel_Up",
+			"sourceHash": "be6da893",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_15.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "041AE9AF4F9CCA2C62B1BB82AA1D47B4",
+			"source": "IA_Malfunction",
+			"sourceHash": "62d27e44",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_29.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "04FC44A54A6605707F7E6388592E2836",
+			"source": "IA_EquipSlot_4",
+			"sourceHash": "8c4de38e",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_EquipGCPS.IA_EquipGCPS:PlayerMappableKeySettings_30.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "08CB5AFB409E1CDCCA7AF6A795EBF1A5",
+			"source": "IA_CycleTacticalAttachments",
+			"sourceHash": "f3e0bae3",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_CycleTacticalAttachments.IA_CycleTacticalAttachments:PlayerMappableKeySettings_0.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "151D06C34793D208E96B5482478D115F",
+			"source": "IA_Run",
+			"sourceHash": "2f108655",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_0.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "18603AF04BA04D6BC6890184873FD9B4",
+			"source": "IA_PointShooting",
+			"sourceHash": "48771f2e",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_23.DisplayCategory",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "1F44AF9A4D1676553E72E8A527948F31",
+			"source": "IA_EquipQuickSlot_1",
+			"sourceHash": "3a48f5e1",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_EquipQuickSlot_1.IA_EquipQuickSlot_1:PlayerMappableKeySettings_0.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "239867F147D32907F15555BE9E20AA9B",
+			"source": "IA_Pause",
+			"sourceHash": "78109b68",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_28.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "24C61E3445511C73D36840804265C7FD",
+			"source": "IA_PointShooting",
+			"sourceHash": "48771f2e",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_23.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "2B4B65F24CDDEA4073DE10B6A3B31DB4",
+			"source": "IA_QuickHeal",
+			"sourceHash": "fb87c061",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_QuickHeal.IA_QuickHeal:PlayerMappableKeySettings_0.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "3AB6CDA5457DCEFD251AE0AF9A4F1F7E",
+			"source": "IA_Movement_W",
+			"sourceHash": "9fb4d1a1",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_18.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "42316DF946FC34099D22FE9D9DE94EB1",
+			"source": "IA_PointShooting",
+			"sourceHash": "48771f2e",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_PointSight.IA_PointSight:PlayerMappableKeySettings_23.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "4B07991D42182CE31BB5FA8A2D410B0B",
+			"source": "IA_AttachmentMenu",
+			"sourceHash": "c98262a9",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_ToggleAttachmentMenu.IA_ToggleAttachmentMenu:PlayerMappableKeySettings_0.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "4C14BBBB444D9620A16052A69A49D5EA",
+			"source": "IA_Sprint",
+			"sourceHash": "45d25380",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_Sprint.IA_Sprint:PlayerMappableKeySettings_0.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "508B42C7420969DACAFD339A4C3676BB",
+			"source": "IA_PushToTalk",
+			"sourceHash": "21260e64",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_PushToTalk.IA_PushToTalk:PlayerMappableKeySettings_0.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "50A3BBCB4693BDC93B7700A5C76AAFE3",
+			"source": "IA_Sneak",
+			"sourceHash": "8b0a1d01",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_6.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "52A988D64044CDBB6B2F36BE84AC1F42",
+			"source": "IA_Movement_S",
+			"sourceHash": "10d646f6",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_20.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "562F8CE642B3860E8FAEF594A96E36B7",
+			"source": "IA_SwitchMagnificationLevel_Down",
+			"sourceHash": "e05b9eb8",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_5.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "5B37287247E5C460CB6D5199BF2EFB75",
+			"source": "IA_EquipSlot_2",
+			"sourceHash": "a926bc52",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_17.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "610CCAFF4A1D2597EB0D179DBF72D08A",
+			"source": "IA_EquipQuickSlot_0",
+			"sourceHash": "82f49284",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_EquipQuickSlot_0.IA_EquipQuickSlot_0:PlayerMappableKeySettings_0.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "6C45DCA14AC2480CF52C56A49DB9124B",
+			"source": "IA_Aim",
+			"sourceHash": "6d3732d3",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_13.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "6DC022314FD530F8A3F0AB83F5A6DD8A",
+			"source": "IA_QuickGrenade",
+			"sourceHash": "1cc7919b",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_QuickGrenade.IA_QuickGrenade:PlayerMappableKeySettings_0.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "80CF448F41553EE56053E3BD1DA7B5BF",
+			"source": "IA_Inspect",
+			"sourceHash": "a215996c",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_12.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "878B581949903094B555379AE3D33D73",
+			"source": "IA_CycleSight",
+			"sourceHash": "1ec807fa",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_CycleSights.IA_CycleSights:PlayerMappableKeySettings_1.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "91B98D99474BF8E2F6BD3BA8BCD7DD8D",
+			"source": "IA_EquipSlot_1",
+			"sourceHash": "bb9313bc",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_EquipPrimary.IA_EquipPrimary:PlayerMappableKeySettings_3.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "941A3C2141044B241A0D61B148261C32",
+			"source": "IA_ToggleNightVision",
+			"sourceHash": "1e74cde1",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_ToggleNightVision.IA_ToggleNightVision:PlayerMappableKeySettings_0.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "98B770C142EFD36417F9358DC0B877E3",
+			"source": "IA_LowReady",
+			"sourceHash": "137d2aef",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_LowReady.IA_LowReady:PlayerMappableKeySettings_13.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "A1420621435D49A1CEC7C481B63124AC",
+			"source": "IA_FreeLook",
+			"sourceHash": "e01fe88f",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_27.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "A782A3EC484FDE3EE115B8B01C4A4A93",
+			"source": "IA_FreeLook",
+			"sourceHash": "e01fe88f",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_FreeLook.IA_FreeLook:PlayerMappableKeySettings_27.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "AC913794454E8912E27ED3B3F5C50BBC",
+			"source": "IA_FixMalfunction",
+			"sourceHash": "1644846d",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_FixMalfunction.IA_FixMalfunction:PlayerMappableKeySettings_0.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "AF1E0AEF4A6DFE7FA0ED4A95AA320429",
+			"source": "IA_EquipSlot_SpecialEquipment",
+			"sourceHash": "211691a5",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_EquipSpecialEquipment.IA_EquipSpecialEquipment:PlayerMappableKeySettings_30.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "B97A684B422BF207E50939A2D0713B91",
+			"source": "IA_Inventory",
+			"sourceHash": "fd84e61a",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_10.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "BC1252814FE1DC73E25807ABF3F7AFCB",
+			"source": "IA_EquipQuickSlot_2",
+			"sourceHash": "28fd5a0f",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_EquipQuickSlot_2.IA_EquipQuickSlot_2:PlayerMappableKeySettings_0.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "BD45534548106FDCEE4B76A772DAC9F1",
+			"source": "IA_Reload",
+			"sourceHash": "af1a657b",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_9.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "BDCD83D34D3426B4ABDF76A48AE8D935",
+			"source": "IA_Crouch",
+			"sourceHash": "97c27b7d",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_11.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "BFEAEC3F434C41D6DCA08BA9957DAFD4",
+			"source": "IA_SwitchFireMode",
+			"sourceHash": "e6dfc24b",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_22.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "C0BEEA1C4DF291A03AF925A21980EA99",
+			"source": "IA_CheckAmmo",
+			"sourceHash": "005e9676",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_CheckAmmo.IA_CheckAmmo:PlayerMappableKeySettings_0.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "C72707F84B2807036A00D58138AE6447",
+			"source": "IA_SwitchFireMode",
+			"sourceHash": "e6dfc24b",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_SwitchFireMode.IA_SwitchFireMode:PlayerMappableKeySettings_22.DisplayCategory",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "CD2D9E454A9B0374F0A42CAD2FF5D55B",
+			"source": "IA_Fire",
+			"sourceHash": "c5d49987",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_16.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "CDFA915F42D9C09221840BB090BF78C1",
+			"source": "IA_ToggleMagnifier",
+			"sourceHash": "d5359f11",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_ToggleMagnifier.IA_ToggleMagnifier:PlayerMappableKeySettings_0.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "CF5A819546F352A48172DA941A1A5CB3",
+			"source": "IA_Interact",
+			"sourceHash": "32892bc8",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_1.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "D3606CF248418FFAA494ABA617D21FAA",
+			"source": "IA_ToggleAttachmentMenu",
+			"sourceHash": "7d3763e1",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_2.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "D3876E50419D865361DF4290AE03F988",
+			"source": "IA_SwitchFireMode",
+			"sourceHash": "e6dfc24b",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_SwitchFireMode.IA_SwitchFireMode:PlayerMappableKeySettings_22.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "D908E4E1423C148835633AB687ED3F7F",
+			"source": "IA_Movement_D",
+			"sourceHash": "dd1829d0",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_14.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "DA234A804216AD505AC9F7A42021AD1A",
+			"source": "IA_HoldBreath",
+			"sourceHash": "f939752f",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_HoldBreath.IA_HoldBreath:PlayerMappableKeySettings_0.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "DBDB492D42981D94CABBB68B7C6CE579",
+			"source": "IA_Movement_A",
+			"sourceHash": "eac6d9e2",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_19.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "E69040AC4D134C8BF943E18E4442A406",
+			"source": "IA_Chat",
+			"sourceHash": "3eb90ecc",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_Chat.IA_Chat:PlayerMappableKeySettings_0.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "EA3A48914BD3F779836B9B9BF3F69DAF",
+			"source": "IA_Holster",
+			"sourceHash": "e3ad9968",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_7.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "EAADC43341C8312E6EC866BDEBED2E05",
+			"source": "IA_EquipSlot_3",
+			"sourceHash": "119adb37",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_4.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "EB38882342DA304933DDE3A448F8F57E",
+			"source": "IA_Jump",
+			"sourceHash": "a9b86e18",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_21.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "EBA20F8B49A8B2A3106A17B32CEC463A",
+			"source": "IA_Lean_R",
+			"sourceHash": "65a99cac",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_24.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "EDBA472949973A77B4CE3F8961883733",
+			"source": "IA_SwitchFireMode",
+			"sourceHash": "e6dfc24b",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_22.DisplayCategory",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "EE889EB9446C9C3B7FF9A08EA7BF964D",
+			"source": "IA_EquipQuickSlot_3",
+			"sourceHash": "90413d6a",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_EquipQuickSlot_3.IA_EquipQuickSlot_3:PlayerMappableKeySettings_0.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "F05107D644B4D2A290EC11938B545D4B",
+			"source": "IA_PointShooting",
+			"sourceHash": "48771f2e",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_PointSight.IA_PointSight:PlayerMappableKeySettings_23.DisplayCategory",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "F24B4DE84C36025169DFF386BF2ADA6D",
+			"source": "IA_Lean_L",
+			"sourceHash": "d56fbc00",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_8.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "FA17465D4D77D7D5309B98909741B311",
+			"source": "IA_InventoryAction",
+			"sourceHash": "dcc41281",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_Inventory.IA_Inventory:PlayerMappableKeySettings_0.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "FDEEC9DF44D356FCFF3A719FD4FF3231",
+			"source": "IA_ToggleTacticalAttachments",
+			"sourceHash": "1489c12e",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_ToggleTacticalAttachments.IA_ToggleTacticalAttachments:PlayerMappableKeySettings_0.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		}
+	]
+}
