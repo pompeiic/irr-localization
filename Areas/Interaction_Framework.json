@@ -1,0 +1,366 @@
+{
+	"schemaVersion": 1,
+	"area": "Interaction/Framework",
+	"entries": [
+		{
+			"ns": "",
+			"key": "0289B11F4FF1F2F9A727BCAECB3F05E1",
+			"source": "press <Red>F</> to <Red>close</> the door.",
+			"sourceHash": "2f1e5092",
+			"origin": "/Game/Blueprints/InteractionSystem/Framework/DoorPresets/BP_InteractionTarget_Open.Default__BP_InteractionTarget_Open_C:InteractionOption_1.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "107BB5F047E6EA061DCE4A9A4666E28B",
+			"source": "press <Red>F</> to <Red>peek</> through door.",
+			"sourceHash": "eb52c068",
+			"origin": "/Game/Blueprints/InteractionSystem/Framework/DoorPresets/BP_InteractionTarget_Peek.Default__BP_InteractionTarget_Peek_C:InteractionOption_2.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "112C67DD4546668D62B332B088C7E0A6",
+			"source": "The Door is locked.",
+			"sourceHash": "8b10749d",
+			"origin": "/Game/Blueprints/InteractionSystem/Framework/DoorPresets/BP_InteractionTarget_Open.Default__BP_InteractionTarget_Open_C:InteractionOption_4.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "31BDD8B6451E258C4913F6A74F3C823B",
+			"source": "press <Red>F</> to <Red>open</> the door.",
+			"sourceHash": "6ab90965",
+			"origin": "/Game/Blueprints/InteractionSystem/Framework/DoorPresets/BP_InteractionTarget_Open.Default__BP_InteractionTarget_Open_C:InteractionOption_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "4DAF66664CD61E4E222B1BA131303F3E",
+			"source": "Press <Red>F</> to <Red>Kick</> the door",
+			"sourceHash": "01fe9714",
+			"origin": "/Game/Blueprints/InteractionSystem/Framework/DoorPresets/BP_InteractionTarget_Kick.Default__BP_InteractionTarget_Kick_C:InteractionOption_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "5CEC78B14D2FC1959CE32EBBA71AADAC",
+			"source": "press <Red>F</> to <Red>close</> the door.",
+			"sourceHash": "2f1e5092",
+			"origin": "/Game/Blueprints/InteractionSystem/Framework/DoorPresets/BP_InteractionTarget_Peek.Default__BP_InteractionTarget_Peek_C:InteractionOption_1.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "7F9F14BB456B7CCB24D68B95E63409A9",
+			"source": "press <Red>F</> to <Red>open</> the door.",
+			"sourceHash": "6ab90965",
+			"origin": "/Game/Blueprints/InteractionSystem/Framework/DoorPresets/BP_InteractionTarget_Open.Default__BP_InteractionTarget_Open_C:InteractionOption_2.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "A48B80324C83F47A91A394BB18442C42",
+			"source": "press <Red>F</> to <Red>peek</> through door.",
+			"sourceHash": "eb52c068",
+			"origin": "/Game/Blueprints/InteractionSystem/Framework/DoorPresets/BP_InteractionTarget_Peek.Default__BP_InteractionTarget_Peek_C:InteractionOption_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "BAADA8C545F911ABBFB8EF89E7D4A43B",
+			"source": "The Door is locked.",
+			"sourceHash": "8b10749d",
+			"origin": "/Game/Blueprints/InteractionSystem/Framework/DoorPresets/BP_InteractionTarget_Peek.Default__BP_InteractionTarget_Peek_C:InteractionOption_4.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		}
+	]
+}
