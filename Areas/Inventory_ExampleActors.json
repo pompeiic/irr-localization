@@ -8,37 +8,42 @@
 			"source": "Hold <Red>F</> to loot the container",
 			"sourceHash": "979ebd5f",
 			"origin": "/Game/Blueprints/InventorySystem/ExampleActors/BP_LootContainer.BP_LootContainer_C:BP_InteractionTarget_GEN_VARIABLE.IO_LootContainer_C_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Halte <Red>F</>, um den Container zu plündern",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按住<Red>F</>搜刮容器",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Удерживай <Red>F</>, чтобы обыскать контейнер",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 길게 눌러 컨테이너 루팅",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>長押しでコンテナを漁る",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Mantén <Red>F</> para saquear el contenedor",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -48,45 +53,38 @@
 			"source": "Unlock additional weapon storage and increase max resources.",
 			"sourceHash": "11c07695",
 			"origin": "/Game/Blueprints/InventorySystem/ExampleActors/BP_InventoryStash.BP_InventoryStash_C:BP_IRRHideoutUnitComponent_GEN_VARIABLE.UpgradeLevels(2).UpgradeLevels.UpgradeLevelDescription",
-			"t":
-			{
-				"de":
-				{
+			"t": {
+				"de": {
 					"text": "Schalte zusätzlichen Lagerplatz für Waffen frei und erhöhe die max. Ressourcen.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
+				"zh-Hans": {
 					"text": "解锁额外武器仓库并提高最大资源上限。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
+				"ru": {
 					"text": "Открывает дополнительное место под оружие и увеличивает лимит ресурсов.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
+				"ko": {
 					"text": "무기 보관함을 추가로 잠금 해제하고 최대 자원을 증가시킵니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
+				"ja": {
 					"text": "追加の武器保管庫をアンロックし、最大リソースを増加させます。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
+				"es-ES": {
 					"text": "Desbloquea espacio adicional para armas y aumenta los recursos máximos.",
 					"status": "machine",
 					"by": "ai",
@@ -100,45 +98,38 @@
 			"source": "Unlock additional med storage and increase max resources.",
 			"sourceHash": "804d01e3",
 			"origin": "/Game/Blueprints/InventorySystem/ExampleActors/BP_InventoryStash.BP_InventoryStash_C:BP_IRRHideoutUnitComponent_GEN_VARIABLE.UpgradeLevels(0).UpgradeLevels.UpgradeLevelDescription",
-			"t":
-			{
-				"de":
-				{
+			"t": {
+				"de": {
 					"text": "Schalte zusätzlichen Lagerplatz für Medizin frei und erhöhe die max. Ressourcen.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
+				"zh-Hans": {
 					"text": "解锁额外医疗物资仓库并提高最大资源上限。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
+				"ru": {
 					"text": "Открывает дополнительное место под медикаменты и увеличивает лимит ресурсов.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
+				"ko": {
 					"text": "의료품 보관함을 추가로 잠금 해제하고 최대 자원을 증가시킵니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
+				"ja": {
 					"text": "追加の医療品保管庫をアンロックし、最大リソースを増加させます。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
+				"es-ES": {
 					"text": "Desbloquea espacio adicional para objetos médicos y aumenta los recursos máximos.",
 					"status": "machine",
 					"by": "ai",
@@ -152,45 +143,38 @@
 			"source": "Unlock additional gear storage and increase max resources.",
 			"sourceHash": "a5e267c5",
 			"origin": "/Game/Blueprints/InventorySystem/ExampleActors/BP_InventoryStash.BP_InventoryStash_C:BP_IRRHideoutUnitComponent_GEN_VARIABLE.UpgradeLevels(3).UpgradeLevels.UpgradeLevelDescription",
-			"t":
-			{
-				"de":
-				{
+			"t": {
+				"de": {
 					"text": "Schalte zusätzlichen Lagerplatz für Ausrüstung frei und erhöhe die max. Ressourcen.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
+				"zh-Hans": {
 					"text": "解锁额外装备仓库并提高最大资源上限。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
+				"ru": {
 					"text": "Открывает дополнительное место под снаряжение и увеличивает лимит ресурсов.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
+				"ko": {
 					"text": "장비 보관함을 추가로 잠금 해제하고 최대 자원을 증가시킵니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
+				"ja": {
 					"text": "追加の装備保管庫をアンロックし、最大リソースを増加させます。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
+				"es-ES": {
 					"text": "Desbloquea espacio adicional para equipo y aumenta los recursos máximos.",
 					"status": "machine",
 					"by": "ai",
@@ -204,37 +188,42 @@
 			"source": "Hold <Red>F</> to open the container",
 			"sourceHash": "f61955e6",
 			"origin": "/Game/Blueprints/InventorySystem/ExampleActors/BP_SecureContainer.BP_SecureContainer_C:BP_InteractionTarget_GEN_VARIABLE.IO_LootContainer_C_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Halte <Red>F</>, um den Container zu öffnen",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按住<Red>F</>打开容器",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Удерживай <Red>F</>, чтобы открыть контейнер",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 길게 눌러 컨테이너 열기",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>長押しでコンテナを開く",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Mantén <Red>F</> para abrir el contenedor",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -244,37 +233,42 @@
 			"source": "Hold <Red>F</> to open container.",
 			"sourceHash": "77d2dddb",
 			"origin": "/Game/Blueprints/InventorySystem/ExampleActors/BP_MissionBox.BP_MissionBox_C:BP_InteractionTarget_GEN_VARIABLE.IO_LootContainer_C_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Halte <Red>F</>, um den Container zu öffnen.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按住<Red>F</>打开容器。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Удерживай <Red>F</>, чтобы открыть контейнер.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 길게 눌러 컨테이너 열기",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>長押しでコンテナを開く",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Mantén <Red>F</> para abrir el contenedor.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -284,37 +278,42 @@
 			"source": "Press <Red>F</> to <Red>upgrade</> the stash.",
 			"sourceHash": "e4a2959f",
 			"origin": "/Game/Blueprints/InventorySystem/ExampleActors/BP_InventoryStash.BP_InventoryStash_C:BP_InteractionTarget_Upgrade_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drücke <Red>F</>, um das Lager <Red>aufzurüsten</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按<Red>F</><Red>升级</>仓库。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нажми <Red>F</>, чтобы <Red>улучшить</> схрон.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 눌러 창고 <Red>업그레이드</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>で倉庫を<Red>強化</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Pulsa <Red>F</> para <Red>mejorar</> el alijo.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -324,45 +323,38 @@
 			"source": "Unlock additional ammunition storage and increase max resources.",
 			"sourceHash": "e268f065",
 			"origin": "/Game/Blueprints/InventorySystem/ExampleActors/BP_InventoryStash.BP_InventoryStash_C:BP_IRRHideoutUnitComponent_GEN_VARIABLE.UpgradeLevels(1).UpgradeLevels.UpgradeLevelDescription",
-			"t":
-			{
-				"de":
-				{
+			"t": {
+				"de": {
 					"text": "Schalte zusätzlichen Lagerplatz für Munition frei und erhöhe die max. Ressourcen.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
+				"zh-Hans": {
 					"text": "解锁额外弹药仓库并提高最大资源上限。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
+				"ru": {
 					"text": "Открывает дополнительное место под боеприпасы и увеличивает лимит ресурсов.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
+				"ko": {
 					"text": "탄약 보관함을 추가로 잠금 해제하고 최대 자원을 증가시킵니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
+				"ja": {
 					"text": "追加の弾薬保管庫をアンロックし、最大リソースを増加させます。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
+				"es-ES": {
 					"text": "Desbloquea espacio adicional para munición y aumenta los recursos máximos.",
 					"status": "machine",
 					"by": "ai",

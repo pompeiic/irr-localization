@@ -8,37 +8,42 @@
 			"source": "Press <Red>F</> to <Red>Kick</> the door",
 			"sourceHash": "01fe9714",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/BP_Door_1.BP_Door_1_C:BP_Kick_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drücke <Red>F</>, um die Tür <Red>einzutreten</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按<Red>F</><Red>踹开</>门",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нажми <Red>F</>, чтобы <Red>выбить</> дверь",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 눌러 문 <Red>걷어차기</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>でドアを<Red>蹴破る</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Pulsa <Red>F</> para <Red>patear</> la puerta",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -48,37 +53,42 @@
 			"source": "Hold <Red>F</> to <Red>Unlock</> the door.",
 			"sourceHash": "47e149b8",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_WarhouseDoor_01.BP_WarhouseDoor_01_C:BP_UnlockTarget_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Halte <Red>F</>, um die Tür <Red>aufzuschließen</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按住<Red>F</><Red>解锁</>门。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Удерживай <Red>F</>, чтобы <Red>отпереть</> дверь.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 길게 눌러 문 <Red>잠금 해제</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>長押しでドアを<Red>解錠</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Mantén <Red>F</> para <Red>abrir</> la cerradura.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -88,37 +98,42 @@
 			"source": "press <Red>F</> to <Red>open</> the door.",
 			"sourceHash": "6ab90965",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_WarhouseDoor_02.BP_WarhouseDoor_02_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_2.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drücke <Red>F</>, um die Tür zu <Red>öffnen</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按<Red>F</><Red>打开</>门。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нажми <Red>F</>, чтобы <Red>открыть</> дверь.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 눌러 문 <Red>열기</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>でドアを<Red>開ける</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Pulsa <Red>F</> para <Red>abrir</> la puerta.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -128,37 +143,42 @@
 			"source": "press <Red>F</> to <Red>peak</> through door.",
 			"sourceHash": "bfcb0e53",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/BP_Door_1.BP_Door_1_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drücke <Red>F</>, um durch die Tür zu <Red>spähen</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按<Red>F</>透过门<Red>窥视</>。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нажми <Red>F</>, чтобы <Red>заглянуть</> за дверь.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 눌러 문 너머 <Red>엿보기</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>でドアから<Red>覗く</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Pulsa <Red>F</> para <Red>asomarte</> por la puerta.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -168,37 +188,42 @@
 			"source": "press <Red>F</> to <Red>close</> the door.",
 			"sourceHash": "2f1e5092",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/BP_Door_2.BP_Door_2_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_1.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drücke <Red>F</>, um die Tür zu <Red>schließen</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按<Red>F</><Red>关闭</>门。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нажми <Red>F</>, чтобы <Red>закрыть</> дверь.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 눌러 문 <Red>닫기</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>でドアを<Red>閉める</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Pulsa <Red>F</> para <Red>cerrar</> la puerta.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -208,37 +233,42 @@
 			"source": "press <Red>F</> to <Red>peak</> through the door.",
 			"sourceHash": "1b4c6dd5",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/BP_Door_Master1.BP_Door_Master1_C:BP_InteractionTarget_Peek_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drücke <Red>F</>, um durch die Tür zu <Red>spähen</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按<Red>F</>透过门<Red>窥视</>。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нажми <Red>F</>, чтобы <Red>заглянуть</> за дверь.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 눌러 문 너머 <Red>엿보기</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>でドアから<Red>覗く</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Pulsa <Red>F</> para <Red>asomarte</> por la puerta.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -248,37 +278,42 @@
 			"source": "press <Red>F</> to <Red>peak</> through door.",
 			"sourceHash": "bfcb0e53",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_WarhouseDoor_01.BP_WarhouseDoor_01_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drücke <Red>F</>, um durch die Tür zu <Red>spähen</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按<Red>F</>透过门<Red>窥视</>。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нажми <Red>F</>, чтобы <Red>заглянуть</> за дверь.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 눌러 문 너머 <Red>엿보기</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>でドアから<Red>覗く</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Pulsa <Red>F</> para <Red>asomarte</> por la puerta.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -288,37 +323,42 @@
 			"source": "Hold <Red>F</> to <Red>boot up</> the terminal.",
 			"sourceHash": "37f0d2d2",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Terminal/BP_TerminalMaster.BP_TerminalMaster_C:BP_TerminalInteraction_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Halte <Red>F</>, um das Terminal <Red>hochzufahren</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按住<Red>F</><Red>启动</>终端。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Удерживай <Red>F</>, чтобы <Red>включить</> терминал.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 길게 눌러 단말기 <Red>부팅</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>長押しで端末を<Red>起動</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Mantén <Red>F</> para <Red>arrancar</> el terminal.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -328,37 +368,42 @@
 			"source": "Hold <Red>F</> to <Red>accept</> the mission.",
 			"sourceHash": "a012b3f0",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Operation/BP_OperationInteractionPoint_Master.BP_OperationInteractionPoint_Master_C:BP_InteractionTarget_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Halte <Red>F</>, um die Mission <Red>anzunehmen</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按住<Red>F</><Red>接受</>任务。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Удерживай <Red>F</>, чтобы <Red>принять</> задание.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 길게 눌러 임무 <Red>수락</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>長押しでミッションを<Red>受諾</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Mantén <Red>F</> para <Red>aceptar</> la misión.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -368,37 +413,42 @@
 			"source": "press <Red>F</> to <Red>close</> the door.",
 			"sourceHash": "2f1e5092",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/BP_Door_1.BP_Door_1_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_1.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drücke <Red>F</>, um die Tür zu <Red>schließen</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按<Red>F</><Red>关闭</>门。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нажми <Red>F</>, чтобы <Red>закрыть</> дверь.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 눌러 문 <Red>닫기</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>でドアを<Red>閉める</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Pulsa <Red>F</> para <Red>cerrar</> la puerta.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -408,37 +458,42 @@
 			"source": "press <Red>F</> to <Red>close</> the door.",
 			"sourceHash": "2f1e5092",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_Door_03.BP_Door_03_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_1.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drücke <Red>F</>, um die Tür zu <Red>schließen</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按<Red>F</><Red>关闭</>门。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нажми <Red>F</>, чтобы <Red>закрыть</> дверь.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 눌러 문 <Red>닫기</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>でドアを<Red>閉める</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Pulsa <Red>F</> para <Red>cerrar</> la puerta.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -448,37 +503,42 @@
 			"source": "Press <Red>F</> to <Red>Kick</> the door",
 			"sourceHash": "01fe9714",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_WarhouseDoor_01.BP_WarhouseDoor_01_C:BP_Kick_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drücke <Red>F</>, um die Tür <Red>einzutreten</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按<Red>F</><Red>踹开</>门",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нажми <Red>F</>, чтобы <Red>выбить</> дверь",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 눌러 문 <Red>걷어차기</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>でドアを<Red>蹴破る</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Pulsa <Red>F</> para <Red>patear</> la puerta",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -488,37 +548,42 @@
 			"source": "press <Red>F</> to <Red>close</> the door.",
 			"sourceHash": "2f1e5092",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_WarhouseDoor_01.BP_WarhouseDoor_01_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_1.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drücke <Red>F</>, um die Tür zu <Red>schließen</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按<Red>F</><Red>关闭</>门。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нажми <Red>F</>, чтобы <Red>закрыть</> дверь.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 눌러 문 <Red>닫기</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>でドアを<Red>閉める</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Pulsa <Red>F</> para <Red>cerrar</> la puerta.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -528,37 +593,42 @@
 			"source": "Press <Red>F</> to <Red>Kick</> the door",
 			"sourceHash": "01fe9714",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_WarhouseDoor_02.BP_WarhouseDoor_02_C:BP_Kick_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drücke <Red>F</>, um die Tür <Red>einzutreten</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按<Red>F</><Red>踹开</>门",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нажми <Red>F</>, чтобы <Red>выбить</> дверь",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 눌러 문 <Red>걷어차기</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>でドアを<Red>蹴破る</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Pulsa <Red>F</> para <Red>patear</> la puerta",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -568,37 +638,42 @@
 			"source": "Hold <Red>F</> to use the item here.",
 			"sourceHash": "054a1527",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/ItemUsage/BP_ItemUsage.BP_ItemUsage_C:BP_InteractionTarget_GEN_VARIABLE.IO_LootContainer_C_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Halte <Red>F</>, um den Gegenstand hier zu benutzen.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按住<Red>F</>在此使用物品。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Удерживай <Red>F</>, чтобы использовать предмет здесь.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 길게 눌러 여기에 아이템 사용",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>長押しでここでアイテムを使用",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Mantén <Red>F</> para usar el objeto aquí.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -608,37 +683,42 @@
 			"source": "The Door is locked.",
 			"sourceHash": "8b10749d",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/BP_Door_1.BP_Door_1_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_4.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Die Tür ist verschlossen.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "门已上锁。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Дверь заперта.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "문이 잠겨 있습니다.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "ドアは施錠されている。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "La puerta está cerrada con llave.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -648,37 +728,42 @@
 			"source": "press <Red>F</> to <Red>peak</> through the door.",
 			"sourceHash": "1b4c6dd5",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/BP_Door_Master1.BP_Door_Master1_C:BP_InteractionTarget_Peek_GEN_VARIABLE.InteractionOption_2.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drücke <Red>F</>, um durch die Tür zu <Red>spähen</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按<Red>F</>透过门<Red>窥视</>。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нажми <Red>F</>, чтобы <Red>заглянуть</> за дверь.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 눌러 문 너머 <Red>엿보기</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>でドアから<Red>覗く</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Pulsa <Red>F</> para <Red>asomarte</> por la puerta.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -688,37 +773,42 @@
 			"source": "Booting...",
 			"sourceHash": "79077bea",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Operation/BP_OperationInteractionPoint_Master.BP_OperationInteractionPoint_Master_C:BP_InteractionTarget_GEN_VARIABLE.InteractionOption_0.HoldDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Startet...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "启动中...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Загрузка...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "부팅 중...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "起動中...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Iniciando...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -728,37 +818,42 @@
 			"source": "Hold...",
 			"sourceHash": "97ec7b3e",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_WarhouseDoor_02.BP_WarhouseDoor_02_C:BP_UnlockTarget_GEN_VARIABLE.InteractionOption_0.HoldDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Halten...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按住...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Удерживай...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "누르고 있기...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "長押し...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Mantén...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -768,37 +863,42 @@
 			"source": "press <Red>F</> to <Red>close</> the door.",
 			"sourceHash": "2f1e5092",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_WarhouseDoor_02.BP_WarhouseDoor_02_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_1.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drücke <Red>F</>, um die Tür zu <Red>schließen</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按<Red>F</><Red>关闭</>门。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нажми <Red>F</>, чтобы <Red>закрыть</> дверь.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 눌러 문 <Red>닫기</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>でドアを<Red>閉める</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Pulsa <Red>F</> para <Red>cerrar</> la puerta.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -808,37 +908,42 @@
 			"source": "You don't have the <Red>key card</>.",
 			"sourceHash": "198acc87",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/BP_Door_2.BP_Door_2_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_4.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Du hast die <Red>Schlüsselkarte</> nicht.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "你没有<Red>门禁卡</>。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "У тебя нет <Red>ключ-карты</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>키 카드</>가 없습니다.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>カードキー</>を持っていない。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "No tienes la <Red>tarjeta de acceso</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -848,37 +953,42 @@
 			"source": "Hold...",
 			"sourceHash": "97ec7b3e",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_Door_Electric.BP_Door_Electric_C:BP_Unlock_GEN_VARIABLE.InteractionOption_0.WaitDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Halten...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按住...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Удерживай...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "누르고 있기...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "長押し...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Mantén...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -888,37 +998,42 @@
 			"source": "Booting...",
 			"sourceHash": "79077bea",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Terminal/BP_TerminalMaster.BP_TerminalMaster_C:BP_TerminalInteraction_GEN_VARIABLE.InteractionOption_0.HoldDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Startet...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "启动中...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Загрузка...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "부팅 중...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "起動中...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Iniciando...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -928,37 +1043,42 @@
 			"source": "The Door is locked.",
 			"sourceHash": "8b10749d",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_Door_03.BP_Door_03_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_4.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Die Tür ist verschlossen.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "门已上锁。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Дверь заперта.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "문이 잠겨 있습니다.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "ドアは施錠されている。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "La puerta está cerrada con llave.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -968,37 +1088,42 @@
 			"source": "Hold <Red>F</> to <Red>Unlock</> the door.",
 			"sourceHash": "47e149b8",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/BP_Door_1.BP_Door_1_C:BP_UnlockTarget_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Halte <Red>F</>, um die Tür <Red>aufzuschließen</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按住<Red>F</><Red>解锁</>门。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Удерживай <Red>F</>, чтобы <Red>отпереть</> дверь.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 길게 눌러 문 <Red>잠금 해제</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>長押しでドアを<Red>解錠</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Mantén <Red>F</> para <Red>abrir</> la cerradura.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -1008,37 +1133,42 @@
 			"source": "Press <Red>F</> to <Red>interact</> with the terminal.",
 			"sourceHash": "a753e181",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Terminal/BP_TerminalMaster.BP_TerminalMaster_C:BP_TerminalInteraction_GEN_VARIABLE.InteractionOption_2.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drücke <Red>F</>, um das Terminal zu <Red>benutzen</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按<Red>F</>与终端<Red>交互</>。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нажми <Red>F</>, чтобы <Red>воспользоваться</> терминалом.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 눌러 단말기와 <Red>상호작용</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>で端末を<Red>操作</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Pulsa <Red>F</> para <Red>interactuar</> con el terminal.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -1048,37 +1178,42 @@
 			"source": "The Door is locked.",
 			"sourceHash": "8b10749d",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/BP_Door_Master1.BP_Door_Master1_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_4.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Die Tür ist verschlossen.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "门已上锁。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Дверь заперта.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "문이 잠겨 있습니다.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "ドアは施錠されている。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "La puerta está cerrada con llave.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -1088,37 +1223,42 @@
 			"source": "Hold...",
 			"sourceHash": "97ec7b3e",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_WarhouseDoor_01.BP_WarhouseDoor_01_C:BP_UnlockTarget_GEN_VARIABLE.InteractionOption_0.HoldDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Halten...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按住...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Удерживай...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "누르고 있기...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "長押し...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Mantén...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -1128,37 +1268,42 @@
 			"source": "You have no item to place.",
 			"sourceHash": "b9171014",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/ItemPickUp/BP_ItemPickUp.BP_ItemPickUp_C:BP_InteractionTarget_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Du hast keinen Gegenstand zum Platzieren.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "你没有可放置的物品。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "У тебя нет предмета для установки.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "배치할 아이템이 없습니다.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "設置するアイテムがない。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "No tienes ningún objeto que colocar.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -1168,37 +1313,42 @@
 			"source": "Hold <Red>F</> to place the bomb here",
 			"sourceHash": "9ed68877",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/ItemPlacement/BP_ItemPlacement_Bomb.BP_ItemPlacement_Bomb_C:BP_InteractionTarget_GEN_VARIABLE.IO_LootContainer_C_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Halte <Red>F</>, um die Bombe hier zu platzieren",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按住<Red>F</>在此放置炸弹",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Удерживай <Red>F</>, чтобы установить бомбу здесь",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 길게 눌러 여기에 폭탄 설치",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>長押しでここに爆弾を設置",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Mantén <Red>F</> para colocar la bomba aquí",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -1208,37 +1358,42 @@
 			"source": "Press <Red>F</> to <Red>Kick</> the door",
 			"sourceHash": "01fe9714",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/BP_Door_Master1.BP_Door_Master1_C:BP_Kick_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drücke <Red>F</>, um die Tür <Red>einzutreten</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按<Red>F</><Red>踹开</>门",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нажми <Red>F</>, чтобы <Red>выбить</> дверь",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 눌러 문 <Red>걷어차기</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>でドアを<Red>蹴破る</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Pulsa <Red>F</> para <Red>patear</> la puerta",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -1248,37 +1403,42 @@
 			"source": "The Door is locked.",
 			"sourceHash": "8b10749d",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_WarhouseDoor_02.BP_WarhouseDoor_02_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_4.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Die Tür ist verschlossen.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "门已上锁。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Дверь заперта.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "문이 잠겨 있습니다.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "ドアは施錠されている。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "La puerta está cerrada con llave.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -1288,37 +1448,42 @@
 			"source": "press <Red>F</> to <Red>close</> the door.",
 			"sourceHash": "2f1e5092",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/BP_Door_Master1.BP_Door_Master1_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_1.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drücke <Red>F</>, um die Tür zu <Red>schließen</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按<Red>F</><Red>关闭</>门。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нажми <Red>F</>, чтобы <Red>закрыть</> дверь.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 눌러 문 <Red>닫기</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>でドアを<Red>閉める</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Pulsa <Red>F</> para <Red>cerrar</> la puerta.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -1328,37 +1493,42 @@
 			"source": "Hold <Red>F</> to place the jammer here",
 			"sourceHash": "dc8f228b",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/ItemPlacement/BP_ItemPlacement_Jammer.BP_ItemPlacement_Jammer_C:BP_InteractionTarget_GEN_VARIABLE.IO_LootContainer_C_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Halte <Red>F</>, um den Störsender hier zu platzieren",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按住<Red>F</>在此放置干扰器",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Удерживай <Red>F</>, чтобы установить глушилку здесь",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 길게 눌러 여기에 재머 설치",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>長押しでここにジャマーを設置",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Mantén <Red>F</> para colocar el inhibidor aquí",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -1368,37 +1538,42 @@
 			"source": "press <Red>F</> to <Red>open</> the door.",
 			"sourceHash": "6ab90965",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_Door_03.BP_Door_03_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_2.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drücke <Red>F</>, um die Tür zu <Red>öffnen</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按<Red>F</><Red>打开</>门。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нажми <Red>F</>, чтобы <Red>открыть</> дверь.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 눌러 문 <Red>열기</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>でドアを<Red>開ける</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Pulsa <Red>F</> para <Red>abrir</> la puerta.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -1408,37 +1583,42 @@
 			"source": "press <Red>F</> to <Red>use</> the switch.",
 			"sourceHash": "4289fdd3",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Switch/Device/BP_SwitchDeviceMaster.BP_SwitchDeviceMaster_C:BP_Switch_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drücke <Red>F</>, um den Schalter zu <Red>betätigen</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按<Red>F</><Red>使用</>开关。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нажми <Red>F</>, чтобы <Red>использовать</> переключатель.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 눌러 스위치 <Red>사용</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>でスイッチを<Red>使う</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Pulsa <Red>F</> para <Red>usar</> el interruptor.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -1448,37 +1628,42 @@
 			"source": "press <Red>F</> to <Red>open</> the door.",
 			"sourceHash": "6ab90965",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/BP_Door_Master1.BP_Door_Master1_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drücke <Red>F</>, um die Tür zu <Red>öffnen</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按<Red>F</><Red>打开</>门。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нажми <Red>F</>, чтобы <Red>открыть</> дверь.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 눌러 문 <Red>열기</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>でドアを<Red>開ける</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Pulsa <Red>F</> para <Red>abrir</> la puerta.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -1488,37 +1673,42 @@
 			"source": "Hold...",
 			"sourceHash": "97ec7b3e",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/BP_Door_1.BP_Door_1_C:BP_UnlockTarget_GEN_VARIABLE.InteractionOption_0.HoldDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Halten...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按住...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Удерживай...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "누르고 있기...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "長押し...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Mantén...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -1528,37 +1718,42 @@
 			"source": "Hold...",
 			"sourceHash": "97ec7b3e",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_Door_Quarry_Locked.BP_Door_Quarry_Locked_C:BP_Unlock_GEN_VARIABLE.InteractionOption_0.WaitDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Halten...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按住...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Удерживай...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "누르고 있기...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "長押し...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Mantén...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -1568,37 +1763,42 @@
 			"source": "press <Red>F</> to <Red>peak</> through door.",
 			"sourceHash": "bfcb0e53",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_WarhouseDoor_02.BP_WarhouseDoor_02_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drücke <Red>F</>, um durch die Tür zu <Red>spähen</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按<Red>F</>透过门<Red>窥视</>。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нажми <Red>F</>, чтобы <Red>заглянуть</> за дверь.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 눌러 문 너머 <Red>엿보기</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>でドアから<Red>覗く</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Pulsa <Red>F</> para <Red>asomarte</> por la puerta.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -1608,37 +1808,42 @@
 			"source": "The Door is locked.",
 			"sourceHash": "8b10749d",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_WarhouseDoor_01.BP_WarhouseDoor_01_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_4.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Die Tür ist verschlossen.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "门已上锁。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Дверь заперта.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "문이 잠겨 있습니다.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "ドアは施錠されている。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "La puerta está cerrada con llave.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -1648,37 +1853,42 @@
 			"source": "Hold...",
 			"sourceHash": "97ec7b3e",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_Door_Quarry_Locked.BP_Door_Quarry_Locked_C:BP_Unlock_GEN_VARIABLE.InteractionOption_0.HoldDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Halten...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按住...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Удерживай...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "누르고 있기...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "長押し...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Mantén...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -1688,37 +1898,42 @@
 			"source": "Hold...",
 			"sourceHash": "97ec7b3e",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_Door_Electric.BP_Door_Electric_C:BP_Unlock_GEN_VARIABLE.InteractionOption_0.HoldDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Halten...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按住...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Удерживай...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "누르고 있기...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "長押し...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Mantén...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -1728,37 +1943,42 @@
 			"source": "Hold <Red>F</> to <Red>Unlock</> the door.",
 			"sourceHash": "47e149b8",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_Door_Quarry_Locked.BP_Door_Quarry_Locked_C:BP_Unlock_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Halte <Red>F</>, um die Tür <Red>aufzuschließen</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按住<Red>F</><Red>解锁</>门。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Удерживай <Red>F</>, чтобы <Red>отпереть</> дверь.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 길게 눌러 문 <Red>잠금 해제</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>長押しでドアを<Red>解錠</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Mantén <Red>F</> para <Red>abrir</> la cerradura.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -1768,37 +1988,42 @@
 			"source": "press <Red>F</> to <Red>open</> the door.",
 			"sourceHash": "6ab90965",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/BP_Door_Master1.BP_Door_Master1_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_2.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drücke <Red>F</>, um die Tür zu <Red>öffnen</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按<Red>F</><Red>打开</>门。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нажми <Red>F</>, чтобы <Red>открыть</> дверь.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 눌러 문 <Red>열기</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>でドアを<Red>開ける</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Pulsa <Red>F</> para <Red>abrir</> la puerta.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -1808,37 +2033,42 @@
 			"source": "You have no item to place.",
 			"sourceHash": "b9171014",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/ItemUsage/BP_ItemUsage.BP_ItemUsage_C:BP_InteractionTarget_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Du hast keinen Gegenstand zum Platzieren.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "你没有可放置的物品。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "У тебя нет предмета для установки.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "배치할 아이템이 없습니다.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "設置するアイテムがない。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "No tienes ningún objeto que colocar.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -1848,37 +2078,42 @@
 			"source": "Hold <Red>F</> to <Red>Unlock</> the door.",
 			"sourceHash": "47e149b8",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_WarhouseDoor_02.BP_WarhouseDoor_02_C:BP_UnlockTarget_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Halte <Red>F</>, um die Tür <Red>aufzuschließen</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按住<Red>F</><Red>解锁</>门。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Удерживай <Red>F</>, чтобы <Red>отпереть</> дверь.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 길게 눌러 문 <Red>잠금 해제</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>長押しでドアを<Red>解錠</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Mantén <Red>F</> para <Red>abrir</> la cerradura.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -1888,37 +2123,42 @@
 			"source": "You have no item to place.",
 			"sourceHash": "b9171014",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/ItemPlacement/BP_ItemPlacement.BP_ItemPlacement_C:BP_InteractionTarget_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Du hast keinen Gegenstand zum Platzieren.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "你没有可放置的物品。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "У тебя нет предмета для установки.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "배치할 아이템이 없습니다.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "設置するアイテムがない。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "No tienes ningún objeto que colocar.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -1928,37 +2168,42 @@
 			"source": "Hold <Red>F</> to place the item here.",
 			"sourceHash": "f7cebfc2",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/ItemPlacement/BP_ItemPlacement.BP_ItemPlacement_C:BP_InteractionTarget_GEN_VARIABLE.IO_LootContainer_C_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Halte <Red>F</>, um den Gegenstand hier zu platzieren.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按住<Red>F</>在此放置物品。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Удерживай <Red>F</>, чтобы установить предмет здесь.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 길게 눌러 여기에 아이템 배치",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>長押しでここにアイテムを設置",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Mantén <Red>F</> para colocar el objeto aquí.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -1968,37 +2213,42 @@
 			"source": "Hold <Red>F</> to place the bug here",
 			"sourceHash": "59b0d4bc",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/ItemPlacement/BP_ItemPlacement_Bug.BP_ItemPlacement_Bug_C:BP_InteractionTarget_GEN_VARIABLE.IO_LootContainer_C_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Halte <Red>F</>, um die Wanze hier zu platzieren",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按住<Red>F</>在此放置窃听器",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Удерживай <Red>F</>, чтобы установить жучок здесь",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 길게 눌러 여기에 도청기 설치",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>長押しでここに盗聴器を設置",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Mantén <Red>F</> para colocar el micrófono aquí",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -2008,37 +2258,42 @@
 			"source": "Initiating Download...",
 			"sourceHash": "dc3dfb5e",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Terminal/BP_TerminalMaster.BP_TerminalMaster_C:BP_TerminalInteraction_GEN_VARIABLE.InteractionOption_2.HoldDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Download wird gestartet...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "正在开始下载...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Запуск загрузки...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "다운로드 시작 중...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "ダウンロード開始中...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Iniciando descarga...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -2048,37 +2303,42 @@
 			"source": "press <Red>F</> to <Red>peak</> through door.",
 			"sourceHash": "bfcb0e53",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_Door_03.BP_Door_03_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drücke <Red>F</>, um durch die Tür zu <Red>spähen</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按<Red>F</>透过门<Red>窥视</>。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нажми <Red>F</>, чтобы <Red>заглянуть</> за дверь.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 눌러 문 너머 <Red>엿보기</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>でドアから<Red>覗く</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Pulsa <Red>F</> para <Red>asomarte</> por la puerta.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -2088,37 +2348,42 @@
 			"source": "test",
 			"sourceHash": "919f0e6b",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/BP_AmmoRefill.BP_AmmoRefill_C:BP_InteractionTarget_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Test",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:54:02Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "测试",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:54:02Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "тест",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:54:02Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "테스트",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:54:02Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "テスト",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:54:02Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "prueba",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:54:02Z"
 				}
 			}
 		},
@@ -2128,37 +2393,42 @@
 			"source": "Hold <Red>F</> to <Red>Unlock</> the door.",
 			"sourceHash": "47e149b8",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_Door_Electric.BP_Door_Electric_C:BP_Unlock_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Halte <Red>F</>, um die Tür <Red>aufzuschließen</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按住<Red>F</><Red>解锁</>门。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Удерживай <Red>F</>, чтобы <Red>отпереть</> дверь.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 길게 눌러 문 <Red>잠금 해제</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>長押しでドアを<Red>解錠</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Mantén <Red>F</> para <Red>abrir</> la cerradura.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -2168,37 +2438,42 @@
 			"source": "Hold <Red>F</> to <Red>Unlock</> the door.",
 			"sourceHash": "47e149b8",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_Door_03.BP_Door_03_C:BP_UnlockTarget_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Halte <Red>F</>, um die Tür <Red>aufzuschließen</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按住<Red>F</><Red>解锁</>门。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Удерживай <Red>F</>, чтобы <Red>отпереть</> дверь.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 길게 눌러 문 <Red>잠금 해제</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>長押しでドアを<Red>解錠</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Mantén <Red>F</> para <Red>abrir</> la cerradura.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -2208,37 +2483,42 @@
 			"source": "Hold <Red>F</> to pickup mission item.",
 			"sourceHash": "26db38ea",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/ItemPickUp/BP_ItemPickUp.BP_ItemPickUp_C:BP_InteractionTarget_GEN_VARIABLE.IO_LootContainer_C_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Halte <Red>F</>, um den Missionsgegenstand aufzuheben.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按住<Red>F</>拾取任务物品。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Удерживай <Red>F</>, чтобы подобрать предмет задания.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 길게 눌러 임무 아이템 줍기",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>長押しでミッションアイテムを拾う",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Mantén <Red>F</> para recoger el objeto de misión.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -2248,37 +2528,42 @@
 			"source": "Press <Red>F</> to <Red>Kick</> the door",
 			"sourceHash": "01fe9714",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_Door_03.BP_Door_03_C:BP_Kick_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drücke <Red>F</>, um die Tür <Red>einzutreten</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按<Red>F</><Red>踹开</>门",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нажми <Red>F</>, чтобы <Red>выбить</> дверь",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 눌러 문 <Red>걷어차기</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>でドアを<Red>蹴破る</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Pulsa <Red>F</> para <Red>patear</> la puerta",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -2288,37 +2573,42 @@
 			"source": "press <Red>F</> to <Red>open</> the door.",
 			"sourceHash": "6ab90965",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_WarhouseDoor_01.BP_WarhouseDoor_01_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_2.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drücke <Red>F</>, um die Tür zu <Red>öffnen</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按<Red>F</><Red>打开</>门。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нажми <Red>F</>, чтобы <Red>открыть</> дверь.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 눌러 문 <Red>열기</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>でドアを<Red>開ける</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Pulsa <Red>F</> para <Red>abrir</> la puerta.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -2328,37 +2618,42 @@
 			"source": "press <Red>F</> to <Red>open</> the door.",
 			"sourceHash": "6ab90965",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/BP_Door_1.BP_Door_1_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_2.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drücke <Red>F</>, um die Tür zu <Red>öffnen</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按<Red>F</><Red>打开</>门。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нажми <Red>F</>, чтобы <Red>открыть</> дверь.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 눌러 문 <Red>열기</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>でドアを<Red>開ける</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Pulsa <Red>F</> para <Red>abrir</> la puerta.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -2368,37 +2663,42 @@
 			"source": "press <Red>F</> to <Red>peak</> through door.",
 			"sourceHash": "bfcb0e53",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_WarhouseDoor_01.BP_WarhouseDoor_01_C:BP_InteractionTarget_Peek_GEN_VARIABLE.InteractionOption_2.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drücke <Red>F</>, um durch die Tür zu <Red>spähen</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按<Red>F</>透过门<Red>窥视</>。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нажми <Red>F</>, чтобы <Red>заглянуть</> за дверь.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 눌러 문 너머 <Red>엿보기</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>でドアから<Red>覗く</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Pulsa <Red>F</> para <Red>asomarte</> por la puerta.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -2408,37 +2708,42 @@
 			"source": "Hold...",
 			"sourceHash": "97ec7b3e",
 			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_Door_03.BP_Door_03_C:BP_UnlockTarget_GEN_VARIABLE.InteractionOption_0.HoldDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Halten...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按住...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Удерживай...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "누르고 있기...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "長押し...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Mantén...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		}

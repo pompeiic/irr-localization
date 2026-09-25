@@ -8,37 +8,42 @@
 			"source": "Hold <Red>F</> to loot the container",
 			"sourceHash": "979ebd5f",
 			"origin": "/Game/Blueprints/InventorySystem/BaseActors/BP_RaidTrader.BP_RaidTrader_C:BP_InteractionTarget_GEN_VARIABLE.IO_LootContainer_C_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Halte <Red>F</>, um den Container zu plündern",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按住<Red>F</>搜刮容器",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Удерживай <Red>F</>, чтобы обыскать контейнер",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 길게 눌러 컨테이너 루팅",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>長押しでコンテナを漁る",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Mantén <Red>F</> para saquear el contenedor",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -48,37 +53,42 @@
 			"source": "Hold <Red>F</> to loot the container",
 			"sourceHash": "979ebd5f",
 			"origin": "/Game/Blueprints/InventorySystem/BaseActors/BP_SecureContainer.BP_SecureContainer_C:BP_InteractionTarget_GEN_VARIABLE.IO_LootContainer_C_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Halte <Red>F</>, um den Container zu plündern",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按住<Red>F</>搜刮容器",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Удерживай <Red>F</>, чтобы обыскать контейнер",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 길게 눌러 컨테이너 루팅",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>長押しでコンテナを漁る",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Mantén <Red>F</> para saquear el contenedor",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -88,37 +98,42 @@
 			"source": "Press <Red>F</> to <Red>Pickup</> ITEMNAME",
 			"sourceHash": "23ae9b2d",
 			"origin": "/Game/Blueprints/InventorySystem/BaseActors/BP_StaticMasterPickup.BP_StaticMasterPickup_C:BP_InteractionTarget_GEN_VARIABLE.IO_Pickup_C_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drücke <Red>F</>, um ITEMNAME <Red>aufzuheben</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按<Red>F</><Red>拾取</>ITEMNAME",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нажми <Red>F</>, чтобы <Red>подобрать</> ITEMNAME",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 눌러 ITEMNAME <Red>줍기</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>でITEMNAMEを<Red>拾う</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Pulsa <Red>F</> para <Red>recoger</> ITEMNAME",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -128,37 +143,42 @@
 			"source": "Press <Red>F</> to <Red>Pickup</> ITEMNAME",
 			"sourceHash": "23ae9b2d",
 			"origin": "/Game/Blueprints/InventorySystem/BaseActors/BP_SkeletalMasterPickup.BP_SkeletalMasterPickup_C:BP_InteractionTarget_GEN_VARIABLE.IO_Pickup_C_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drücke <Red>F</>, um ITEMNAME <Red>aufzuheben</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按<Red>F</><Red>拾取</>ITEMNAME",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нажми <Red>F</>, чтобы <Red>подобрать</> ITEMNAME",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 눌러 ITEMNAME <Red>줍기</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>でITEMNAMEを<Red>拾う</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Pulsa <Red>F</> para <Red>recoger</> ITEMNAME",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		}
