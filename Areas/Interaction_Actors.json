@@ -1,0 +1,2446 @@
+{
+	"schemaVersion": 1,
+	"area": "Interaction/Actors",
+	"entries": [
+		{
+			"ns": "",
+			"key": "03B6A95C4658287CE0537DAE026738FF",
+			"source": "Press <Red>F</> to <Red>Kick</> the door",
+			"sourceHash": "01fe9714",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/BP_Door_1.BP_Door_1_C:BP_Kick_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "0622738A497CD721B101B4930E65EE31",
+			"source": "Hold <Red>F</> to <Red>Unlock</> the door.",
+			"sourceHash": "47e149b8",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_WarhouseDoor_01.BP_WarhouseDoor_01_C:BP_UnlockTarget_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "07CD27044333210165C65DBF367E21C0",
+			"source": "press <Red>F</> to <Red>open</> the door.",
+			"sourceHash": "6ab90965",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_WarhouseDoor_02.BP_WarhouseDoor_02_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_2.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "093DE8624688513C75C377A31EBA4E20",
+			"source": "press <Red>F</> to <Red>peak</> through door.",
+			"sourceHash": "bfcb0e53",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/BP_Door_1.BP_Door_1_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "0A314A304CED72496881789985CC991B",
+			"source": "press <Red>F</> to <Red>close</> the door.",
+			"sourceHash": "2f1e5092",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/BP_Door_2.BP_Door_2_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_1.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "0E0F15754B74CD664F7A0192E66EDD8A",
+			"source": "press <Red>F</> to <Red>peak</> through the door.",
+			"sourceHash": "1b4c6dd5",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/BP_Door_Master1.BP_Door_Master1_C:BP_InteractionTarget_Peek_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "10446F85419E3ED53859C2B63FB57F94",
+			"source": "press <Red>F</> to <Red>peak</> through door.",
+			"sourceHash": "bfcb0e53",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_WarhouseDoor_01.BP_WarhouseDoor_01_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "10D9D5C34960D62A6656ED8120FA0110",
+			"source": "Hold <Red>F</> to <Red>boot up</> the terminal.",
+			"sourceHash": "37f0d2d2",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Terminal/BP_TerminalMaster.BP_TerminalMaster_C:BP_TerminalInteraction_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "124B386E4CB2E61D9E695AA2E3BE1538",
+			"source": "Hold <Red>F</> to <Red>accept</> the mission.",
+			"sourceHash": "a012b3f0",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Operation/BP_OperationInteractionPoint_Master.BP_OperationInteractionPoint_Master_C:BP_InteractionTarget_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "174DA9E64C72C0A4BD46B8A232D1D0E1",
+			"source": "press <Red>F</> to <Red>close</> the door.",
+			"sourceHash": "2f1e5092",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/BP_Door_1.BP_Door_1_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_1.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "1A078881465222DD6E7B2B82F12AC2A9",
+			"source": "press <Red>F</> to <Red>close</> the door.",
+			"sourceHash": "2f1e5092",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_Door_03.BP_Door_03_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_1.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "1C2AE5554238C5EB4CA082A291279EC2",
+			"source": "Press <Red>F</> to <Red>Kick</> the door",
+			"sourceHash": "01fe9714",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_WarhouseDoor_01.BP_WarhouseDoor_01_C:BP_Kick_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "21C988704C177B1C690373BA02E199E7",
+			"source": "press <Red>F</> to <Red>close</> the door.",
+			"sourceHash": "2f1e5092",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_WarhouseDoor_01.BP_WarhouseDoor_01_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_1.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "2667B4FA4DE43E4634CDA5A63035ED87",
+			"source": "Press <Red>F</> to <Red>Kick</> the door",
+			"sourceHash": "01fe9714",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_WarhouseDoor_02.BP_WarhouseDoor_02_C:BP_Kick_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "299A80834BF1AA254C93B4A5D6740DAB",
+			"source": "Hold <Red>F</> to use the item here.",
+			"sourceHash": "054a1527",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/ItemUsage/BP_ItemUsage.BP_ItemUsage_C:BP_InteractionTarget_GEN_VARIABLE.IO_LootContainer_C_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "2B8E70A547DD4CA765D758AD7ED677DB",
+			"source": "The Door is locked.",
+			"sourceHash": "8b10749d",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/BP_Door_1.BP_Door_1_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_4.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "32A4EF7F431F4F33170EC7A383F0AD3C",
+			"source": "press <Red>F</> to <Red>peak</> through the door.",
+			"sourceHash": "1b4c6dd5",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/BP_Door_Master1.BP_Door_Master1_C:BP_InteractionTarget_Peek_GEN_VARIABLE.InteractionOption_2.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "3416CF8F4F71E6671F799CA03FF77D23",
+			"source": "Booting...",
+			"sourceHash": "79077bea",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Operation/BP_OperationInteractionPoint_Master.BP_OperationInteractionPoint_Master_C:BP_InteractionTarget_GEN_VARIABLE.InteractionOption_0.HoldDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "3A0F71D04A43A49E67BA5DB36AC7FF04",
+			"source": "Hold...",
+			"sourceHash": "97ec7b3e",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_WarhouseDoor_02.BP_WarhouseDoor_02_C:BP_UnlockTarget_GEN_VARIABLE.InteractionOption_0.HoldDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "3B8BB5814362B06BED2306A89CF5DD97",
+			"source": "press <Red>F</> to <Red>close</> the door.",
+			"sourceHash": "2f1e5092",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_WarhouseDoor_02.BP_WarhouseDoor_02_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_1.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "45B7E7F647567B46E0D5709FA3877DA7",
+			"source": "You don't have the <Red>key card</>.",
+			"sourceHash": "198acc87",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/BP_Door_2.BP_Door_2_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_4.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "4C7CA19C4B4365B280AA158DE582242B",
+			"source": "Hold...",
+			"sourceHash": "97ec7b3e",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_Door_Electric.BP_Door_Electric_C:BP_Unlock_GEN_VARIABLE.InteractionOption_0.WaitDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "4EFECAEE4D299DC130CA4FB8BBD3009C",
+			"source": "Booting...",
+			"sourceHash": "79077bea",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Terminal/BP_TerminalMaster.BP_TerminalMaster_C:BP_TerminalInteraction_GEN_VARIABLE.InteractionOption_0.HoldDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "5FB1CC814CD8A93A089C5EB60513E8E1",
+			"source": "The Door is locked.",
+			"sourceHash": "8b10749d",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_Door_03.BP_Door_03_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_4.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "6976DED14FB034C8FBEBDCA72D41A6CD",
+			"source": "Hold <Red>F</> to <Red>Unlock</> the door.",
+			"sourceHash": "47e149b8",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/BP_Door_1.BP_Door_1_C:BP_UnlockTarget_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "6F056F40455923F08F42428893EDC5D7",
+			"source": "Press <Red>F</> to <Red>interact</> with the terminal.",
+			"sourceHash": "a753e181",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Terminal/BP_TerminalMaster.BP_TerminalMaster_C:BP_TerminalInteraction_GEN_VARIABLE.InteractionOption_2.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "70E5AB1641D7B05F31774F98BD34131B",
+			"source": "The Door is locked.",
+			"sourceHash": "8b10749d",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/BP_Door_Master1.BP_Door_Master1_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_4.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "714166B047A1B0777B91C386689AE684",
+			"source": "Hold...",
+			"sourceHash": "97ec7b3e",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_WarhouseDoor_01.BP_WarhouseDoor_01_C:BP_UnlockTarget_GEN_VARIABLE.InteractionOption_0.HoldDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "719AB2C7414177C240C8AEB81027B229",
+			"source": "You have no item to place.",
+			"sourceHash": "b9171014",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/ItemPickUp/BP_ItemPickUp.BP_ItemPickUp_C:BP_InteractionTarget_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "72FA282D4F607016B026FC8D6121DF34",
+			"source": "Hold <Red>F</> to place the bomb here",
+			"sourceHash": "9ed68877",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/ItemPlacement/BP_ItemPlacement_Bomb.BP_ItemPlacement_Bomb_C:BP_InteractionTarget_GEN_VARIABLE.IO_LootContainer_C_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "77C2A461498A512EB4BF22AB2BC88641",
+			"source": "Press <Red>F</> to <Red>Kick</> the door",
+			"sourceHash": "01fe9714",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/BP_Door_Master1.BP_Door_Master1_C:BP_Kick_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "782FE8FB4D138316E1EA588CAF642C54",
+			"source": "The Door is locked.",
+			"sourceHash": "8b10749d",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_WarhouseDoor_02.BP_WarhouseDoor_02_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_4.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "797A416047BFA8A94B0D69BD1928DF9C",
+			"source": "press <Red>F</> to <Red>close</> the door.",
+			"sourceHash": "2f1e5092",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/BP_Door_Master1.BP_Door_Master1_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_1.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "7BFE57FE43C75C128476F28422168CB1",
+			"source": "Hold <Red>F</> to place the jammer here",
+			"sourceHash": "dc8f228b",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/ItemPlacement/BP_ItemPlacement_Jammer.BP_ItemPlacement_Jammer_C:BP_InteractionTarget_GEN_VARIABLE.IO_LootContainer_C_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "80A9EF534F846099B234DCA3E7273DAF",
+			"source": "press <Red>F</> to <Red>open</> the door.",
+			"sourceHash": "6ab90965",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_Door_03.BP_Door_03_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_2.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "8635E22944819A2550B3E89375290803",
+			"source": "press <Red>F</> to <Red>use</> the switch.",
+			"sourceHash": "4289fdd3",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Switch/Device/BP_SwitchDeviceMaster.BP_SwitchDeviceMaster_C:BP_Switch_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "8BEFBD6B4965CB5D25600BB28230B1C3",
+			"source": "press <Red>F</> to <Red>open</> the door.",
+			"sourceHash": "6ab90965",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/BP_Door_Master1.BP_Door_Master1_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "953C4D9E47F333A256CE3D87D896A063",
+			"source": "Hold...",
+			"sourceHash": "97ec7b3e",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/BP_Door_1.BP_Door_1_C:BP_UnlockTarget_GEN_VARIABLE.InteractionOption_0.HoldDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "971BFFDC47EE55076A2D1EA6DC317C58",
+			"source": "Hold...",
+			"sourceHash": "97ec7b3e",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_Door_Quarry_Locked.BP_Door_Quarry_Locked_C:BP_Unlock_GEN_VARIABLE.InteractionOption_0.WaitDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "9748528243D2D2E164CEB887E92A5A8C",
+			"source": "press <Red>F</> to <Red>peak</> through door.",
+			"sourceHash": "bfcb0e53",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_WarhouseDoor_02.BP_WarhouseDoor_02_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "9771BF4B4FA3A6E976B28B9FAD3078AB",
+			"source": "The Door is locked.",
+			"sourceHash": "8b10749d",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_WarhouseDoor_01.BP_WarhouseDoor_01_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_4.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "988DE073402EEC770C590DAAC62E94AE",
+			"source": "Hold...",
+			"sourceHash": "97ec7b3e",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_Door_Quarry_Locked.BP_Door_Quarry_Locked_C:BP_Unlock_GEN_VARIABLE.InteractionOption_0.HoldDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "9D8B2BDD40413EB66F0DD89A110D52B2",
+			"source": "Hold...",
+			"sourceHash": "97ec7b3e",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_Door_Electric.BP_Door_Electric_C:BP_Unlock_GEN_VARIABLE.InteractionOption_0.HoldDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "A2AB2CF94CABF11BC8BFD5BCC2B95FF0",
+			"source": "Hold <Red>F</> to <Red>Unlock</> the door.",
+			"sourceHash": "47e149b8",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_Door_Quarry_Locked.BP_Door_Quarry_Locked_C:BP_Unlock_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "A5E87FDF4A02A5C3206789BD5C6B95D7",
+			"source": "press <Red>F</> to <Red>open</> the door.",
+			"sourceHash": "6ab90965",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/BP_Door_Master1.BP_Door_Master1_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_2.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "AE9704594522297EEF2A998DEB732EB0",
+			"source": "You have no item to place.",
+			"sourceHash": "b9171014",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/ItemUsage/BP_ItemUsage.BP_ItemUsage_C:BP_InteractionTarget_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "B2EE589C4880A4B08E3A0BA0512FE929",
+			"source": "Hold <Red>F</> to <Red>Unlock</> the door.",
+			"sourceHash": "47e149b8",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_WarhouseDoor_02.BP_WarhouseDoor_02_C:BP_UnlockTarget_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "C0A676524EB56A2CE9996191920B224D",
+			"source": "You have no item to place.",
+			"sourceHash": "b9171014",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/ItemPlacement/BP_ItemPlacement.BP_ItemPlacement_C:BP_InteractionTarget_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "C154EE29403313B7C6F3238DC2B472BD",
+			"source": "Hold <Red>F</> to place the item here.",
+			"sourceHash": "f7cebfc2",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/ItemPlacement/BP_ItemPlacement.BP_ItemPlacement_C:BP_InteractionTarget_GEN_VARIABLE.IO_LootContainer_C_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "C2556D534DA0BE838276FEB0BC271C85",
+			"source": "Hold <Red>F</> to place the bug here",
+			"sourceHash": "59b0d4bc",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/ItemPlacement/BP_ItemPlacement_Bug.BP_ItemPlacement_Bug_C:BP_InteractionTarget_GEN_VARIABLE.IO_LootContainer_C_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "C6C2DF4447239B00DA6D9AB74458F974",
+			"source": "Initiating Download...",
+			"sourceHash": "dc3dfb5e",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Terminal/BP_TerminalMaster.BP_TerminalMaster_C:BP_TerminalInteraction_GEN_VARIABLE.InteractionOption_2.HoldDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "C7BD461441ECE5D88C1DDDA5335DE92F",
+			"source": "press <Red>F</> to <Red>peak</> through door.",
+			"sourceHash": "bfcb0e53",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_Door_03.BP_Door_03_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "D38193124FC9A8A24A61E9BE69487582",
+			"source": "test",
+			"sourceHash": "919f0e6b",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/BP_AmmoRefill.BP_AmmoRefill_C:BP_InteractionTarget_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "D3F12AA241ABC8A998B7F887BE6ED444",
+			"source": "Hold <Red>F</> to <Red>Unlock</> the door.",
+			"sourceHash": "47e149b8",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_Door_Electric.BP_Door_Electric_C:BP_Unlock_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "E61FD40B44EFD0AC32E9898E00370C61",
+			"source": "Hold <Red>F</> to <Red>Unlock</> the door.",
+			"sourceHash": "47e149b8",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_Door_03.BP_Door_03_C:BP_UnlockTarget_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "E90D34C6422793704FF49B9FA8FC2FBE",
+			"source": "Hold <Red>F</> to pickup mission item.",
+			"sourceHash": "26db38ea",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/ItemPickUp/BP_ItemPickUp.BP_ItemPickUp_C:BP_InteractionTarget_GEN_VARIABLE.IO_LootContainer_C_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "E99F1D134B6224C5CF80C8A633BE9127",
+			"source": "Press <Red>F</> to <Red>Kick</> the door",
+			"sourceHash": "01fe9714",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_Door_03.BP_Door_03_C:BP_Kick_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "F07CED894193E9A8884A42830B669DEC",
+			"source": "press <Red>F</> to <Red>open</> the door.",
+			"sourceHash": "6ab90965",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_WarhouseDoor_01.BP_WarhouseDoor_01_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_2.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "F605B1894C1FD92B113F8A8A870D95F9",
+			"source": "press <Red>F</> to <Red>open</> the door.",
+			"sourceHash": "6ab90965",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/BP_Door_1.BP_Door_1_C:BP_OpenDoor_GEN_VARIABLE.InteractionOption_2.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "FA75872044E47D0C6AA2D1953CB79459",
+			"source": "press <Red>F</> to <Red>peak</> through door.",
+			"sourceHash": "bfcb0e53",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_WarhouseDoor_01.BP_WarhouseDoor_01_C:BP_InteractionTarget_Peek_GEN_VARIABLE.InteractionOption_2.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "FB0F3B554CE2683CB0C817BAC775D878",
+			"source": "Hold...",
+			"sourceHash": "97ec7b3e",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/Door/Quarry/BP_Door_03.BP_Door_03_C:BP_UnlockTarget_GEN_VARIABLE.InteractionOption_0.HoldDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		}
+	]
+}
