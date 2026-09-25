@@ -10196,6 +10196,46 @@
 		},
 		{
 			"ns": "",
+			"key": "9E5A982D4C1A0F663F75CC9078081739",
+			"source": "Test",
+			"sourceHash": "86a07516",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/W_InventoryHeadline.W_InventoryHeadline_C:WidgetTree.Text.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "9EFF299E42934ED947AC6393B494C917",
 			"source": "+",
 			"sourceHash": "5677f723",
@@ -12479,6 +12519,46 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "C33969E447BB661830B3E09C0C6004BB",
+			"source": "SectionName",
+			"sourceHash": "5d3cb74c",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/W_InventorySection.W_InventorySection_C:WidgetTree.SectionNameText.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
