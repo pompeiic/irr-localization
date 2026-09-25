@@ -8,38 +8,45 @@
 			"source": "Default Size",
 			"sourceHash": "ab96f025",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_DefaultSize.Default__U_DefaultSize_C.StatDisplayName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Standardgröße",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "默认尺寸",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Стандартный размер",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "기본 크기",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "デフォルトサイズ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Tamaño predeterminado",
 					"status": "machine",
 					"by": "ai",
@@ -53,38 +60,45 @@
 			"source": "mm",
 			"sourceHash": "e78045dd",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Caliber.Default__U_Caliber_C.Unit",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "mm",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "mm",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "мм",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "mm",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "mm",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "mm",
 					"status": "machine",
 					"by": "ai",
@@ -98,38 +112,45 @@
 			"source": "LP",
 			"sourceHash": "d01d0769",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Content.Default__U_Content_C.Unit",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "LP",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "LP",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "LP",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "LP",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "LP",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "LP",
 					"status": "machine",
 					"by": "ai",
@@ -143,38 +164,45 @@
 			"source": "Armor Points",
 			"sourceHash": "8169088b",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Armor.Default__U_Armor_C.StatDisplayName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Rüstungspunkte",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "护甲点数",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Очки брони",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "방어구 내구도",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "アーマーポイント",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Puntos de blindaje",
 					"status": "machine",
 					"by": "ai",
@@ -188,38 +216,45 @@
 			"source": "Discard",
 			"sourceHash": "f9de60d2",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_Discard.U_Discard_C:ExecuteUbergraph_U_Discard [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Wegwerfen",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "丢弃",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Выбросить",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "버리기",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "捨てる",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Descartar",
 					"status": "machine",
 					"by": "ai",
@@ -233,38 +268,45 @@
 			"source": "%",
 			"sourceHash": "b6a88010",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Heat.Default__U_Heat_C.Unit",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
@@ -278,38 +320,45 @@
 			"source": "Receiver",
 			"sourceHash": "e7bb8c1c",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContainers/U_Receiver.Default__U_Receiver_C.SlotName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Gehäuse",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "机匣",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Ствольная коробка",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "리시버",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "レシーバー",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Cajón de mecanismos",
 					"status": "machine",
 					"by": "ai",
@@ -323,38 +372,45 @@
 			"source": "m",
 			"sourceHash": "e808f0c2",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_ExplosionRadius.Default__U_ExplosionRadius_C.Unit",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "m",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "m",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "m",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "m",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "m",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "m",
 					"status": "machine",
 					"by": "ai",
@@ -368,38 +424,45 @@
 			"source": "HP",
 			"sourceHash": "54570993",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_PainDebuff.Default__U_PainDebuff_C.Unit",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "HP",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "HP",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "HP",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "HP",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "HP",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "HP",
 					"status": "machine",
 					"by": "ai",
@@ -413,38 +476,45 @@
 			"source": "Influences how fast the weapon cooldowns again.",
 			"sourceHash": "d62be021",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Cooldown.Default__U_Cooldown_C.StatDescription",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Beeinflusst, wie schnell die Waffe wieder abkühlt.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "影响武器再次冷却的速度。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Влияет на то, как быстро оружие снова остывает.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "무기가 다시 냉각되는 속도에 영향을 줍니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "武器が再び冷却される速度に影響する。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Influye en lo rápido que se vuelve a enfriar el arma.",
 					"status": "machine",
 					"by": "ai",
@@ -458,38 +528,45 @@
 			"source": "%",
 			"sourceHash": "b6a88010",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_StaminaBoost.Default__U_StaminaBoost_C.Unit",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
@@ -503,38 +580,45 @@
 			"source": "MRAD",
 			"sourceHash": "ea8e367c",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Accuracy.Default__U_Accuracy_C.Unit",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "MRAD",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "MRAD",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "MRAD",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "MRAD",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "MRAD",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "MRAD",
 					"status": "machine",
 					"by": "ai",
@@ -548,38 +632,45 @@
 			"source": "Pistol Grip",
 			"sourceHash": "5c258b04",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContainers/U_PistolGrip.Default__U_PistolGrip_C.SlotName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Pistolengriff",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "手枪握把",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Пистолетная рукоятка",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "권총 손잡이",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "ピストルグリップ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Empuñadura de pistola",
 					"status": "machine",
 					"by": "ai",
@@ -593,38 +684,45 @@
 			"source": "Explosion Delay",
 			"sourceHash": "0eba1415",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_ExplosionDelay.Default__U_ExplosionDelay_C.StatDisplayName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Explosionsverzögerung",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "爆炸延迟",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Задержка взрыва",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "폭발 지연 시간",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "爆発遅延",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Retardo de explosión",
 					"status": "machine",
 					"by": "ai",
@@ -638,38 +736,45 @@
 			"source": "Eff. Distance",
 			"sourceHash": "546433be",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_EffectiveDistance.Default__U_EffectiveDistance_C.StatDisplayName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Eff. Reichweite",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "有效射程",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Эфф. дистанция",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "유효 사거리",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "有効射程",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Dist. efectiva",
 					"status": "machine",
 					"by": "ai",
@@ -683,38 +788,45 @@
 			"source": "Mag",
 			"sourceHash": "6fa91fee",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContainers/U_Mag.Default__U_Mag_C.SlotName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Magazin",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "弹匣",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Магазин",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "탄창",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "マガジン",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Cargador",
 					"status": "machine",
 					"by": "ai",
@@ -728,38 +840,45 @@
 			"source": "Fire Rate",
 			"sourceHash": "7c45a2de",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_RoundsPerMinute.Default__U_RoundsPerMinute_C.StatDisplayName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Feuerrate",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "射速",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Скорострельность",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "발사 속도",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "連射速度",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Cadencia de tiro",
 					"status": "machine",
 					"by": "ai",
@@ -773,38 +892,45 @@
 			"source": "Handguard",
 			"sourceHash": "f79a935c",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContainers/U_Handguard.Default__U_Handguard_C.SlotName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Handschutz",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "护木",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Цевьё",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "핸드가드",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "ハンドガード",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Guardamanos",
 					"status": "machine",
 					"by": "ai",
@@ -818,38 +944,45 @@
 			"source": "Usage Time",
 			"sourceHash": "8d9109f6",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_UsageTime.Default__U_UsageTime_C.StatDisplayName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Anwendungsdauer",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "使用时间",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Время применения",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "사용 시간",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "使用時間",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Tiempo de uso",
 					"status": "machine",
 					"by": "ai",
@@ -863,38 +996,45 @@
 			"source": "m",
 			"sourceHash": "e808f0c2",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_EffectiveDistance.Default__U_EffectiveDistance_C.Unit",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "m",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "m",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "m",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "m",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "m",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "m",
 					"status": "machine",
 					"by": "ai",
@@ -908,38 +1048,45 @@
 			"source": "Grip",
 			"sourceHash": "53d641bd",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContainers/U_Foregrip.Default__U_Foregrip_C.SlotName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Vordergriff",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "前握把",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Тактическая рукоятка",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "포어그립",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "フォアグリップ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Empuñadura frontal",
 					"status": "machine",
 					"by": "ai",
@@ -953,38 +1100,45 @@
 			"source": "Influences how fast the weapon durability degrades.",
 			"sourceHash": "4670c9b2",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_DurabilityBurn.Default__U_DurabilityBurn_C.StatDescription",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Beeinflusst, wie schnell die Haltbarkeit der Waffe nachlässt.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "影响武器耐久度的损耗速度。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Влияет на скорость снижения прочности оружия.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "무기 내구도가 감소하는 속도에 영향을 줍니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "武器の耐久値が減少する速度に影響する。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Influye en lo rápido que se degrada la durabilidad del arma.",
 					"status": "machine",
 					"by": "ai",
@@ -998,38 +1152,45 @@
 			"source": "Barrel",
 			"sourceHash": "6f0958b4",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContainers/U_Barrel.Default__U_Barrel_C.SlotName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Lauf",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "枪管",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Ствол",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "총열",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "銃身",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Cañón",
 					"status": "machine",
 					"by": "ai",
@@ -1043,38 +1204,45 @@
 			"source": "Velocity",
 			"sourceHash": "cf1e43d4",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_MuzzleVelocity.Default__U_MuzzleVelocity_C.StatDisplayName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Geschwindigkeit",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "弹速",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Скорость",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "탄속",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "弾速",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Velocidad",
 					"status": "machine",
 					"by": "ai",
@@ -1088,38 +1256,45 @@
 			"source": "Gas Block",
 			"sourceHash": "8eab1709",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContainers/U_GasTube.Default__U_GasTube_C.SlotName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Gasblock",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "导气箍",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Газовый блок",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "가스 블록",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "ガスブロック",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Bloque de gas",
 					"status": "machine",
 					"by": "ai",
@@ -1133,38 +1308,45 @@
 			"source": "Pain Debuff",
 			"sourceHash": "63739a77",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_PainDebuff.Default__U_PainDebuff_C.StatDisplayName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Schmerz-Debuff",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "疼痛减益",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Дебафф от боли",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "통증 디버프",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "苦痛デバフ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Penalización por dolor",
 					"status": "machine",
 					"by": "ai",
@@ -1178,38 +1360,45 @@
 			"source": "Heat",
 			"sourceHash": "f93bae16",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Heat.Default__U_Heat_C.StatDisplayName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Hitze",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "热量",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Нагрев",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "열기",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "熱量",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Calor",
 					"status": "machine",
 					"by": "ai",
@@ -1223,38 +1412,45 @@
 			"source": "Protection Level",
 			"sourceHash": "a4b99448",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_ProtectionLevel.Default__U_ProtectionLevel_C.StatDisplayName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Schutzklasse",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "防护等级",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Класс защиты",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "방호 등급",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "防護レベル",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Nivel de protección",
 					"status": "machine",
 					"by": "ai",
@@ -1268,38 +1464,45 @@
 			"source": "Night Vision",
 			"sourceHash": "071e78cb",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContainers/U_NightVision.Default__U_NightVision_C.SlotName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Nachtsichtgerät",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "夜视仪",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "ПНВ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "야간투시경",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "暗視ゴーグル",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Visor nocturno",
 					"status": "machine",
 					"by": "ai",
@@ -1313,38 +1516,45 @@
 			"source": "Stamina Boost",
 			"sourceHash": "3432fd1e",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_StaminaBoost.Default__U_StaminaBoost_C.StatDisplayName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Ausdauer-Boost",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "耐力提升",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Увеличение выносливости",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "스태미나 부스트",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "スタミナブースト",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Aumento de resistencia",
 					"status": "machine",
 					"by": "ai",
@@ -1358,38 +1568,45 @@
 			"source": "Cover",
 			"sourceHash": "b0657e30",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContainers/U_DustCover.Default__U_DustCover_C.SlotName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Abdeckung",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "机匣盖",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Крышка ствольной коробки",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "커버",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "レシーバーカバー",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Tapa",
 					"status": "machine",
 					"by": "ai",
@@ -1403,38 +1620,45 @@
 			"source": "Compatible Items",
 			"sourceHash": "944936a3",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_CompatibleItems.Default__U_CompatibleItems_C.StatDisplayName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Kompatible Gegenstände",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "兼容物品",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Совместимые предметы",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "호환 아이템",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "対応アイテム",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Objetos compatibles",
 					"status": "machine",
 					"by": "ai",
@@ -1448,38 +1672,45 @@
 			"source": "Cancel",
 			"sourceHash": "38947156",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_Discard.U_Discard_C:ExecuteUbergraph_U_Discard [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Abbrechen",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "取消",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Отмена",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "취소",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "キャンセル",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Cancelar",
 					"status": "machine",
 					"by": "ai",
@@ -1493,38 +1724,45 @@
 			"source": "[{x} s] {y}",
 			"sourceHash": "89080fe3",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_PainDebuff.U_PainDebuff_C:GetStatValueText [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "[{x} s] {y}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "[{x} s] {y}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "[{x} s] {y}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "[{x} s] {y}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "[{x} s] {y}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "[{x} s] {y}",
 					"status": "machine",
 					"by": "ai",
@@ -1538,38 +1776,45 @@
 			"source": "Penetration",
 			"sourceHash": "ac8c5843",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Penetration.Default__U_Penetration_C.StatDisplayName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Durchschlag",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "穿透力",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Пробитие",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "관통력",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "貫通力",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Penetración",
 					"status": "machine",
 					"by": "ai",
@@ -1583,38 +1828,45 @@
 			"source": "%",
 			"sourceHash": "b6a88010",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_ShrapnelChance.Default__U_ShrapnelChance_C.Unit",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
@@ -1628,38 +1880,45 @@
 			"source": "Rail",
 			"sourceHash": "aee1751e",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContainers/U_Rail.Default__U_Rail_C.SlotName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Schiene",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "导轨",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Планка",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "레일",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "レール",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Raíl",
 					"status": "machine",
 					"by": "ai",
@@ -1673,38 +1932,45 @@
 			"source": "Tactical",
 			"sourceHash": "8db54b8e",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContainers/U_Tactical.Default__U_Tactical_C.SlotName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Taktisch",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "战术配件",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Тактический модуль",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "전술 장치",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "タクティカル",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Táctico",
 					"status": "machine",
 					"by": "ai",
@@ -1718,38 +1984,45 @@
 			"source": "[{x} s] {y}",
 			"sourceHash": "89080fe3",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_StaminaBoost.U_StaminaBoost_C:GetStatValueText [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "[{x} s] {y}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "[{x} s] {y}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "[{x} s] {y}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "[{x} s] {y}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "[{x} s] {y}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "[{x} s] {y}",
 					"status": "machine",
 					"by": "ai",
@@ -1763,38 +2036,45 @@
 			"source": "Chamber",
 			"sourceHash": "02ea3f25",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContainers/U_Chamber.Default__U_Chamber_C.SlotName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Patronenlager",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "弹膛",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Патронник",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "약실",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "チャンバー",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Recámara",
 					"status": "machine",
 					"by": "ai",
@@ -1808,38 +2088,45 @@
 			"source": "Content",
 			"sourceHash": "78a8e236",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Content.Default__U_Content_C.StatDisplayName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Inhalt",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "容量",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Содержимое",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "내용물",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "容量",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Contenido",
 					"status": "machine",
 					"by": "ai",
@@ -1853,38 +2140,45 @@
 			"source": "Stock",
 			"sourceHash": "969006c9",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContainers/U_Stock.Default__U_Stock_C.SlotName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Schulterstütze",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "枪托",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Приклад",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "개머리판",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "ストック",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Culata",
 					"status": "machine",
 					"by": "ai",
@@ -1898,38 +2192,45 @@
 			"source": "Damage",
 			"sourceHash": "f35224bb",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Damage.Default__U_Damage_C.StatDisplayName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Schaden",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "伤害",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Урон",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "피해량",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "ダメージ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Daño",
 					"status": "machine",
 					"by": "ai",
@@ -1943,38 +2244,45 @@
 			"source": "Stop Wound",
 			"sourceHash": "45ce18a4",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_StopWound.Default__U_StopWound_C.StatDisplayName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Wunde stillen",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "止住创伤",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Остановка ранения",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "상처 지혈",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "創傷停止",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Detener herida",
 					"status": "machine",
 					"by": "ai",
@@ -1988,38 +2296,45 @@
 			"source": "Recoil",
 			"sourceHash": "d3d89a82",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Recoil.Default__U_Recoil_C.StatDisplayName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Rückstoß",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "后坐力",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "отдача",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "반동",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "リコイル",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "retroceso",
 					"status": "machine",
 					"by": "ai",
@@ -2033,38 +2348,45 @@
 			"source": "HP",
 			"sourceHash": "54570993",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_HealOverTime.Default__U_HealOverTime_C.Unit",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "HP",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "HP",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "HP",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "HP",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "HP",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "HP",
 					"status": "machine",
 					"by": "ai",
@@ -2078,38 +2400,45 @@
 			"source": "Discard Item?",
 			"sourceHash": "45f950a1",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_Discard.U_Discard_C:ExecuteUbergraph_U_Discard [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Gegenstand wegwerfen?",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "丢弃物品？",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Выбросить предмет?",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "아이템을 버리시겠습니까?",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "アイテムを捨てますか？",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "¿Descartar objeto?",
 					"status": "machine",
 					"by": "ai",
@@ -2123,38 +2452,45 @@
 			"source": "Chance To Wound",
 			"sourceHash": "ef673a16",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_ChanceToWound.Default__U_ChanceToWound_C.StatDisplayName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Verwundungschance",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "致伤几率",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Шанс ранения",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "부상 확률",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "負傷確率",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Probabilidad de herida",
 					"status": "machine",
 					"by": "ai",
@@ -2168,38 +2504,45 @@
 			"source": "Influences how much the weapon heats over time while firing it.",
 			"sourceHash": "11ec2e4f",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Heat.Default__U_Heat_C.StatDescription",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Beeinflusst, wie stark sich die Waffe beim Schießen mit der Zeit erhitzt.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "影响武器射击时随着时间产生的热量。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Влияет на нагрев оружия со временем во время стрельбы.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "사격 시 시간에 따라 무기가 과열되는 정도에 영향을 줍니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "射撃時に武器が時間とともに加熱する度合いに影響する。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Influye en cuánto se calienta el arma con el tiempo al disparar.",
 					"status": "machine",
 					"by": "ai",
@@ -2213,38 +2556,45 @@
 			"source": "Gas Tube",
 			"sourceHash": "55bbb540",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContainers/Plattforms/AR-15/M4/U_GasTube_M4.Default__U_GasTube_M4_C.SlotName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Gasrohr",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "导气管",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Газовая трубка",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "가스 튜브",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "ガスピストンチューブ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Tubo de gases",
 					"status": "machine",
 					"by": "ai",
@@ -2258,38 +2608,45 @@
 			"source": "rpm",
 			"sourceHash": "d6b8674a",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_RoundsPerMinute.Default__U_RoundsPerMinute_C.Unit",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "rpm",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "rpm",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "выстр/мин",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "rpm",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "rpm",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "rpm",
 					"status": "machine",
 					"by": "ai",
@@ -2303,38 +2660,45 @@
 			"source": "Accuracy",
 			"sourceHash": "0395d0f7",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Accuracy.Default__U_Accuracy_C.StatDisplayName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Genauigkeit",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "精度",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Точность",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "정확도",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "精度",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Precisión",
 					"status": "machine",
 					"by": "ai",
@@ -2348,38 +2712,45 @@
 			"source": "s",
 			"sourceHash": "58ced06e",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Duration.Default__U_Duration_C.Unit",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "s",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "s",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "s",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "s",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "s",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "s",
 					"status": "machine",
 					"by": "ai",
@@ -2393,38 +2764,45 @@
 			"source": "Range",
 			"sourceHash": "90b9eba1",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_SightingRange.Default__U_SightingRange_C.StatDisplayName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Reichweite",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "射程",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Дальность",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "사거리",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "射程",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Alcance",
 					"status": "machine",
 					"by": "ai",
@@ -2438,38 +2816,45 @@
 			"source": "%",
 			"sourceHash": "b6a88010",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_StaminaDrain.Default__U_StaminaDrain_C.Unit",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
@@ -2483,38 +2868,45 @@
 			"source": "Muzzle",
 			"sourceHash": "356fae11",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContainers/U_Muzzle.Default__U_Muzzle_C.SlotName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Mündung",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "枪口",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Дуло",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "총구",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "銃口",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Boca del cañón",
 					"status": "machine",
 					"by": "ai",
@@ -2528,38 +2920,45 @@
 			"source": "m/s",
 			"sourceHash": "94f4d401",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_MuzzleVelocity.Default__U_MuzzleVelocity_C.Unit",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "m/s",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "m/s",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "m/s",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "m/s",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "m/s",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "m/s",
 					"status": "machine",
 					"by": "ai",
@@ -2573,38 +2972,45 @@
 			"source": "Chamber",
 			"sourceHash": "02ea3f25",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContainers/U_Ammunition.Default__U_Ammunition_C.SlotName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Patronenlager",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "弹膛",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Патронник",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "약실",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "チャンバー",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Recámara",
 					"status": "machine",
 					"by": "ai",
@@ -2618,38 +3024,45 @@
 			"source": "Durability",
 			"sourceHash": "c96465b5",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Durability.Default__U_Durability_C.StatDisplayName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Haltbarkeit",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "耐久度",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "прочность",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "내구도",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "耐久値",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "durabilidad",
 					"status": "machine",
 					"by": "ai",
@@ -2663,38 +3076,45 @@
 			"source": "Headphones",
 			"sourceHash": "1038ae2e",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContainers/U_Headphones.Default__U_Headphones_C.SlotName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Headset",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "耳机",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Наушники",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "헤드셋",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "ヘッドセット",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Auriculares",
 					"status": "machine",
 					"by": "ai",
@@ -2708,38 +3128,45 @@
 			"source": "Cooldown",
 			"sourceHash": "fae1f1dd",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Cooldown.Default__U_Cooldown_C.StatDisplayName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Abklingzeit",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "冷却",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Охлаждение",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "냉각",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "冷却",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Enfriamiento",
 					"status": "machine",
 					"by": "ai",
@@ -2753,38 +3180,45 @@
 			"source": "Piercing Level",
 			"sourceHash": "ecf292dd",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_PiercingLevel.Default__U_PiercingLevel_C.StatDisplayName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Durchschlagsstufe",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "穿甲等级",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Уровень пробития",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "관통 등급",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "貫通レベル",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Nivel de perforación",
 					"status": "machine",
 					"by": "ai",
@@ -2798,38 +3232,45 @@
 			"source": "Ergonomics",
 			"sourceHash": "270935a7",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Ergonomics.Default__U_Ergonomics_C.StatDisplayName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Ergonomie",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "人机工效",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "эргономика",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "인체공학",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "エルゴノミクス",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "ergonomía",
 					"status": "machine",
 					"by": "ai",
@@ -2843,38 +3284,45 @@
 			"source": "%",
 			"sourceHash": "b6a88010",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Durability.Default__U_Durability_C.Unit",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
@@ -2888,38 +3336,45 @@
 			"source": "HP",
 			"sourceHash": "54570993",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_HealInstant.Default__U_HealInstant_C.Unit",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "HP",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "HP",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "HP",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "HP",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "HP",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "HP",
 					"status": "machine",
 					"by": "ai",
@@ -2933,38 +3388,45 @@
 			"source": "s",
 			"sourceHash": "58ced06e",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_ExplosionDelay.Default__U_ExplosionDelay_C.Unit",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "s",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "s",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "s",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "s",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "s",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "s",
 					"status": "machine",
 					"by": "ai",
@@ -2978,38 +3440,45 @@
 			"source": "Duration",
 			"sourceHash": "02bf2ffc",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Duration.Default__U_Duration_C.StatDisplayName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Dauer",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "持续时间",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Длительность",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "지속 시간",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "持続時間",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Duración",
 					"status": "machine",
 					"by": "ai",
@@ -3023,38 +3492,45 @@
 			"source": "%",
 			"sourceHash": "b6a88010",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_ChanceToWound.Default__U_ChanceToWound_C.Unit",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
@@ -3068,38 +3544,45 @@
 			"source": "Caliber",
 			"sourceHash": "33a22c96",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Caliber.Default__U_Caliber_C.StatDisplayName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Kaliber",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "口径",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Калибр",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "구경",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "口径",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Calibre",
 					"status": "machine",
 					"by": "ai",
@@ -3113,38 +3596,45 @@
 			"source": "%",
 			"sourceHash": "b6a88010",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_DurabilityBurn.Default__U_DurabilityBurn_C.Unit",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
@@ -3158,38 +3648,45 @@
 			"source": "Heal Instant",
 			"sourceHash": "67f7be23",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_HealInstant.Default__U_HealInstant_C.StatDisplayName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Sofortheilung",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "即时治疗",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Мгновенное лечение",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "즉시 치유",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "即時回復",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Curación instantánea",
 					"status": "machine",
 					"by": "ai",
@@ -3203,38 +3700,45 @@
 			"source": "Heal Over Time",
 			"sourceHash": "58d21684",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_HealOverTime.Default__U_HealOverTime_C.StatDisplayName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Heilung über Zeit",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "持续治疗",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Лечение со временем",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "지속 치유",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "持続回復",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Curación con el tiempo",
 					"status": "machine",
 					"by": "ai",
@@ -3248,38 +3752,45 @@
 			"source": "s",
 			"sourceHash": "58ced06e",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_UsageTime.Default__U_UsageTime_C.Unit",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "s",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "s",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "s",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "s",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "s",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "s",
 					"status": "machine",
 					"by": "ai",
@@ -3293,38 +3804,45 @@
 			"source": "Firemodes",
 			"sourceHash": "5a7e4d39",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_FireModes.Default__U_FireModes_C.StatDisplayName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Feuermodi",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "开火模式",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Режимы огня",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "발사 모드",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "発射モード",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Modos de disparo",
 					"status": "machine",
 					"by": "ai",
@@ -3338,38 +3856,45 @@
 			"source": "{x} x {y}",
 			"sourceHash": "8a096aa5",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_DefaultSize.U_DefaultSize_C:GetStatValueText [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "{x} x {y}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "{x} x {y}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "{x} x {y}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "{x} x {y}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "{x} x {y}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "{x} x {y}",
 					"status": "machine",
 					"by": "ai",
@@ -3383,38 +3908,45 @@
 			"source": "%",
 			"sourceHash": "b6a88010",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Cooldown.Default__U_Cooldown_C.Unit",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "%",
 					"status": "machine",
 					"by": "ai",
@@ -3428,38 +3960,45 @@
 			"source": "Shrapnel Chance",
 			"sourceHash": "45c61b49",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_ShrapnelChance.Default__U_ShrapnelChance_C.StatDisplayName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Splitterchance",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "破片几率",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Шанс осколков",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "파편 발생 확률",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "破片発生確率",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Probabilidad de metralla",
 					"status": "machine",
 					"by": "ai",
@@ -3473,38 +4012,45 @@
 			"source": "Durability Burn",
 			"sourceHash": "b0cab12a",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_DurabilityBurn.Default__U_DurabilityBurn_C.StatDisplayName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Haltbarkeitsverlust",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "耐久损耗",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Износ прочности",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "내구도 소모",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "耐久値消耗",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Desgaste de durabilidad",
 					"status": "machine",
 					"by": "ai",
@@ -3518,38 +4064,45 @@
 			"source": "m",
 			"sourceHash": "e808f0c2",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_SightingRange.Default__U_SightingRange_C.Unit",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "m",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "m",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "m",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "m",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "m",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "m",
 					"status": "machine",
 					"by": "ai",
@@ -3563,38 +4116,45 @@
 			"source": "[{x} s] {y}",
 			"sourceHash": "89080fe3",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_HealOverTime.U_HealOverTime_C:GetStatValueText [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "[{x} s] {y}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "[{x} s] {y}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "[{x} s] {y}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "[{x} s] {y}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "[{x} s] {y}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "[{x} s] {y}",
 					"status": "machine",
 					"by": "ai",
@@ -3608,38 +4168,45 @@
 			"source": "Explosion Radius",
 			"sourceHash": "7ebf2d90",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_ExplosionRadius.Default__U_ExplosionRadius_C.StatDisplayName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Explosionsradius",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "爆炸半径",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Радиус взрыва",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "폭발 반경",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "爆発半径",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Radio de explosión",
 					"status": "machine",
 					"by": "ai",
@@ -3653,38 +4220,45 @@
 			"source": "Types Of Fire",
 			"sourceHash": "63586a8c",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_FireModes.Default__U_FireModes_C.StatDescription",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Feuermodi",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "开火模式种类",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Режимы огня",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "발사 방식 종류",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "射撃方式",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Tipos de disparo",
 					"status": "machine",
 					"by": "ai",
@@ -3698,38 +4272,45 @@
 			"source": "Stamina Buff",
 			"sourceHash": "4292a30c",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_StaminaDrain.Default__U_StaminaDrain_C.StatDisplayName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Ausdauer-Buff",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "耐力增益",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Бафф выносливости",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "스태미나 버프",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "スタミナバフ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Mejora de resistencia",
 					"status": "machine",
 					"by": "ai",
@@ -3743,38 +4324,45 @@
 			"source": "Sight",
 			"sourceHash": "2ae1576f",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContainers/U_Sight.Default__U_Sight_C.SlotName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Visier",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "瞄具",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Прицел",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "조준경",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "照準器",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Mira",
 					"status": "machine",
 					"by": "ai",
@@ -3788,38 +4376,45 @@
 			"source": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\n       bool bIsNestedVitalPart = false;",
 			"sourceHash": "561c7b97",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_RollUp.IsValidContext:K2Node_BreakStruct_0.ShowPinForProperties(16).ShowPinForProperties.PropertyTooltip",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\n       bool bIsNestedVitalPart = false;",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\n       bool bIsNestedVitalPart = false;",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\n       bool bIsNestedVitalPart = false;",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\n       bool bIsNestedVitalPart = false;",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\n       bool bIsNestedVitalPart = false;",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\n       bool bIsNestedVitalPart = false;",
 					"status": "machine",
 					"by": "ai",
@@ -3833,38 +4428,45 @@
 			"source": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFItemDimensions CurrentDimensions;",
 			"sourceHash": "4b9297b2",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_RollUp.IsValidContext:K2Node_BreakStruct_0.ShowPinForProperties(11).ShowPinForProperties.PropertyTooltip",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFItemDimensions CurrentDimensions;",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFItemDimensions CurrentDimensions;",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFItemDimensions CurrentDimensions;",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFItemDimensions CurrentDimensions;",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFItemDimensions CurrentDimensions;",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFItemDimensions CurrentDimensions;",
 					"status": "machine",
 					"by": "ai",
@@ -3878,38 +4480,45 @@
 			"source": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFGameplayTagContainer CurrentEquipToRequirements;\nTODO Rename to state and stats and remove everything below",
 			"sourceHash": "8c2c3cec",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_RollUp.IsValidContext:K2Node_BreakStruct_0.ShowPinForProperties(6).ShowPinForProperties.PropertyTooltip",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFGameplayTagContainer CurrentEquipToRequirements;\nTODO Rename to state and stats and remove everything below",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFGameplayTagContainer CurrentEquipToRequirements;\nTODO Rename to state and stats and remove everything below",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFGameplayTagContainer CurrentEquipToRequirements;\nTODO Rename to state and stats and remove everything below",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFGameplayTagContainer CurrentEquipToRequirements;\nTODO Rename to state and stats and remove everything below",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFGameplayTagContainer CurrentEquipToRequirements;\nTODO Rename to state and stats and remove everything below",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFGameplayTagContainer CurrentEquipToRequirements;\nTODO Rename to state and stats and remove everything below",
 					"status": "machine",
 					"by": "ai",
@@ -3923,38 +4532,45 @@
 			"source": "UPROPERTY(EditAnywhere, BlueprintReadWrite, Transient)\n       FGameplayTagContainer InstalledAttachments;",
 			"sourceHash": "21536ca1",
 			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_RollUp.IsValidContext:K2Node_BreakStruct_0.ShowPinForProperties(8).ShowPinForProperties.PropertyTooltip",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite, Transient)\n       FGameplayTagContainer InstalledAttachments;",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite, Transient)\n       FGameplayTagContainer InstalledAttachments;",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite, Transient)\n       FGameplayTagContainer InstalledAttachments;",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite, Transient)\n       FGameplayTagContainer InstalledAttachments;",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite, Transient)\n       FGameplayTagContainer InstalledAttachments;",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite, Transient)\n       FGameplayTagContainer InstalledAttachments;",
 					"status": "machine",
 					"by": "ai",
