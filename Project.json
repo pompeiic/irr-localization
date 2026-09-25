@@ -10,8 +10,8 @@
 		"ja",
 		"es-ES"
 	],
-	"exportedAt": "2026-09-25T00:01:56.268Z",
-	"entries": 3334,
+	"exportedAt": "2026-09-25T00:36:54.157Z",
+	"entries": 3336,
 	"areas": [
 		{
 			"area": "Blueprints/AI",
@@ -324,7 +324,7 @@
 		{
 			"area": "Inventory/Widgets",
 			"file": "Areas/Inventory_Widgets.json",
-			"entries": 310,
+			"entries": 312,
 			"translated":
 			{
 				"de": 310,
