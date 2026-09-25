@@ -8,38 +8,45 @@
 			"source": "Voice Chat",
 			"sourceHash": "d42e5d8a",
 			"origin": "Source/Test_C/AdvancedAudio/IRRVoiceChatSubsystem.cpp(585)",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Voice-Chat",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "语音聊天",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Голосовой чат",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "보이스 채팅",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "ボイスチャット",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Chat de voz",
 					"status": "machine",
 					"by": "ai",
