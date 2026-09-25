@@ -4,6 +4,46 @@
 	"entries": [
 		{
 			"ns": "",
+			"key": "203020C04D236821A67673B1AD8DBF97",
+			"source": "Hold <Red>F</> to loot the container",
+			"sourceHash": "979ebd5f",
+			"origin": "/Game/Blueprints/InventorySystem/ExampleActors/BP_LootContainer.BP_LootContainer_C:BP_InteractionTarget_GEN_VARIABLE.IO_LootContainer_C_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "2ED48D6E430F8DED5EED2F81D3209C9D",
 			"source": "Unlock additional weapon storage and increase max resources.",
 			"sourceHash": "11c07695",
@@ -155,6 +195,126 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "C1CA486640C2609E6994F0988871A6C8",
+			"source": "Hold <Red>F</> to open the container",
+			"sourceHash": "f61955e6",
+			"origin": "/Game/Blueprints/InventorySystem/ExampleActors/BP_SecureContainer.BP_SecureContainer_C:BP_InteractionTarget_GEN_VARIABLE.IO_LootContainer_C_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "C799F2A74F2FE77035FA958E49D58F5A",
+			"source": "Hold <Red>F</> to open container.",
+			"sourceHash": "77d2dddb",
+			"origin": "/Game/Blueprints/InventorySystem/ExampleActors/BP_MissionBox.BP_MissionBox_C:BP_InteractionTarget_GEN_VARIABLE.IO_LootContainer_C_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "E5D16F7044A59EDABD667687E8A9C3FD",
+			"source": "Press <Red>F</> to <Red>upgrade</> the stash.",
+			"sourceHash": "e4a2959f",
+			"origin": "/Game/Blueprints/InventorySystem/ExampleActors/BP_InventoryStash.BP_InventoryStash_C:BP_InteractionTarget_Upgrade_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
