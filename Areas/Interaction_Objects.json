@@ -1,0 +1,606 @@
+{
+	"schemaVersion": 1,
+	"area": "Interaction/Objects",
+	"entries": [
+		{
+			"ns": "",
+			"key": "1906D63B4030CFB54F7905802A0ED0BF",
+			"source": "hold",
+			"sourceHash": "cf2f7f44",
+			"origin": "/Game/Blueprints/InteractionSystem/Objects/InteractionOptions/IO_NoSpace.Default__IO_NoSpace_C.HoldDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "29961DCF4AD822231531C5982C914300",
+			"source": "hold",
+			"sourceHash": "cf2f7f44",
+			"origin": "/Game/Blueprints/InteractionSystem/Objects/InteractionOptions/IO_NoTargetItem.Default__IO_NoTargetItem_C.HoldDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "333F94B6457E9112775859A3B5DA031A",
+			"source": "Hold <Red>F</> to loot dead body",
+			"sourceHash": "4b74708d",
+			"origin": "/Game/Blueprints/InteractionSystem/Objects/InteractionOptions/IO_LootContainer.Default__IO_LootContainer_C.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "36F51D6B415E1CBB398EC98F03BF0911",
+			"source": "You don't have the required KEYNAME.",
+			"sourceHash": "3a43d07d",
+			"origin": "/Game/Blueprints/InteractionSystem/Objects/InteractionOptions/IO_NoKey.Default__IO_NoKey_C.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "4161F4B943EDED40071AF8A204EA24A1",
+			"source": "Press F to Pickup <red>ITEMNAME</> .",
+			"sourceHash": "05f58583",
+			"origin": "/Game/Blueprints/InteractionSystem/Objects/InteractionOptions/IO_Pickup.Default__IO_Pickup_C.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "74D6C8F1425DDCC91A3498AC5CBF3080",
+			"source": "hold",
+			"sourceHash": "cf2f7f44",
+			"origin": "/Game/Blueprints/InteractionSystem/Objects/InteractionOptions/IO_LootContainer.Default__IO_LootContainer_C.HoldDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "7E3B4DE64701EB3447E830933F540CCD",
+			"source": "hold",
+			"sourceHash": "cf2f7f44",
+			"origin": "/Game/Blueprints/InteractionSystem/Objects/InteractionOptions/IO_NoKey.Default__IO_NoKey_C.HoldDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "7F03BE424D84A5917B15EA8CFC226C0B",
+			"source": "Press <Red>F</> to <Red>open</> stash",
+			"sourceHash": "ad40fbaf",
+			"origin": "/Game/Blueprints/InteractionSystem/Objects/InteractionOptions/IO_Stash.Default__IO_Stash_C.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "B4529A524A5362C9B7F957B10BC0D1AA",
+			"source": "Press <Red>F</> to move up.",
+			"sourceHash": "721c6215",
+			"origin": "/Game/Blueprints/InteractionSystem/Objects/InteractionOptions/IO_MoveTarget_Up.Default__IO_MoveTarget_Up_C.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "C99841EE433A7E1AECBE9C8724035584",
+			"source": "Not enough space for <red>ITEMNAME</> .",
+			"sourceHash": "b264ca3a",
+			"origin": "/Game/Blueprints/InteractionSystem/Objects/InteractionOptions/IO_NoSpace.Default__IO_NoSpace_C.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "CF444A064EB7BB52A2514A8BC2BDC438",
+			"source": "hold",
+			"sourceHash": "cf2f7f44",
+			"origin": "/Game/Blueprints/InteractionSystem/Objects/InteractionOptions/IO_Stash.Default__IO_Stash_C.HoldDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "E17DFD2C4BAAF77300090BAE1EB78EF5",
+			"source": "You don't have the required TARGETITEM.",
+			"sourceHash": "cdc82993",
+			"origin": "/Game/Blueprints/InteractionSystem/Objects/InteractionOptions/IO_NoTargetItem.Default__IO_NoTargetItem_C.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "E6A84A0E4A82B08CB201F5A1F3C71C65",
+			"source": "Hold <Red>F</> to revive dead team mate",
+			"sourceHash": "299d4f60",
+			"origin": "/Game/Blueprints/InteractionSystem/Objects/InteractionOptions/IO_Revive.Default__IO_Revive_C.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "E86910124B5C3FE8CD2DCBA46024A60B",
+			"source": "hold",
+			"sourceHash": "cf2f7f44",
+			"origin": "/Game/Blueprints/InteractionSystem/Objects/InteractionOptions/IO_Revive.Default__IO_Revive_C.HoldDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "FBCC93A341F85241250F26970353249A",
+			"source": "Press <Red>F</> to move down.",
+			"sourceHash": "73640f7b",
+			"origin": "/Game/Blueprints/InteractionSystem/Objects/InteractionOptions/IO_MoveTarget_Down.Default__IO_MoveTarget_Down_C.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		}
+	]
+}
