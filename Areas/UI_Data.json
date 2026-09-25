@@ -212,6 +212,46 @@
 		},
 		{
 			"ns": "",
+			"key": "552172304BB39892055BF6A7C0EFAC47",
+			"source": "Cancel",
+			"sourceHash": "38947156",
+			"origin": "/Game/Blueprints/UICore/Data/DT_UI_BulkSale.DT_UI_BulkSale.Escape.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "595870B048733E82D4DE96ACA255C95C",
 			"source": "Vendor",
 			"sourceHash": "b4afcba1",
@@ -264,6 +304,46 @@
 		},
 		{
 			"ns": "",
+			"key": "6D4290F44D8D42C55B415F890EB73002",
+			"source": "Clear",
+			"sourceHash": "6661fb34",
+			"origin": "/Game/Blueprints/UICore/Data/DT_UI_BulkSale.DT_UI_BulkSale.Clear.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "738963ED4CAD241782190D897769E241",
 			"source": "Change Camera Mode",
 			"sourceHash": "d67a55be",
@@ -311,6 +391,46 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "7E914B0A41E817C429B11B94714A1FD0",
+			"source": "Bulk Sale",
+			"sourceHash": "bb985849",
+			"origin": "/Game/Blueprints/UICore/Data/DT_UI_InputActions.DT_UI_InputActions.BulkSale.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -519,6 +639,46 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "A2DC5FA84AAF0C871AB7DCAF9F9AE0F2",
+			"source": "Sell",
+			"sourceHash": "4b6fd194",
+			"origin": "/Game/Blueprints/UICore/Data/DT_UI_BulkSale.DT_UI_BulkSale.Confirm.Name",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
