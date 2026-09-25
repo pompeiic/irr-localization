@@ -8,38 +8,45 @@
 			"source": "Items recovered from your secure container.",
 			"sourceHash": "f52c86e5",
 			"origin": "Source/Test_C/Inventory/SecureContainer/SecureContainer.cpp(35)",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Aus deinem sicheren Behälter geborgene Gegenstände.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "从你的安全箱中回收的物品。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Предметы, спасённые из твоего защищённого контейнера.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "보안 컨테이너에서 회수한 아이템입니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "セキュアコンテナから回収されたアイテム。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Objetos recuperados de tu contenedor seguro.",
 					"status": "machine",
 					"by": "ai",
@@ -53,38 +60,45 @@
 			"source": "Secure Container",
 			"sourceHash": "6603d6e0",
 			"origin": "Source/Test_C/Inventory/SecureContainer/SecureContainer.cpp(34)",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Sicherer Behälter",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "安全箱",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Защищённый контейнер",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "보안 컨테이너",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "セキュアコンテナ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Contenedor seguro",
 					"status": "machine",
 					"by": "ai",
