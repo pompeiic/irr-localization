@@ -8,38 +8,45 @@
 			"source": "HOLD",
 			"sourceHash": "996512a9",
 			"origin": "Source/Test_C/Optics/IRROpticDisplayWidget.cpp(42)",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "HALTEN",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "按住",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "УДЕРЖИВАТЬ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "유지",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "長押し",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "MANTENER",
 					"status": "machine",
 					"by": "ai",
@@ -53,38 +60,45 @@
 			"source": "SCAN",
 			"sourceHash": "d42bbfbe",
 			"origin": "Source/Test_C/Optics/IRROpticDisplayWidget.cpp(41)",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "SCAN",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "扫描",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "СКАН",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "스캔",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "スキャン",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "ESCANEO",
 					"status": "machine",
 					"by": "ai",
