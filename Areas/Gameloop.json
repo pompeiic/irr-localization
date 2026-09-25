@@ -8,37 +8,42 @@
 			"source": "Press <Red>F</> to loot dead body",
 			"sourceHash": "4092adbe",
 			"origin": "/Game/Blueprints/Gameloop/BP_IRR_PlayerCharacter.BP_IRR_PlayerCharacter_C:BP_InteractionTarget_Loot_GEN_VARIABLE.IO_LootContainer_C_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drücke <Red>F</>, um die Leiche zu plündern",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按<Red>F</>搜刮尸体",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нажми <Red>F</>, чтобы обыскать тело",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 눌러 시체 루팅",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>で死体を漁る",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Pulsa <Red>F</> para saquear el cadáver",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -48,37 +53,42 @@
 			"source": "Hold to revive team mate.",
 			"sourceHash": "30879214",
 			"origin": "/Game/Blueprints/Gameloop/BP_IRR_PlayerCharacter.BP_IRR_PlayerCharacter_C:BP_InteractionTarget_Revive_GEN_VARIABLE.IO_Revive_C_0.HoldDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Halten, um Teamkameraden wiederzubeleben.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按住以复活队友。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Удерживай, чтобы поднять союзника.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "길게 눌러 팀원 소생",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "長押しで味方を蘇生",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Mantén para reanimar a tu compañero.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -88,45 +98,38 @@
 			"source": "cheat code",
 			"sourceHash": "9d5acf0a",
 			"origin": "/Game/Blueprints/Gameloop/W_ConsoleCommand.W_ConsoleCommand_C:WidgetTree.ConsoleCommand.HintText",
-			"t":
-			{
-				"de":
-				{
+			"t": {
+				"de": {
 					"text": "Cheat-Code",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
+				"zh-Hans": {
 					"text": "作弊码",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
+				"ru": {
 					"text": "чит-код",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
+				"ko": {
 					"text": "치트 코드",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
+				"ja": {
 					"text": "チートコード",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
+				"es-ES": {
 					"text": "código trampa",
 					"status": "machine",
 					"by": "ai",
@@ -140,45 +143,38 @@
 			"source": "Failed To Follow Party Leader",
 			"sourceHash": "5fa0c450",
 			"origin": "/Game/Blueprints/Gameloop/BP_OnlineSession.BP_OnlineSession_C:ExecuteUbergraph_BP_OnlineSession [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
+			"t": {
+				"de": {
 					"text": "Party-Anführer folgen fehlgeschlagen",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
+				"zh-Hans": {
 					"text": "跟随小队队长失败",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
+				"ru": {
 					"text": "Не удалось следовать за лидером группы",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
+				"ko": {
 					"text": "파티 리더 따라가기 실패",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
+				"ja": {
 					"text": "パーティーリーダーへの追従に失敗",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
+				"es-ES": {
 					"text": "Error al seguir al líder del grupo",
 					"status": "machine",
 					"by": "ai",
@@ -192,45 +188,38 @@
 			"source": "Execute",
 			"sourceHash": "130d0944",
 			"origin": "/Game/Blueprints/Gameloop/W_ConsoleCommand.W_ConsoleCommand_C:WidgetTree.Execute.ButtonSettings.ButtonTextSettings_32_0259C12542FE5FAFB70394A7AD700F2B.Text_2_634ECB774367801585F64289E8499E19",
-			"t":
-			{
-				"de":
-				{
+			"t": {
+				"de": {
 					"text": "Ausführen",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
+				"zh-Hans": {
 					"text": "执行",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
+				"ru": {
 					"text": "Выполнить",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
+				"ko": {
 					"text": "실행",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
+				"ja": {
 					"text": "実行",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
+				"es-ES": {
 					"text": "Ejecutar",
 					"status": "machine",
 					"by": "ai",
@@ -244,45 +233,38 @@
 			"source": "Cannot Accept Party Invite.",
 			"sourceHash": "bcdbbb96",
 			"origin": "/Game/Blueprints/Gameloop/BP_OnlineSession.BP_OnlineSession_C:CanAcceptSessionInvite [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
+			"t": {
+				"de": {
 					"text": "Party-Einladung kann nicht angenommen werden.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
+				"zh-Hans": {
 					"text": "无法接受小队邀请。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
+				"ru": {
 					"text": "Нельзя принять приглашение в группу.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
+				"ko": {
 					"text": "파티 초대를 수락할 수 없습니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
+				"ja": {
 					"text": "パーティー招待を受けられません。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
+				"es-ES": {
 					"text": "No se puede aceptar la invitación al grupo.",
 					"status": "machine",
 					"by": "ai",
@@ -296,45 +278,38 @@
 			"source": "Close",
 			"sourceHash": "7f064a25",
 			"origin": "/Game/Blueprints/Gameloop/W_ConsoleCommand.W_ConsoleCommand_C:WidgetTree.Close.ButtonSettings.ButtonTextSettings_32_0259C12542FE5FAFB70394A7AD700F2B.Text_2_634ECB774367801585F64289E8499E19",
-			"t":
-			{
-				"de":
-				{
+			"t": {
+				"de": {
 					"text": "Schließen",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
+				"zh-Hans": {
 					"text": "关闭",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
+				"ru": {
 					"text": "Закрыть",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
+				"ko": {
 					"text": "닫기",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
+				"ja": {
 					"text": "閉じる",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
+				"es-ES": {
 					"text": "Cerrar",
 					"status": "machine",
 					"by": "ai",
@@ -348,37 +323,42 @@
 			"source": "You have no revive syringe.",
 			"sourceHash": "52b32c63",
 			"origin": "/Game/Blueprints/Gameloop/BP_IRR_PlayerCharacter.BP_IRR_PlayerCharacter_C:BP_InteractionTarget_Revive_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Du hast keine Wiederbelebungsspritze.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "你没有复苏注射器。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "У тебя нет шприца для реанимации.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "소생 주사기가 없습니다.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "蘇生用注射器を持っていない。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "No tienes jeringa de reanimación.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -388,45 +368,38 @@
 			"source": "We take no guruantee for any commands :)",
 			"sourceHash": "e10bc91b",
 			"origin": "/Game/Blueprints/Gameloop/W_ConsoleCommand.W_ConsoleCommand_C:WidgetTree.Disclaimer.Text",
-			"t":
-			{
-				"de":
-				{
+			"t": {
+				"de": {
 					"text": "Wir übernehmen keine Garantie für irgendwelche Befehle :)",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
+				"zh-Hans": {
 					"text": "我们对任何命令不作保证 :)",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
+				"ru": {
 					"text": "Мы не гарантируем работу любых команд :)",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
+				"ko": {
 					"text": "어떤 명령에 대해서도 보장하지 않습니다 :)",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
+				"ja": {
 					"text": "コマンドの動作は保証しません :)",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
+				"es-ES": {
 					"text": "No garantizamos ningún comando :)",
 					"status": "machine",
 					"by": "ai",
@@ -440,37 +413,42 @@
 			"source": "Hold..",
 			"sourceHash": "1dad2d46",
 			"origin": "/Game/Blueprints/Gameloop/BP_IRR_PlayerCharacter.BP_IRR_PlayerCharacter_C:BP_InteractionTarget_Revive_GEN_VARIABLE.IO_Revive_C_0.WaitDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Halten..",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按住..",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Удерживай..",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "누르고 있기..",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "長押し..",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Mantén..",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -480,37 +458,42 @@
 			"source": "Following Party Leader",
 			"sourceHash": "c4a2fc12",
 			"origin": "/Game/Blueprints/Gameloop/BP_OnlineSession.BP_OnlineSession_C:ExecuteUbergraph_BP_OnlineSession [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Folge dem Party-Anführer",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:54:02Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "正在跟随小队队长",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:54:02Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Следование за лидером группы",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:54:02Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "파티 리더 따라가는 중",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:54:02Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "パーティーリーダーに追従中",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:54:02Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Siguiendo al líder del grupo",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:54:02Z"
 				}
 			}
 		},
@@ -520,45 +503,38 @@
 			"source": "CHEAT CONSOLE",
 			"sourceHash": "604972f9",
 			"origin": "/Game/Blueprints/Gameloop/W_ConsoleCommand.W_ConsoleCommand_C:WidgetTree.Title.Text",
-			"t":
-			{
-				"de":
-				{
+			"t": {
+				"de": {
 					"text": "CHEAT-KONSOLE",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
+				"zh-Hans": {
 					"text": "作弊控制台",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
+				"ru": {
 					"text": "ЧИТ-КОНСОЛЬ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
+				"ko": {
 					"text": "치트 콘솔",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
+				"ja": {
 					"text": "チートコンソール",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
+				"es-ES": {
 					"text": "CONSOLA DE TRAMPAS",
 					"status": "machine",
 					"by": "ai",

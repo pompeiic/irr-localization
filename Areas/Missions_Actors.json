@@ -8,45 +8,38 @@
 			"source": "<strong>Cleans</> up the <strong>rocks</>, adds <strong>fresh concrete flooring</>, as well as <strong>seal</> the gaps in the roof and <strong>repaints</> the wall bricks.",
 			"sourceHash": "94cc3025",
 			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_Structure.BP_HideoutUnit_Structure_C:BP_IRRHideoutUnitComponent_GEN_VARIABLE.UpgradeLevels(1).UpgradeLevels.UpgradeLevelDescription",
-			"t":
-			{
-				"de":
-				{
+			"t": {
+				"de": {
 					"text": "<strong>Beseitigt</> die <strong>Steine</>, verlegt einen <strong>neuen Betonboden</>, <strong>dichtet</> die Lücken im Dach ab und <strong>streicht</> das Mauerwerk neu.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
+				"zh-Hans": {
 					"text": "<strong>清理</><strong>碎石</>，铺设<strong>崭新的混凝土地面</>，并<strong>封堵</>屋顶缝隙，重新<strong>粉刷</>墙砖。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
+				"ru": {
 					"text": "<strong>Убирает</> <strong>камни</>, заливает <strong>свежий бетонный пол</>, а также <strong>герметизирует</> щели в крыше и <strong>перекрашивает</> кирпичные стены.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
+				"ko": {
 					"text": "<strong>돌무더기</>를 <strong>치우고</>, <strong>새 콘크리트 바닥</>을 시공하며, 지붕 틈새를 <strong>메우고</> 벽돌을 <strong>다시 칠합니다</>.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
+				"ja": {
 					"text": "<strong>瓦礫</>を<strong>清掃</>し、<strong>新しいコンクリートの床</>を敷き、屋根の隙間を<strong>密閉</>して壁のレンガを<strong>塗り直します</>。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
+				"es-ES": {
 					"text": "<strong>Limpia</> los <strong>escombros</>, añade un <strong>suelo de hormigón nuevo</>, <strong>sella</> las grietas del tejado y <strong>repinta</> los ladrillos de la pared.",
 					"status": "machine",
 					"by": "ai",
@@ -60,37 +53,42 @@
 			"source": "Press <Red>F</> to <Red>upgrade</> the lighting.",
 			"sourceHash": "fff68b24",
 			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_Lighting.BP_HideoutUnit_Lighting_C:BP_InteractionTarget_Upgrade_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drücke <Red>F</>, um die Beleuchtung <Red>aufzurüsten</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按<Red>F</><Red>升级</>照明。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нажми <Red>F</>, чтобы <Red>улучшить</> освещение.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 눌러 조명 <Red>업그레이드</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>で照明を<Red>強化</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Pulsa <Red>F</> para <Red>mejorar</> la iluminación.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -100,45 +98,38 @@
 			"source": "Installs a <strong>large</> generator powered by <strong>diesel</> in your safehouse.",
 			"sourceHash": "cf3ca614",
 			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_Generator.BP_HideoutUnit_Generator_C:BP_IRRHideoutUnitComponent_GEN_VARIABLE.UpgradeLevels(0).UpgradeLevels.UpgradeLevelDescription",
-			"t":
-			{
-				"de":
-				{
+			"t": {
+				"de": {
 					"text": "Installiert einen <strong>großen</> mit <strong>Diesel</> betriebenen Generator in deinem Versteck.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
+				"zh-Hans": {
 					"text": "在你的藏身处安装一台以<strong>柴油</>为动力的<strong>大型</>发电机。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
+				"ru": {
 					"text": "Устанавливает в твоём убежище <strong>большой</> генератор, работающий на <strong>дизеле</>.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
+				"ko": {
 					"text": "은신처에 <strong>디젤</>로 작동하는 <strong>대형</> 발전기를 설치합니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
+				"ja": {
 					"text": "隠れ家に<strong>ディーゼル</>で動く<strong>大型</>発電機を設置します。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
+				"es-ES": {
 					"text": "Instala un generador <strong>grande</> alimentado por <strong>diésel</> en tu refugio.",
 					"status": "machine",
 					"by": "ai",
@@ -152,45 +143,38 @@
 			"source": "Unlocks the gunsmith to <strong>customize and assemble</> all guns.",
 			"sourceHash": "ceb0030a",
 			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/Gunsmith/BP_Gunsmith.BP_Gunsmith_C:BP_IRRHideoutUnitComponent_GEN_VARIABLE.UpgradeLevels(0).UpgradeLevels.UpgradeLevelDescription",
-			"t":
-			{
-				"de":
-				{
+			"t": {
+				"de": {
 					"text": "Schaltet den Büchsenmacher frei, um alle Waffen <strong>anzupassen und zusammenzubauen</>.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
+				"zh-Hans": {
 					"text": "解锁改枪功能，可<strong>改装与组装</>所有枪械。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
+				"ru": {
 					"text": "Открывает оружейника, позволяя <strong>модифицировать и собирать</> любое оружие.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
+				"ko": {
 					"text": "모든 총기를 <strong>개조 및 조립</>할 수 있는 총기 개조를 해금합니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
+				"ja": {
 					"text": "すべての銃を<strong>カスタマイズおよび組み立て</>できるガンスミスをアンロックします。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
+				"es-ES": {
 					"text": "Desbloquea el armero para <strong>personalizar y montar</> todas las armas.",
 					"status": "machine",
 					"by": "ai",
@@ -204,45 +188,38 @@
 			"source": "Unlocks <strong>material repairs</> for guns & attachments.",
 			"sourceHash": "ff685f9b",
 			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/Gunsmith/BP_Gunsmith.BP_Gunsmith_C:BP_IRRHideoutUnitComponent_GEN_VARIABLE.UpgradeLevels(1).UpgradeLevels.UpgradeLevelDescription",
-			"t":
-			{
-				"de":
-				{
+			"t": {
+				"de": {
 					"text": "Schaltet <strong>Materialreparaturen</> für Waffen und Anbauteile frei.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
+				"zh-Hans": {
 					"text": "解锁枪械与配件的<strong>材料修理</>。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
+				"ru": {
 					"text": "Открывает <strong>ремонт за материалы</> для оружия и модулей.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
+				"ko": {
 					"text": "총기 및 부착물 <strong>재료 수리</>를 해금합니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
+				"ja": {
 					"text": "銃およびアタッチメントの<strong>素材修理</>をアンロックします。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
+				"es-ES": {
 					"text": "Desbloquea las <strong>reparaciones con materiales</> para armas y accesorios.",
 					"status": "machine",
 					"by": "ai",
@@ -256,45 +233,38 @@
 			"source": "<strong>Replaces</> the basic lighting with more advanced <strong>fluorescent</> lighting.",
 			"sourceHash": "4317f500",
 			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_Lighting.BP_HideoutUnit_Lighting_C:BP_IRRHideoutUnitComponent_GEN_VARIABLE.UpgradeLevels(1).UpgradeLevels.UpgradeLevelDescription",
-			"t":
-			{
-				"de":
-				{
+			"t": {
+				"de": {
 					"text": "<strong>Ersetzt</> die einfache Beleuchtung durch fortschrittlichere <strong>Leuchtstofflampen</>.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
+				"zh-Hans": {
 					"text": "将基础照明<strong>替换</>为更高级的<strong>荧光灯</>照明。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
+				"ru": {
 					"text": "<strong>Заменяет</> базовое освещение на более продвинутое <strong>люминесцентное</>.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
+				"ko": {
 					"text": "기본 조명을 더 발전된 <strong>형광등</> 조명으로 <strong>교체</>합니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
+				"ja": {
 					"text": "基本照明を、より高度な<strong>蛍光灯</>照明に<strong>交換</>します。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
+				"es-ES": {
 					"text": "<strong>Sustituye</> la iluminación básica por una más avanzada iluminación <strong>fluorescente</>.",
 					"status": "machine",
 					"by": "ai",
@@ -308,37 +278,42 @@
 			"source": "Press <Red>F</> to <Red>upgrade</> the generator.",
 			"sourceHash": "f7b6fa39",
 			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_Generator.BP_HideoutUnit_Generator_C:BP_InteractionTarget_Upgrade_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drücke <Red>F</>, um den Generator <Red>aufzurüsten</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按<Red>F</><Red>升级</>发电机。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нажми <Red>F</>, чтобы <Red>улучшить</> генератор.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 눌러 발전기 <Red>업그레이드</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>で発電機を<Red>強化</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Pulsa <Red>F</> para <Red>mejorar</> el generador.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -348,45 +323,38 @@
 			"source": "Builds a <strong>satelliate antenna</> that provides additional <strong>information</> from each faction at your deploy screen. ",
 			"sourceHash": "1be0869b",
 			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_IntelCenter.BP_HideoutUnit_IntelCenter_C:BP_IRRHideoutUnitComponent_GEN_VARIABLE.UpgradeLevels(2).UpgradeLevels.UpgradeLevelDescription",
-			"t":
-			{
-				"de":
-				{
+			"t": {
+				"de": {
 					"text": "Baut eine <strong>Satellitenantenne</>, die auf deinem Einsatzbildschirm zusätzliche <strong>Informationen</> der einzelnen Fraktionen anzeigt. ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
+				"zh-Hans": {
 					"text": "建造一座<strong>卫星天线</>，在你的部署界面上提供来自各派系的额外<strong>情报</>。 ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
+				"ru": {
 					"text": "Строит <strong>спутниковую антенну</>, передающую дополнительные <strong>сведения</> от каждой фракции на экране высадки. ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
+				"ko": {
 					"text": "출격 화면에서 각 파벌의 추가 <strong>정보</>를 제공하는 <strong>위성 안테나</>를 건설합니다. ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
+				"ja": {
 					"text": "出撃画面で各派閥からの追加<strong>情報</>を提供する<strong>衛星アンテナ</>を建設します。 ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
+				"es-ES": {
 					"text": "Construye una <strong>antena satelital</> que proporciona <strong>información</> adicional de cada facción en la pantalla de despliegue. ",
 					"status": "machine",
 					"by": "ai",
@@ -400,45 +368,38 @@
 			"source": "Adds more <strong>targets</> that are <strong>lit</> to help visibility during night times.",
 			"sourceHash": "d54f6e59",
 			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_Master_ShootingRange.BP_HideoutUnit_Master_ShootingRange_C:BP_IRRHideoutUnitComponent_GEN_VARIABLE.UpgradeLevels(1).UpgradeLevels.UpgradeLevelDescription",
-			"t":
-			{
-				"de":
-				{
+			"t": {
+				"de": {
 					"text": "Fügt weitere <strong>Ziele</> hinzu, die <strong>beleuchtet</> sind, um die Sichtbarkeit bei Nacht zu verbessern.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
+				"zh-Hans": {
 					"text": "增加更多带有<strong>照明</>的<strong>靶标</>，以便在夜间看清。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
+				"ru": {
 					"text": "Добавляет больше <strong>мишеней</>, которые <strong>подсвечены</> для лучшей видимости ночью.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
+				"ko": {
 					"text": "야간 시야를 돕기 위해 <strong>조명이 켜진</> <strong>표적</>을 더 추가합니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
+				"ja": {
 					"text": "夜間の視認性を高めるため、<strong>照明付き</>の<strong>ターゲット</>を追加します。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
+				"es-ES": {
 					"text": "Añade más <strong>dianas</> que están <strong>iluminadas</> para facilitar la visibilidad de noche.",
 					"status": "machine",
 					"by": "ai",
@@ -452,45 +413,38 @@
 			"source": "Enables <strong>repairing</> of gear items with <strong>materials</>.",
 			"sourceHash": "9d329df7",
 			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_RepairStation.BP_HideoutUnit_RepairStation_C:BP_IRRHideoutUnitComponent_GEN_VARIABLE.UpgradeLevels(0).UpgradeLevels.UpgradeLevelDescription",
-			"t":
-			{
-				"de":
-				{
+			"t": {
+				"de": {
 					"text": "Ermöglicht das <strong>Reparieren</> von Ausrüstungsgegenständen mit <strong>Materialien</>.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
+				"zh-Hans": {
 					"text": "允许使用<strong>材料</><strong>修理</>装备物品。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
+				"ru": {
 					"text": "Позволяет выполнять <strong>ремонт</> снаряжения с помощью <strong>материалов</>.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
+				"ko": {
 					"text": "<strong>재료</>를 사용한 장비 아이템 <strong>수리</>를 활성화합니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
+				"ja": {
 					"text": "<strong>素材</>を使用した装備アイテムの<strong>修理</>を可能にします。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
+				"es-ES": {
 					"text": "Permite <strong>reparar</> objetos de equipamiento con <strong>materiales</>.",
 					"status": "machine",
 					"by": "ai",
@@ -504,45 +458,38 @@
 			"source": "Gameplay Effect",
 			"sourceHash": "3df17c49",
 			"origin": "/Game/Blueprints/MissionSystem/Actors/Triggers/BP_LevelTrigger_GameplayEffectZone.Default__BP_LevelTrigger_GameplayEffectZone_C.DisplayLabel",
-			"t":
-			{
-				"de":
-				{
+			"t": {
+				"de": {
 					"text": "Gameplay-Effekt",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
+				"zh-Hans": {
 					"text": "游戏效果",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
+				"ru": {
 					"text": "Геймплейный эффект",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
+				"ko": {
 					"text": "게임플레이 효과",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
+				"ja": {
 					"text": "ゲームプレイエフェクト",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
+				"es-ES": {
 					"text": "Efecto de juego",
 					"status": "machine",
 					"by": "ai",
@@ -556,37 +503,42 @@
 			"source": "Press <Red>F</> to <Red>upgrade</> the PLACEHOLDER.",
 			"sourceHash": "3f3439a7",
 			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_Master.BP_HideoutUnit_Master_C:BP_InteractionTarget_Upgrade_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drücke <Red>F</>, um PLACEHOLDER <Red>aufzurüsten</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按<Red>F</><Red>升级</>PLACEHOLDER。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нажми <Red>F</>, чтобы <Red>улучшить</> PLACEHOLDER.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 눌러 PLACEHOLDER <Red>업그레이드</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>でPLACEHOLDERを<Red>強化</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Pulsa <Red>F</> para <Red>mejorar</> PLACEHOLDER.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -596,45 +548,38 @@
 			"source": "Adds <strong>basic</> lighting to your safehouse.",
 			"sourceHash": "bf64e875",
 			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_Lighting.BP_HideoutUnit_Lighting_C:BP_IRRHideoutUnitComponent_GEN_VARIABLE.UpgradeLevels(0).UpgradeLevels.UpgradeLevelDescription",
-			"t":
-			{
-				"de":
-				{
+			"t": {
+				"de": {
 					"text": "Fügt deinem Versteck eine <strong>einfache</> Beleuchtung hinzu.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
+				"zh-Hans": {
 					"text": "为你的藏身处增设<strong>基础</>照明。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
+				"ru": {
 					"text": "Добавляет <strong>базовое</> освещение в твоё убежище.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
+				"ko": {
 					"text": "은신처에 <strong>기본</> 조명을 추가합니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
+				"ja": {
 					"text": "隠れ家に<strong>基本的な</>照明を追加します。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
+				"es-ES": {
 					"text": "Añade iluminación <strong>básica</> a tu refugio.",
 					"status": "machine",
 					"by": "ai",
@@ -648,37 +593,42 @@
 			"source": "Unlock repair station <Red>LV. 1</> first.",
 			"sourceHash": "ba19307f",
 			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_RepairStation.BP_HideoutUnit_RepairStation_C:BP_InteractionTarget_RepairStation_GEN_VARIABLE.InteractionOption_1.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Schalte zuerst die Reparaturstation <Red>ST. 1</> frei.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "请先解锁维修站<Red>LV. 1</>。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Сначала открой ремонтную станцию <Red>УР. 1</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "먼저 수리대 <Red>LV. 1</>을(를) 해금하세요.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "先に修理ステーション<Red>LV. 1</>を解放しよう。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Desbloquea primero la estación de reparación <Red>NV. 1</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -688,37 +638,42 @@
 			"source": "Press <Red>F</> to <Red>upgrade</> the firing range.",
 			"sourceHash": "36b0407c",
 			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_Master_ShootingRange.BP_HideoutUnit_Master_ShootingRange_C:BP_InteractionTarget_Upgrade_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drücke <Red>F</>, um den Schießstand <Red>aufzurüsten</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按<Red>F</><Red>升级</>射击场。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нажми <Red>F</>, чтобы <Red>улучшить</> стрельбище.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 눌러 사격장 <Red>업그레이드</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>で射撃場を<Red>強化</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Pulsa <Red>F</> para <Red>mejorar</> el campo de tiro.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -728,37 +683,42 @@
 			"source": "Press <Red>F</> to <Red>upgrade</> the gunsmith.",
 			"sourceHash": "ba66afdd",
 			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/Gunsmith/BP_Gunsmith.BP_Gunsmith_C:BP_InteractionTarget_Upgrade_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drücke <Red>F</>, um den Büchsenmacher <Red>aufzurüsten</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按<Red>F</><Red>升级</>改枪台。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нажми <Red>F</>, чтобы <Red>улучшить</> оружейника.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 눌러 총기 개조대 <Red>업그레이드</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>でガンスミスを<Red>強化</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Pulsa <Red>F</> para <Red>mejorar</> el armero.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -768,37 +728,42 @@
 			"source": "Unlock Gunsmith <Red>LV. 1</> first.",
 			"sourceHash": "29717aed",
 			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/Gunsmith/BP_Gunsmith.BP_Gunsmith_C:BP_InteractionTarget_Gunsmith_GEN_VARIABLE.InteractionOption_1.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Schalte zuerst den Büchsenmacher <Red>ST. 1</> frei.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "请先解锁改枪台<Red>LV. 1</>。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Сначала открой оружейника <Red>УР. 1</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "먼저 총기 개조대 <Red>LV. 1</>을(를) 해금하세요.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "先にガンスミス<Red>LV. 1</>を解放しよう。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Desbloquea primero el armero <Red>NV. 1</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -808,45 +773,38 @@
 			"source": "Investigate Area",
 			"sourceHash": "cfaf4f96",
 			"origin": "/Game/Blueprints/MissionSystem/Actors/Triggers/BP_LevelTrigger_InvestigationArea.Default__BP_LevelTrigger_InvestigationArea_C.DisplayLabel",
-			"t":
-			{
-				"de":
-				{
+			"t": {
+				"de": {
 					"text": "Gebiet untersuchen",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
+				"zh-Hans": {
 					"text": "调查区域",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
+				"ru": {
 					"text": "Осмотреть район",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
+				"ko": {
 					"text": "지역 조사",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
+				"ja": {
 					"text": "エリアを調査",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
+				"es-ES": {
 					"text": "Investigar zona",
 					"status": "machine",
 					"by": "ai",
@@ -860,45 +818,38 @@
 			"source": "Adds the second <strong>antenna piece</>. We are close to get a signal!",
 			"sourceHash": "2d0c6661",
 			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_IntelCenter.BP_HideoutUnit_IntelCenter_C:BP_IRRHideoutUnitComponent_GEN_VARIABLE.UpgradeLevels(1).UpgradeLevels.UpgradeLevelDescription",
-			"t":
-			{
-				"de":
-				{
+			"t": {
+				"de": {
 					"text": "Fügt das zweite <strong>Antennenteil</> hinzu. Wir haben fast ein Signal!",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
+				"zh-Hans": {
 					"text": "添加第二块<strong>天线部件</>。马上就能收到信号了！",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
+				"ru": {
 					"text": "Добавляет вторую <strong>деталь антенны</>. Мы близки к приёму сигнала!",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
+				"ko": {
 					"text": "두 번째 <strong>안테나 부품</>을 추가합니다. 신호 수신이 얼마 남지 않았습니다!",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
+				"ja": {
 					"text": "2つ目の<strong>アンテナ部品</>を追加します。信号受信まであと少しです！",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
+				"es-ES": {
 					"text": "Añade la segunda <strong>pieza de antena</>. ¡Estamos cerca de recibir señal!",
 					"status": "machine",
 					"by": "ai",
@@ -912,37 +863,42 @@
 			"source": "Press <Red>F</> to <Red>interact</> with the gunsmith.",
 			"sourceHash": "9132cd6f",
 			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/Gunsmith/BP_Gunsmith.BP_Gunsmith_C:BP_InteractionTarget_Gunsmith_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drücke <Red>F</>, um den Büchsenmacher zu <Red>benutzen</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按<Red>F</>与改枪台<Red>交互</>。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нажми <Red>F</>, чтобы <Red>воспользоваться</> услугами оружейника.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 눌러 총기 개조대와 <Red>상호작용</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>でガンスミスを<Red>操作</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Pulsa <Red>F</> para <Red>interactuar</> con el armero.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -952,37 +908,42 @@
 			"source": "Press <Red>F</> to <Red>upgrade</> the structure.",
 			"sourceHash": "4cdab907",
 			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_Structure.BP_HideoutUnit_Structure_C:BP_InteractionTarget_Upgrade_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drücke <Red>F</>, um die Struktur <Red>aufzurüsten</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按<Red>F</><Red>升级</>建筑结构。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нажми <Red>F</>, чтобы <Red>улучшить</> строение.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 눌러 구조물 <Red>업그레이드</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>で建物を<Red>強化</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Pulsa <Red>F</> para <Red>mejorar</> la estructura.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -992,45 +953,38 @@
 			"source": "<strong>Unlocks</> additionally the repair option with <strong>cash</>.",
 			"sourceHash": "748dca1d",
 			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_RepairStation.BP_HideoutUnit_RepairStation_C:BP_IRRHideoutUnitComponent_GEN_VARIABLE.UpgradeLevels(1).UpgradeLevels.UpgradeLevelDescription",
-			"t":
-			{
-				"de":
-				{
+			"t": {
+				"de": {
 					"text": "<strong>Schaltet</> zusätzlich die Reparaturoption mit <strong>Bargeld</> frei.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
+				"zh-Hans": {
 					"text": "额外<strong>解锁</>使用<strong>现金</>修理的选项。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
+				"ru": {
 					"text": "Дополнительно <strong>открывает</> возможность ремонта за <strong>наличные</>.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
+				"ko": {
 					"text": "<strong>현금</>으로 수리하는 옵션을 추가로 <strong>해금</>합니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
+				"ja": {
 					"text": "さらに<strong>現金</>による修理オプションを<strong>アンロック</>します。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
+				"es-ES": {
 					"text": "<strong>Desbloquea</> adicionalmente la opción de reparación con <strong>efectivo</>.",
 					"status": "machine",
 					"by": "ai",
@@ -1044,45 +998,38 @@
 			"source": "Clear Area",
 			"sourceHash": "6668e1b5",
 			"origin": "/Game/Blueprints/MissionSystem/Actors/Triggers/BP_LevelTrigger_ClearArea.Default__BP_LevelTrigger_ClearArea_C.DisplayLabel",
-			"t":
-			{
-				"de":
-				{
+			"t": {
+				"de": {
 					"text": "Gebiet säubern",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
+				"zh-Hans": {
 					"text": "肃清区域",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
+				"ru": {
 					"text": "Зачистить район",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
+				"ko": {
 					"text": "지역 소탕",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
+				"ja": {
 					"text": "エリアを制圧",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
+				"es-ES": {
 					"text": "Despejar zona",
 					"status": "machine",
 					"by": "ai",
@@ -1096,37 +1043,42 @@
 			"source": "Press <Red>F</> to <Red>interact</> with the repair station.",
 			"sourceHash": "8bdcfc40",
 			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_RepairStation.BP_HideoutUnit_RepairStation_C:BP_InteractionTarget_RepairStation_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drücke <Red>F</>, um die Reparaturstation zu <Red>benutzen</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按<Red>F</>与维修站<Red>交互</>。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нажми <Red>F</>, чтобы <Red>воспользоваться</> ремонтной станцией.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 눌러 수리대와 <Red>상호작용</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>で修理ステーションを<Red>操作</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Pulsa <Red>F</> para <Red>interactuar</> con la estación de reparación.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -1136,45 +1088,38 @@
 			"source": "<strong>Replaces</> the diesel generator with an generator that is powered by <strong>gasoline</>.",
 			"sourceHash": "951d77e0",
 			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_Generator.BP_HideoutUnit_Generator_C:BP_IRRHideoutUnitComponent_GEN_VARIABLE.UpgradeLevels(1).UpgradeLevels.UpgradeLevelDescription",
-			"t":
-			{
-				"de":
-				{
+			"t": {
+				"de": {
 					"text": "<strong>Ersetzt</> den Dieselgenerator durch einen Generator, der mit <strong>Benzin</> betrieben wird.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
+				"zh-Hans": {
 					"text": "将柴油发电机<strong>替换</>为以<strong>汽油</>为动力的发电机。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
+				"ru": {
 					"text": "<strong>Заменяет</> дизельный генератор на генератор, работающий на <strong>бензине</>.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
+				"ko": {
 					"text": "디젤 발전기를 <strong>가솔린</>으로 작동하는 발전기로 <strong>교체</>합니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
+				"ja": {
 					"text": "ディーゼル発電機を<strong>ガソリン</>で動く発電機に<strong>交換</>します。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
+				"es-ES": {
 					"text": "<strong>Sustituye</> el generador diésel por uno alimentado por <strong>gasolina</>.",
 					"status": "machine",
 					"by": "ai",
@@ -1188,37 +1133,42 @@
 			"source": "Press <Red>F</> to <Red>upgrade</> the repair station.",
 			"sourceHash": "8266d6e8",
 			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_RepairStation.BP_HideoutUnit_RepairStation_C:BP_InteractionTarget_Upgrade_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drücke <Red>F</>, um die Reparaturstation <Red>aufzurüsten</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按<Red>F</><Red>升级</>维修站。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нажми <Red>F</>, чтобы <Red>улучшить</> ремонтную станцию.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 눌러 수리대 <Red>업그레이드</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>で修理ステーションを<Red>強化</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Pulsa <Red>F</> para <Red>mejorar</> la estación de reparación.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -1228,45 +1178,38 @@
 			"source": "Unlocks <strong>cash repair</> for guns & attachments.",
 			"sourceHash": "9e66b997",
 			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/Gunsmith/BP_Gunsmith.BP_Gunsmith_C:BP_IRRHideoutUnitComponent_GEN_VARIABLE.UpgradeLevels(2).UpgradeLevels.UpgradeLevelDescription",
-			"t":
-			{
-				"de":
-				{
+			"t": {
+				"de": {
 					"text": "Schaltet <strong>Bargeldreparaturen</> für Waffen und Anbauteile frei.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
+				"zh-Hans": {
 					"text": "解锁枪械与配件的<strong>现金修理</>。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
+				"ru": {
 					"text": "Открывает <strong>ремонт за наличные</> для оружия и модулей.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
+				"ko": {
 					"text": "총기 및 부착물 <strong>현금 수리</>를 해금합니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
+				"ja": {
 					"text": "銃およびアタッチメントの<strong>現金修理</>をアンロックします。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
+				"es-ES": {
 					"text": "Desbloquea la <strong>reparación con efectivo</> para armas y accesorios.",
 					"status": "machine",
 					"by": "ai",
@@ -1280,37 +1223,42 @@
 			"source": "Press <Red>F</> to <Red>upgrade</> the intel center.",
 			"sourceHash": "07c9d7c5",
 			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_IntelCenter.BP_HideoutUnit_IntelCenter_C:BP_InteractionTarget_Upgrade_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "",
-					"status": "untranslated"
+			"t": {
+				"de": {
+					"text": "Drücke <Red>F</>, um das Aufklärungszentrum <Red>aufzurüsten</>.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans":
-				{
-					"text": "",
-					"status": "untranslated"
+				"zh-Hans": {
+					"text": "按<Red>F</><Red>升级</>情报中心。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ru": {
+					"text": "Нажми <Red>F</>, чтобы <Red>улучшить</> разведцентр.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ko": {
+					"text": "<Red>F</> 눌러 정보 센터 <Red>업그레이드</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja":
-				{
-					"text": "",
-					"status": "untranslated"
+				"ja": {
+					"text": "<Red>F</>で情報センターを<Red>強化</>",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES":
-				{
-					"text": "",
-					"status": "untranslated"
+				"es-ES": {
+					"text": "Pulsa <Red>F</> para <Red>mejorar</> el centro de inteligencia.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-25T20:56:00Z"
 				}
 			}
 		},
@@ -1320,45 +1268,38 @@
 			"source": "Adds the first <strong>antenna piece</>. More to come!",
 			"sourceHash": "82336534",
 			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_IntelCenter.BP_HideoutUnit_IntelCenter_C:BP_IRRHideoutUnitComponent_GEN_VARIABLE.UpgradeLevels(0).UpgradeLevels.UpgradeLevelDescription",
-			"t":
-			{
-				"de":
-				{
+			"t": {
+				"de": {
 					"text": "Fügt das erste <strong>Antennenteil</> hinzu. Weitere folgen!",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans":
-				{
+				"zh-Hans": {
 					"text": "添加第一块<strong>天线部件</>。后续还有更多！",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru":
-				{
+				"ru": {
 					"text": "Добавляет первую <strong>деталь антенны</>. Дальше — больше!",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko":
-				{
+				"ko": {
 					"text": "첫 번째 <strong>안테나 부품</>을 추가합니다. 앞으로 더 추가됩니다!",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja":
-				{
+				"ja": {
 					"text": "最初の<strong>アンテナ部品</>を追加します。続きをお楽しみに！",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES":
-				{
+				"es-ES": {
 					"text": "Añade la primera <strong>pieza de antena</>. ¡Habrá más!",
 					"status": "machine",
 					"by": "ai",
