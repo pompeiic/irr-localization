@@ -8,38 +8,45 @@
 			"source": "All save data",
 			"sourceHash": "2fd89dc4",
 			"origin": "Source/IRRPatchSystem/Private/IRRPatchSubsystem.cpp(595)",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Alle Spieldaten",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "全部存档数据",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Все данные сохранения",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "모든 세이브 데이터",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "全セーブデータ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Todos los datos guardados",
 					"status": "machine",
 					"by": "ai",
@@ -53,38 +60,45 @@
 			"source": "Inventory",
 			"sourceHash": "b3281d2e",
 			"origin": "Source/IRRPatchSystem/Private/IRRPatchSubsystem.cpp(609)",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Inventar",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "背包",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Инвентарь",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "인벤토리",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "インベントリ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Inventario",
 					"status": "machine",
 					"by": "ai",
@@ -98,38 +112,45 @@
 			"source": "Mission progress",
 			"sourceHash": "3153307e",
 			"origin": "Source/IRRPatchSystem/Private/IRRPatchSubsystem.cpp(599)",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Missionsfortschritt",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "任务进度",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Прогресс заданий",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "임무 진행도",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "ミッション進捗",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Progreso de misiones",
 					"status": "machine",
 					"by": "ai",
@@ -143,38 +164,45 @@
 			"source": "Safehouse",
 			"sourceHash": "9b12f3f4",
 			"origin": "Source/IRRPatchSystem/Private/IRRPatchSubsystem.cpp(603)",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Safehouse",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "安全屋",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Сейфхаус",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "세이프하우스",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "セーフハウス",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Casa segura",
 					"status": "machine",
 					"by": "ai",
@@ -188,38 +216,45 @@
 			"source": ", ",
 			"sourceHash": "6bc9074e",
 			"origin": "Source/IRRPatchSystem/Private/IRRPatchSubsystem.cpp(613)",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": ", ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": ", ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": ", ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": ", ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": ", ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": ", ",
 					"status": "machine",
 					"by": "ai",
@@ -233,38 +268,45 @@
 			"source": "Game settings",
 			"sourceHash": "d124e1f9",
 			"origin": "Source/IRRPatchSystem/Private/IRRPatchSubsystem.cpp(611)",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Spieleinstellungen",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "游戏设置",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Настройки игры",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "게임 설정",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "ゲーム設定",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Ajustes del juego",
 					"status": "machine",
 					"by": "ai",
@@ -278,38 +320,45 @@
 			"source": "Stash",
 			"sourceHash": "11af4b12",
 			"origin": "Source/IRRPatchSystem/Private/IRRPatchSubsystem.cpp(607)",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Lager",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "仓库",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Схрон",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "창고",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "倉庫",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Alijo",
 					"status": "machine",
 					"by": "ai",
@@ -323,38 +372,45 @@
 			"source": "Vendor",
 			"sourceHash": "b4afcba1",
 			"origin": "Source/IRRPatchSystem/Private/IRRPatchSubsystem.cpp(605)",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Händler",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "商人",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Торговец",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "상인",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "商人",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Comerciante",
 					"status": "machine",
 					"by": "ai",
@@ -368,38 +424,45 @@
 			"source": "World state",
 			"sourceHash": "7fa7713a",
 			"origin": "Source/IRRPatchSystem/Private/IRRPatchSubsystem.cpp(601)",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Weltstatus",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "世界状态",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Состояние мира",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "월드 상태",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "ワールド状態",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Estado del mundo",
 					"status": "machine",
 					"by": "ai",
