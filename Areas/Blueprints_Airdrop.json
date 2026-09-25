@@ -1,0 +1,46 @@
+{
+	"schemaVersion": 1,
+	"area": "Blueprints/Airdrop",
+	"entries": [
+		{
+			"ns": "",
+			"key": "8EA6587941A159D151E96592C5E79C99",
+			"source": "Hold <Red>F</> to loot the container",
+			"sourceHash": "979ebd5f",
+			"origin": "/Game/Blueprints/Airdrop/BP_Airdrop.BP_Airdrop_C:BP_InteractionTarget_GEN_VARIABLE.IO_LootContainer_C_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		}
+	]
+}
