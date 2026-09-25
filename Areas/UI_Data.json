@@ -8,38 +8,45 @@
 			"source": "Pause Menu",
 			"sourceHash": "731e6983",
 			"origin": "/Game/Blueprints/UICore/Data/DT_UI_SpectatingActions.DT_UI_SpectatingActions.Escape.Name",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Pausenmenü",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "暂停菜单",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Меню паузы",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "일시정지 메뉴",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "ポーズメニュー",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Menú de pausa",
 					"status": "machine",
 					"by": "ai",
@@ -53,38 +60,45 @@
 			"source": "Teleport",
 			"sourceHash": "b4191029",
 			"origin": "/Game/Blueprints/UICore/Data/DT_UI_CinematicCameraActions.DT_UI_CinematicCameraActions.Teleport.Name",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Teleportieren",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "传送",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Телепорт",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "순간이동",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "テレポート",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Teletransportar",
 					"status": "machine",
 					"by": "ai",
@@ -98,38 +112,45 @@
 			"source": "Hide UI",
 			"sourceHash": "aa98ff2f",
 			"origin": "/Game/Blueprints/UICore/Data/DT_UI_SpectatingActions.DT_UI_SpectatingActions.HideUI.Name",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "UI ausblenden",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "隐藏UI",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Скрыть интерфейс",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "UI 숨기기",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "UIを非表示",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Ocultar interfaz",
 					"status": "machine",
 					"by": "ai",
@@ -143,38 +164,45 @@
 			"source": "Hide UI",
 			"sourceHash": "aa98ff2f",
 			"origin": "/Game/Blueprints/UICore/Data/DT_UI_CinematicCameraActions.DT_UI_CinematicCameraActions.HideUI.Name",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "UI ausblenden",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "隐藏UI",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Скрыть интерфейс",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "UI 숨기기",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "UIを非表示",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Ocultar interfaz",
 					"status": "machine",
 					"by": "ai",
@@ -188,38 +216,45 @@
 			"source": "Vendor",
 			"sourceHash": "b4afcba1",
 			"origin": "/Game/Blueprints/UICore/Data/DT_UI_InputActions.DT_UI_InputActions.LeftNav.Name",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Händler",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "商人",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Торговец",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "상인",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "商人",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Comerciante",
 					"status": "machine",
 					"by": "ai",
@@ -233,38 +268,45 @@
 			"source": "Change Camera Mode",
 			"sourceHash": "d67a55be",
 			"origin": "/Game/Blueprints/UICore/Data/DT_UI_SpectatingActions.DT_UI_SpectatingActions.ToggleCamera.Name",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Kameramodus wechseln",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "切换摄像机模式",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Сменить режим камеры",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "카메라 모드 변경",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "カメラモード変更",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Cambiar modo de cámara",
 					"status": "machine",
 					"by": "ai",
@@ -278,38 +320,45 @@
 			"source": "Recenter",
 			"sourceHash": "f679eaf6",
 			"origin": "/Game/Blueprints/UICore/Data/DT_UI_InputGCPS.DT_UI_InputGCPS.Tab.Name",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Zentrieren",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "重设中心",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Центрировать",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "화면 중앙 정렬",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "リセンター",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Centrar",
 					"status": "machine",
 					"by": "ai",
@@ -323,38 +372,45 @@
 			"source": "Remove Ping",
 			"sourceHash": "28c63bf6",
 			"origin": "/Game/Blueprints/UICore/Data/DT_UI_InputGCPS.DT_UI_InputGCPS.RightMouseButton.Name",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Ping entfernen",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "移除标记",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Удалить метку",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "핑 제거",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "ピンを削除",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Eliminar marca",
 					"status": "machine",
 					"by": "ai",
@@ -368,38 +424,45 @@
 			"source": "Exit",
 			"sourceHash": "b1231be8",
 			"origin": "/Game/Blueprints/UICore/Data/DT_UI_CinematicCameraActions.DT_UI_CinematicCameraActions.Exit.Name",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Verlassen",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "退出",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Выход",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "종료",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "終了",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Salir",
 					"status": "machine",
 					"by": "ai",
@@ -413,38 +476,45 @@
 			"source": "Hide UI",
 			"sourceHash": "aa98ff2f",
 			"origin": "/Game/Blueprints/UICore/Data/DT_UI_InputActions.DT_UI_InputActions.HideUI.Name",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "UI ausblenden",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "隐藏UI",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Скрыть интерфейс",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "UI 숨기기",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "UIを非表示",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Ocultar interfaz",
 					"status": "machine",
 					"by": "ai",
@@ -458,38 +528,45 @@
 			"source": "Take Photo",
 			"sourceHash": "5ecd36a7",
 			"origin": "/Game/Blueprints/UICore/Data/DT_UI_CinematicCameraActions.DT_UI_CinematicCameraActions.Photo.Name",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Foto aufnehmen",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "拍照",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Сделать фото",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "사진 촬영",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "写真を撮る",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Hacer foto",
 					"status": "machine",
 					"by": "ai",
@@ -503,38 +580,45 @@
 			"source": "Back",
 			"sourceHash": "44d16ff1",
 			"origin": "/Game/Blueprints/UICore/Data/DT_UI_InputActions.DT_UI_InputActions.Escape.Name",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Zurück",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "返回",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Назад",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "뒤로",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "戻る",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Atrás",
 					"status": "machine",
 					"by": "ai",
@@ -548,38 +632,45 @@
 			"source": "Stash",
 			"sourceHash": "11af4b12",
 			"origin": "/Game/Blueprints/UICore/Data/DT_UI_InputActions.DT_UI_InputActions.Stash.Name",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Lager",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "仓库",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Схрон",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "창고",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "倉庫",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Alijo",
 					"status": "machine",
 					"by": "ai",
@@ -593,38 +684,45 @@
 			"source": "Gunsmith",
 			"sourceHash": "1a2e65d7",
 			"origin": "/Game/Blueprints/UICore/Data/DT_UI_InputActions.DT_UI_InputActions.Gunsmith.Name",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Büchsenmacher",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "改枪",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Оружейник",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "총기 개조",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "ガンスミス",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Armero",
 					"status": "machine",
 					"by": "ai",
@@ -638,38 +736,45 @@
 			"source": "Reset",
 			"sourceHash": "7cbf7cb3",
 			"origin": "/Game/Blueprints/UICore/Data/DT_UI_CinematicCameraActions.DT_UI_CinematicCameraActions.Reset.Name",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Zurücksetzen",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "重置",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Сбросить",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "초기화",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "リセット",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Restablecer",
 					"status": "machine",
 					"by": "ai",
@@ -683,38 +788,45 @@
 			"source": "Terminal",
 			"sourceHash": "f3f9e2df",
 			"origin": "/Game/Blueprints/UICore/Data/DT_UI_InputActions.DT_UI_InputActions.Vendor.Name",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Terminal",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "终端",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Терминал",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "단말기",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "端末",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Terminal",
 					"status": "machine",
 					"by": "ai",
@@ -728,38 +840,45 @@
 			"source": "Set Ping",
 			"sourceHash": "2e2233be",
 			"origin": "/Game/Blueprints/UICore/Data/DT_UI_InputGCPS.DT_UI_InputGCPS.MiddleMouseButton.Name",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Ping setzen",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "放置标记",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Поставить метку",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "핑 설정",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "ピンを設置",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Colocar marca",
 					"status": "machine",
 					"by": "ai",
