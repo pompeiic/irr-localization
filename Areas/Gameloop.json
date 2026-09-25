@@ -4,53 +4,81 @@
 	"entries": [
 		{
 			"ns": "",
-			"key": "2CFE1F2349830CC7637B7BA8E2C8C28C",
-			"source": "Following Party Leader",
-			"sourceHash": "c4a2fc12",
-			"origin": "/Game/Blueprints/Gameloop/BP_OnlineSession.BP_OnlineSession_C:ExecuteUbergraph_BP_OnlineSession [Script Bytecode]",
+			"key": "054498DE4433D737A8B6B88DF44A17DE",
+			"source": "Press <Red>F</> to loot dead body",
+			"sourceHash": "4092adbe",
+			"origin": "/Game/Blueprints/Gameloop/BP_IRR_PlayerCharacter.BP_IRR_PlayerCharacter_C:BP_InteractionTarget_Loot_GEN_VARIABLE.IO_LootContainer_C_0.DefaultDisplaySetting.InteractionText",
 			"t":
 			{
 				"de":
 				{
-					"text": "Folge dem Party-Anführer",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"zh-Hans":
 				{
-					"text": "正在跟随小队队长",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"ru":
 				{
-					"text": "Следование за лидером группы",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"ko":
 				{
-					"text": "파티 리더 따라가는 중",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"ja":
 				{
-					"text": "パーティーリーダーに追従中",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"es-ES":
 				{
-					"text": "Siguiendo al líder del grupo",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "304DB8F5415EC9A821F64CB39B66C455",
+			"source": "Hold to revive team mate.",
+			"sourceHash": "30879214",
+			"origin": "/Game/Blueprints/Gameloop/BP_IRR_PlayerCharacter.BP_IRR_PlayerCharacter_C:BP_InteractionTarget_Revive_GEN_VARIABLE.IO_Revive_C_0.HoldDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -316,6 +344,46 @@
 		},
 		{
 			"ns": "",
+			"key": "625A16F84C70F8DE0346E8BBD5BF68F1",
+			"source": "You have no revive syringe.",
+			"sourceHash": "52b32c63",
+			"origin": "/Game/Blueprints/Gameloop/BP_IRR_PlayerCharacter.BP_IRR_PlayerCharacter_C:BP_InteractionTarget_Revive_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "94B82FA5496F52D514C73CA455186486",
 			"source": "We take no guruantee for any commands :)",
 			"sourceHash": "e10bc91b",
@@ -363,6 +431,86 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "DD01109C4746924720CCCD8B7F530E1C",
+			"source": "Hold..",
+			"sourceHash": "1dad2d46",
+			"origin": "/Game/Blueprints/Gameloop/BP_IRR_PlayerCharacter.BP_IRR_PlayerCharacter_C:BP_InteractionTarget_Revive_GEN_VARIABLE.IO_Revive_C_0.WaitDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "F5067F0F418E2029CF60E2B92F21ED6E",
+			"source": "Following Party Leader",
+			"sourceHash": "c4a2fc12",
+			"origin": "/Game/Blueprints/Gameloop/BP_OnlineSession.BP_OnlineSession_C:ExecuteUbergraph_BP_OnlineSession [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
