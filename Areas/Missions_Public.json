@@ -8,38 +8,45 @@
 			"source": "${0} {1}",
 			"sourceHash": "7727e15d",
 			"origin": "Source/IRRMissionSystem/Public/Widgets/IRRRewardTextWidget.h(38)",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "${0} {1}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "${0} {1}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "${0} {1}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "${0} {1}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "${0} {1}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "${0} {1}",
 					"status": "machine",
 					"by": "ai",
@@ -53,38 +60,45 @@
 			"source": "${0}",
 			"sourceHash": "66f57269",
 			"origin": "Source/IRRMissionSystem/Public/Widgets/IRRRewardWidget.h(81)",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "${0}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "${0}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "${0}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "${0}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "${0}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "${0}",
 					"status": "machine",
 					"by": "ai",
@@ -98,38 +112,45 @@
 			"source": "+{0} EXP",
 			"sourceHash": "4c42eef5",
 			"origin": "Source/IRRMissionSystem/Public/Widgets/IRRRewardTextWidget.h(42)",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "+{0} EXP",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "+{0} 经验",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "+{0} ОПЫТА",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "+{0} EXP",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "+{0} EXP",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "+{0} EXP",
 					"status": "machine",
 					"by": "ai",
@@ -143,38 +164,45 @@
 			"source": "Experience",
 			"sourceHash": "3f8b7bc6",
 			"origin": "Source/IRRMissionSystem/Public/Widgets/IRRRewardWidget.h(85)",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Erfahrung",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "经验",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Опыт",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "경험치",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "経験値",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Experiencia",
 					"status": "machine",
 					"by": "ai",
@@ -188,38 +216,45 @@
 			"source": "Faction Reputation",
 			"sourceHash": "400782ce",
 			"origin": "Source/IRRMissionSystem/Public/Widgets/IRRRewardWidget.h(89)",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Fraktionsreputation",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "派系声望",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Репутация фракции",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "파벌 평판",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "派閥の評価",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Reputación de facción",
 					"status": "machine",
 					"by": "ai",
@@ -233,38 +268,45 @@
 			"source": "{0}x {1}",
 			"sourceHash": "11ec5732",
 			"origin": "Source/IRRMissionSystem/Public/Widgets/IRRRewardTextWidget.h(33)",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "{0}x {1}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "{0}x {1}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "{0}x {1}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "{0}x {1}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "{0}x {1}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "{0}x {1}",
 					"status": "machine",
 					"by": "ai",
