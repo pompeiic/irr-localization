@@ -4,6 +4,46 @@
 	"entries": [
 		{
 			"ns": "",
+			"key": "083E6293412A864E9F43858059B0E0CC",
+			"source": "Sell",
+			"sourceHash": "4b6fd194",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_Sell.Default__U_Sell_C.ContextName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "084555AA43697C306E102ABA35A982F0",
 			"source": "Default Size",
 			"sourceHash": "ab96f025",
@@ -316,6 +356,126 @@
 		},
 		{
 			"ns": "",
+			"key": "17A0FC7D4D0DD1906A3E1C855589CFCE",
+			"source": "Unequip",
+			"sourceHash": "26fa6d53",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_UnEquip.Default__U_UnEquip_C.ContextName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "1FBC986E4890FD6A0E840CBBE36ECA70",
+			"source": "Drop",
+			"sourceHash": "bc71fcc8",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_Drop.Default__U_Drop_C.ContextName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "26EEEDDF4BD77CF1D80CB6B318FC3968",
+			"source": "Repair",
+			"sourceHash": "45c0e35c",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_Repair.Default__U_Repair_C.ContextName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "26F8140B4540771F559DEEB02E2B3294",
 			"source": "Receiver",
 			"sourceHash": "e7bb8c1c",
@@ -420,6 +580,46 @@
 		},
 		{
 			"ns": "",
+			"key": "2CCB209F4A7C1CD364DCBFA18A75D467",
+			"source": "Unload Ammo",
+			"sourceHash": "a5a08be2",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_UnloadAmmo.Default__U_UnloadAmmo_C.ContextName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "2D5EB4744DD52D56D868DC8DB5AEEDBF",
 			"source": "HP",
 			"sourceHash": "54570993",
@@ -467,6 +667,46 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "2D7FAD744E799513F4D177BADD474FBA",
+			"source": "Unload Mag",
+			"sourceHash": "206e8277",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_UnloadMagazine.Default__U_UnloadMagazine_C.ContextName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -784,6 +1024,46 @@
 		},
 		{
 			"ns": "",
+			"key": "449C77384A81C6B137D2DA949AD64F00",
+			"source": "Roll Up",
+			"sourceHash": "c2bd013a",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_Replace.Default__U_Replace_C.ContextName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "4664361C4526F0378274E09A201D5A4C",
 			"source": "Mag",
 			"sourceHash": "6fa91fee",
@@ -831,6 +1111,46 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "46AE632642DFC2D75CF1E3B66ACE71BD",
+			"source": "Compatible Search",
+			"sourceHash": "51cd9ce6",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_LinkedSearch.Default__U_LinkedSearch_C.ContextName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -992,6 +1312,46 @@
 		},
 		{
 			"ns": "",
+			"key": "54770371496A3EA6B6D5169953FBCD58",
+			"source": "Consume",
+			"sourceHash": "ef63c0a6",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_Consume.Default__U_Consume_C.ContextName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "5BC3FCF941D08F94F6EC7A9D572CFF65",
 			"source": "m",
 			"sourceHash": "e808f0c2",
@@ -1143,6 +1503,46 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "5E574A1C481FCECEE2B0248F55EF6FD5",
+			"source": "Deliver",
+			"sourceHash": "51b39719",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_Deliver.Default__U_Deliver_C.ContextName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -1403,6 +1803,46 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "6A1F1786457BF04E274A088BFD67DFBF",
+			"source": "Find Item",
+			"sourceHash": "b0a59c20",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_FindItem.Default__U_FindItem_C.ContextName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -1824,6 +2264,46 @@
 		},
 		{
 			"ns": "",
+			"key": "79B492F84418AE56CE235E91FCB07DE1",
+			"source": "Modify",
+			"sourceHash": "b490a6dc",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_Modify.Default__U_Modify_C.ContextName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "7A6B3CF149F6230DDD092D8A1457DBFB",
 			"source": "%",
 			"sourceHash": "b6a88010",
@@ -2240,6 +2720,46 @@
 		},
 		{
 			"ns": "",
+			"key": "8816D4B5405BCC592F6D9494529F2DE9",
+			"source": "Use Gadget",
+			"sourceHash": "c176b358",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_UseGadget.Default__U_UseGadget_C.ContextName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "89063F034A382C5DBF154E8B40BCF72A",
 			"source": "Stop Wound",
 			"sourceHash": "45ce18a4",
@@ -2552,6 +3072,86 @@
 		},
 		{
 			"ns": "",
+			"key": "996065D84D5784723D2925936C1D2383",
+			"source": "Equip",
+			"sourceHash": "78db24e4",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_Equip.Default__U_Equip_C.ContextName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "997D324D4C377A07B7FDC09B4A049081",
+			"source": "Split",
+			"sourceHash": "ac85c3bf",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_SplitItem.Default__U_SplitItem_C.ContextName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "9D11AAEB4C1283A1C347968C1148B20E",
 			"source": "Gas Tube",
 			"sourceHash": "55bbb540",
@@ -2651,6 +3251,46 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "9FDA00894592E216BAA53DA2B2640EA5",
+			"source": "Open",
+			"sourceHash": "2b97758e",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_OpenItem.Default__U_OpenItem_C.ContextName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -2911,6 +3551,46 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "B1E694C54B4A3E392B57E49E0E97063A",
+			"source": "Purchase Item",
+			"sourceHash": "7ea5144f",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_PurchaseItem.Default__U_PurchaseItem_C.ContextName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -3436,6 +4116,46 @@
 		},
 		{
 			"ns": "",
+			"key": "C66B1B0D4B38E96294FA4B8923451345",
+			"source": "Inspect",
+			"sourceHash": "eeea611d",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_InspectItem.Default__U_InspectItem_C.ContextName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "C7AF64F44801DD7B7D5008A15B764232",
 			"source": "Duration",
 			"sourceHash": "02bf2ffc",
@@ -3696,6 +4416,46 @@
 		},
 		{
 			"ns": "",
+			"key": "D805B3D646FA5937A2CE7D886734233E",
+			"source": "Remove from favorites",
+			"sourceHash": "2886a291",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_RemoveFromFavorites.Default__U_RemoveFromFavorites_C.ContextName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "D9178DFD42527C7821FF6DAF8AF713EB",
 			"source": "Heal Over Time",
 			"sourceHash": "58d21684",
@@ -3904,6 +4664,46 @@
 		},
 		{
 			"ns": "",
+			"key": "E07DDA2148ACFA3C2EB1309C7E1433CF",
+			"source": "Expand",
+			"sourceHash": "229307c4",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_Expand.Default__U_Expand_C.ContextName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "E246D58C41477DC852F1FBB57035BC35",
 			"source": "%",
 			"sourceHash": "b6a88010",
@@ -4107,6 +4907,86 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "F17A3E074609859F8B742AA1DA795E42",
+			"source": "Sell",
+			"sourceHash": "4b6fd194",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_Buy.Default__U_Buy_C.ContextName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "F40BC4E1464943440E823A93675F7385",
+			"source": "Use Item",
+			"sourceHash": "1cfcc165",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_UseInventoryItem.Default__U_UseInventoryItem_C.ContextName",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -4371,210 +5251,82 @@
 			}
 		},
 		{
-			"ns": "UObjectToolTips",
-			"key": "ContainerItem:bQuestItem",
-			"source": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\n       bool bIsNestedVitalPart = false;",
-			"sourceHash": "561c7b97",
-			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_RollUp.IsValidContext:K2Node_BreakStruct_0.ShowPinForProperties(16).ShowPinForProperties.PropertyTooltip",
+			"ns": "",
+			"key": "F8CF70C342C2D928561024A9932524AF",
+			"source": "Discard",
+			"sourceHash": "f9de60d2",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_Discard.Default__U_Discard_C.ContextName",
 			"t":
 			{
 				"de":
 				{
-					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\n       bool bIsNestedVitalPart = false;",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"zh-Hans":
 				{
-					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\n       bool bIsNestedVitalPart = false;",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"ru":
 				{
-					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\n       bool bIsNestedVitalPart = false;",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"ko":
 				{
-					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\n       bool bIsNestedVitalPart = false;",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"ja":
 				{
-					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\n       bool bIsNestedVitalPart = false;",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"es-ES":
 				{
-					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\n       bool bIsNestedVitalPart = false;",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
 		{
-			"ns": "UObjectToolTips",
-			"key": "ContainerItem:CanStack",
-			"source": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFItemDimensions CurrentDimensions;",
-			"sourceHash": "4b9297b2",
-			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_RollUp.IsValidContext:K2Node_BreakStruct_0.ShowPinForProperties(11).ShowPinForProperties.PropertyTooltip",
+			"ns": "",
+			"key": "FC4B0E2A44B1F15C14E938B3D7718930",
+			"source": "Add to favorites",
+			"sourceHash": "8e68c4cc",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_AddToFavorites.Default__U_AddToFavorites_C.ContextName",
 			"t":
 			{
 				"de":
 				{
-					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFItemDimensions CurrentDimensions;",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"zh-Hans":
 				{
-					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFItemDimensions CurrentDimensions;",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"ru":
 				{
-					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFItemDimensions CurrentDimensions;",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"ko":
 				{
-					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFItemDimensions CurrentDimensions;",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"ja":
 				{
-					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFItemDimensions CurrentDimensions;",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"es-ES":
 				{
-					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFItemDimensions CurrentDimensions;",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "UObjectToolTips",
-			"key": "ContainerItem:CurrentState",
-			"source": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFGameplayTagContainer CurrentEquipToRequirements;\nTODO Rename to state and stats and remove everything below",
-			"sourceHash": "8c2c3cec",
-			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_RollUp.IsValidContext:K2Node_BreakStruct_0.ShowPinForProperties(6).ShowPinForProperties.PropertyTooltip",
-			"t":
-			{
-				"de":
-				{
-					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFGameplayTagContainer CurrentEquipToRequirements;\nTODO Rename to state and stats and remove everything below",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFGameplayTagContainer CurrentEquipToRequirements;\nTODO Rename to state and stats and remove everything below",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFGameplayTagContainer CurrentEquipToRequirements;\nTODO Rename to state and stats and remove everything below",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFGameplayTagContainer CurrentEquipToRequirements;\nTODO Rename to state and stats and remove everything below",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFGameplayTagContainer CurrentEquipToRequirements;\nTODO Rename to state and stats and remove everything below",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFGameplayTagContainer CurrentEquipToRequirements;\nTODO Rename to state and stats and remove everything below",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "UObjectToolTips",
-			"key": "ContainerItem:RequiredByItemUIDs",
-			"source": "UPROPERTY(EditAnywhere, BlueprintReadWrite, Transient)\n       FGameplayTagContainer InstalledAttachments;",
-			"sourceHash": "21536ca1",
-			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_RollUp.IsValidContext:K2Node_BreakStruct_0.ShowPinForProperties(8).ShowPinForProperties.PropertyTooltip",
-			"t":
-			{
-				"de":
-				{
-					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite, Transient)\n       FGameplayTagContainer InstalledAttachments;",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite, Transient)\n       FGameplayTagContainer InstalledAttachments;",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite, Transient)\n       FGameplayTagContainer InstalledAttachments;",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite, Transient)\n       FGameplayTagContainer InstalledAttachments;",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite, Transient)\n       FGameplayTagContainer InstalledAttachments;",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite, Transient)\n       FGameplayTagContainer InstalledAttachments;",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		}
