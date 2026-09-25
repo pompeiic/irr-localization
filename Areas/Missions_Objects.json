@@ -1876,6 +1876,110 @@
 		},
 		{
 			"ns": "UObjectToolTips",
+			"key": "ContainerItem:CanStack",
+			"source": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFItemDimensions CurrentDimensions;",
+			"sourceHash": "4b9297b2",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/Services/BP_Service_ConvoyDestroyed.TryExecute:K2Node_BreakStruct_2.ShowPinForProperties(10).ShowPinForProperties.PropertyTooltip",
+			"t":
+			{
+				"de":
+				{
+					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFItemDimensions CurrentDimensions;",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFItemDimensions CurrentDimensions;",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
+				},
+				"ru":
+				{
+					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFItemDimensions CurrentDimensions;",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
+				},
+				"ko":
+				{
+					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFItemDimensions CurrentDimensions;",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
+				},
+				"ja":
+				{
+					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFItemDimensions CurrentDimensions;",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
+				},
+				"es-ES":
+				{
+					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFItemDimensions CurrentDimensions;",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "UObjectToolTips",
+			"key": "ContainerItem:CurrentState",
+			"source": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFGameplayTagContainer CurrentEquipToRequirements;\nTODO Rename to state and stats and remove everything below",
+			"sourceHash": "8c2c3cec",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/Services/BP_Service_ConvoyDestroyed.TryExecute:K2Node_BreakStruct_2.ShowPinForProperties(6).ShowPinForProperties.PropertyTooltip",
+			"t":
+			{
+				"de":
+				{
+					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFGameplayTagContainer CurrentEquipToRequirements;\nTODO Rename to state and stats and remove everything below",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFGameplayTagContainer CurrentEquipToRequirements;\nTODO Rename to state and stats and remove everything below",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
+				},
+				"ru":
+				{
+					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFGameplayTagContainer CurrentEquipToRequirements;\nTODO Rename to state and stats and remove everything below",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
+				},
+				"ko":
+				{
+					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFGameplayTagContainer CurrentEquipToRequirements;\nTODO Rename to state and stats and remove everything below",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
+				},
+				"ja":
+				{
+					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFGameplayTagContainer CurrentEquipToRequirements;\nTODO Rename to state and stats and remove everything below",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
+				},
+				"es-ES":
+				{
+					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFGameplayTagContainer CurrentEquipToRequirements;\nTODO Rename to state and stats and remove everything below",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "UObjectToolTips",
 			"key": "ContainerItem:ItemDimensions",
 			"source": "UPROPERTY(EditAnywhere, BlueprintReadWrite, Transient)\n       TArray<FGuid> RequiredFromItemUIDs;",
 			"sourceHash": "dd2c16d4",
