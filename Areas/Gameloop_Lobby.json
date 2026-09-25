@@ -8,38 +8,45 @@
 			"source": "NOT READY",
 			"sourceHash": "bb3751fd",
 			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobbyPlayer.WBP_KronosLobbyPlayer_C:WidgetTree.PlayerReadyText.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "NICHT BEREIT",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "未准备",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "НЕ ГОТОВ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "준비 안 됨",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "未準備",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "NO LISTO",
 					"status": "machine",
 					"by": "ai",
@@ -53,38 +60,45 @@
 			"source": "No",
 			"sourceHash": "3a70e8e3",
 			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobby.WBP_KronosLobby_C:WidgetTree.FriendlyFire.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Nein",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "否",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Нет",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "아니요",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "いいえ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "No",
 					"status": "machine",
 					"by": "ai",
@@ -98,38 +112,45 @@
 			"source": "No",
 			"sourceHash": "3a70e8e3",
 			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobby.WBP_KronosLobby_C:UpdateSessionDisplay [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Nein",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "否",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Нет",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "아니요",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "いいえ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "No",
 					"status": "machine",
 					"by": "ai",
@@ -143,38 +164,45 @@
 			"source": "Starting in {Time}s",
 			"sourceHash": "0a3a884c",
 			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobby.WBP_KronosLobby_C:ExecuteUbergraph_WBP_KronosLobby [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Start in {Time}s",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "将在 {Time} 秒后开始",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Старт через {Time} с",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "{Time}초 후 시작",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "{Time}秒後に開始",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Empieza en {Time} s",
 					"status": "machine",
 					"by": "ai",
@@ -188,38 +216,45 @@
 			"source": "READY",
 			"sourceHash": "f416ba7e",
 			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobbyPlayer.WBP_KronosLobbyPlayer_C:ExecuteUbergraph_WBP_KronosLobbyPlayer [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "BEREIT",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "已准备",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "ГОТОВ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "준비 완료",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "準備完了",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "LISTO",
 					"status": "machine",
 					"by": "ai",
@@ -233,38 +268,45 @@
 			"source": "Infill Location",
 			"sourceHash": "1b541348",
 			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobby.WBP_KronosLobby_C:WidgetTree.IRRTextBlock.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Infiltrationsort",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "部署位置",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Точка высадки",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "침투 위치",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "潜入地点",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Punto de infiltración",
 					"status": "machine",
 					"by": "ai",
@@ -278,38 +320,45 @@
 			"source": "UNREADY",
 			"sourceHash": "4e1d5db8",
 			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobby.WBP_KronosLobby_C:ExecuteUbergraph_WBP_KronosLobby [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "NICHT BEREIT",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "未准备",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "НЕ ГОТОВ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "준비 취소",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "準備解除",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "NO LISTO",
 					"status": "machine",
 					"by": "ai",
@@ -323,38 +372,45 @@
 			"source": "Operation:",
 			"sourceHash": "77f1d42d",
 			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobby.WBP_KronosLobby_C:WidgetTree.sdfs.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Operation:",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "行动：",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Операция:",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "작전:",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "作戦:",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Operación:",
 					"status": "machine",
 					"by": "ai",
@@ -368,38 +424,45 @@
 			"source": "Arrival Time:",
 			"sourceHash": "a7d1d6b1",
 			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobby.WBP_KronosLobby_C:WidgetTree.IRRTextBlock_12.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Ankunftszeit:",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "到达时间：",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Время прибытия:",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "도착 시간:",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "到着時間:",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Hora de llegada:",
 					"status": "machine",
 					"by": "ai",
@@ -413,38 +476,45 @@
 			"source": "Public",
 			"sourceHash": "6bb0ae9f",
 			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobby.WBP_KronosLobby_C:UpdateSessionDisplay [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Öffentlich",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "公开",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Открытое",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "공개",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "公開",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Pública",
 					"status": "machine",
 					"by": "ai",
@@ -458,38 +528,45 @@
 			"source": "Max Players:",
 			"sourceHash": "2609ee5c",
 			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobby.WBP_KronosLobby_C:WidgetTree.IRRTextBlock_2.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Max. Spieler:",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "最多玩家数：",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Макс. игроков:",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "최대 플레이어:",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "最大プレイヤー数:",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Máx. de jugadores:",
 					"status": "machine",
 					"by": "ai",
@@ -503,38 +580,45 @@
 			"source": "Invite",
 			"sourceHash": "fd27c649",
 			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobby.WBP_KronosLobby_C:WidgetTree.Invite.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Einladen",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "邀请",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Пригласить",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "초대",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "招待",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Invitar",
 					"status": "machine",
 					"by": "ai",
@@ -548,38 +632,45 @@
 			"source": "No Contract Selected",
 			"sourceHash": "6f13230f",
 			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobby.WBP_KronosLobby_C:WidgetTree.Contract.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Kein Auftrag ausgewählt",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "未选择合约",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Контракт не выбран",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "선택된 계약 없음",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "契約未選択",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Ningún contrato seleccionado",
 					"status": "machine",
 					"by": "ai",
@@ -593,38 +684,45 @@
 			"source": "Waiting for more players",
 			"sourceHash": "a4b2d29c",
 			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobby.WBP_KronosLobby_C:ExecuteUbergraph_WBP_KronosLobby [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Warten auf weitere Spieler",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "等待更多玩家",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Ожидание игроков",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "다른 플레이어 대기 중",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "他のプレイヤーを待機中",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Esperando a más jugadores",
 					"status": "machine",
 					"by": "ai",
@@ -638,38 +736,45 @@
 			"source": "IA_PushToTalk",
 			"sourceHash": "21260e64",
 			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobby.WBP_KronosLobby_C:OnKeyUp [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "IA_PushToTalk",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "IA_PushToTalk",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "IA_PushToTalk",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "IA_PushToTalk",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "IA_PushToTalk",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "IA_PushToTalk",
 					"status": "machine",
 					"by": "ai",
@@ -683,38 +788,45 @@
 			"source": "Joining match",
 			"sourceHash": "6afe9b03",
 			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobby.WBP_KronosLobby_C:ExecuteUbergraph_WBP_KronosLobby [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Match beitreten",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "加入比赛",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Подключение к матчу",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "매치 참가 중",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "マッチに参加中",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Uniéndose a la partida",
 					"status": "machine",
 					"by": "ai",
@@ -728,38 +840,45 @@
 			"source": "Private",
 			"sourceHash": "445029ac",
 			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobby.WBP_KronosLobby_C:UpdateSessionDisplay [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Privat",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "私密",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Приватное",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "비공개",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "非公開",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Privada",
 					"status": "machine",
 					"by": "ai",
@@ -773,38 +892,45 @@
 			"source": "Level:",
 			"sourceHash": "1e4cdea2",
 			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobby.WBP_KronosLobby_C:WidgetTree.IRRTextBlock_10.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Level:",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "关卡：",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Уровень:",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "레벨:",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "レベル:",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Nivel:",
 					"status": "machine",
 					"by": "ai",
@@ -818,38 +944,45 @@
 			"source": "Raid Settings",
 			"sourceHash": "d3869a09",
 			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobby.WBP_KronosLobby_C:WidgetTree.IRRTextBlock_1.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Raid-Einstellungen",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "突袭设置",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Настройки рейда",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "레이드 설정",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "レイド設定",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Ajustes de incursión",
 					"status": "machine",
 					"by": "ai",
@@ -863,38 +996,45 @@
 			"source": "NOT READY",
 			"sourceHash": "bb3751fd",
 			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobbyPlayer.WBP_KronosLobbyPlayer_C:ExecuteUbergraph_WBP_KronosLobbyPlayer [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "NICHT BEREIT",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "未准备",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "НЕ ГОТОВ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "준비 안 됨",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "未準備",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "NO LISTO",
 					"status": "machine",
 					"by": "ai",
@@ -908,38 +1048,45 @@
 			"source": "SADSDSADSADSSADASDASDSAD",
 			"sourceHash": "af132f6b",
 			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobbyPlayer.WBP_KronosLobbyPlayer_C:WidgetTree.PlayerNameText.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "SADSDSADSADSSADASDASDSAD",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "SADSDSADSADSSADASDASDSAD",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "SADSDSADSADSSADASDASDSAD",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "SADSDSADSADSSADASDASDSAD",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "SADSDSADSADSSADASDASDSAD",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "SADSDSADSADSSADASDASDSAD",
 					"status": "machine",
 					"by": "ai",
@@ -953,38 +1100,45 @@
 			"source": "NOT CERTIFIED",
 			"sourceHash": "88fa546e",
 			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobby.WBP_KronosLobby_C:ExecuteUbergraph_WBP_KronosLobby [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "NICHT ZERTIFIZIERT",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "未认证",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "НЕ СЕРТИФИЦИРОВАНО",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "인증되지 않음",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "未認定",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "NO CERTIFICADO",
 					"status": "machine",
 					"by": "ai",
@@ -998,38 +1152,45 @@
 			"source": "LOBBY",
 			"sourceHash": "486a3b67",
 			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobby.WBP_KronosLobby_C:WidgetTree.IRRTextBlock_0.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "LOBBY",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "大厅",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "ЛОББИ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "로비",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "ロビー",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "SALA",
 					"status": "machine",
 					"by": "ai",
@@ -1043,38 +1204,45 @@
 			"source": "12:00",
 			"sourceHash": "6dc84edc",
 			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobby.WBP_KronosLobby_C:WidgetTree.ArrivalTime.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "12:00",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "12:00",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "12:00",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "12:00",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "12:00",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "12:00",
 					"status": "machine",
 					"by": "ai",
@@ -1088,38 +1256,45 @@
 			"source": "SYSTEM",
 			"sourceHash": "590551cb",
 			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobby.WBP_KronosLobby_C:ExecuteUbergraph_WBP_KronosLobby [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "SYSTEM",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "系统",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "СИСТЕМА",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "시스템",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "システム",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "SISTEMA",
 					"status": "machine",
 					"by": "ai",
@@ -1133,38 +1308,45 @@
 			"source": "Yes",
 			"sourceHash": "3b86075f",
 			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobby.WBP_KronosLobby_C:UpdateSessionDisplay [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Ja",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "是",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Да",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "예",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "はい",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Sí",
 					"status": "machine",
 					"by": "ai",
@@ -1178,38 +1360,45 @@
 			"source": "JoinabilityText",
 			"sourceHash": "aa494eba",
 			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobby.WBP_KronosLobby_C:WidgetTree.JoinabilityText.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "JoinabilityText",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "JoinabilityText",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "JoinabilityText",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "JoinabilityText",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "JoinabilityText",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "JoinabilityText",
 					"status": "machine",
 					"by": "ai",
@@ -1223,38 +1412,45 @@
 			"source": "Ready",
 			"sourceHash": "a25cd793",
 			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobby.WBP_KronosLobby_C:WidgetTree.Ready.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Bereit",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "准备",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Готов",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "준비",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "準備完了",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Listo",
 					"status": "machine",
 					"by": "ai",
@@ -1268,38 +1464,45 @@
 			"source": "READY",
 			"sourceHash": "f416ba7e",
 			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobby.WBP_KronosLobby_C:ExecuteUbergraph_WBP_KronosLobby [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "BEREIT",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "已准备",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "ГОТОВ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "준비 완료",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "準備完了",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "LISTO",
 					"status": "machine",
 					"by": "ai",
@@ -1313,38 +1516,45 @@
 			"source": "Joinability:",
 			"sourceHash": "2f44139f",
 			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobby.WBP_KronosLobby_C:WidgetTree.IRRTextBlock_8.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Beitrittsart:",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "加入权限：",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Доступность:",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "참가 가능 여부:",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "参加設定:",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Accesibilidad:",
 					"status": "machine",
 					"by": "ai",
@@ -1358,38 +1568,45 @@
 			"source": "Quarry",
 			"sourceHash": "3801db2e",
 			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobby.WBP_KronosLobby_C:WidgetTree.MapName.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Quarry",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "Quarry",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Quarry",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "Quarry",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "Quarry",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Quarry",
 					"status": "machine",
 					"by": "ai",
@@ -1403,38 +1620,45 @@
 			"source": "Waiting for more players",
 			"sourceHash": "a4b2d29c",
 			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobby.WBP_KronosLobby_C:WidgetTree.LobbyStateText.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Warten auf weitere Spieler",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "等待更多玩家",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Ожидание игроков",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "다른 플레이어 대기 중",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "他のプレイヤーを待機中",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Esperando a más jugadores",
 					"status": "machine",
 					"by": "ai",
@@ -1448,38 +1672,45 @@
 			"source": "Friendly Fire:",
 			"sourceHash": "fc1f4fb5",
 			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobby.WBP_KronosLobby_C:WidgetTree.IRRTextBlock_6.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Eigenbeschuss:",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "友军伤害：",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Огонь по своим:",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "아군 사격:",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "フレンドリーファイア:",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Fuego amigo:",
 					"status": "machine",
 					"by": "ai",
@@ -1493,38 +1724,45 @@
 			"source": "Leave",
 			"sourceHash": "7f33e9a0",
 			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobby.WBP_KronosLobby_C:WidgetTree.Leave.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Verlassen",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "离开",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Покинуть",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "나가기",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "退出",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Salir",
 					"status": "machine",
 					"by": "ai",
@@ -1538,38 +1776,45 @@
 			"source": "YOU HAVE JOINED THE LOBBY",
 			"sourceHash": "45c95840",
 			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobby.WBP_KronosLobby_C:ExecuteUbergraph_WBP_KronosLobby [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "DU BIST DER LOBBY BEIGETRETEN",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "你已加入大厅",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "ВЫ ПРИСОЕДИНИЛИСЬ К ЛОББИ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "로비에 참가했습니다",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "ロビーに参加しました",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "TE HAS UNIDO A LA SALA",
 					"status": "machine",
 					"by": "ai",
