@@ -8,38 +8,45 @@
 			"source": "Cancel",
 			"sourceHash": "38947156",
 			"origin": "/Game/Blueprints/MissionSystem/Objects/HideoutCondition/BP_HideoutCondition_PlayerLevel.BP_HideoutCondition_PlayerLevel_C:ExecuteUbergraph_BP_HideoutCondition_PlayerLevel [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Abbrechen",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "取消",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Отмена",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "취소",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "キャンセル",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Cancelar",
 					"status": "machine",
 					"by": "ai",
@@ -53,38 +60,45 @@
 			"source": "Requires Player Level {level} .",
 			"sourceHash": "c1aceb97",
 			"origin": "/Game/Blueprints/MissionSystem/Objects/HideoutCondition/BP_HideoutCondition_PlayerLevel.BP_HideoutCondition_PlayerLevel_C:GetConditionDescription [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Erfordert Spielerstufe {level} .",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "需要玩家等级 {level} 。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Требуется уровень игрока {level} .",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "플레이어 레벨 {level} 필요 .",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "プレイヤーレベル {level} が必要 .",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Requiere nivel de jugador {level} .",
 					"status": "machine",
 					"by": "ai",
@@ -98,38 +112,45 @@
 			"source": "RequestLogin",
 			"sourceHash": "f5a90c45",
 			"origin": "/Game/Blueprints/MissionSystem/Objects/Terminal/Sequences/BP_TerminalSequence_RequestLogin.Default__BP_TerminalSequence_RequestLogin_C.Command.Command",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "RequestLogin",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "RequestLogin",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "RequestLogin",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "RequestLogin",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "RequestLogin",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "RequestLogin",
 					"status": "machine",
 					"by": "ai",
@@ -143,38 +164,45 @@
 			"source": "Find & collect item.",
 			"sourceHash": "c9718a88",
 			"origin": "/Game/Blueprints/MissionSystem/Objects/Objectives/SubClasses/BP_IRRObjective_FindItem.Default__BP_IRRObjective_FindItem_C.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Gegenstand finden und einsammeln.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "寻找并收集物品。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Найди и забери предмет.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "아이템 탐색 및 수집.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "アイテムを見つけて回収しろ。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Busca y recoge el objeto.",
 					"status": "machine",
 					"by": "ai",
@@ -188,38 +216,45 @@
 			"source": "Travel To Terminal?",
 			"sourceHash": "dffcefb4",
 			"origin": "/Game/Blueprints/MissionSystem/Objects/HideoutCondition/BP_HideoutCondition_Reputation.BP_HideoutCondition_Reputation_C:ExecuteUbergraph_BP_HideoutCondition_Reputation [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Zum Terminal reisen?",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "前往终端？",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Перейти к терминалу?",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "단말기로 이동하시겠습니까?",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "端末へ移動しますか？",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "¿Viajar a la terminal?",
 					"status": "machine",
 					"by": "ai",
@@ -233,38 +268,45 @@
 			"source": "Start hacking procedure. Interrupt by pressing any key.",
 			"sourceHash": "ba0c456d",
 			"origin": "/Game/Blueprints/MissionSystem/Objects/Terminal/Arguments/BP_TerminalArgument_Hack.Default__BP_TerminalArgument_Hack_C:BP_TerminalSequence_Text_C_0.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Hacking-Vorgang gestartet. Durch Drücken einer beliebigen Taste abbrechen.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "入侵程序启动。按任意键中断。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Запуск процедуры взлома. Прервать нажатием любой клавиши.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "해킹 절차 시작. 아무 키나 누르면 중단됩니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "ハッキング手順を開始。任意のキーを押して中断。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Iniciando procedimiento de pirateo. Pulsa cualquier tecla para interrumpir.",
 					"status": "machine",
 					"by": "ai",
@@ -278,38 +320,45 @@
 			"source": "Extract",
 			"sourceHash": "4f26e863",
 			"origin": "/Game/Blueprints/MissionSystem/Objects/Sequences/BP_Sequence_Extract.Default__BP_Sequence_Extract_C.Headline",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Extrahieren",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "撤离",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Эвакуироваться",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "탈출",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "脱出",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Extraer",
 					"status": "machine",
 					"by": "ai",
@@ -323,38 +372,45 @@
 			"source": "Requires {faction} Level {level}.",
 			"sourceHash": "4cd785a0",
 			"origin": "/Game/Blueprints/MissionSystem/Objects/GraphCondition/BP_GraphCondition_Reputation.BP_GraphCondition_Reputation_C:GetConditionDescription [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Erfordert {faction}-Stufe {level}.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "需要 {faction} 等级 {level}。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Требуется {faction}: уровень {level}.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "{faction} 레벨 {level} 필요.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "{faction} レベル {level} が必要。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Requiere nivel {level} de {faction}.",
 					"status": "machine",
 					"by": "ai",
@@ -368,38 +424,45 @@
 			"source": "Travel To Hideout Unit?",
 			"sourceHash": "0c33764a",
 			"origin": "/Game/Blueprints/MissionSystem/Objects/HideoutCondition/BP_HideoutCondition_HideoutUnitLevel.BP_HideoutCondition_HideoutUnitLevel_C:ExecuteUbergraph_BP_HideoutCondition_HideoutUnitLevel [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Zur Versteck-Einheit reisen?",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "前往藏身处设施？",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Перейти к модулю убежища?",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "은신처 유닛으로 이동하시겠습니까?",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "隠れ家ユニットへ移動しますか？",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "¿Viajar al módulo del refugio?",
 					"status": "machine",
 					"by": "ai",
@@ -413,38 +476,45 @@
 			"source": "Deliver {count} {targetdata} to the vendor.",
 			"sourceHash": "7e239e26",
 			"origin": "/Game/Blueprints/MissionSystem/Objects/Objectives/SubClasses/BP_IRRObjective_DeliverItem.Default__BP_IRRObjective_DeliverItem_C.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Liefere {count} {targetdata} beim Händler ab.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "向商人交付 {count} 个 {targetdata}。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Доставь {count} {targetdata} торговцу.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "상인에게 {targetdata} {count}개를 전달하십시오.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "商人に {count} 個の {targetdata} を届けろ。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Entrega {count} {targetdata} al comerciante.",
 					"status": "machine",
 					"by": "ai",
@@ -458,38 +528,45 @@
 			"source": "{Command} {l} {r} {user}",
 			"sourceHash": "f0cfa1fd",
 			"origin": "/Game/Blueprints/MissionSystem/Objects/Terminal/Sequences/BP_TerminalSequence_Text.Default__BP_TerminalSequence_Text_C.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "{Command} {l} {r} {user}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "{Command} {l} {r} {user}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "{Command} {l} {r} {user}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "{Command} {l} {r} {user}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "{Command} {l} {r} {user}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "{Command} {l} {r} {user}",
 					"status": "machine",
 					"by": "ai",
@@ -503,38 +580,45 @@
 			"source": "Continue",
 			"sourceHash": "01126727",
 			"origin": "/Game/Blueprints/MissionSystem/Objects/HideoutCondition/BP_HideoutCondition_PlayerLevel.BP_HideoutCondition_PlayerLevel_C:ExecuteUbergraph_BP_HideoutCondition_PlayerLevel [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Weiter",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "继续",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Продолжить",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "계속",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "続ける",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Continuar",
 					"status": "machine",
 					"by": "ai",
@@ -548,38 +632,45 @@
 			"source": "No need to write anything.",
 			"sourceHash": "c7a536da",
 			"origin": "/Game/Blueprints/MissionSystem/Objects/GraphCondition/BP_GraphCondition_Reputation.Default__BP_GraphCondition_Reputation_C.ConditionDescription",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Keine Eingabe erforderlich.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "无需填写任何内容。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Ничего писать не требуется.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "아무것도 작성할 필요가 없습니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "記入する必要はありません。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "No es necesario escribir nada.",
 					"status": "machine",
 					"by": "ai",
@@ -593,38 +684,45 @@
 			"source": "Sell {count} {targetdata} to the vendor",
 			"sourceHash": "72933220",
 			"origin": "/Game/Blueprints/MissionSystem/Objects/Objectives/SubClasses/BP_IRRObjective_SellItem.Default__BP_IRRObjective_SellItem_C.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Verkaufe {count} {targetdata} an den Händler",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "向商人出售 {count} 个 {targetdata}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Продай {count} {targetdata} торговцу",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "상인에게 {targetdata} {count}개 판매",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "商人に {count} 個の {targetdata} を売却",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Vende {count} {targetdata} al comerciante",
 					"status": "machine",
 					"by": "ai",
@@ -638,38 +736,45 @@
 			"source": "Continue",
 			"sourceHash": "01126727",
 			"origin": "/Game/Blueprints/MissionSystem/Objects/HideoutCondition/BP_HideoutCondition_HideoutUnitLevel.BP_HideoutCondition_HideoutUnitLevel_C:ExecuteUbergraph_BP_HideoutCondition_HideoutUnitLevel [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Weiter",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "继续",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Продолжить",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "계속",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "続ける",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Continuar",
 					"status": "machine",
 					"by": "ai",
@@ -683,38 +788,45 @@
 			"source": "Travel To Terminal?",
 			"sourceHash": "dffcefb4",
 			"origin": "/Game/Blueprints/MissionSystem/Objects/HideoutCondition/BP_HideoutCondition_PlayerLevel.BP_HideoutCondition_PlayerLevel_C:ExecuteUbergraph_BP_HideoutCondition_PlayerLevel [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Zum Terminal reisen?",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "前往终端？",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Перейти к терминалу?",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "단말기로 이동하시겠습니까?",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "端末へ移動しますか？",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "¿Viajar a la terminal?",
 					"status": "machine",
 					"by": "ai",
@@ -728,38 +840,45 @@
 			"source": "Failed to login. Credentials do not match.",
 			"sourceHash": "a0e7ed21",
 			"origin": "/Game/Blueprints/MissionSystem/Objects/Terminal/Sequences/BP_TerminalSequence_RequestLogin.Default__BP_TerminalSequence_RequestLogin_C:BP_TerminalSequence_Text_C_1.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Anmeldung fehlgeschlagen. Zugangsdaten stimmen nicht überein.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "登录失败。凭据不匹配。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Ошибка входа. Учётные данные не совпадают.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "로그인 실패. 자격 증명이 일치하지 않습니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "ログインに失敗しました。認証情報が一致しません。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Error al iniciar sesión. Las credenciales no coinciden.",
 					"status": "machine",
 					"by": "ai",
@@ -773,38 +892,45 @@
 			"source": "Cancel",
 			"sourceHash": "38947156",
 			"origin": "/Game/Blueprints/MissionSystem/Objects/HideoutCondition/BP_HideoutCondition_Reputation.BP_HideoutCondition_Reputation_C:ExecuteUbergraph_BP_HideoutCondition_Reputation [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Abbrechen",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "取消",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Отмена",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "취소",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "キャンセル",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Cancelar",
 					"status": "machine",
 					"by": "ai",
@@ -818,38 +944,45 @@
 			"source": "Extract {x} times successfully from a raid.",
 			"sourceHash": "c8f3ffaf",
 			"origin": "/Game/Blueprints/MissionSystem/Objects/Objectives/SubClasses/BP_IRRObjectie_Extract.Default__BP_IRRObjectie_Extract_C.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Extrahiere {x}-mal erfolgreich aus einem Raid.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "从突袭中成功撤离 {x} 次。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Успешно эвакуируйся из рейда {x} раз(а).",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "레이드에서 {x}회 성공적으로 탈출하십시오.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "レイドから {x} 回正常に脱出しろ。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Extrae con éxito de una incursión {x} veces.",
 					"status": "machine",
 					"by": "ai",
@@ -863,38 +996,45 @@
 			"source": "{user} has not access to this directory.",
 			"sourceHash": "9d629c27",
 			"origin": "/Game/Blueprints/MissionSystem/Objects/Terminal/DirectoryRequirement/BP_TerminalDirectoryRequirement_IsCorrectUser.Default__BP_TerminalDirectoryRequirement_IsCorrectUser_C:BP_TerminalSequence_Text_C_0.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "{user} hat keinen Zugriff auf dieses Verzeichnis.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "{user} 无权访问此目录。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "{user} не имеет доступа к этому каталогу.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "{user}은(는) 이 디렉터리에 접근할 수 없습니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "{user} にはこのディレクトリへのアクセス権がありません。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "{user} no tiene acceso a este directorio.",
 					"status": "machine",
 					"by": "ai",
@@ -908,38 +1048,45 @@
 			"source": "Complete {count} operations of type {targetdata}.",
 			"sourceHash": "11e62e4f",
 			"origin": "/Game/Blueprints/MissionSystem/Objects/Objectives/SubClasses/BP_IRRObjective_CompleteOperation.Default__BP_IRRObjective_CompleteOperation_C.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Schließe {count} Einsätze vom Typ {targetdata} ab.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "完成 {count} 次 {targetdata} 类型的行动。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Выполни {count} операций типа {targetdata}.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "{targetdata} 유형의 작전을 {count}회 완료하십시오.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "{targetdata} タイプの作戦を {count} 回完了しろ。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Completa {count} operaciones de tipo {targetdata}.",
 					"status": "machine",
 					"by": "ai",
@@ -953,38 +1100,45 @@
 			"source": "read users.txt",
 			"sourceHash": "e5d92a9b",
 			"origin": "/Game/Blueprints/MissionSystem/Objects/Terminal/DirectoryRequirement/BP_TerminalDirectoryRequirement_IsCorrectUser.BP_TerminalDirectoryRequirement_IsCorrectUser_C:GetAccessCommands [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "read users.txt",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "read users.txt",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "read users.txt",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "read users.txt",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "read users.txt",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "read users.txt",
 					"status": "machine",
 					"by": "ai",
@@ -998,38 +1152,45 @@
 			"source": "Successfully logged in as [{user}].",
 			"sourceHash": "b47b1ea2",
 			"origin": "/Game/Blueprints/MissionSystem/Objects/Terminal/Sequences/BP_TerminalSequence_RequestLogin.Default__BP_TerminalSequence_RequestLogin_C:BP_TerminalSequence_Text_C_0.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Erfolgreich angemeldet als [{user}].",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "已成功登录为 [{user}]。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Успешный вход под именем [{user}].",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "[{user}](으)로 성공적으로 로그인했습니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "[{user}] としてログインに成功しました。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Sesión iniciada correctamente como [{user}].",
 					"status": "machine",
 					"by": "ai",
@@ -1043,38 +1204,45 @@
 			"source": "Requires {faction} Level {level}.",
 			"sourceHash": "4cd785a0",
 			"origin": "/Game/Blueprints/MissionSystem/Objects/HideoutCondition/BP_HideoutCondition_Reputation.BP_HideoutCondition_Reputation_C:GetConditionDescription [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Erfordert {faction}-Stufe {level}.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "需要 {faction} 等级 {level}。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Требуется {faction}: уровень {level}.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "{faction} 레벨 {level} 필요.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "{faction} レベル {level} が必要。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Requiere nivel {level} de {faction}.",
 					"status": "machine",
 					"by": "ai",
@@ -1088,38 +1256,45 @@
 			"source": "Use {x} to upgrade {y}.",
 			"sourceHash": "830ba8f8",
 			"origin": "/Game/Blueprints/MissionSystem/Objects/Objectives/SubClasses/BP_IRRObjectie_UpgradeHideoutUnit.Default__BP_IRRObjectie_UpgradeHideoutUnit_C.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Verwende {x}, um {y} aufzuwerten.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "使用 {x} 升级 {y}。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Используй {x}, чтобы улучшить {y}.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "{x}을(를) 사용하여 {y}을(를) 업그레이드하십시오.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "{x} を使用して {y} をアップグレードしろ。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Usa {x} para mejorar {y}.",
 					"status": "machine",
 					"by": "ai",
@@ -1133,38 +1308,45 @@
 			"source": "Place {item} at marked position.",
 			"sourceHash": "1ccbf5fa",
 			"origin": "/Game/Blueprints/MissionSystem/Objects/Objectives/SubClasses/BP_IRRObjectie_Place.Default__BP_IRRObjectie_Place_C.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Platziere {item} an der markierten Position.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "在标记位置放置 {item}。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Размести {item} в отмеченной позиции.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "표시된 위치에 {item}을(를) 배치하십시오.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "指定された位置に {item} を配置しろ。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Coloca {item} en la posición marcada.",
 					"status": "machine",
 					"by": "ai",
@@ -1178,38 +1360,45 @@
 			"source": "Kill enemies in the AREA TAG PLACEHOLDER.",
 			"sourceHash": "7b34ba80",
 			"origin": "/Game/Blueprints/MissionSystem/Objects/Objectives/SubClasses/BP_IRRObjectie_ClearArea.Default__BP_IRRObjectie_ClearArea_C.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Eliminiere Feinde in AREA TAG PLACEHOLDER.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "在 AREA TAG PLACEHOLDER 消灭敌人。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Уничтожь врагов в AREA TAG PLACEHOLDER.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "AREA TAG PLACEHOLDER에서 적을 처치하십시오.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "AREA TAG PLACEHOLDERで敵を排除しろ。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Elimina a los enemigos en AREA TAG PLACEHOLDER.",
 					"status": "machine",
 					"by": "ai",
@@ -1223,38 +1412,45 @@
 			"source": "Continue",
 			"sourceHash": "01126727",
 			"origin": "/Game/Blueprints/MissionSystem/Objects/HideoutCondition/BP_HideoutCondition_Reputation.BP_HideoutCondition_Reputation_C:ExecuteUbergraph_BP_HideoutCondition_Reputation [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Weiter",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "继续",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Продолжить",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "계속",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "続ける",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Continuar",
 					"status": "machine",
 					"by": "ai",
@@ -1268,38 +1464,45 @@
 			"source": "Directory {active}\r\n{directories} {files}\r\n",
 			"sourceHash": "b466ee3e",
 			"origin": "/Game/Blueprints/MissionSystem/Objects/Terminal/Sequences/BP_TerminalSequence_Dir.Default__BP_TerminalSequence_Dir_C.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Verzeichnis {active}\r\n{directories} {files}\r\n",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "目录 {active}\r\n{directories} {files}\r\n",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Каталог {active}\r\n{directories} {files}\r\n",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "디렉터리 {active}\r\n{directories} {files}\r\n",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "ディレクトリ {active}\r\n{directories} {files}\r\n",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Directorio {active}\r\n{directories} {files}\r\n",
 					"status": "machine",
 					"by": "ai",
@@ -1313,38 +1516,45 @@
 			"source": "Retrieve evidence from {x}.",
 			"sourceHash": "b1ba3bbf",
 			"origin": "/Game/Blueprints/MissionSystem/Objects/Objectives/SubClasses/BP_IRRObjective_LootArea.Default__BP_IRRObjective_LootArea_C.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Beweise aus {x} beschaffen.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "从 {x} 获取证据。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Добудь улики из {x}.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "{x}에서 증거를 확보하십시오.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "{x} から証拠を回収しろ。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Recupera pruebas de {x}.",
 					"status": "machine",
 					"by": "ai",
@@ -1358,38 +1568,45 @@
 			"source": "Cancel",
 			"sourceHash": "38947156",
 			"origin": "/Game/Blueprints/MissionSystem/Objects/HideoutCondition/BP_HideoutCondition_HideoutUnitLevel.BP_HideoutCondition_HideoutUnitLevel_C:ExecuteUbergraph_BP_HideoutCondition_HideoutUnitLevel [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Abbrechen",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "取消",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Отмена",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "취소",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "キャンセル",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Cancelar",
 					"status": "machine",
 					"by": "ai",
@@ -1403,38 +1620,45 @@
 			"source": "Eliminate {count} with a {targetdata}.",
 			"sourceHash": "f67efa95",
 			"origin": "/Game/Blueprints/MissionSystem/Objects/Objectives/SubClasses/BP_IRRObjectie_Kill.Default__BP_IRRObjectie_Kill_C.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Eliminiere {count} mit: {targetdata}.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "使用 {targetdata} 消灭 {count} 个目标。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Уничтожь {count} с помощью {targetdata}.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "{targetdata}(으)로 {count}명을 처치하십시오.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "{targetdata} で {count} 人排除しろ。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Elimina a {count} con {targetdata}.",
 					"status": "machine",
 					"by": "ai",
@@ -1448,38 +1672,45 @@
 			"source": "Requires {unit} Level {level} .",
 			"sourceHash": "58be9653",
 			"origin": "/Game/Blueprints/MissionSystem/Objects/HideoutCondition/BP_HideoutCondition_HideoutUnitLevel.BP_HideoutCondition_HideoutUnitLevel_C:GetConditionDescription [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Erfordert {unit}-Stufe {level} .",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "需要 {unit} 等级 {level} 。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Требуется {unit}: уровень {level} .",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "{unit} 레벨 {level} 필요 .",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "{unit} レベル {level} が必要 .",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Requiere nivel {level} de {unit} .",
 					"status": "machine",
 					"by": "ai",
@@ -1493,38 +1724,45 @@
 			"source": "login",
 			"sourceHash": "0cdb02e1",
 			"origin": "/Game/Blueprints/MissionSystem/Objects/Terminal/DirectoryRequirement/BP_TerminalDirectoryRequirement_IsCorrectUser.BP_TerminalDirectoryRequirement_IsCorrectUser_C:GetAccessCommands [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "login",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "login",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "login",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "login",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "login",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "login",
 					"status": "machine",
 					"by": "ai",
@@ -1538,38 +1776,45 @@
 			"source": "Find {x} location.",
 			"sourceHash": "2add94dc",
 			"origin": "/Game/Blueprints/MissionSystem/Objects/Objectives/SubClasses/BP_IRRObjective_FindLocation.Default__BP_IRRObjective_FindLocation_C.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Finde den Ort: {x}.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "寻找位置：{x}。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Найди локацию: {x}.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "{x} 위치를 찾으십시오.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "{x} の場所を見つけろ。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Encuentra la ubicación {x}.",
 					"status": "machine",
 					"by": "ai",
@@ -1583,38 +1828,45 @@
 			"source": "Investigate {x} location.",
 			"sourceHash": "abfe9787",
 			"origin": "/Game/Blueprints/MissionSystem/Objects/Objectives/SubClasses/BP_IRRObjective_InvestigateArea.Default__BP_IRRObjective_InvestigateArea_C.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Untersuche den Ort: {x}.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "勘查位置：{x}。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Исследуй локацию: {x}.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "{x} 위치를 조사하십시오.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "{x} の場所を調査しろ。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Investiga la ubicación {x}.",
 					"status": "machine",
 					"by": "ai",
@@ -1628,38 +1880,45 @@
 			"source": "UPROPERTY(EditAnywhere, BlueprintReadWrite, Transient)\n       TArray<FGuid> RequiredFromItemUIDs;",
 			"sourceHash": "dd2c16d4",
 			"origin": "/Game/Blueprints/MissionSystem/Objects/Services/BP_Service_ConvoyDestroyed.TryExecute:K2Node_BreakStruct_2.ShowPinForProperties(9).ShowPinForProperties.PropertyTooltip",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite, Transient)\n       TArray<FGuid> RequiredFromItemUIDs;",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite, Transient)\n       TArray<FGuid> RequiredFromItemUIDs;",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite, Transient)\n       TArray<FGuid> RequiredFromItemUIDs;",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite, Transient)\n       TArray<FGuid> RequiredFromItemUIDs;",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite, Transient)\n       TArray<FGuid> RequiredFromItemUIDs;",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "UPROPERTY(EditAnywhere, BlueprintReadWrite, Transient)\n       TArray<FGuid> RequiredFromItemUIDs;",
 					"status": "machine",
 					"by": "ai",
