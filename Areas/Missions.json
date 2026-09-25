@@ -8,38 +8,45 @@
 			"source": "tset {x}",
 			"sourceHash": "6d4e963a",
 			"origin": "/Game/Blueprints/MissionSystem/NewQuest.NewQuest:QuestNode_Stage_9.NodeText.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "tset {x}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "tset {x}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "tset {x}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "tset {x}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "tset {x}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "tset {x}",
 					"status": "machine",
 					"by": "ai",
@@ -53,38 +60,45 @@
 			"source": "tet {x}",
 			"sourceHash": "d3395598",
 			"origin": "/Game/Blueprints/MissionSystem/NewQuest.NewQuest:QuestNode_Stage_9.QuestObjective_0.ShortDescription.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "tet {x}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "tet {x}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "tet {x}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "tet {x}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "tet {x}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "tet {x}",
 					"status": "machine",
 					"by": "ai",
@@ -98,38 +112,45 @@
 			"source": "stes",
 			"sourceHash": "dcd85798",
 			"origin": "/Game/Blueprints/MissionSystem/NewQuest.NewQuest:QuestNode_Stage_9.QuestObjective_0.LongDescription.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "stes",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "stes",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "stes",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "stes",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "stes",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "stes",
 					"status": "machine",
 					"by": "ai",
