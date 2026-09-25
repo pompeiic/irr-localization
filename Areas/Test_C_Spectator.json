@@ -8,38 +8,45 @@
 			"source": "X",
 			"sourceHash": "2ffdf851",
 			"origin": "Source/Test_C/Spectator/SIRRSpectatorMenu.cpp(137)",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "X",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "X",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "X",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "X",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "X",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "X",
 					"status": "machine",
 					"by": "ai",
@@ -53,38 +60,45 @@
 			"source": "Engaged",
 			"sourceHash": "79bb5275",
 			"origin": "Source/Test_C/Spectator/SIRRSpectatorMenu.cpp(266)",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Im Einsatz",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "交战中",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "В бою",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "교전 중",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "交戦中",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "En combate",
 					"status": "machine",
 					"by": "ai",
@@ -98,38 +112,45 @@
 			"source": "Chase",
 			"sourceHash": "4206d5bc",
 			"origin": "Source/Test_C/Spectator/SIRRSpectatorMenu.cpp(230)",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Verfolgen",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "跟随",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Преследование",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "추적",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "追跡",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Persecución",
 					"status": "machine",
 					"by": "ai",
@@ -143,38 +164,45 @@
 			"source": "Helmet",
 			"sourceHash": "07568694",
 			"origin": "Source/Test_C/Spectator/SIRRSpectatorMenu.cpp(208)",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Helm",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "头盔",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Шлем",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "헬멧",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "ヘルメット",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Casco",
 					"status": "machine",
 					"by": "ai",
@@ -188,38 +216,45 @@
 			"source": "Sensor",
 			"sourceHash": "240c34aa",
 			"origin": "Source/Test_C/Spectator/SIRRSpectatorMenu.cpp(219)",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Sensor",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "传感器",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Датчик",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "센서",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "センサー",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Sensor",
 					"status": "machine",
 					"by": "ai",
@@ -233,38 +268,45 @@
 			"source": "Next >",
 			"sourceHash": "81180560",
 			"origin": "Source/Test_C/Spectator/SIRRSpectatorMenu.cpp(252)",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Weiter >",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "下一个 >",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Далее >",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "다음 >",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "次へ >",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Siguiente >",
 					"status": "machine",
 					"by": "ai",
@@ -278,38 +320,45 @@
 			"source": "No spectate targets.",
 			"sourceHash": "29807224",
 			"origin": "Source/Test_C/Spectator/SIRRSpectatorMenu.cpp(302)",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Keine Zuschauziele.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "没有可观战目标。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Нет целей для наблюдения.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "관전 대상이 없습니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "観戦対象がありません。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "No hay objetivos para spectate.",
 					"status": "machine",
 					"by": "ai",
@@ -323,38 +372,45 @@
 			"source": "Not spectating",
 			"sourceHash": "5d6c785c",
 			"origin": "Source/Test_C/Spectator/SIRRSpectatorMenu.cpp(190)",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Nicht am Zuschauen",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "未在观战",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Не наблюдаешь",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "관전 중 아님",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "観戦していません",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "No estás spectating",
 					"status": "machine",
 					"by": "ai",
@@ -368,38 +424,45 @@
 			"source": "No local player.",
 			"sourceHash": "dce1f8d4",
 			"origin": "Source/Test_C/Spectator/SIRRSpectatorMenu.cpp(294)",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Kein lokaler Spieler.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "没有本地玩家。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Нет локального игрока.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "로컬 플레이어 없음.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "ローカルプレイヤーがいません。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "No hay jugador local.",
 					"status": "machine",
 					"by": "ai",
@@ -413,38 +476,45 @@
 			"source": "< Prev",
 			"sourceHash": "55fc3f1d",
 			"origin": "Source/Test_C/Spectator/SIRRSpectatorMenu.cpp(241)",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "< Zurück",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "< 上一个",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "< Назад",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "< 이전",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "< 前へ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "< Anterior",
 					"status": "machine",
 					"by": "ai",
@@ -458,38 +528,45 @@
 			"source": "Helmet cam started.",
 			"sourceHash": "6ba18e7d",
 			"origin": "Source/Test_C/Spectator/SIRRSpectatorMenu.cpp(312)",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Helmkamera gestartet.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "头盔摄像头已启动。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Камера шлема запущена.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "헬멧 캠을 시작했습니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "ヘルメットカムを開始しました。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Cámara del casco iniciada.",
 					"status": "machine",
 					"by": "ai",
@@ -503,38 +580,45 @@
 			"source": "Helmet cam: {0}",
 			"sourceHash": "367ae23f",
 			"origin": "Source/Test_C/Spectator/SIRRSpectatorMenu.cpp(310)",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Helmkamera: {0}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "头盔摄像头：{0}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Камера шлема: {0}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "헬멧 캠: {0}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "ヘルメットカム: {0}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Cámara del casco: {0}",
 					"status": "machine",
 					"by": "ai",
@@ -548,38 +632,45 @@
 			"source": "Helmet Cam",
 			"sourceHash": "c958e704",
 			"origin": "Source/Test_C/Spectator/SIRRSpectatorMenu.cpp(129)",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Helmkamera",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "头盔摄像头",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Камера шлема",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "헬멧 캠",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "ヘルメットカム",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Cámara del casco",
 					"status": "machine",
 					"by": "ai",
@@ -593,38 +684,45 @@
 			"source": "Stop",
 			"sourceHash": "48929fc3",
 			"origin": "Source/Test_C/Spectator/SIRRSpectatorMenu.cpp(277)",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Stopp",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "停止",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Остановить",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "중지",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "停止",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Detener",
 					"status": "machine",
 					"by": "ai",
@@ -638,38 +736,45 @@
 			"source": "Spectator (Debug)",
 			"sourceHash": "1884e347",
 			"origin": "Source/Test_C/Spectator/SIRRSpectatorMenu.cpp(121)",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Zuschauer (Debug)",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "旁观者 (调试)",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Наблюдатель (отладка)",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "관전 (디버그)",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "スペクテーター (デバッグ)",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Espectador (depuración)",
 					"status": "machine",
 					"by": "ai",
@@ -683,38 +788,45 @@
 			"source": "Watching {0}  ({1})",
 			"sourceHash": "a554d8b9",
 			"origin": "Source/Test_C/Spectator/SIRRSpectatorMenu.cpp(195)",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Beobachtet {0}  ({1})",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "正在观看 {0}  ({1})",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Наблюдение за {0}  ({1})",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "{0} 관전 중  ({1})",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "{0} を観戦中  ({1})",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Observando a {0}  ({1})",
 					"status": "machine",
 					"by": "ai",
@@ -728,38 +840,45 @@
 			"source": "Watching (target gone)",
 			"sourceHash": "a35280d9",
 			"origin": "Source/Test_C/Spectator/SIRRSpectatorMenu.cpp(198)",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Beobachten (Ziel nicht mehr da)",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "正在观看 (目标已消失)",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Наблюдение (цель исчезла)",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "관전 중 (대상 사라짐)",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "観戦中 (ターゲット消失)",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Observando (objetivo desaparecido)",
 					"status": "machine",
 					"by": "ai",
