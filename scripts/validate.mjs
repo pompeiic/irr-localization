@@ -1,4 +1,4 @@
-﻿// Validates the localization files. On pull requests it also checks the change is translation-only:
+// Validates the localization files. On pull requests it also checks the change is translation-only:
 // the English side (ns/key/source/sourceHash/origin) is owned by the Unreal export and must not change.
 //   node scripts/validate.mjs                 -> structure + translation checks
 //   node scripts/validate.mjs --base main     -> + "translations only" diff against origin/main
@@ -74,20 +74,20 @@ for (const file of areaFiles) {
 
   if (!base) continue;
   const before = readBase(file);
-  if (!before) { fail(file, "new area file â€” areas are created by the Unreal export, not by pull requests"); continue; }
+  if (!before) { fail(file, "new area file — areas are created by the Unreal export, not by pull requests"); continue; }
   const beforeById = new Map(before.entries.map((e) => [`${e.ns}\u001f${e.key}`, e]));
   const afterIds = new Set();
   for (const entry of doc.entries) {
     const key = `${entry.ns}\u001f${entry.key}`;
     afterIds.add(key);
     const old = beforeById.get(key);
-    if (!old) { fail(file, `${entry.ns},${entry.key}: entry added â€” only the Unreal export adds entries`); continue; }
+    if (!old) { fail(file, `${entry.ns},${entry.key}: entry added — only the Unreal export adds entries`); continue; }
     for (const field of ENGLISH_FIELDS) {
-      if (old[field] !== entry[field]) fail(file, `${entry.ns},${entry.key}: "${field}" changed â€” English text is edited in Unreal`);
+      if (old[field] !== entry[field]) fail(file, `${entry.ns},${entry.key}: "${field}" changed — English text is edited in Unreal`);
     }
   }
   for (const key of beforeById.keys()) {
-    if (!afterIds.has(key)) fail(file, `${key.replace("\u001f", ",")}: entry removed â€” only the Unreal export removes entries`);
+    if (!afterIds.has(key)) fail(file, `${key.replace("\u001f", ",")}: entry removed — only the Unreal export removes entries`);
   }
 }
 
@@ -104,4 +104,4 @@ if (errors.length) {
   console.error(errors.map((e) => `FAIL ${e}`).join("\n"));
   process.exit(1);
 }
-console.log(`OK â€” ${areaFiles.length} area file(s)${base ? `, translation-only against ${base}` : ""}`);
+console.log(`OK — ${areaFiles.length} area file(s)${base ? `, translation-only against ${base}` : ""}`);
