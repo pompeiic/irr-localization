@@ -5568,6 +5568,58 @@
 		},
 		{
 			"ns": "",
+			"key": "2CFE1F2349830CC7637B7BA8E2C8C28C",
+			"source": "Connecting To Party",
+			"sourceHash": "90a061cc",
+			"origin": "/Game/Blueprints/UICore/Widgets/Misc/Notifications/W_IRR_Notification_Standard.Default__W_IRR_Notification_Standard_C.NotificationText",
+			"t":
+			{
+				"de":
+				{
+					"text": "Folge dem Party-Anführer",
+					"status": "stale",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "正在跟随小队队长",
+					"status": "stale",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
+				},
+				"ru":
+				{
+					"text": "Следование за лидером группы",
+					"status": "stale",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
+				},
+				"ko":
+				{
+					"text": "파티 리더 따라가는 중",
+					"status": "stale",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
+				},
+				"ja":
+				{
+					"text": "パーティーリーダーに追従中",
+					"status": "stale",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Siguiendo al líder del grupo",
+					"status": "stale",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "2DAD4D4D4A30D479A1EB73BC80E82726",
 			"source": "How much radio effect should be applied to player voices.",
 			"sourceHash": "3075e81e",
@@ -6395,6 +6447,46 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "37ED57394CB0289EE6BC40951E97364A",
+			"source": "test",
+			"sourceHash": "919f0e6b",
+			"origin": "/Game/Blueprints/UICore/Widgets/Base/W_IRR_BaseButton.W_IRR_BaseButton_C:WidgetTree.ButtonTextBlock.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -15709,50 +15801,50 @@
 		{
 			"ns": "",
 			"key": "93A78BD64572C253F61CF19576490C51",
-			"source": "+",
-			"sourceHash": "5677f723",
-			"origin": "/Game/Blueprints/UICore/Widgets/Base/W_IRR_BaseButton.W_IRR_BaseButton_C:WidgetTree.ButtonTextBlock.Text",
+			"source": "test",
+			"sourceHash": "919f0e6b",
+			"origin": "/Game/Blueprints/UICore/Widgets/Base/W_IRR_BaseButton.Default__W_IRR_BaseButton_C.Text",
 			"t":
 			{
 				"de":
 				{
 					"text": "+",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"zh-Hans":
 				{
 					"text": "+",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"ru":
 				{
 					"text": "+",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"ko":
 				{
 					"text": "+",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"ja":
 				{
 					"text": "+",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"es-ES":
 				{
 					"text": "+",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				}
