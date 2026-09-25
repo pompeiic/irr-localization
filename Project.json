@@ -17,7 +17,8 @@
 			"area": "Blueprints/AI",
 			"file": "Areas/Blueprints_AI.json",
 			"entries": 5,
-			"translated": {
+			"translated":
+			{
 				"de": 5,
 				"zh-Hans": 5,
 				"ru": 5,
@@ -30,7 +31,8 @@
 			"area": "Blueprints/Airstrike",
 			"file": "Areas/Blueprints_Airstrike.json",
 			"entries": 10,
-			"translated": {
+			"translated":
+			{
 				"de": 10,
 				"zh-Hans": 10,
 				"ru": 10,
@@ -43,7 +45,8 @@
 			"area": "Blueprints/Data",
 			"file": "Areas/Blueprints_Data.json",
 			"entries": 16,
-			"translated": {
+			"translated":
+			{
 				"de": 16,
 				"zh-Hans": 16,
 				"ru": 16,
@@ -56,7 +59,8 @@
 			"area": "Blueprints/InputSystem",
 			"file": "Areas/Blueprints_InputSystem.json",
 			"entries": 57,
-			"translated": {
+			"translated":
+			{
 				"de": 57,
 				"zh-Hans": 57,
 				"ru": 57,
@@ -69,7 +73,8 @@
 			"area": "Blueprints/LoadingScreen",
 			"file": "Areas/Blueprints_LoadingScreen.json",
 			"entries": 1,
-			"translated": {
+			"translated":
+			{
 				"de": 1,
 				"zh-Hans": 1,
 				"ru": 1,
@@ -82,7 +87,8 @@
 			"area": "Blueprints/PatchSystem",
 			"file": "Areas/Blueprints_PatchSystem.json",
 			"entries": 2,
-			"translated": {
+			"translated":
+			{
 				"de": 2,
 				"zh-Hans": 2,
 				"ru": 2,
@@ -95,7 +101,8 @@
 			"area": "Blueprints/ResourceSystem",
 			"file": "Areas/Blueprints_ResourceSystem.json",
 			"entries": 5,
-			"translated": {
+			"translated":
+			{
 				"de": 5,
 				"zh-Hans": 5,
 				"ru": 5,
@@ -108,7 +115,8 @@
 			"area": "Blueprints/SimpleGameplayAbilitySystem",
 			"file": "Areas/Blueprints_SimpleGameplayAbilitySystem.json",
 			"entries": 37,
-			"translated": {
+			"translated":
+			{
 				"de": 37,
 				"zh-Hans": 37,
 				"ru": 37,
@@ -121,7 +129,8 @@
 			"area": "Gameloop",
 			"file": "Areas/Gameloop.json",
 			"entries": 8,
-			"translated": {
+			"translated":
+			{
 				"de": 8,
 				"zh-Hans": 8,
 				"ru": 8,
@@ -134,7 +143,8 @@
 			"area": "Gameloop/CinematicCamera",
 			"file": "Areas/Gameloop_CinematicCamera.json",
 			"entries": 7,
-			"translated": {
+			"translated":
+			{
 				"de": 7,
 				"zh-Hans": 7,
 				"ru": 7,
@@ -147,7 +157,8 @@
 			"area": "Gameloop/Hideout",
 			"file": "Areas/Gameloop_Hideout.json",
 			"entries": 6,
-			"translated": {
+			"translated":
+			{
 				"de": 6,
 				"zh-Hans": 6,
 				"ru": 6,
@@ -160,7 +171,8 @@
 			"area": "Gameloop/InGame",
 			"file": "Areas/Gameloop_InGame.json",
 			"entries": 1,
-			"translated": {
+			"translated":
+			{
 				"de": 1,
 				"zh-Hans": 1,
 				"ru": 1,
@@ -173,7 +185,8 @@
 			"area": "Gameloop/Lobby",
 			"file": "Areas/Gameloop_Lobby.json",
 			"entries": 35,
-			"translated": {
+			"translated":
+			{
 				"de": 35,
 				"zh-Hans": 35,
 				"ru": 35,
@@ -186,7 +199,8 @@
 			"area": "Gameloop/Menu",
 			"file": "Areas/Gameloop_Menu.json",
 			"entries": 32,
-			"translated": {
+			"translated":
+			{
 				"de": 32,
 				"zh-Hans": 32,
 				"ru": 32,
@@ -199,7 +213,8 @@
 			"area": "Interaction/Widgets",
 			"file": "Areas/Interaction_Widgets.json",
 			"entries": 2,
-			"translated": {
+			"translated":
+			{
 				"de": 2,
 				"zh-Hans": 2,
 				"ru": 2,
@@ -212,7 +227,8 @@
 			"area": "Inventory/Components",
 			"file": "Areas/Inventory_Components.json",
 			"entries": 2,
-			"translated": {
+			"translated":
+			{
 				"de": 2,
 				"zh-Hans": 2,
 				"ru": 2,
@@ -225,7 +241,8 @@
 			"area": "Inventory/ExampleActors",
 			"file": "Areas/Inventory_ExampleActors.json",
 			"entries": 4,
-			"translated": {
+			"translated":
+			{
 				"de": 4,
 				"zh-Hans": 4,
 				"ru": 4,
@@ -238,7 +255,8 @@
 			"area": "Inventory/Items",
 			"file": "Areas/Inventory_Items.json",
 			"entries": 711,
-			"translated": {
+			"translated":
+			{
 				"de": 711,
 				"zh-Hans": 711,
 				"ru": 711,
@@ -251,7 +269,8 @@
 			"area": "Inventory/Objects",
 			"file": "Areas/Inventory_Objects.json",
 			"entries": 88,
-			"translated": {
+			"translated":
+			{
 				"de": 88,
 				"zh-Hans": 88,
 				"ru": 88,
@@ -264,7 +283,8 @@
 			"area": "Inventory/RaidTrader",
 			"file": "Areas/Inventory_RaidTrader.json",
 			"entries": 16,
-			"translated": {
+			"translated":
+			{
 				"de": 16,
 				"zh-Hans": 16,
 				"ru": 16,
@@ -277,7 +297,8 @@
 			"area": "Inventory/SecureContainer",
 			"file": "Areas/Inventory_SecureContainer.json",
 			"entries": 2,
-			"translated": {
+			"translated":
+			{
 				"de": 2,
 				"zh-Hans": 2,
 				"ru": 2,
@@ -290,7 +311,8 @@
 			"area": "Inventory/Templates",
 			"file": "Areas/Inventory_Templates.json",
 			"entries": 52,
-			"translated": {
+			"translated":
+			{
 				"de": 52,
 				"zh-Hans": 52,
 				"ru": 52,
@@ -303,20 +325,22 @@
 			"area": "Inventory/Widgets",
 			"file": "Areas/Inventory_Widgets.json",
 			"entries": 312,
-			"translated": {
-				"de": 312,
-				"zh-Hans": 312,
-				"ru": 312,
-				"ko": 312,
-				"ja": 312,
-				"es-ES": 312
+			"translated":
+			{
+				"de": 310,
+				"zh-Hans": 310,
+				"ru": 310,
+				"ko": 310,
+				"ja": 310,
+				"es-ES": 310
 			}
 		},
 		{
 			"area": "Missions",
 			"file": "Areas/Missions.json",
 			"entries": 3,
-			"translated": {
+			"translated":
+			{
 				"de": 3,
 				"zh-Hans": 3,
 				"ru": 3,
@@ -329,7 +353,8 @@
 			"area": "Missions/Actors",
 			"file": "Areas/Missions_Actors.json",
 			"entries": 17,
-			"translated": {
+			"translated":
+			{
 				"de": 17,
 				"zh-Hans": 17,
 				"ru": 17,
@@ -342,7 +367,8 @@
 			"area": "Missions/DataAssets",
 			"file": "Areas/Missions_DataAssets.json",
 			"entries": 929,
-			"translated": {
+			"translated":
+			{
 				"de": 929,
 				"zh-Hans": 929,
 				"ru": 929,
@@ -355,7 +381,8 @@
 			"area": "Missions/Objects",
 			"file": "Areas/Missions_Objects.json",
 			"entries": 37,
-			"translated": {
+			"translated":
+			{
 				"de": 37,
 				"zh-Hans": 37,
 				"ru": 37,
@@ -368,7 +395,8 @@
 			"area": "Missions/Private",
 			"file": "Areas/Missions_Private.json",
 			"entries": 10,
-			"translated": {
+			"translated":
+			{
 				"de": 10,
 				"zh-Hans": 10,
 				"ru": 10,
@@ -381,7 +409,8 @@
 			"area": "Missions/Public",
 			"file": "Areas/Missions_Public.json",
 			"entries": 6,
-			"translated": {
+			"translated":
+			{
 				"de": 6,
 				"zh-Hans": 6,
 				"ru": 6,
@@ -394,7 +423,8 @@
 			"area": "Missions/UI",
 			"file": "Areas/Missions_UI.json",
 			"entries": 270,
-			"translated": {
+			"translated":
+			{
 				"de": 270,
 				"zh-Hans": 270,
 				"ru": 270,
@@ -407,7 +437,8 @@
 			"area": "Patch Notes/Private",
 			"file": "Areas/Patch_Notes_Private.json",
 			"entries": 9,
-			"translated": {
+			"translated":
+			{
 				"de": 9,
 				"zh-Hans": 9,
 				"ru": 9,
@@ -420,7 +451,8 @@
 			"area": "Test_C/AdvancedAudio",
 			"file": "Areas/Test_C_AdvancedAudio.json",
 			"entries": 1,
-			"translated": {
+			"translated":
+			{
 				"de": 1,
 				"zh-Hans": 1,
 				"ru": 1,
@@ -433,7 +465,8 @@
 			"area": "Test_C/Optics",
 			"file": "Areas/Test_C_Optics.json",
 			"entries": 2,
-			"translated": {
+			"translated":
+			{
 				"de": 2,
 				"zh-Hans": 2,
 				"ru": 2,
@@ -446,7 +479,8 @@
 			"area": "Test_C/Spectator",
 			"file": "Areas/Test_C_Spectator.json",
 			"entries": 17,
-			"translated": {
+			"translated":
+			{
 				"de": 17,
 				"zh-Hans": 17,
 				"ru": 17,
@@ -459,7 +493,8 @@
 			"area": "Tutorial",
 			"file": "Areas/Tutorial.json",
 			"entries": 36,
-			"translated": {
+			"translated":
+			{
 				"de": 36,
 				"zh-Hans": 36,
 				"ru": 36,
@@ -472,7 +507,8 @@
 			"area": "UI/Data",
 			"file": "Areas/UI_Data.json",
 			"entries": 17,
-			"translated": {
+			"translated":
+			{
 				"de": 17,
 				"zh-Hans": 17,
 				"ru": 17,
@@ -485,7 +521,8 @@
 			"area": "UI/Widgets",
 			"file": "Areas/UI_Widgets.json",
 			"entries": 571,
-			"translated": {
+			"translated":
+			{
 				"de": 571,
 				"zh-Hans": 571,
 				"ru": 571,
