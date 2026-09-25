@@ -8,38 +8,45 @@
 			"source": "{x}",
 			"sourceHash": "c8ed11f1",
 			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:ExecuteUbergraph_W_DebugSimpleAbilitySystem [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "{x}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "{x}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "{x}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "{x}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "{x}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "{x}",
 					"status": "machine",
 					"by": "ai",
@@ -53,38 +60,45 @@
 			"source": "Bleeding",
 			"sourceHash": "0bae2e7f",
 			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Effects/SGE_IsWounded.Default__SGE_IsWounded_C.Name",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Blutung",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "流血",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "кровотечение",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "출혈",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "出血",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "sangrado",
 					"status": "machine",
 					"by": "ai",
@@ -98,38 +112,45 @@
 			"source": "{x}",
 			"sourceHash": "c8ed11f1",
 			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:ExecuteUbergraph_W_DebugSimpleAbilitySystem [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "{x}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "{x}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "{x}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "{x}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "{x}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "{x}",
 					"status": "machine",
 					"by": "ai",
@@ -143,38 +164,45 @@
 			"source": "Character Braking Friction: ",
 			"sourceHash": "b8f0324c",
 			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:WidgetTree.WeaponAmmunitionState_5.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Bremsreibung Charakter: ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "角色制动摩擦： ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Тормозное трение персонажа: ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "캐릭터 제동 마찰: ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "キャラクター制動摩擦: ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Fricción de frenado: ",
 					"status": "machine",
 					"by": "ai",
@@ -188,38 +216,45 @@
 			"source": "Bleeding",
 			"sourceHash": "0bae2e7f",
 			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Effects/SGE_TearGas.Default__SGE_TearGas_C.Name",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Blutung",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "流血",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "кровотечение",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "출혈",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "出血",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "sangrado",
 					"status": "machine",
 					"by": "ai",
@@ -233,38 +268,45 @@
 			"source": "Character Braking: ",
 			"sourceHash": "cf2c88b0",
 			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:WidgetTree.WeaponAmmunitionState_4.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Charakterbremsung: ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "角色制动： ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Торможение персонажа: ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "캐릭터 제동: ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "キャラクター制動: ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Frenado del personaje: ",
 					"status": "machine",
 					"by": "ai",
@@ -278,38 +320,45 @@
 			"source": "Weapon Weight: ",
 			"sourceHash": "a12b0406",
 			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:WidgetTree.WeaponWeight_1.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Waffengewicht: ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "武器重量： ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Вес оружия: ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "무기 무게: ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "武器重量: ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Peso del arma: ",
 					"status": "machine",
 					"by": "ai",
@@ -323,38 +372,45 @@
 			"source": "Mag Capacity: {x} Cahmber Empty? {y}",
 			"sourceHash": "4b85974a",
 			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:ExecuteUbergraph_W_DebugSimpleAbilitySystem [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Magazinkapazität: {x} Patronenlager leer? {y}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "弹匣容量：{x} 弹膛空？{y}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Ёмкость магазина: {x} Патронник пуст? {y}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "탄창 용량: {x} 약실 비었음? {y}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "マガジン容量: {x} チャンバー空？{y}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Capacidad del cargador: {x} ¿Recámara vacía? {y}",
 					"status": "machine",
 					"by": "ai",
@@ -368,38 +424,45 @@
 			"source": "Weapon Ergo: ",
 			"sourceHash": "87dbe228",
 			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:WidgetTree.WeaponWeight_3.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Waffen-Ergo: ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "武器人机工效： ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Эргономика оружия: ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "무기 인체공학: ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "武器エルゴ: ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Ergo del arma: ",
 					"status": "machine",
 					"by": "ai",
@@ -413,38 +476,45 @@
 			"source": "Weapon Ammunition State: ",
 			"sourceHash": "2beee5b4",
 			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:WidgetTree.WeaponAmmunitionState.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Waffen-Munitionsstatus: ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "武器弹药状态： ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Состояние боеприпасов оружия: ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "무기 탄약 상태: ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "武器弾薬状態: ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Estado de munición del arma: ",
 					"status": "machine",
 					"by": "ai",
@@ -458,38 +528,45 @@
 			"source": "{x}",
 			"sourceHash": "c8ed11f1",
 			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:ExecuteUbergraph_W_DebugSimpleAbilitySystem [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "{x}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "{x}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "{x}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "{x}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "{x}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "{x}",
 					"status": "machine",
 					"by": "ai",
@@ -503,38 +580,45 @@
 			"source": "{x}",
 			"sourceHash": "c8ed11f1",
 			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:ExecuteUbergraph_W_DebugSimpleAbilitySystem [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "{x}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "{x}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "{x}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "{x}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "{x}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "{x}",
 					"status": "machine",
 					"by": "ai",
@@ -548,38 +632,45 @@
 			"source": "Adrenaline",
 			"sourceHash": "15234707",
 			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Effects/SGE_Arm_Influence.Default__SGE_Arm_Influence_C.Name",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Adrenalin",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "肾上腺素",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Адреналин",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "아드레날린",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "アドレナリン",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Adrenalina",
 					"status": "machine",
 					"by": "ai",
@@ -593,38 +684,45 @@
 			"source": "Character Max Walk Speed: ",
 			"sourceHash": "5cc41993",
 			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:WidgetTree.WeaponAmmunitionState_2.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Max. Gehgeschwindigkeit: ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "角色最大步行速度： ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Макс. скорость ходьбы: ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "캐릭터 최대 걷기 속도: ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "最大歩行速度: ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Vel. máx. de marcha: ",
 					"status": "machine",
 					"by": "ai",
@@ -638,38 +736,45 @@
 			"source": "Weapon Length: ",
 			"sourceHash": "ef762c58",
 			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:WidgetTree.WeaponWeight_2.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Waffenlänge: ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "武器长度： ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Длина оружия: ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "무기 길이: ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "武器全長: ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Longitud del arma: ",
 					"status": "machine",
 					"by": "ai",
@@ -683,38 +788,45 @@
 			"source": "Active Abilities",
 			"sourceHash": "619574e9",
 			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:WidgetTree.WeaponLength.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Aktive Fähigkeiten",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "激活中的能力",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Активные способности",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "활성 능력",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "アクティブアビリティ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Habilidades activas",
 					"status": "machine",
 					"by": "ai",
@@ -728,38 +840,45 @@
 			"source": "Bleeding",
 			"sourceHash": "0bae2e7f",
 			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Effects/SGE_Smoke.Default__SGE_Smoke_C.Name",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Blutung",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "流血",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "кровотечение",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "출혈",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "出血",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "sangrado",
 					"status": "machine",
 					"by": "ai",
@@ -773,38 +892,45 @@
 			"source": "Chamber",
 			"sourceHash": "02ea3f25",
 			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_SimpleAbilityTagItem.W_SimpleAbilityTagItem_C:WidgetTree.TextBlock_122.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Patronenlager",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "弹膛",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Патронник",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "약실",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "チャンバー",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Recámara",
 					"status": "machine",
 					"by": "ai",
@@ -818,38 +944,45 @@
 			"source": "Weapon Recoil : ",
 			"sourceHash": "fe5bf9b2",
 			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:WidgetTree.WeaponWeight_4.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Waffenrückstoß : ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "武器后坐力： ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Отдача оружия : ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "무기 반동 : ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "武器リコイル : ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Retroceso del arma : ",
 					"status": "machine",
 					"by": "ai",
@@ -863,38 +996,45 @@
 			"source": "Bleeding",
 			"sourceHash": "0bae2e7f",
 			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Effects/SGE_NeutralCombat.Default__SGE_NeutralCombat_C.Name",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Blutung",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "流血",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "кровотечение",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "출혈",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "出血",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "sangrado",
 					"status": "machine",
 					"by": "ai",
@@ -908,38 +1048,45 @@
 			"source": "Active Tags",
 			"sourceHash": "93006fe1",
 			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:WidgetTree.WeaponRecoil.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Aktive Tags",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "激活标签",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Активные теги",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "활성 태그",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "アクティブタグ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Etiquetas activas",
 					"status": "machine",
 					"by": "ai",
@@ -953,38 +1100,45 @@
 			"source": "Hold Breath",
 			"sourceHash": "e2b1b61c",
 			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Effects/SGE_HoldBreath.Default__SGE_HoldBreath_C.Name",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Atem anhalten",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "屏息",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Задержка дыхания",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "숨 참기",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "息止め",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Contener la respiración",
 					"status": "machine",
 					"by": "ai",
@@ -998,38 +1152,45 @@
 			"source": "Abilities Blocked",
 			"sourceHash": "2f59a33c",
 			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:WidgetTree.AbilitesBlocked.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Fähigkeiten blockiert",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "能力已封锁",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Способности заблокированы",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "능력 차단됨",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "アビリティ封鎖中",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Habilidades bloqueadas",
 					"status": "machine",
 					"by": "ai",
@@ -1043,38 +1204,45 @@
 			"source": "Stops Bleeding",
 			"sourceHash": "e74c6dd3",
 			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Effects/SGE_StopWound.Default__SGE_StopWound_C.Name",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Stoppt Blutung",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "止血",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Останавливает кровотечение",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "출혈 중지",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "止血",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Detiene el sangrado",
 					"status": "machine",
 					"by": "ai",
@@ -1088,38 +1256,45 @@
 			"source": "Fractured",
 			"sourceHash": "e0957ec5",
 			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Effects/SGE_Fractured.Default__SGE_Fractured_C.Name",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Gebrochen",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "骨折",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Перелом",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "골절",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "骨折",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Fracturado",
 					"status": "machine",
 					"by": "ai",
@@ -1133,38 +1308,45 @@
 			"source": "Bleeding",
 			"sourceHash": "0bae2e7f",
 			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Effects/SGE_UnderSuppresion.Default__SGE_UnderSuppresion_C.Name",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Blutung",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "流血",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "кровотечение",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "출혈",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "出血",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "sangrado",
 					"status": "machine",
 					"by": "ai",
@@ -1178,38 +1360,45 @@
 			"source": "Heavy Bleeding",
 			"sourceHash": "d4ece7ae",
 			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Effects/SGE_IsWounded.Default__SGE_IsWounded_C.HeavyName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Starke Blutung",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "大量流血",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Сильное кровотечение",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "심한 출혈",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "大出血",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Sangrado intenso",
 					"status": "machine",
 					"by": "ai",
@@ -1223,38 +1412,45 @@
 			"source": "Stops Bleeding",
 			"sourceHash": "e74c6dd3",
 			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Effects/SGE_StopHeavyWound.Default__SGE_StopHeavyWound_C.Name",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Stoppt Blutung",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "止血",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Останавливает кровотечение",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "출혈 중지",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "止血",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Detiene el sangrado",
 					"status": "machine",
 					"by": "ai",
@@ -1268,38 +1464,45 @@
 			"source": "Character Accel: ",
 			"sourceHash": "3b596164",
 			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:WidgetTree.WeaponAmmunitionState_3.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Charakterbeschleunigung: ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "角色加速度： ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Ускорение персонажа: ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "캐릭터 가속도: ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "キャラクター加速度: ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Aceleración del personaje: ",
 					"status": "machine",
 					"by": "ai",
@@ -1313,38 +1516,45 @@
 			"source": "Stops Bleeding",
 			"sourceHash": "e74c6dd3",
 			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Effects/SGE_StopFractured.Default__SGE_StopFractured_C.Name",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Stoppt Blutung",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "止血",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Останавливает кровотечение",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "출혈 중지",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "止血",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Detiene el sangrado",
 					"status": "machine",
 					"by": "ai",
@@ -1358,38 +1568,45 @@
 			"source": "Character Weight: ",
 			"sourceHash": "d61f4a77",
 			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:WidgetTree.WeaponAmmunitionState_1.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Charaktergewicht: ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "角色负重： ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Вес персонажа: ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "캐릭터 무게: ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "キャラクター重量: ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Peso del personaje: ",
 					"status": "machine",
 					"by": "ai",
@@ -1403,38 +1620,45 @@
 			"source": "Painkiller",
 			"sourceHash": "a67ccedb",
 			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Effects/SGE_Painkiller_Debug.Default__SGE_Painkiller_Debug_C.Name",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Schmerzmittel",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "止痛药",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "обезболивающее",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "진통제",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "鎮痛剤",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "analgésico",
 					"status": "machine",
 					"by": "ai",
@@ -1448,38 +1672,45 @@
 			"source": "Weapon Sway : ",
 			"sourceHash": "93873f5d",
 			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:WidgetTree.WeaponWeight_5.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Waffenschwanken : ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "武器晃动： ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Колебание оружия : ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "무기 흔들림 : ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "武器ブレ : ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Balanceo del arma : ",
 					"status": "machine",
 					"by": "ai",
@@ -1493,38 +1724,45 @@
 			"source": "{x}",
 			"sourceHash": "c8ed11f1",
 			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:ExecuteUbergraph_W_DebugSimpleAbilitySystem [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "{x}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "{x}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "{x}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "{x}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "{x}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "{x}",
 					"status": "machine",
 					"by": "ai",
@@ -1538,38 +1776,45 @@
 			"source": "Stops Bleeding",
 			"sourceHash": "e74c6dd3",
 			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Effects/SGE_StopWound_Debug.Default__SGE_StopWound_Debug_C.Name",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Stoppt Blutung",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "止血",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Останавливает кровотечение",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "출혈 중지",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "止血",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Detiene el sangrado",
 					"status": "machine",
 					"by": "ai",
@@ -1583,38 +1828,45 @@
 			"source": "Buffered Abilities",
 			"sourceHash": "8abc15a4",
 			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:WidgetTree.WeaponErgonomics.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Gepufferte Fähigkeiten",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "缓冲中的能力",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Буферизованные способности",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "버퍼링된 능력",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "バッファ中のアビリティ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Habilidades en búfer",
 					"status": "machine",
 					"by": "ai",
@@ -1628,38 +1880,45 @@
 			"source": "Ground Friction: ",
 			"sourceHash": "c6988ec7",
 			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Widgets/W_DebugSimpleAbilitySystem.W_DebugSimpleAbilitySystem_C:WidgetTree.WeaponAmmunitionState_6.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Bodenreibung: ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "地面摩擦： ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Трение о землю: ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "지면 마찰: ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "地面摩擦: ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Fricción del suelo: ",
 					"status": "machine",
 					"by": "ai",
