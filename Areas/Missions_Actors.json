@@ -56,6 +56,46 @@
 		},
 		{
 			"ns": "",
+			"key": "0D96E12440019FD0143EF2B3ED022A7D",
+			"source": "Press <Red>F</> to <Red>upgrade</> the lighting.",
+			"sourceHash": "fff68b24",
+			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_Lighting.BP_HideoutUnit_Lighting_C:BP_InteractionTarget_Upgrade_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "14727CA44C1BA2D77F5826A34B12C8D8",
 			"source": "Installs a <strong>large</> generator powered by <strong>diesel</> in your safehouse.",
 			"sourceHash": "cf3ca614",
@@ -259,6 +299,46 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "5BB5D5C14DB33934EE7D67B7F6B1E162",
+			"source": "Press <Red>F</> to <Red>upgrade</> the generator.",
+			"sourceHash": "f7b6fa39",
+			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_Generator.BP_HideoutUnit_Generator_C:BP_InteractionTarget_Upgrade_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -472,6 +552,46 @@
 		},
 		{
 			"ns": "",
+			"key": "79DBECCF46385A4C8A53E7BF06D49363",
+			"source": "Press <Red>F</> to <Red>upgrade</> the PLACEHOLDER.",
+			"sourceHash": "3f3439a7",
+			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_Master.BP_HideoutUnit_Master_C:BP_InteractionTarget_Upgrade_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "869D7F3A4D728542FA47408EC7B9D2DE",
 			"source": "Adds <strong>basic</> lighting to your safehouse.",
 			"sourceHash": "bf64e875",
@@ -519,6 +639,166 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "9149D4104996DFE27E63F0ABCC787A1A",
+			"source": "Unlock repair station <Red>LV. 1</> first.",
+			"sourceHash": "ba19307f",
+			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_RepairStation.BP_HideoutUnit_RepairStation_C:BP_InteractionTarget_RepairStation_GEN_VARIABLE.InteractionOption_1.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "95E3EA7843C16830F4A39BA98906A3A2",
+			"source": "Press <Red>F</> to <Red>upgrade</> the firing range.",
+			"sourceHash": "36b0407c",
+			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_Master_ShootingRange.BP_HideoutUnit_Master_ShootingRange_C:BP_InteractionTarget_Upgrade_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "A0AA9CDA40F28AA7CFA0898AB3FD6A96",
+			"source": "Press <Red>F</> to <Red>upgrade</> the gunsmith.",
+			"sourceHash": "ba66afdd",
+			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/Gunsmith/BP_Gunsmith.BP_Gunsmith_C:BP_InteractionTarget_Upgrade_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "A4C1CC4E4B09B0282CACC5B7429EC1C8",
+			"source": "Unlock Gunsmith <Red>LV. 1</> first.",
+			"sourceHash": "29717aed",
+			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/Gunsmith/BP_Gunsmith.BP_Gunsmith_C:BP_InteractionTarget_Gunsmith_GEN_VARIABLE.InteractionOption_1.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -628,6 +908,86 @@
 		},
 		{
 			"ns": "",
+			"key": "CD639FC84E88B8AF39EAF699EA38375D",
+			"source": "Press <Red>F</> to <Red>interact</> with the gunsmith.",
+			"sourceHash": "9132cd6f",
+			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/Gunsmith/BP_Gunsmith.BP_Gunsmith_C:BP_InteractionTarget_Gunsmith_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "CE90B3934EEA456582125BB21EB01CFE",
+			"source": "Press <Red>F</> to <Red>upgrade</> the structure.",
+			"sourceHash": "4cdab907",
+			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_Structure.BP_HideoutUnit_Structure_C:BP_InteractionTarget_Upgrade_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "D60EB47048C3FC9458720597C02C9F85",
 			"source": "<strong>Unlocks</> additionally the repair option with <strong>cash</>.",
 			"sourceHash": "748dca1d",
@@ -732,6 +1092,46 @@
 		},
 		{
 			"ns": "",
+			"key": "DA652AE847FD11B9F129C8A83E693CE6",
+			"source": "Press <Red>F</> to <Red>interact</> with the repair station.",
+			"sourceHash": "8bdcfc40",
+			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_RepairStation.BP_HideoutUnit_RepairStation_C:BP_InteractionTarget_RepairStation_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "DBD3DBCC49A01CEB13BD8DB1BB7C97C9",
 			"source": "<strong>Replaces</> the diesel generator with an generator that is powered by <strong>gasoline</>.",
 			"sourceHash": "951d77e0",
@@ -784,6 +1184,46 @@
 		},
 		{
 			"ns": "",
+			"key": "F77DA9E54F0EE159A31EBF9217F03FD5",
+			"source": "Press <Red>F</> to <Red>upgrade</> the repair station.",
+			"sourceHash": "8266d6e8",
+			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_RepairStation.BP_HideoutUnit_RepairStation_C:BP_InteractionTarget_Upgrade_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "F8BBA0814E68B3822345CDBD8E964926",
 			"source": "Unlocks <strong>cash repair</> for guns & attachments.",
 			"sourceHash": "9e66b997",
@@ -831,6 +1271,46 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "FDFBA12647E2FFD9F0EFE19DD5AC3E7D",
+			"source": "Press <Red>F</> to <Red>upgrade</> the intel center.",
+			"sourceHash": "07c9d7c5",
+			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_IntelCenter.BP_HideoutUnit_IntelCenter_C:BP_InteractionTarget_Upgrade_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
