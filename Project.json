@@ -10,8 +10,8 @@
 		"ja",
 		"es-ES"
 	],
-	"exportedAt": "2026-09-25T10:56:12.917Z",
-	"entries": 3336,
+	"exportedAt": "2026-09-25T20:52:18.069Z",
+	"entries": 3508,
 	"areas": [
 		{
 			"area": "Blueprints/AI",
@@ -25,6 +25,20 @@
 				"ko": 5,
 				"ja": 5,
 				"es-ES": 5
+			}
+		},
+		{
+			"area": "Blueprints/Airdrop",
+			"file": "Areas/Blueprints_Airdrop.json",
+			"entries": 1,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
 			}
 		},
 		{
@@ -100,7 +114,7 @@
 		{
 			"area": "Blueprints/ResourceSystem",
 			"file": "Areas/Blueprints_ResourceSystem.json",
-			"entries": 5,
+			"entries": 7,
 			"translated":
 			{
 				"de": 5,
@@ -128,15 +142,15 @@
 		{
 			"area": "Gameloop",
 			"file": "Areas/Gameloop.json",
-			"entries": 8,
+			"entries": 12,
 			"translated":
 			{
-				"de": 8,
-				"zh-Hans": 8,
-				"ru": 8,
-				"ko": 8,
-				"ja": 8,
-				"es-ES": 8
+				"de": 7,
+				"zh-Hans": 7,
+				"ru": 7,
+				"ko": 7,
+				"ja": 7,
+				"es-ES": 7
 			}
 		},
 		{
@@ -210,6 +224,48 @@
 			}
 		},
 		{
+			"area": "Interaction/Actors",
+			"file": "Areas/Interaction_Actors.json",
+			"entries": 61,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "Interaction/Framework",
+			"file": "Areas/Interaction_Framework.json",
+			"entries": 9,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "Interaction/Objects",
+			"file": "Areas/Interaction_Objects.json",
+			"entries": 15,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
 			"area": "Interaction/Widgets",
 			"file": "Areas/Interaction_Widgets.json",
 			"entries": 2,
@@ -221,6 +277,20 @@
 				"ko": 2,
 				"ja": 2,
 				"es-ES": 2
+			}
+		},
+		{
+			"area": "Inventory/BaseActors",
+			"file": "Areas/Inventory_BaseActors.json",
+			"entries": 4,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
 			}
 		},
 		{
@@ -240,7 +310,7 @@
 		{
 			"area": "Inventory/ExampleActors",
 			"file": "Areas/Inventory_ExampleActors.json",
-			"entries": 4,
+			"entries": 8,
 			"translated":
 			{
 				"de": 4,
@@ -254,7 +324,7 @@
 		{
 			"area": "Inventory/Items",
 			"file": "Areas/Inventory_Items.json",
-			"entries": 711,
+			"entries": 732,
 			"translated":
 			{
 				"de": 711,
@@ -268,15 +338,15 @@
 		{
 			"area": "Inventory/Objects",
 			"file": "Areas/Inventory_Objects.json",
-			"entries": 88,
+			"entries": 108,
 			"translated":
 			{
-				"de": 88,
-				"zh-Hans": 88,
-				"ru": 88,
-				"ko": 88,
-				"ja": 88,
-				"es-ES": 88
+				"de": 84,
+				"zh-Hans": 84,
+				"ru": 84,
+				"ko": 84,
+				"ja": 84,
+				"es-ES": 84
 			}
 		},
 		{
@@ -310,7 +380,7 @@
 		{
 			"area": "Inventory/Templates",
 			"file": "Areas/Inventory_Templates.json",
-			"entries": 52,
+			"entries": 62,
 			"translated":
 			{
 				"de": 52,
@@ -327,12 +397,12 @@
 			"entries": 312,
 			"translated":
 			{
-				"de": 310,
-				"zh-Hans": 310,
-				"ru": 310,
-				"ko": 310,
-				"ja": 310,
-				"es-ES": 310
+				"de": 312,
+				"zh-Hans": 312,
+				"ru": 312,
+				"ko": 312,
+				"ja": 312,
+				"es-ES": 312
 			}
 		},
 		{
@@ -352,7 +422,7 @@
 		{
 			"area": "Missions/Actors",
 			"file": "Areas/Missions_Actors.json",
-			"entries": 17,
+			"entries": 29,
 			"translated":
 			{
 				"de": 17,
@@ -366,29 +436,29 @@
 		{
 			"area": "Missions/DataAssets",
 			"file": "Areas/Missions_DataAssets.json",
-			"entries": 929,
+			"entries": 930,
 			"translated":
 			{
-				"de": 929,
-				"zh-Hans": 929,
-				"ru": 929,
-				"ko": 929,
-				"ja": 929,
-				"es-ES": 929
+				"de": 928,
+				"zh-Hans": 928,
+				"ru": 928,
+				"ko": 928,
+				"ja": 928,
+				"es-ES": 928
 			}
 		},
 		{
 			"area": "Missions/Objects",
 			"file": "Areas/Missions_Objects.json",
-			"entries": 37,
+			"entries": 39,
 			"translated":
 			{
-				"de": 37,
-				"zh-Hans": 37,
-				"ru": 37,
-				"ko": 37,
-				"ja": 37,
-				"es-ES": 37
+				"de": 39,
+				"zh-Hans": 39,
+				"ru": 39,
+				"ko": 39,
+				"ja": 39,
+				"es-ES": 39
 			}
 		},
 		{
@@ -506,7 +576,7 @@
 		{
 			"area": "UI/Data",
 			"file": "Areas/UI_Data.json",
-			"entries": 17,
+			"entries": 21,
 			"translated":
 			{
 				"de": 17,
@@ -520,15 +590,15 @@
 		{
 			"area": "UI/Widgets",
 			"file": "Areas/UI_Widgets.json",
-			"entries": 571,
+			"entries": 573,
 			"translated":
 			{
-				"de": 571,
-				"zh-Hans": 571,
-				"ru": 571,
-				"ko": 571,
-				"ja": 571,
-				"es-ES": 571
+				"de": 570,
+				"zh-Hans": 570,
+				"ru": 570,
+				"ko": 570,
+				"ja": 570,
+				"es-ES": 570
 			}
 		}
 	]
