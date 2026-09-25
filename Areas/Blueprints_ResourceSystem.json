@@ -8,38 +8,45 @@
 			"source": "{x} {y} gathered.",
 			"sourceHash": "c81c51be",
 			"origin": "/Game/Blueprints/ResourceSystem/Actor/BP_ResourceActor.BP_ResourceActor_C:ExecuteUbergraph_BP_ResourceActor [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "{x} {y} gesammelt.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "已收集 {x} {y}。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Собрано: {x} {y}.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "{x} {y} 수집함.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "{x} {y} を回収した。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "{x} {y} recogidos.",
 					"status": "machine",
 					"by": "ai",
@@ -53,38 +60,45 @@
 			"source": "Concrete",
 			"sourceHash": "0154db22",
 			"origin": "/Game/Blueprints/ResourceSystem/Data/Resources/DA_ResourceType_Concrete.DA_ResourceType_Concrete.DisplayName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Beton",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "混凝土",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Бетон",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "콘크리트",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "コンクリート",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Hormigón",
 					"status": "machine",
 					"by": "ai",
@@ -98,38 +112,45 @@
 			"source": "Metal",
 			"sourceHash": "85993fb2",
 			"origin": "/Game/Blueprints/ResourceSystem/Data/Resources/DA_ResourceType_Metal.DA_ResourceType_Metal.DisplayName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Metall",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "金属",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Металл",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "금속",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "金属",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Metal",
 					"status": "machine",
 					"by": "ai",
@@ -143,38 +164,45 @@
 			"source": "Oil",
 			"sourceHash": "87761dc5",
 			"origin": "/Game/Blueprints/ResourceSystem/Data/Resources/DA_ResourceType_Oil.DA_ResourceType_Oil.DisplayName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Öl",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "石油",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Нефть",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "석유",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "石油",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Petróleo",
 					"status": "machine",
 					"by": "ai",
@@ -188,38 +216,45 @@
 			"source": "Food",
 			"sourceHash": "761df571",
 			"origin": "/Game/Blueprints/ResourceSystem/Data/Resources/DA_ResourceType_Food.DA_ResourceType_Food.DisplayName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Nahrung",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "食物",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Еда",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "식량",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "食料",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Comida",
 					"status": "machine",
 					"by": "ai",
