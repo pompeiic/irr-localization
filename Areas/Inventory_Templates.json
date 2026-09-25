@@ -8,38 +8,45 @@
 			"source": "The 12/70mm Buckshot is a shotgun shell designed for close-quarters combat and hunting applications. It features a 12-gauge shell with a length of 70 millimeters. Inside the shell, multiple spherical lead pellets, commonly referred to as 'buckshot,' are loaded. Upon firing, the shell discharges these pellets in a spread pattern, making it highly effective for short-range engagements and hunting larger game. The 12/70mm Buckshot is favored by hunters and law enforcement for its ability to deliver a wide and powerful impact on the target, making it a reliable choice in various scenarios.",
 			"sourceHash": "e0a297b1",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/12x70/ID_12x70.ID_12x70.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Die 12/70mm Buckshot ist eine Schrotpatrone für den Nahkampf und die Jagd. Sie besteht aus einer Hülse im Kaliber 12 mit einer Länge von 70 Millimetern. Im Inneren der Patrone befinden sich mehrere kugelförmige Bleischrote, sogenannte „Buckshot“. Beim Abfeuern streut die Patrone diese Schrotkugeln und ist dadurch auf kurze Distanz sowie bei der Jagd auf größeres Wild äußerst wirksam. Die 12/70mm Buckshot wird von Jägern und Sicherheitskräften für ihre wuchtige Wirkung im Ziel geschätzt und ist in vielen Einsatzszenarien eine verlässliche Wahl.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "12/70mm 鹿弹（Buckshot）是一种专为近距离交火和狩猎设计的霰弹枪弹药。采用长度为 70 毫米的 12 号霰弹弹壳。弹壳内部装填有多个球形铅丸，通常被称为“鹿弹”。发射时，弹药会以散射模式射出这些弹丸，使其在近距离作战及狩猎大型猎物时极具杀伤力。12/70mm 鹿弹因能对目标造成大范围且强力的冲击，深受猎人与执法部门的青睐，是应对多种场景的可靠选择。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Картечь 12/70mm — ружейный патрон, разработанный для ближнего боя и охоты. Он представляет собой гильзу 12-го калибра длиной 70 миллиметров. Внутри патрона находится множество сферических свинцовых дробин, называемых крупной картечью (buckshot). При выстреле картечь летит с определённым разбросом, что обеспечивает высокую эффективность на коротких дистанциях и при охоте на крупную дичь. Патрон 12/70mm Buckshot популярен среди охотников и правоохранительных органов благодаря мощному останавливающему действию по цели и служит надёжным выбором в самых разных ситуациях.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "12/70mm 벅샷(Buckshot)은 근접 전투와 수렵용으로 설계된 산탄총 탄약입니다. 길이 70밀리미터의 12게이지 탄피를 특징으로 합니다. 탄피 내부에는 흔히 '벅샷'이라 불리는 구형 납 구슬 여러 발이 장전되어 있습니다. 발사 시 이 탄환들이 확산 패턴으로 방출되어 근거리 교전과 대형 동물 수렵에 매우 효과적입니다. 12/70mm 벅샷은 표적에 넓고 강력한 타격을 줄 수 있어 사냥꾼과 법 집행 기관이 선호하며 다양한 상황에서 신뢰할 수 있는 선택입니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "12/70mm 散弾（Buckshot）は、近接戦闘や狩猟用途に設計されたショットガン弾薬である。長さ70mmの12ゲージ弾薬を特徴とする。シェル内部には、「散弾（バックショット）」と呼ばれる球状の鉛弾が複数装填されている。発射されるとこれらの弾丸が拡散パターンで放たれ、近距離交戦や大型獲物の狩猟に極めて高い効果を発揮する。12/70mm 散弾は標的に対して広範囲かつ強力な打撃を与える能力から、狩猟者や法執行機関に好まれており、様々な状況で信頼性の高い選択肢となっている。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "El cartucho de postas 12/70mm Buckshot es un cartucho de escopeta diseñado para el combate cuerpo a cuerpo y la caza. Cuenta con una vaina de calibre 12 y una longitud de 70 milímetros. En su interior lleva múltiples perdigones esféricos de plomo, conocidos comúnmente como «postas». Al dispararse, el cartucho proyecta estos perdigones en un patrón disperso, lo que resulta muy eficaz para enfrentamientos a corta distancia y para cazar piezas mayores. El 12/70mm Buckshot es muy apreciado por cazadores y fuerzas del orden por su capacidad para asestar un impacto amplio y potente en el objetivo, siendo una opción fiable en diversos escenarios.",
 					"status": "machine",
 					"by": "ai",
@@ -53,38 +60,45 @@
 			"source": "Template",
 			"sourceHash": "788e0901",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Provisions/Drinks/ID_DrinksTemplate.ID_DrinksTemplate.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Dose gezuckerte Kondensmilch.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "一罐加糖的甜炼乳。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Банка сладкого сгущённого молока с сахаром.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "설탕이 든 달콤한 연유 캔입니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "加糖の甘い練乳の缶詰。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Lata de leche condensada azucarada.",
 					"status": "machine",
 					"by": "ai",
@@ -98,38 +112,45 @@
 			"source": "PLACERHOLDER",
 			"sourceHash": "417379d7",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/545x39/ID_545x39.ID_545x39.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "PLACEHOLDER",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "占位符",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "PLACEHOLDER",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "플레이스홀더",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "プレースホルダー",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "PLACEHOLDER",
 					"status": "machine",
 					"by": "ai",
@@ -143,38 +164,45 @@
 			"source": "Template",
 			"sourceHash": "788e0901",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Medical/ID_MedicalTemplate.ID_MedicalTemplate.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Dose gezuckerte Kondensmilch.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "一罐加糖的甜炼乳。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Банка сладкого сгущённого молока с сахаром.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "설탕이 든 달콤한 연유 캔입니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "加糖の甘い練乳の缶詰。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Lata de leche condensada azucarada.",
 					"status": "machine",
 					"by": "ai",
@@ -188,38 +216,45 @@
 			"source": "Template",
 			"sourceHash": "788e0901",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Handguard/ID_TemplateHandguard.ID_TemplateHandguard.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Dose gezuckerte Kondensmilch.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "一罐加糖的甜炼乳。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Банка сладкого сгущённого молока с сахаром.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "설탕이 든 달콤한 연유 캔입니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "加糖の甘い練乳の缶詰。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Lata de leche condensada azucarada.",
 					"status": "machine",
 					"by": "ai",
@@ -233,38 +268,45 @@
 			"source": "A 7.62x39mm PS gzh (GAU Index - 57-N-231) cartridge with a 7.9 gram bullet with a heat-strengthened steel core with lead cladding on the tip and a bimetallic jacket, in a bimetallic case. The PS cartridge (Púlya so Stal'ným serdéchnikom - \"Bullet with a Steel core\") was introduced into service in 1949 for Soviet 7.62x39mm caliber weaponry, and over the years has undergone numerous changes in the materials used for its construction. Thanks to the tempered steel core that this model has, it is able to pierce through basic ballistic body protections as well as some intermediate models in addition to provide a significant stopping power effect, however, it has a high bounce probability off various surfaces.",
 			"sourceHash": "7225e81c",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/ID_RoundsTemplate.ID_RoundsTemplate.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Eine 7.62x39mm PS gzh (GAU-Index – 57-N-231) Patrone mit einem 7,9-Gramm-Geschoss mit wärmegehärtetem Stahlkern, Bleiummantelung an der Spitze und bimetallischem Mantel in einer bimetallischen Hülse. Die PS-Patrone (Púlya so Stal'ným serdéchnikom – „Geschoss mit Stahlkern“) wurde 1949 für sowjetische Waffen im Kaliber 7.62x39mm eingeführt und hat im Laufe der Jahre zahlreiche Änderungen bei den verwendeten Materialien erfahren. Dank des gehärteten Stahlkerns dieses Modells kann sie grundlegende ballistische Körperschutzsysteme sowie einige mittlere Modelle durchschlagen und zudem eine erhebliche Stoppwirkung entfalten; sie hat jedoch eine hohe Abprallwahrscheinlichkeit an verschiedenen Oberflächen.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "7.62x39mm PS gzh（GAU索引 - 57-N-231）弹药，配有7.9克弹头，热强化钢芯、尖端铅包覆和双金属弹壳，装于双金属弹壳中。PS弹（Púlya so Stal'ným serdéchnikom - “钢芯弹”）于1949年装备苏联7.62x39mm口径武器，多年来其材料历经多次改动。凭借该型号的回火钢芯，它能穿透基础防弹护甲以及部分中级护甲，并具备显著的停止力，但在各种表面上弹跳概率较高。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Патрон 7.62x39mm PS gzh (индекс ГАУ — 57-N-231) с пулей массой 7,9 г с термоупрочнённым стальным сердечником, свинцовой облицовкой носика и биметаллической оболочкой в биметаллической гильзе. Патрон ПС (Púlya so Stal'ným serdéchnikom — «пуля со стальным сердечником») принят на вооружение в 1949 году для советского оружия калибра 7.62x39mm и за годы претерпел множество изменений в материалах. Благодаря закалённому стальному сердечнику этой модели он способен пробивать базовую баллистическую защиту тела, а также некоторые промежуточные модели, и при этом даёт заметный останавливающий эффект; однако высока вероятность рикошета от различных поверхностей.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "7.62x39mm PS gzh(GAU 색인 - 57-N-231) 탄약으로, 열강화 강철 코어·선단 납 피복·바이메탈 재킷의 7.9g 탄두를 바이메탈 케이스에 담았습니다. PS 탄(Púlya so Stal'ným serdéchnikom - \"강철 심 탄환\")은 1949년 소련 7.62x39mm 구경 무기에 도입되었으며, 수년에 걸쳐 재질이 여러 번 바뀌었습니다. 이 모델의 담금질 강철 코어 덕분에 기본 방탄 보호구와 일부 중급 모델도 관통할 수 있고 상당한 저지력도 제공하지만, 각종 표면에서 도탄 확률이 높습니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "7.62x39mm PS gzh（GAU索引 - 57-N-231）弾。7.9gの弾頭は熱強化鋼芯、先端の鉛被覆、バイメタルジャケットを備え、バイメタル薬莢に収められている。PS弾（Púlya so Stal'ným serdéchnikom - 「鋼芯弾」）は1949年にソ連の7.62x39mm口径火器向けに採用され、長年にわたり使用材料が何度も変更されてきた。このモデルの焼入れ鋼芯により、基本的な弾道防護服や一部の中級モデルを貫通し、顕著なストッピングパワーも発揮するが、各種表面での跳弾確率が高い。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Cartucho 7.62x39mm PS gzh (índice GAU - 57-N-231) con una bala de 7,9 gramos de núcleo de acero templado, revestimiento de plomo en la punta y camisa bimetálica, en vaina bimetálica. El cartucho PS (Púlya so Stal'ným serdéchnikom - «bala con núcleo de acero») entró en servicio en 1949 para el armamento soviético de calibre 7.62x39mm y, con los años, ha sufrido numerosos cambios en los materiales de construcción. Gracias al núcleo de acero templado de este modelo, puede perforar protecciones balísticas corporales básicas y algunos modelos intermedios, además de ofrecer un notable poder de parada; sin embargo, tiene una alta probabilidad de rebote en diversas superficies.",
 					"status": "machine",
 					"by": "ai",
@@ -278,38 +320,45 @@
 			"source": "Template",
 			"sourceHash": "788e0901",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Gear/UnarmoredRig/ID_UnarmoredRigTemplate.ID_UnarmoredRigTemplate.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Dose gezuckerte Kondensmilch.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "一罐加糖的甜炼乳。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Банка сладкого сгущённого молока с сахаром.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "설탕이 든 달콤한 연유 캔입니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "加糖の甘い練乳の缶詰。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Lata de leche condensada azucarada.",
 					"status": "machine",
 					"by": "ai",
@@ -323,38 +372,45 @@
 			"source": "The Luger (PSO 9х19) 9mm sports and hunting cartridge is intended to be fired from 9 mm pistols at shooting galleries and rifle ranges.",
 			"sourceHash": "0949d837",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/9x19/ID_9x19.ID_9x19.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Die Luger (PSO 9х19) 9-mm-Sport- und Jagdkartusche ist für den Einsatz aus 9-mm-Pistolen auf Schießständen und Schießbahnen vorgesehen.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "Luger（PSO 9х19）9毫米运动狩猎弹旨在从9毫米手枪发射，用于射击馆和靶场。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Патрон Luger (PSO 9х19) 9 мм спортивно-охотничий предназначен для стрельбы из 9-мм пистолетов в тирах и на стрельбищах.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "Luger(PSO 9х19) 9mm 스포츠·사냥용 탄약은 사격장과 사격 레인지에서 9mm 권총으로 발사하도록 설계되었습니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "Luger（PSO 9х19）9mmスポーツ・狩猟弾は、射撃場やレンジで9mmピストルから発射することを想定しています。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "El cartucho deportivo y de caza Luger (PSO 9х19) de 9 mm está pensado para dispararse con pistolas de 9 mm en galerías y campos de tiro.",
 					"status": "machine",
 					"by": "ai",
@@ -368,38 +424,45 @@
 			"source": "Template",
 			"sourceHash": "788e0901",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Quest/ID_QuestTemplate.ID_QuestTemplate.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Dose gezuckerte Kondensmilch.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "一罐加糖的甜炼乳。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Банка сладкого сгущённого молока с сахаром.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "설탕이 든 달콤한 연유 캔입니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "加糖の甘い練乳の缶詰。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Lata de leche condensada azucarada.",
 					"status": "machine",
 					"by": "ai",
@@ -413,38 +476,45 @@
 			"source": "Kolpak-1S protects the head from the cold piercing-cutting weapons in a special class of protection GOST R50744-95, from fragmentation with an energy of impact up to 50 J, and also serves to reduce the dynamic loads arising from the above-mentioned means of destruction. Protective helmets Kolpak-1 are recommended by the Interdepartmental Commission for equipping units of the patrol service, traffic police, OMON and other special units of the Ministry of Internal Affairs of Russia.",
 			"sourceHash": "5d242266",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Gear/Helmet/ID_HelmetTemplate.ID_HelmetTemplate.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Kolpak-1S schützt den Kopf vor Kälte und stechend-schneidenden Waffen in einer speziellen Schutzklasse nach GOST R50744-95, vor Fragmentierung mit einer Aufprallenergie bis 50 J und mindert zudem die dynamischen Belastungen durch die genannten Einwirkungsmittel. Schutzhelme Kolpak-1 werden von der Interbehördlichen Kommission zur Ausrüstung von Einheiten des Streifendienstes, der Verkehrspolizei, OMON und anderer Spezialeinheiten des Innenministeriums Russlands empfohlen.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "Kolpak-1S在GOST R50744-95特殊防护等级下保护头部免受寒冷与刺切武器伤害，可抵御冲击能量达50焦耳的破片，并减轻上述杀伤手段产生的动态负荷。Kolpak-1防护头盔经跨部门委员会推荐，装备于巡逻勤务、交警、OMON及俄国内务部其他特种部队。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Колпак-1С защищает голову от холода и колюще-режущего оружия в особом классе защиты по ГОСТ Р50744-95, от осколков с энергией удара до 50 Дж, а также снижает динамические нагрузки от указанных средств поражения. Защитные шлемы Колпак-1 рекомендованы Межведомственной комиссией для оснащения подразделений патрульно-постовой службы, ГАИ, ОМОН и других спецподразделений МВД России.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "Kolpak-1S는 GOST R50744-95 특수 방호 등급으로 한기와 자상·절단 무기로부터 머리를 보호하고, 충격 에너지 최대 50J의 파편으로부터 지키며, 상기 살상 수단으로 인한 동적 하중도 줄여 줍니다. Kolpak-1 방호 헬멧은 순찰 근무대, 교통경찰, OMON 및 러시아 내무부 기타 특수부대 장비용으로 부처 간 위원회가 권장합니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "Kolpak-1SはGOST R50744-95の特別防護等級で、寒さと刺突・切断兵器から頭部を守り、衝撃エネルギー最大50Jの破片にも対応し、上記の殺傷手段による動的負荷も軽減する。防護ヘルメットKolpak-1は、巡回勤務部隊、交通警察、OMON、ロシア内務省のその他特殊部隊への装備として省庁間委員会が推奨している。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "El Kolpak-1S protege la cabeza del frío y de armas punzocortantes en una clase especial de protección GOST R50744-95, de fragmentación con energía de impacto de hasta 50 J, y también reduce las cargas dinámicas de los citados medios de destrucción. Los cascos protectores Kolpak-1 están recomendados por la Comisión Interdepartamental para equipar unidades de patrulla, policía de tráfico, OMON y otras unidades especiales del Ministerio del Interior de Rusia.",
 					"status": "machine",
 					"by": "ai",
@@ -458,38 +528,45 @@
 			"source": "A tactical belt to fit in magazines, ammunition or medical items.",
 			"sourceHash": "dce379f2",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Gear/Belt/ID_BeltTemplate.ID_BeltTemplate.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Ein taktischer Gürtel für Magazine, Munition oder medizinische Gegenstände.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "可装弹匣、弹药或医疗用品的战术腰带。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Тактический ремень под магазины, боеприпасы или медикаменты.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "탄창, 탄약 또는 의료품을 넣을 수 있는 전술 벨트.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "マガジン、弾薬、医療品を収めるタクティカルベルト。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Un cinturón táctico para cargadores, munición o material médico.",
 					"status": "machine",
 					"by": "ai",
@@ -503,38 +580,45 @@
 			"source": "Template",
 			"sourceHash": "788e0901",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Provisions/Food/ID_FoodTemplate.ID_FoodTemplate.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Dose gezuckerte Kondensmilch.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "一罐加糖的甜炼乳。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Банка сладкого сгущённого молока с сахаром.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "설탕이 든 달콤한 연유 캔입니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "加糖の甘い練乳の缶詰。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Lata de leche condensada azucarada.",
 					"status": "machine",
 					"by": "ai",
@@ -548,38 +632,45 @@
 			"source": "Template",
 			"sourceHash": "788e0901",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Tactical/ID_TemplateTactical.ID_TemplateTactical.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Dose gezuckerte Kondensmilch.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "一罐加糖的甜炼乳。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Банка сладкого сгущённого молока с сахаром.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "설탕이 든 달콤한 연유 캔입니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "加糖の甘い練乳の缶詰。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Lata de leche condensada azucarada.",
 					"status": "machine",
 					"by": "ai",
@@ -593,38 +684,45 @@
 			"source": "Template",
 			"sourceHash": "788e0901",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Weapons/Pistol/ID_PistolTemplate.ID_PistolTemplate.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Dose gezuckerte Kondensmilch.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "一罐加糖的甜炼乳。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Банка сладкого сгущённого молока с сахаром.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "설탕이 든 달콤한 연유 캔입니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "加糖の甘い練乳の缶詰。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Lata de leche condensada azucarada.",
 					"status": "machine",
 					"by": "ai",
@@ -638,38 +736,45 @@
 			"source": "Polymer handguard for HK-produced MP5 SMG, the so-called Wide Tropical version.",
 			"sourceHash": "0eaef1ff",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/ID_MasterAttachment.ID_MasterAttachment.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Polymer-Handschutz für die von HK gefertigte MP5 SMG, die sogenannte Wide Tropical-Version.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "HK产MP5冲锋枪用聚合物护木，即所谓Wide Tropical版本。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Полимерное цевьё для пистолета-пулемёта MP5 производства HK, так называемая версия Wide Tropical.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "HK 제작 MP5 SMG용 폴리머 핸드가드, 이른바 Wide Tropical 버전.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "HK製MP5 SMG用ポリマーハンドガード、いわゆるWide Tropical版。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Guardamanos de polímero para el SMG MP5 de HK, la llamada versión Wide Tropical.",
 					"status": "machine",
 					"by": "ai",
@@ -683,38 +788,45 @@
 			"source": "Body Stamina Recovery",
 			"sourceHash": "fbee4d4b",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Provisions/Drinks/ID_DrinksTemplate.ID_DrinksTemplate:U_StaminaBuff_C_2.StatDisplayName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Körperausdauer-Regeneration",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "身体耐力恢复",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Восстановление выносливости тела",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "신체 스태미나 회복",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "身体スタミナ回復",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Recuperación de resistencia corporal",
 					"status": "machine",
 					"by": "ai",
@@ -728,38 +840,45 @@
 			"source": "Template",
 			"sourceHash": "788e0901",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Gear/NightVision/ID_NightVisionTemplate.ID_NightVisionTemplate.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Dose gezuckerte Kondensmilch.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "一罐加糖的甜炼乳。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Банка сладкого сгущённого молока с сахаром.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "설탕이 든 달콤한 연유 캔입니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "加糖の甘い練乳の缶詰。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Lata de leche condensada azucarada.",
 					"status": "machine",
 					"by": "ai",
@@ -773,38 +892,45 @@
 			"source": "Template",
 			"sourceHash": "788e0901",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Muzzle/ID_TemplateMuzzle.ID_TemplateMuzzle.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Dose gezuckerte Kondensmilch.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "一罐加糖的甜炼乳。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Банка сладкого сгущённого молока с сахаром.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "설탕이 든 달콤한 연유 캔입니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "加糖の甘い練乳の缶詰。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Lata de leche condensada azucarada.",
 					"status": "machine",
 					"by": "ai",
@@ -818,38 +944,45 @@
 			"source": "The 5.56x45mm FMJ (Full Metal Jacket) cartridge is a widely used ammunition known for its accuracy and reliability. It features a 5.56mm caliber bullet with a full metal jacket, enhancing penetration and flight stability. This ammunition is favored in both military and civilian firearms, such as the M16 and AR-15 platforms, for its versatility in training and combat scenarios, even though it does not expand upon impact.",
 			"sourceHash": "488e3f45",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/556x45/ID_556x45.ID_556x45.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Eine 5.56x45mm NATO FMJ Patrone mit einem 3,6 Gramm (55 Grain) Bleikerngeschoss mit Kupfermantel in einer Messinghülse. Ausgelegt für Jagd, Sportschießen und militärische Einsätze, durchschlägt diese Patrone grundlegende ballistische Körperschutzsysteme sowie einige mittlere Modelle und bietet eine erhebliche Stoppwirkung, kann jedoch schwere Blutungen verursachen.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "5.56x45mm NATO FMJ 弹药，配有 3.6 克（55 格令）覆铜铅芯弹头和黄铜弹壳。该弹药适用于狩猎、打靶和军事用途，能够穿透基础防弹护甲以及部分中级护甲，并具有显著的停止力，但可能造成严重流血。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Патрон 5.56x45mm NATO FMJ с пулей массой 3,6 г (55 гран) со свинцовым сердечником в медной оболочке и латунной гильзе. Предназначенный для охоты, целевой стрельбы и военного применения, этот патрон способен пробивать базовую баллистическую защиту тела, а также некоторые промежуточные модели, обладает значительным останавливающим действием, но может вызывать сильное кровотечение.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "5.56x45mm NATO FMJ 탄약으로, 황동 탄피에 3.6g(55그레인)의 구리 재킷 납 심 탄두를 갖추고 있습니다. 수렵, 표적 사격 및 군사 용도로 고안된 이 탄약은 기본 방탄 보호구는 물론 일부 중급 모델도 관통할 수 있으며, 상당한 저지력을 제공하지만 심한 출혈을 유발할 수 있습니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "5.56x45mm NATO FMJ弾。真鍮製薬莢に収められた、銅ジャケット付き3.6g（55グレイン）鉛芯弾頭を備える。狩猟、標的射撃、軍事用途を想定しており、この弾薬は基本的な弾道防護具や一部の中級モデルを貫通可能で、顕著なストッピングパワーを発揮するが、激しい出血を引き起こす可能性がある。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Cartucho 5.56x45mm NATO FMJ con una bala de núcleo de plomo de 3,6 gramos (55 granos) y camisa de cobre, en vaina de latón. Destinado a la caza, el tiro al blanco y aplicaciones militares, este cartucho es capaz de perforar protecciones balísticas corporales básicas y algunos modelos intermedios, además de poseer un notable poder de parada, pero puede provocar sangrados graves.",
 					"status": "machine",
 					"by": "ai",
@@ -863,38 +996,45 @@
 			"source": "The standard ammunition for the KRISS Vector.",
 			"sourceHash": "847c4b67",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/45ACP/ID_45ACP.ID_45ACP.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Die Standardmunition für die KRISS Vector.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "KRISS Vector 的标准弹药。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Стандартный боеприпас для KRISS Vector.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "KRISS Vector의 표준 탄약입니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "KRISS Vectorの標準弾薬。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "La munición estándar para la KRISS Vector.",
 					"status": "machine",
 					"by": "ai",
@@ -908,38 +1048,45 @@
 			"source": "Template",
 			"sourceHash": "788e0901",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/GasTube/ID_GasTubeHandguard.ID_GasTubeHandguard.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Dose gezuckerte Kondensmilch.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "一罐加糖的甜炼乳。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Банка сладкого сгущённого молока с сахаром.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "설탕이 든 달콤한 연유 캔입니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "加糖の甘い練乳の缶詰。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Lata de leche condensada azucarada.",
 					"status": "machine",
 					"by": "ai",
@@ -953,38 +1100,45 @@
 			"source": "Template",
 			"sourceHash": "788e0901",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Weapons/DMR/ID_DMRTemplate.ID_DMRTemplate.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Dose gezuckerte Kondensmilch.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "一罐加糖的甜炼乳。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Банка сладкого сгущённого молока с сахаром.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "설탕이 든 달콤한 연유 캔입니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "加糖の甘い練乳の缶詰。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Lata de leche condensada azucarada.",
 					"status": "machine",
 					"by": "ai",
@@ -998,38 +1152,45 @@
 			"source": "Template",
 			"sourceHash": "788e0901",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Mag/ID_MagTemplate.ID_MagTemplate.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Dose gezuckerte Kondensmilch.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "一罐加糖的甜炼乳。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Банка сладкого сгущённого молока с сахаром.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "설탕이 든 달콤한 연유 캔입니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "加糖の甘い練乳の缶詰。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Lata de leche condensada azucarada.",
 					"status": "machine",
 					"by": "ai",
@@ -1043,38 +1204,45 @@
 			"source": "This small caliber is used by weapons as the P90 and as the name would suggest the Five Seven.",
 			"sourceHash": "1c5845ad",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/57x28/ID_57x28.ID_57x28.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Dieses Kleinkaliber wird von Waffen wie der P90 und, wie der Name schon sagt, der Five Seven verwendet.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "这种小口径弹药用于P90等武器，顾名思义也包括Five Seven。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Этот малокалиберный патрон используется в оружии вроде P90 и, как следует из названия, Five Seven.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "이 소구경은 P90과, 이름에서 알 수 있듯 Five Seven 같은 무기에 사용됩니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "この小口径弾はP90や、名前が示す通りFive Sevenなどの武器で使用されます。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Este calibre pequeño lo usan armas como la P90 y, como sugiere el nombre, la Five Seven.",
 					"status": "machine",
 					"by": "ai",
@@ -1088,38 +1256,45 @@
 			"source": "The AK-74M (Avtomat Kalashnikova 74 Modernizirovanny - \"Kalashnikov's Automatic rifle 74 Modernized\") 5.45x39mm assault rifle is a full-scale produced modernized version of the AK-74 that offers more versatility compared with its predecessor. Apart from several minor improvements, such as a lightened bolt and carrier assembly to reduce the impulse of the gas piston and bolt carrier during firing, the rifle features a new glass-filled polyamide stock that retains the shape of the original AK-74 fixed laminated wood stock, but side-folds to the left like the skeletonised AKS-74 buttstock, and also a dovetail side mount for installing various scopes. The AK-74M is a main service rifle of the Russian Federation.",
 			"sourceHash": "388474b5",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Weapons/ID_MasterWeapon.ID_MasterWeapon.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Das AK-74M (Avtomat Kalashnikova 74 Modernizirovanny – „Kalaschnikows Automatikgewehr 74 modernisiert“) Sturmgewehr im Kaliber 5.45x39mm ist eine großseriengefertigte modernisierte Version der AK-74, die gegenüber dem Vorgänger mehr Vielseitigkeit bietet. Neben mehreren kleineren Verbesserungen wie einem erleichterten Verschluss und Verschlussträger zur Reduzierung des Impulses von Gaskolben und Verschlussträger beim Schießen verfügt das Gewehr über einen neuen glasfaserverstärkten Polyamidschaft, der die Form des originalen festen SchichtHolzschafts der AK-74 beibehält, sich aber wie der skelettierte AKS-74-Schaft nach links klappen lässt, sowie eine Schwalbenschwanz-Seitenschiene zur Montage verschiedener Zielfernrohre. Die AK-74M ist ein Hauptdienstgewehr der Russischen Föderation.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "AK-74M（Avtomat Kalashnikova 74 Modernizirovanny - “卡拉什尼科夫自动步枪74现代化型”）5.45x39mm突击步枪是AK-74的量产现代化版本，比前代更具通用性。除若干小改进外——如减轻枪机与机框以降低射击时活塞与机框的冲量——该枪采用新型玻纤增强聚酰胺枪托，外形保留原AK-74固定层压木托，但可像骨架式AKS-74枪托一样向左侧折叠，并带有燕尾侧轨用于安装各种瞄准镜。AK-74M是俄罗斯联邦的主力制式步枪。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Автомат АК-74М (Avtomat Kalashnikova 74 Modernizirovanny — «Автомат Калашникова 74 модернизированный») калибра 5.45x39mm — серийная модернизированная версия АК-74 с большей универсальностью по сравнению с предшественником. Помимо ряда мелких улучшений, таких как облегчённый затвор и рама для снижения импульса газового поршня и рамы при стрельбе, винтовка получила новый приклад из стеклонаполненного полиамида, сохраняющий форму оригинального нескладного ламинированного деревянного приклада АК-74, но складывающийся влево, как скелетный приклад АКС-74, а также боковой ластохвост для установки различных прицелов. АК-74М — основное служебное оружие Российской Федерации.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "AK-74M(Avtomat Kalashnikova 74 Modernizirovanny - \"칼라시니코프 자동소총 74 현대화형\") 5.45x39mm 돌격소총은 AK-74의 양산형 현대화 버전으로, 전작보다 범용성이 높습니다. 사격 시 가스 피스톤과 노리쇠 캐리어의 충격을 줄이기 위한 경량 노리쇠·캐리어 등 소소한 개선 외에도, 원본 AK-74 고정 적층목 개머리판 형태를 유지하면서 AKS-74 스켈레톤 개머리판처럼 왼쪽으로 접히는 유리섬유 강화 폴리아미드 개머리판과, 각종 스코프 장착용 도브테일 사이드 마운트를 갖춥니다. AK-74M은 러시아 연방의 주력 제식 소총입니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "AK-74M（Avtomat Kalashnikova 74 Modernizirovanny - 「カラシニコフ自動小銃74近代化型」）5.45x39mmアサルトライフルは、AK-74の量産近代化型で、前作より汎用性が高い。発射時のガスピストンとボルトキャリアの衝動を抑える軽量化ボルト・キャリアなどの細かな改良に加え、原型AK-74の固定積層木製ストック形状を保ちつつ、スケルトン型AKS-74バットストックのように左へ折り畳めるガラス繊維強化ポリアミドストックと、各種スコープ装着用のダブテールサイドマウントを備える。AK-74Mはロシア連邦の主力制式小銃である。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "El fusil de asalto AK-74M (Avtomat Kalashnikova 74 Modernizirovanny - «fusil automático Kalashnikov 74 modernizado») de 5.45x39mm es una versión modernizada de producción a gran escala del AK-74 que ofrece más versatilidad que su predecesor. Además de varias mejoras menores, como un cerrojo y portacerrojo aligerados para reducir el impulso del pistón de gas y del portacerrojo al disparar, el fusil cuenta con una culata nueva de poliamida reforzada con fibra de vidrio que conserva la forma de la culata fija de madera laminada original del AK-74, pero se pliega hacia la izquierda como la culata esquelética del AKS-74, y también con un montaje lateral de cola de milano para instalar diversos visores. El AK-74M es un fusil de servicio principal de la Federación Rusa.",
 					"status": "machine",
 					"by": "ai",
@@ -1133,38 +1308,45 @@
 			"source": "Placeholder",
 			"sourceHash": "eb3f7275",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Barrel/ID_TemplateBarrel.ID_TemplateBarrel.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Platzhalter",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "占位符",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Заполнитель",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "플레이스홀더",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "プレースホルダー",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Marcador",
 					"status": "machine",
 					"by": "ai",
@@ -1178,38 +1360,45 @@
 			"source": "Template",
 			"sourceHash": "788e0901",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Sight/ID_SightTemplate.ID_SightTemplate.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Dose gezuckerte Kondensmilch.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "一罐加糖的甜炼乳。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Банка сладкого сгущённого молока с сахаром.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "설탕이 든 달콤한 연유 캔입니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "加糖の甘い練乳の缶詰。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Lata de leche condensada azucarada.",
 					"status": "machine",
 					"by": "ai",
@@ -1223,38 +1412,45 @@
 			"source": "Tmp",
 			"sourceHash": "6479b2ea",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Gear/Backpack/Rollup/ID_BackpackTemplate_Rollup.ID_BackpackTemplate_Rollup.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Tmp",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:40:14Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "临时",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:40:14Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Врем.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:40:14Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "임시",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:40:14Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "一時",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:40:14Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Temp",
 					"status": "machine",
 					"by": "ai",
@@ -1268,38 +1464,45 @@
 			"source": "Placeholder",
 			"sourceHash": "eb3f7275",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Barter/ID_BarterTemplate.ID_BarterTemplate.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Platzhalter",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "占位符",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Заполнитель",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "플레이스홀더",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "プレースホルダー",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Marcador",
 					"status": "machine",
 					"by": "ai",
@@ -1313,38 +1516,45 @@
 			"source": "Template",
 			"sourceHash": "788e0901",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Keys/ID_KeyTemplate.ID_KeyTemplate.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Dose gezuckerte Kondensmilch.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "一罐加糖的甜炼乳。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Банка сладкого сгущённого молока с сахаром.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "설탕이 든 달콤한 연유 캔입니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "加糖の甘い練乳の缶詰。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Lata de leche condensada azucarada.",
 					"status": "machine",
 					"by": "ai",
@@ -1358,38 +1568,45 @@
 			"source": "Template",
 			"sourceHash": "788e0901",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Receiver/ID_ReceiverTemplate.ID_ReceiverTemplate.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Dose gezuckerte Kondensmilch.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "一罐加糖的甜炼乳。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Банка сладкого сгущённого молока с сахаром.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "설탕이 든 달콤한 연유 캔입니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "加糖の甘い練乳の缶詰。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Lata de leche condensada azucarada.",
 					"status": "machine",
 					"by": "ai",
@@ -1403,38 +1620,45 @@
 			"source": "Template",
 			"sourceHash": "788e0901",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/PistolGrip/ID_TemplatePistolGrip.ID_TemplatePistolGrip.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Dose gezuckerte Kondensmilch.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "一罐加糖的甜炼乳。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Банка сладкого сгущённого молока с сахаром.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "설탕이 든 달콤한 연유 캔입니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "加糖の甘い練乳の缶詰。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Lata de leche condensada azucarada.",
 					"status": "machine",
 					"by": "ai",
@@ -1448,38 +1672,45 @@
 			"source": "Template",
 			"sourceHash": "788e0901",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Keys/Bunker/ID_KeyTemplate.ID_KeyTemplate.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Dose gezuckerte Kondensmilch.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "一罐加糖的甜炼乳。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Банка сладкого сгущённого молока с сахаром.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "설탕이 든 달콤한 연유 캔입니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "加糖の甘い練乳の缶詰。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Lata de leche condensada azucarada.",
 					"status": "machine",
 					"by": "ai",
@@ -1493,38 +1724,45 @@
 			"source": "Template",
 			"sourceHash": "788e0901",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Foregrip/ID_ForegripTemplate.ID_ForegripTemplate.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Dose gezuckerte Kondensmilch.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "一罐加糖的甜炼乳。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Банка сладкого сгущённого молока с сахаром.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "설탕이 든 달콤한 연유 캔입니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "加糖の甘い練乳の缶詰。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Lata de leche condensada azucarada.",
 					"status": "machine",
 					"by": "ai",
@@ -1538,38 +1776,45 @@
 			"source": "Template",
 			"sourceHash": "788e0901",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Weapons/Shotgun/ID_ShotgunTemplate.ID_ShotgunTemplate.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Dose gezuckerte Kondensmilch.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "一罐加糖的甜炼乳。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Банка сладкого сгущённого молока с сахаром.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "설탕이 든 달콤한 연유 캔입니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "加糖の甘い練乳の缶詰。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Lata de leche condensada azucarada.",
 					"status": "machine",
 					"by": "ai",
@@ -1583,38 +1828,45 @@
 			"source": "Template",
 			"sourceHash": "788e0901",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Weapons/LMG/ID_LMG_Template.ID_LMG_Template.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Dose gezuckerte Kondensmilch.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "一罐加糖的甜炼乳。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Банка сладкого сгущённого молока с сахаром.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "설탕이 든 달콤한 연유 캔입니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "加糖の甘い練乳の缶詰。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Lata de leche condensada azucarada.",
 					"status": "machine",
 					"by": "ai",
@@ -1628,38 +1880,45 @@
 			"source": "Melee",
 			"sourceHash": "76cfe5c0",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Melee/ID_Melee_Temporary.ID_Melee_Temporary.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Kondensmilch",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "炼乳",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Сгущённое молоко",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "연유",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "練乳",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Leche condensada",
 					"status": "machine",
 					"by": "ai",
@@ -1673,38 +1932,45 @@
 			"source": "Template",
 			"sourceHash": "788e0901",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Weapons/SniperRifle/ID_SniperTemplate.ID_SniperTemplate.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Dose gezuckerte Kondensmilch.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "一罐加糖的甜炼乳。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Банка сладкого сгущённого молока с сахаром.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "설탕이 든 달콤한 연유 캔입니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "加糖の甘い練乳の缶詰。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Lata de leche condensada azucarada.",
 					"status": "machine",
 					"by": "ai",
@@ -1718,38 +1984,45 @@
 			"source": "Template",
 			"sourceHash": "788e0901",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Gear/ArmoredRig/ID_ArmoredRigTemplate.ID_ArmoredRigTemplate.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Dose gezuckerte Kondensmilch.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "一罐加糖的甜炼乳。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Банка сладкого сгущённого молока с сахаром.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "설탕이 든 달콤한 연유 캔입니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "加糖の甘い練乳の缶詰。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Lata de leche condensada azucarada.",
 					"status": "machine",
 					"by": "ai",
@@ -1763,38 +2036,45 @@
 			"source": "Template",
 			"sourceHash": "788e0901",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Weapons/Rifle/ID_RifleTemplate.ID_RifleTemplate.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Dose gezuckerte Kondensmilch.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "一罐加糖的甜炼乳。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Банка сладкого сгущённого молока с сахаром.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "설탕이 든 달콤한 연유 캔입니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "加糖の甘い練乳の缶詰。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Lata de leche condensada azucarada.",
 					"status": "machine",
 					"by": "ai",
@@ -1808,38 +2088,45 @@
 			"source": "PLACEHOLDER",
 			"sourceHash": "7e1e0cdf",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/762x51/ID_762x51.ID_762x51.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "PLACEHOLDER",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "占位符",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "PLACEHOLDER",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "플레이스홀더",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "プレースホルダー",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "PLACEHOLDER",
 					"status": "machine",
 					"by": "ai",
@@ -1853,38 +2140,45 @@
 			"source": "Body Stamina Drain",
 			"sourceHash": "96315ab1",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Provisions/Drinks/ID_DrinksTemplate.ID_DrinksTemplate:U_StaminaDrain_C_0.StatDisplayName",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Körperausdauer-Verbrauch",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "身体耐力消耗",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Расход выносливости тела",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "신체 스태미나 소모",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "身体スタミナ消費",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Consumo de resistencia corporal",
 					"status": "machine",
 					"by": "ai",
@@ -1898,38 +2192,45 @@
 			"source": "Template",
 			"sourceHash": "788e0901",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Stock/ID_TemplateStock.ID_TemplateStock.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Dose gezuckerte Kondensmilch.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "一罐加糖的甜炼乳。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Банка сладкого сгущённого молока с сахаром.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "설탕이 든 달콤한 연유 캔입니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "加糖の甘い練乳の缶詰。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Lata de leche condensada azucarada.",
 					"status": "machine",
 					"by": "ai",
@@ -1943,38 +2244,45 @@
 			"source": "Template",
 			"sourceHash": "788e0901",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/DustCover/ID_DustCoverHandguard.ID_DustCoverHandguard.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Dose gezuckerte Kondensmilch.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "一罐加糖的甜炼乳。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Банка сладкого сгущённого молока с сахаром.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "설탕이 든 달콤한 연유 캔입니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "加糖の甘い練乳の缶詰。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Lata de leche condensada azucarada.",
 					"status": "machine",
 					"by": "ai",
@@ -1988,38 +2296,45 @@
 			"source": "Template",
 			"sourceHash": "788e0901",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Rail/ID_TemplateRail.ID_TemplateRail.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Dose gezuckerte Kondensmilch.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "一罐加糖的甜炼乳。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Банка сладкого сгущённого молока с сахаром.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "설탕이 든 달콤한 연유 캔입니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "加糖の甘い練乳の缶詰。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Lata de leche condensada azucarada.",
 					"status": "machine",
 					"by": "ai",
@@ -2033,38 +2348,45 @@
 			"source": "Template",
 			"sourceHash": "788e0901",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Gear/PlateCarrier/ID_PlateCarrierTemplate.ID_PlateCarrierTemplate.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Dose gezuckerte Kondensmilch.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "一罐加糖的甜炼乳。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Банка сладкого сгущённого молока с сахаром.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "설탕이 든 달콤한 연유 캔입니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "加糖の甘い練乳の缶詰。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Lata de leche condensada azucarada.",
 					"status": "machine",
 					"by": "ai",
@@ -2078,38 +2400,45 @@
 			"source": "PLACERHOLDER",
 			"sourceHash": "417379d7",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/762x39/ID_762x39.ID_762x39.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "PLACEHOLDER",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "占位符",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "PLACEHOLDER",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "플레이스홀더",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "プレースホルダー",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "PLACEHOLDER",
 					"status": "machine",
 					"by": "ai",
@@ -2123,38 +2452,45 @@
 			"source": "Template",
 			"sourceHash": "788e0901",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Keys/Quarry/ID_KeyTemplate.ID_KeyTemplate.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Dose gezuckerte Kondensmilch.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "一罐加糖的甜炼乳。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Банка сладкого сгущённого молока с сахаром.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "설탕이 든 달콤한 연유 캔입니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "加糖の甘い練乳の缶詰。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Lata de leche condensada azucarada.",
 					"status": "machine",
 					"by": "ai",
@@ -2168,38 +2504,45 @@
 			"source": "A popular frag grenade that has a good chance to pierce through armor as well.",
 			"sourceHash": "dbe22d96",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Grenades/ID_GrenadeTemplate.ID_GrenadeTemplate.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Eine beliebte Splittergranate, die zudem eine gute Chance hat, Panzerung zu durchschlagen.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "一款常见的破片手榴弹，也有不错的穿甲几率。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Популярная осколочная граната, которая к тому же с хорошей вероятностью пробивает броню.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "인기 있는 파편 수류탄으로, 방어도 뚫을 가능성이 있습니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "人気の破片手榴弾で、装甲を貫通する確率も高い。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Una granada de fragmentación popular que además tiene buenas posibilidades de perforar blindaje.",
 					"status": "machine",
 					"by": "ai",
@@ -2213,38 +2556,45 @@
 			"source": "The .338 300gr AP (Armor-Piercing) cartridge is a formidable ammunition choice. It features a .338 caliber bullet weighing 300 grains, designed for penetrating armored targets. This cartridge is known for its exceptional armor-piercing capabilities, making it ideal for military and law enforcement applications where defeating armored or heavily protected targets is essential. Its design ensures deep penetration and reliable performance, making it a reliable choice for specialized missions requiring enhanced stopping power.",
 			"sourceHash": "8da69288",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/x338/ID_x338.ID_x338.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Die .338 300gr AP (Armor-Piercing) Patrone ist eine beeindruckende Munitionswahl. Sie verfügt über ein .338-Kaliber-Geschoss mit 300 Grain, ausgelegt zum Durchdringen gepanzerter Ziele. Diese Patrone ist für ihre außergewöhnliche panzerbrechende Wirkung bekannt und ideal für militärische und polizeiliche Einsätze, bei denen gepanzerte oder stark geschützte Ziele bekämpft werden müssen. Ihre Konstruktion gewährleistet tiefe Penetration und zuverlässige Leistung und macht sie zu einer verlässlichen Wahl für Spezialmissionen mit erhöhtem Stoppbedarf.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": ".338 300gr AP（穿甲）弹药是强大的弹药选择。采用重300格令的.338口径弹头，专为穿透装甲目标设计。该弹药以出色的穿甲能力著称，适合军用和执法中需要击穿装甲或重防护目标的场合。其设计确保深穿透与可靠性能，是需要更高停止力的特种任务的可靠选择。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Патрон .338 300gr AP (бронебойный) — грозный выбор боеприпаса. В нём пуля калибра .338 массой 300 гран, рассчитанная на пробитие бронированных целей. Этот патрон известен исключительными бронебойными свойствами и идеален для военных и правоохранительных задач, где нужно поражать бронированные или сильно защищённые цели. Конструкция обеспечивает глубокое пробитие и надёжную работу, делая его надёжным выбором для спецзаданий с повышенным останавливающим действием.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": ".338 300gr AP(철갑) 탄약은 강력한 선택입니다. 300그레인 .338 구경 탄두로 장갑 목표 관통용으로 설계되었습니다. 뛰어난 철갑 성능으로 유명하며, 장갑·중방호 목표 제압이 필수인 군사·법집행 용도에 적합합니다. 깊은 관통력과 안정적인 성능을 보장해 향상된 저지력이 필요한 특수 임무에 신뢰할 수 있는 선택입니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": ".338 300gr AP（徹甲）弾は強力な弾薬選択だ。300グレインの.338口径弾を備え、装甲目標の貫通向けに設計されている。卓越した徹甲能力で知られ、装甲や重防護目標の撃破が不可欠な軍事・法執行用途に理想的だ。深い貫通と安定した性能を確保し、高いストッピングパワーが求められる特殊任務の信頼できる選択肢となる。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "El cartucho .338 300gr AP (perforante) es una opción formidable. Lleva una bala de calibre .338 de 300 granos, diseñada para penetrar objetivos acorazados. Se conoce por su excepcional capacidad perforante, ideal para usos militares y policiales donde hay que derrotar objetivos blindados o muy protegidos. Su diseño garantiza penetración profunda y un rendimiento fiable, convirtiéndolo en una elección sólida para misiones especializadas que exigen mayor poder de parada.",
 					"status": "machine",
 					"by": "ai",
@@ -2258,38 +2608,45 @@
 			"source": "A lightweight and capacious backpack from ANA Tactical. Specially designed for use in dynamic conditions and on rough terrain.",
 			"sourceHash": "3a95a9da",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Gear/Backpack/ID_BackpackTemplate.ID_BackpackTemplate.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Ein leichter und geräumiger Rucksack von ANA Tactical. Speziell entwickelt für den Einsatz unter dynamischen Bedingungen und in unwegsamem Gelände.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "来自 ANA Tactical 的一款轻便且容量大的背包。专为动态作战环境和复杂崎岖地形设计。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Лёгкий и вместительный рюкзак от ANA Tactical. Специально разработан для динамичных условий и пересечённой местности.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "ANA Tactical 사의 가볍고 넉넉한 배낭. 거친 지형과 급변하는 환경에서 사용하도록 특수 설계되었습니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "ANA Tactical 製の軽量で大容量なバックパック。過酷な地形や変化の激しい状況下での使用を想定して設計されています。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Una mochila ligera y espaciosa de ANA Tactical. Diseñada especialmente para su uso en condiciones dinámicas y terrenos difíciles.",
 					"status": "machine",
 					"by": "ai",
@@ -2303,38 +2660,45 @@
 			"source": "HK MP5 9x19 submachinegun with Navy 3 Round Burst firing mechanism version, which features three-round cutoff. Widely acclaimed model of a submachinegun, primarily known as weapon of GSG9 and similar forces of the world, and famous through frequent appearance in movies and video games.",
 			"sourceHash": "16b671e0",
 			"origin": "/Game/Blueprints/InventorySystem/Templates/Weapons/SMG/ID_SMGTemplate.ID_SMGTemplate.ItemAppearance.Description",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "HK MP5 9x19 Maschinenpistole mit Navy-3-Schuss-Feuerstoßmechanik, die über eine Drei-Schuss-Begrenzung verfügt. Weithin geschätztes Modell einer Maschinenpistole, vor allem bekannt als Waffe der GSG9 und ähnlicher Einheiten weltweit sowie berühmt durch häufige Auftritte in Filmen und Videospielen.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "HK MP5 9x19冲锋枪，海军型三连发机构版本，带三发截止。广受好评的冲锋枪型号，主要以GSG9及世界类似部队的武器闻名，并因常出现在电影与游戏中而为人熟知。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Пистолет-пулемёт HK MP5 9x19 версии с механизмом Navy 3 Round Burst с отсечкой на три выстрела. Широко признанная модель ПП, известная прежде всего как оружие GSG9 и подобных сил мира, а также благодаря частым появлениям в кино и видеоиграх.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "Navy 3 Round Burst 발사 기구가 달린 HK MP5 9x19 기관단총으로, 3발 컷오프 기능이 있습니다. GSG9 및 세계 유사 부대의 알려지고 영화·게임에 자주 등장해 유명해진 기관단총입니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "Navy 3 Round Burst機構を備えたHK MP5 9x19サブマシンガン。3発カットオフ機能付き。GSG9や世界の同種部隊の装備として、また映画やゲームへの頻繁な登場で知られる定評あるモデル。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Subfusil HK MP5 9x19 con mecanismo de ráfaga Navy de 3 disparos, con corte a tres. Modelo de subfusil muy aclamado, conocido sobre todo como arma del GSG9 y fuerzas similares del mundo, y famoso por su frecuente aparición en películas y videojuegos.",
 					"status": "machine",
 					"by": "ai",
