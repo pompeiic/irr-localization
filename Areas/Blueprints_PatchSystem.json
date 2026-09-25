@@ -8,38 +8,45 @@
 			"source": "You have no map selected.",
 			"sourceHash": "adf0b3f2",
 			"origin": "/Game/Blueprints/PatchSystem/W_IRR_PatchContent.W_IRR_PatchContent_C:WidgetTree.IRRTextBlock_107.Text",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Du hast keine Karte ausgewählt.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "你尚未选择地图。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Карта не выбрана.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "선택된 맵이 없습니다.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "マップが選択されていません。",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "No tienes ningún mapa seleccionado.",
 					"status": "machine",
 					"by": "ai",
@@ -53,38 +60,45 @@
 			"source": "THIS UPDATE RESETS: {x}",
 			"sourceHash": "45ce1df2",
 			"origin": "/Game/Blueprints/PatchSystem/W_IRR_PatchContent.W_IRR_PatchContent_C:ExecuteUbergraph_W_IRR_PatchContent [Script Bytecode]",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "DIESES UPDATE SETZT ZURÜCK: {x}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "此更新将重置：{x}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "ЭТО ОБНОВЛЕНИЕ СБРАСЫВАЕТ: {x}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "이 업데이트는 다음을 초기화합니다: {x}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "このアップデートはリセットします：{x}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "ESTA ACTUALIZACIÓN REINICIA: {x}",
 					"status": "machine",
 					"by": "ai",
