@@ -12276,6 +12276,46 @@
 		},
 		{
 			"ns": "",
+			"key": "487C658A400F03078C19AFB2D1686B16",
+			"source": "Go to the factory and install the bugs.",
+			"sourceHash": "94eb06ea",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/BLUEFOR/ADLER/Contracts/Quarry/Sabotage/DA_BLUEFOR_ADLER_Contract_Quarry_Sabotage_Bug_B.DA_BLUEFOR_ADLER_Contract_Quarry_Sabotage_Bug_B:IRRMissionSequence_1.IRRMissionObjective_0.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "48E027F44C4921E6D218F88CFFBBE7BD",
 			"source": "Place Bomb",
 			"sourceHash": "fe8e1622",
@@ -24341,50 +24381,50 @@
 		{
 			"ns": "",
 			"key": "822A893847A76FDCB08212B4C1277125",
-			"source": "Go to the factory and install the bugs.",
-			"sourceHash": "94eb06ea",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/BLUEFOR/ADLER/Contracts/Quarry/Sabotage/DA_BLUEFOR_ADLER_Contract_Quarry_Sabotage_Bug_B.DA_BLUEFOR_ADLER_Contract_Quarry_Sabotage_Bug_B:IRRMissionSequence_1.IRRMissionObjective_0.Description",
+			"source": "Go to the school and place the bugs.",
+			"sourceHash": "46fc62d0",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/OPFOR/LY/Contracts/Delta/Sabotage/DA_OPFOR_LY_Contract_Delta_Sabotage_Bug_B.DA_OPFOR_LY_Contract_Delta_Sabotage_Bug_B:IRRMissionSequence_1.IRRMissionObjective_0.Description",
 			"t":
 			{
 				"de":
 				{
 					"text": "Geh zur Fabrik und installiere die Wanzen.",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"zh-Hans":
 				{
 					"text": "前往工厂并安装窃听器。",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"ru":
 				{
 					"text": "Отправляйся на завод и установи жучки.",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"ko":
 				{
 					"text": "공장으로 가서 도청기를 설치하라.",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"ja":
 				{
 					"text": "工場へ行き、盗聴器を設置せよ。",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"es-ES":
 				{
 					"text": "Ve a la fábrica e instala los micrófonos.",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				}
