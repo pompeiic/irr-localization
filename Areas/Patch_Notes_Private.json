@@ -7,7 +7,7 @@
 			"key": "ResetAll",
 			"source": "All save data",
 			"sourceHash": "2fd89dc4",
-			"origin": "Source/IRRPatchSystem/Private/IRRPatchSubsystem.cpp(595)",
+			"origin": "Source/IRRPatchSystem/Private/IRRPatchSubsystem.cpp(629)",
 			"t":
 			{
 				"de":
@@ -59,7 +59,7 @@
 			"key": "ResetInventory",
 			"source": "Inventory",
 			"sourceHash": "b3281d2e",
-			"origin": "Source/IRRPatchSystem/Private/IRRPatchSubsystem.cpp(609)",
+			"origin": "Source/IRRPatchSystem/Private/IRRPatchSubsystem.cpp(643)",
 			"t":
 			{
 				"de":
@@ -111,7 +111,7 @@
 			"key": "ResetMission",
 			"source": "Mission progress",
 			"sourceHash": "3153307e",
-			"origin": "Source/IRRPatchSystem/Private/IRRPatchSubsystem.cpp(599)",
+			"origin": "Source/IRRPatchSystem/Private/IRRPatchSubsystem.cpp(633)",
 			"t":
 			{
 				"de":
@@ -163,7 +163,7 @@
 			"key": "ResetSafehouse",
 			"source": "Safehouse",
 			"sourceHash": "9b12f3f4",
-			"origin": "Source/IRRPatchSystem/Private/IRRPatchSubsystem.cpp(603)",
+			"origin": "Source/IRRPatchSystem/Private/IRRPatchSubsystem.cpp(637)",
 			"t":
 			{
 				"de":
@@ -215,7 +215,7 @@
 			"key": "ResetSeparator",
 			"source": ", ",
 			"sourceHash": "6bc9074e",
-			"origin": "Source/IRRPatchSystem/Private/IRRPatchSubsystem.cpp(613)",
+			"origin": "Source/IRRPatchSystem/Private/IRRPatchSubsystem.cpp(647)",
 			"t":
 			{
 				"de":
@@ -267,7 +267,7 @@
 			"key": "ResetSettings",
 			"source": "Game settings",
 			"sourceHash": "d124e1f9",
-			"origin": "Source/IRRPatchSystem/Private/IRRPatchSubsystem.cpp(611)",
+			"origin": "Source/IRRPatchSystem/Private/IRRPatchSubsystem.cpp(645)",
 			"t":
 			{
 				"de":
@@ -319,7 +319,7 @@
 			"key": "ResetStash",
 			"source": "Stash",
 			"sourceHash": "11af4b12",
-			"origin": "Source/IRRPatchSystem/Private/IRRPatchSubsystem.cpp(607)",
+			"origin": "Source/IRRPatchSystem/Private/IRRPatchSubsystem.cpp(641)",
 			"t":
 			{
 				"de":
@@ -371,7 +371,7 @@
 			"key": "ResetVendor",
 			"source": "Vendor",
 			"sourceHash": "b4afcba1",
-			"origin": "Source/IRRPatchSystem/Private/IRRPatchSubsystem.cpp(605)",
+			"origin": "Source/IRRPatchSystem/Private/IRRPatchSubsystem.cpp(639)",
 			"t":
 			{
 				"de":
@@ -423,7 +423,7 @@
 			"key": "ResetWorld",
 			"source": "World state",
 			"sourceHash": "7fa7713a",
-			"origin": "Source/IRRPatchSystem/Private/IRRPatchSubsystem.cpp(601)",
+			"origin": "Source/IRRPatchSystem/Private/IRRPatchSubsystem.cpp(635)",
 			"t":
 			{
 				"de":
