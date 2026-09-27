@@ -8,38 +8,45 @@
 			"source": "Hold <Red>F</> to loot the container",
 			"sourceHash": "979ebd5f",
 			"origin": "/Game/Blueprints/Airdrop/BP_Airdrop.BP_Airdrop_C:BP_InteractionTarget_GEN_VARIABLE.IO_LootContainer_C_0.DefaultDisplaySetting.InteractionText",
-			"t": {
-				"de": {
+			"t":
+			{
+				"de":
+				{
 					"text": "Halte <Red>F</>, um den Container zu plündern",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-25T20:56:00Z"
 				},
-				"zh-Hans": {
+				"zh-Hans":
+				{
 					"text": "按住<Red>F</>搜刮容器",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-25T20:56:00Z"
 				},
-				"ru": {
+				"ru":
+				{
 					"text": "Удерживай <Red>F</>, чтобы обыскать контейнер",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-25T20:56:00Z"
 				},
-				"ko": {
+				"ko":
+				{
 					"text": "<Red>F</> 길게 눌러 컨테이너 루팅",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-25T20:56:00Z"
 				},
-				"ja": {
+				"ja":
+				{
 					"text": "<Red>F</>長押しでコンテナを漁る",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-25T20:56:00Z"
 				},
-				"es-ES": {
+				"es-ES":
+				{
 					"text": "Mantén <Red>F</> para saquear el contenedor",
 					"status": "machine",
 					"by": "ai",
