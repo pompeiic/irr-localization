@@ -10,8 +10,8 @@
 		"ja",
 		"es-ES"
 	],
-	"exportedAt": "2026-09-25T20:52:18.069Z",
-	"entries": 3508,
+	"exportedAt": "2026-09-27T15:29:27.678Z",
+	"entries": 3701,
 	"areas": [
 		{
 			"area": "Blueprints/AI",
@@ -33,12 +33,12 @@
 			"entries": 1,
 			"translated":
 			{
-				"de": 0,
-				"zh-Hans": 0,
-				"ru": 0,
-				"ko": 0,
-				"ja": 0,
-				"es-ES": 0
+				"de": 1,
+				"zh-Hans": 1,
+				"ru": 1,
+				"ko": 1,
+				"ja": 1,
+				"es-ES": 1
 			}
 		},
 		{
@@ -117,12 +117,12 @@
 			"entries": 7,
 			"translated":
 			{
-				"de": 5,
-				"zh-Hans": 5,
-				"ru": 5,
-				"ko": 5,
-				"ja": 5,
-				"es-ES": 5
+				"de": 7,
+				"zh-Hans": 7,
+				"ru": 7,
+				"ko": 7,
+				"ja": 7,
+				"es-ES": 7
 			}
 		},
 		{
@@ -145,12 +145,12 @@
 			"entries": 12,
 			"translated":
 			{
-				"de": 7,
-				"zh-Hans": 7,
-				"ru": 7,
-				"ko": 7,
-				"ja": 7,
-				"es-ES": 7
+				"de": 12,
+				"zh-Hans": 12,
+				"ru": 12,
+				"ko": 12,
+				"ja": 12,
+				"es-ES": 12
 			}
 		},
 		{
@@ -229,12 +229,12 @@
 			"entries": 61,
 			"translated":
 			{
-				"de": 0,
-				"zh-Hans": 0,
-				"ru": 0,
-				"ko": 0,
-				"ja": 0,
-				"es-ES": 0
+				"de": 61,
+				"zh-Hans": 61,
+				"ru": 61,
+				"ko": 61,
+				"ja": 61,
+				"es-ES": 61
 			}
 		},
 		{
@@ -243,12 +243,12 @@
 			"entries": 9,
 			"translated":
 			{
-				"de": 0,
-				"zh-Hans": 0,
-				"ru": 0,
-				"ko": 0,
-				"ja": 0,
-				"es-ES": 0
+				"de": 9,
+				"zh-Hans": 9,
+				"ru": 9,
+				"ko": 9,
+				"ja": 9,
+				"es-ES": 9
 			}
 		},
 		{
@@ -257,12 +257,12 @@
 			"entries": 15,
 			"translated":
 			{
-				"de": 0,
-				"zh-Hans": 0,
-				"ru": 0,
-				"ko": 0,
-				"ja": 0,
-				"es-ES": 0
+				"de": 15,
+				"zh-Hans": 15,
+				"ru": 15,
+				"ko": 15,
+				"ja": 15,
+				"es-ES": 15
 			}
 		},
 		{
@@ -285,12 +285,12 @@
 			"entries": 4,
 			"translated":
 			{
-				"de": 0,
-				"zh-Hans": 0,
-				"ru": 0,
-				"ko": 0,
-				"ja": 0,
-				"es-ES": 0
+				"de": 4,
+				"zh-Hans": 4,
+				"ru": 4,
+				"ko": 4,
+				"ja": 4,
+				"es-ES": 4
 			}
 		},
 		{
@@ -310,15 +310,15 @@
 		{
 			"area": "Inventory/ExampleActors",
 			"file": "Areas/Inventory_ExampleActors.json",
-			"entries": 8,
+			"entries": 3,
 			"translated":
 			{
-				"de": 4,
-				"zh-Hans": 4,
-				"ru": 4,
-				"ko": 4,
-				"ja": 4,
-				"es-ES": 4
+				"de": 3,
+				"zh-Hans": 3,
+				"ru": 3,
+				"ko": 3,
+				"ja": 3,
+				"es-ES": 3
 			}
 		},
 		{
@@ -327,12 +327,12 @@
 			"entries": 732,
 			"translated":
 			{
-				"de": 711,
-				"zh-Hans": 711,
-				"ru": 711,
-				"ko": 711,
-				"ja": 711,
-				"es-ES": 711
+				"de": 732,
+				"zh-Hans": 732,
+				"ru": 732,
+				"ko": 732,
+				"ja": 732,
+				"es-ES": 732
 			}
 		},
 		{
@@ -341,12 +341,12 @@
 			"entries": 108,
 			"translated":
 			{
-				"de": 84,
-				"zh-Hans": 84,
-				"ru": 84,
-				"ko": 84,
-				"ja": 84,
-				"es-ES": 84
+				"de": 108,
+				"zh-Hans": 108,
+				"ru": 108,
+				"ko": 108,
+				"ja": 108,
+				"es-ES": 108
 			}
 		},
 		{
@@ -383,12 +383,12 @@
 			"entries": 62,
 			"translated":
 			{
-				"de": 52,
-				"zh-Hans": 52,
-				"ru": 52,
-				"ko": 52,
-				"ja": 52,
-				"es-ES": 52
+				"de": 62,
+				"zh-Hans": 62,
+				"ru": 62,
+				"ko": 62,
+				"ja": 62,
+				"es-ES": 62
 			}
 		},
 		{
@@ -422,15 +422,15 @@
 		{
 			"area": "Missions/Actors",
 			"file": "Areas/Missions_Actors.json",
-			"entries": 29,
+			"entries": 46,
 			"translated":
 			{
-				"de": 17,
-				"zh-Hans": 17,
-				"ru": 17,
-				"ko": 17,
-				"ja": 17,
-				"es-ES": 17
+				"de": 34,
+				"zh-Hans": 34,
+				"ru": 34,
+				"ko": 34,
+				"ja": 34,
+				"es-ES": 34
 			}
 		},
 		{
@@ -439,12 +439,12 @@
 			"entries": 930,
 			"translated":
 			{
-				"de": 928,
-				"zh-Hans": 928,
-				"ru": 928,
-				"ko": 928,
-				"ja": 928,
-				"es-ES": 928
+				"de": 930,
+				"zh-Hans": 930,
+				"ru": 930,
+				"ko": 930,
+				"ja": 930,
+				"es-ES": 930
 			}
 		},
 		{
@@ -560,6 +560,20 @@
 			}
 		},
 		{
+			"area": "ThirdParty/CMG",
+			"file": "Areas/ThirdParty_CMG.json",
+			"entries": 181,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
 			"area": "Tutorial",
 			"file": "Areas/Tutorial.json",
 			"entries": 36,
@@ -579,12 +593,12 @@
 			"entries": 21,
 			"translated":
 			{
-				"de": 17,
-				"zh-Hans": 17,
-				"ru": 17,
-				"ko": 17,
-				"ja": 17,
-				"es-ES": 17
+				"de": 21,
+				"zh-Hans": 21,
+				"ru": 21,
+				"ko": 21,
+				"ja": 21,
+				"es-ES": 21
 			}
 		},
 		{
@@ -593,12 +607,12 @@
 			"entries": 573,
 			"translated":
 			{
-				"de": 570,
-				"zh-Hans": 570,
-				"ru": 570,
-				"ko": 570,
-				"ja": 570,
-				"es-ES": 570
+				"de": 573,
+				"zh-Hans": 573,
+				"ru": 573,
+				"ko": 573,
+				"ja": 573,
+				"es-ES": 573
 			}
 		}
 	]
