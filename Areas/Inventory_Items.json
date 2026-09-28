@@ -17164,58 +17164,6 @@
 		},
 		{
 			"ns": "",
-			"key": "6FC376C9415C97AFC9637CA09837118C",
-			"source": "Semi-automatic 12 gauge shotgun with a design that closely resembles that of an AR-15.",
-			"sourceHash": "110d275f",
-			"origin": "/Game/Blueprints/InventorySystem/Items/Weapons/Shotgun/RIA_VR80/ID_RIA_VR80.ID_RIA_VR80.ItemAppearance.Description",
-			"t":
-			{
-				"de":
-				{
-					"text": "Halbautomatische Schrotflinte im Kaliber 12, deren Design stark an eine AR-15 erinnert.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:40:14Z"
-				},
-				"zh-Hans":
-				{
-					"text": "外观极为接近AR-15的半自动12号口径霰弹枪。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:40:14Z"
-				},
-				"ru":
-				{
-					"text": "Полуавтоматический дробовик 12-го калибра, конструкция которого очень напоминает AR-15.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:40:14Z"
-				},
-				"ko":
-				{
-					"text": "AR-15와 매우 유사한 디자인의 반자동 12게이지 산탄총입니다.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:40:14Z"
-				},
-				"ja":
-				{
-					"text": "AR-15に酷似したデザインを持つセミオート12ゲージショットガン。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:40:14Z"
-				},
-				"es-ES":
-				{
-					"text": "Escopeta semiautomática de calibre 12 con un diseño muy similar al de un AR-15.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:40:14Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "7058A8C745E8D2EEEA6A738F6DC2B88A",
 			"source": "Health Injector that quickly restores 40HP.",
 			"sourceHash": "1535c297",
