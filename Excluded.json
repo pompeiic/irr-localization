@@ -1074,6 +1074,14 @@
 		},
 		{
 			"ns": "",
+			"key": "422AA0204C92606F4E6CEF95F9321A96",
+			"source": "Textadasdsadsadasdasdadsadsadasdaasdasdasdasd sadsadasdasdadsadasdasdasdadsad",
+			"origin": "/Game/Blueprints/MissionSystem/UI/General/W_MissionObjectiveItem.W_MissionObjectiveItem_C:WidgetTree.ObjectiveText.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T15:08:29Z"
+		},
+		{
+			"ns": "",
 			"key": "83086BC94B1AF65E797AFDB91C3593AE",
 			"source": " / {max}",
 			"origin": "/Game/Blueprints/MissionSystem/UI/Hideout/W_IRR_HideoutUpgrade_MinMaxText.W_IRR_HideoutUpgrade_MinMaxText_C:ExecuteUbergraph_W_IRR_HideoutUpgrade_MinMaxText [Script Bytecode]",
@@ -1095,6 +1103,14 @@
 			"origin": "/Game/Blueprints/UICore/Widgets/Menu/WB_MainMenu.WB_MainMenu_C:WidgetTree.Credits.Text",
 			"by": "CiaoKakao",
 			"at": "2026-09-28T10:32:13Z"
+		},
+		{
+			"ns": "",
+			"key": "44B9446C49EBE12D21EE2993FE059C16",
+			"source": "Connecting T o Party asdfadfasfasfddasdfasfdasfdasfdasfdsa",
+			"origin": "/Game/Blueprints/UICore/Widgets/Misc/Notifications/W_IRR_Notification_Standard.W_IRR_Notification_Standard_C:WidgetTree.IRRTextBlock_1.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T15:08:29Z"
 		},
 		{
 			"ns": "",
