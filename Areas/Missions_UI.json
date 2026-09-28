@@ -6660,58 +6660,6 @@
 		},
 		{
 			"ns": "",
-			"key": "6DCB5C4549F6B80835EBD48AF556F880",
-			"source": "description bla bla bla .........\r\n............ <strong>strong example</> description bla bla bla ..................... <strong>strong example 2</>.",
-			"sourceHash": "2d83cb54",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Hideout/W_IRR_HideoutUpgrade_Overview.W_IRR_HideoutUpgrade_Overview_C:WidgetTree.Description.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "description bla bla bla .........\r\n............ <strong>strong example</> description bla bla bla ..................... <strong>strong example 2</>.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "description bla bla bla .........\r\n............ <strong>strong example</> description bla bla bla ..................... <strong>strong example 2</>.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "description bla bla bla .........\r\n............ <strong>strong example</> description bla bla bla ..................... <strong>strong example 2</>.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "description bla bla bla .........\r\n............ <strong>strong example</> description bla bla bla ..................... <strong>strong example 2</>.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "description bla bla bla .........\r\n............ <strong>strong example</> description bla bla bla ..................... <strong>strong example 2</>.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "description bla bla bla .........\r\n............ <strong>strong example</> description bla bla bla ..................... <strong>strong example 2</>.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "701D4AD24B6ED08D778C9FBB53C05B88",
 			"source": "Requires UICS faction level 2.",
 			"sourceHash": "cd3e157a",
@@ -7952,58 +7900,6 @@
 				"es-ES":
 				{
 					"text": "Cancelar",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "83086BC94B1AF65E797AFDB91C3593AE",
-			"source": " / {max}",
-			"sourceHash": "7adb1383",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Hideout/W_IRR_HideoutUpgrade_MinMaxText.W_IRR_HideoutUpgrade_MinMaxText_C:ExecuteUbergraph_W_IRR_HideoutUpgrade_MinMaxText [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": " / {max}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": " / {max}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": " / {max}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": " / {max}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": " / {max}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": " / {max}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
