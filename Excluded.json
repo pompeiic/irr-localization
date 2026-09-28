@@ -1,0 +1,764 @@
+{
+	"entries": [
+		{
+			"ns": "",
+			"key": "6C57DF5B4458C30C0EE256A3A41DDDBB",
+			"source": "IA_PushToTalk",
+			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobby.WBP_KronosLobby_C:OnKeyUp [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "151D06C34793D208E96B5482478D115F",
+			"source": "IA_Run",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_0.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "CF5A819546F352A48172DA941A1A5CB3",
+			"source": "IA_Interact",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_1.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "B97A684B422BF207E50939A2D0713B91",
+			"source": "IA_Inventory",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_10.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "BDCD83D34D3426B4ABDF76A48AE8D935",
+			"source": "IA_Crouch",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_11.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "80CF448F41553EE56053E3BD1DA7B5BF",
+			"source": "IA_Inspect",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_12.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "6C45DCA14AC2480CF52C56A49DB9124B",
+			"source": "IA_Aim",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_13.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "D908E4E1423C148835633AB687ED3F7F",
+			"source": "IA_Movement_D",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_14.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "023DBF1B49EDAB535EBB058ADE4D176F",
+			"source": "IA_SwitchMagnificationLevel_Up",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_15.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "CD2D9E454A9B0374F0A42CAD2FF5D55B",
+			"source": "IA_Fire",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_16.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "5B37287247E5C460CB6D5199BF2EFB75",
+			"source": "IA_EquipSlot_2",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_17.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "3AB6CDA5457DCEFD251AE0AF9A4F1F7E",
+			"source": "IA_Movement_W",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_18.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "DBDB492D42981D94CABBB68B7C6CE579",
+			"source": "IA_Movement_A",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_19.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "D3606CF248418FFAA494ABA617D21FAA",
+			"source": "IA_ToggleAttachmentMenu",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_2.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "52A988D64044CDBB6B2F36BE84AC1F42",
+			"source": "IA_Movement_S",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_20.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "EB38882342DA304933DDE3A448F8F57E",
+			"source": "IA_Jump",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_21.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "EDBA472949973A77B4CE3F8961883733",
+			"source": "IA_SwitchFireMode",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_22.DisplayCategory",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "BFEAEC3F434C41D6DCA08BA9957DAFD4",
+			"source": "IA_SwitchFireMode",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_22.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "18603AF04BA04D6BC6890184873FD9B4",
+			"source": "IA_PointShooting",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_23.DisplayCategory",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "24C61E3445511C73D36840804265C7FD",
+			"source": "IA_PointShooting",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_23.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "EBA20F8B49A8B2A3106A17B32CEC463A",
+			"source": "IA_Lean_R",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_24.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "A1420621435D49A1CEC7C481B63124AC",
+			"source": "IA_FreeLook",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_27.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "239867F147D32907F15555BE9E20AA9B",
+			"source": "IA_Pause",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_28.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "041AE9AF4F9CCA2C62B1BB82AA1D47B4",
+			"source": "IA_Malfunction",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_29.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "EAADC43341C8312E6EC866BDEBED2E05",
+			"source": "IA_EquipSlot_3",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_4.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "562F8CE642B3860E8FAEF594A96E36B7",
+			"source": "IA_SwitchMagnificationLevel_Down",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_5.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "50A3BBCB4693BDC93B7700A5C76AAFE3",
+			"source": "IA_Sneak",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_6.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "EA3A48914BD3F779836B9B9BF3F69DAF",
+			"source": "IA_Holster",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_7.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "F24B4DE84C36025169DFF386BF2ADA6D",
+			"source": "IA_Lean_L",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_8.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "BD45534548106FDCEE4B76A772DAC9F1",
+			"source": "IA_Reload",
+			"origin": "/Game/Blueprints/InputSystem/IM_PlayerEnhancedInputMapping.IM_PlayerEnhancedInputMapping:PlayerMappableKeySettings_9.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "E69040AC4D134C8BF943E18E4442A406",
+			"source": "IA_Chat",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_Chat.IA_Chat:PlayerMappableKeySettings_0.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "C0BEEA1C4DF291A03AF925A21980EA99",
+			"source": "IA_CheckAmmo",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_CheckAmmo.IA_CheckAmmo:PlayerMappableKeySettings_0.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "878B581949903094B555379AE3D33D73",
+			"source": "IA_CycleSight",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_CycleSights.IA_CycleSights:PlayerMappableKeySettings_1.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "08CB5AFB409E1CDCCA7AF6A795EBF1A5",
+			"source": "IA_CycleTacticalAttachments",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_CycleTacticalAttachments.IA_CycleTacticalAttachments:PlayerMappableKeySettings_0.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "04FC44A54A6605707F7E6388592E2836",
+			"source": "IA_EquipSlot_4",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_EquipGCPS.IA_EquipGCPS:PlayerMappableKeySettings_30.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "91B98D99474BF8E2F6BD3BA8BCD7DD8D",
+			"source": "IA_EquipSlot_1",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_EquipPrimary.IA_EquipPrimary:PlayerMappableKeySettings_3.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "610CCAFF4A1D2597EB0D179DBF72D08A",
+			"source": "IA_EquipQuickSlot_0",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_EquipQuickSlot_0.IA_EquipQuickSlot_0:PlayerMappableKeySettings_0.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "1F44AF9A4D1676553E72E8A527948F31",
+			"source": "IA_EquipQuickSlot_1",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_EquipQuickSlot_1.IA_EquipQuickSlot_1:PlayerMappableKeySettings_0.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "BC1252814FE1DC73E25807ABF3F7AFCB",
+			"source": "IA_EquipQuickSlot_2",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_EquipQuickSlot_2.IA_EquipQuickSlot_2:PlayerMappableKeySettings_0.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "EE889EB9446C9C3B7FF9A08EA7BF964D",
+			"source": "IA_EquipQuickSlot_3",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_EquipQuickSlot_3.IA_EquipQuickSlot_3:PlayerMappableKeySettings_0.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "AF1E0AEF4A6DFE7FA0ED4A95AA320429",
+			"source": "IA_EquipSlot_SpecialEquipment",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_EquipSpecialEquipment.IA_EquipSpecialEquipment:PlayerMappableKeySettings_30.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "AC913794454E8912E27ED3B3F5C50BBC",
+			"source": "IA_FixMalfunction",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_FixMalfunction.IA_FixMalfunction:PlayerMappableKeySettings_0.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "A782A3EC484FDE3EE115B8B01C4A4A93",
+			"source": "IA_FreeLook",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_FreeLook.IA_FreeLook:PlayerMappableKeySettings_27.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "DA234A804216AD505AC9F7A42021AD1A",
+			"source": "IA_HoldBreath",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_HoldBreath.IA_HoldBreath:PlayerMappableKeySettings_0.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "FA17465D4D77D7D5309B98909741B311",
+			"source": "IA_InventoryAction",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_Inventory.IA_Inventory:PlayerMappableKeySettings_0.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "98B770C142EFD36417F9358DC0B877E3",
+			"source": "IA_LowReady",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_LowReady.IA_LowReady:PlayerMappableKeySettings_13.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "F05107D644B4D2A290EC11938B545D4B",
+			"source": "IA_PointShooting",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_PointSight.IA_PointSight:PlayerMappableKeySettings_23.DisplayCategory",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "42316DF946FC34099D22FE9D9DE94EB1",
+			"source": "IA_PointShooting",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_PointSight.IA_PointSight:PlayerMappableKeySettings_23.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "508B42C7420969DACAFD339A4C3676BB",
+			"source": "IA_PushToTalk",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_PushToTalk.IA_PushToTalk:PlayerMappableKeySettings_0.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "6DC022314FD530F8A3F0AB83F5A6DD8A",
+			"source": "IA_QuickGrenade",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_QuickGrenade.IA_QuickGrenade:PlayerMappableKeySettings_0.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "2B4B65F24CDDEA4073DE10B6A3B31DB4",
+			"source": "IA_QuickHeal",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_QuickHeal.IA_QuickHeal:PlayerMappableKeySettings_0.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "4C14BBBB444D9620A16052A69A49D5EA",
+			"source": "IA_Sprint",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_Sprint.IA_Sprint:PlayerMappableKeySettings_0.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "C72707F84B2807036A00D58138AE6447",
+			"source": "IA_SwitchFireMode",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_SwitchFireMode.IA_SwitchFireMode:PlayerMappableKeySettings_22.DisplayCategory",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "D3876E50419D865361DF4290AE03F988",
+			"source": "IA_SwitchFireMode",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_SwitchFireMode.IA_SwitchFireMode:PlayerMappableKeySettings_22.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "4B07991D42182CE31BB5FA8A2D410B0B",
+			"source": "IA_AttachmentMenu",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_ToggleAttachmentMenu.IA_ToggleAttachmentMenu:PlayerMappableKeySettings_0.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "CDFA915F42D9C09221840BB090BF78C1",
+			"source": "IA_ToggleMagnifier",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_ToggleMagnifier.IA_ToggleMagnifier:PlayerMappableKeySettings_0.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "941A3C2141044B241A0D61B148261C32",
+			"source": "IA_ToggleNightVision",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_ToggleNightVision.IA_ToggleNightVision:PlayerMappableKeySettings_0.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "FDEEC9DF44D356FCFF3A719FD4FF3231",
+			"source": "IA_ToggleTacticalAttachments",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_ToggleTacticalAttachments.IA_ToggleTacticalAttachments:PlayerMappableKeySettings_0.DisplayName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "A05D803D47628119336E2DBED2D4B77E",
+			"source": "IA_Malfunction",
+			"origin": "/Game/Blueprints/InventorySystem/Components/ItemComponents/BP_WeaponComponent.BP_WeaponComponent_C:ExecuteUbergraph_BP_WeaponComponent [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "6FC376C9415C97AFC9637CA09837118C",
+			"source": "Semi-automatic 12 gauge shotgun with a design that closely resembles that of an AR-15.",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Weapons/Shotgun/RIA_VR80/ID_RIA_VR80.ID_RIA_VR80.ItemAppearance.Description",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "9B5C44A04B26F96A0D8214910E476001",
+			"source": "Eliminate {count} with a Sniper Rifle.",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_101_RR.DA_KIA_101_RR:IRRMissionSequence_0.BP_IRRObjectie_Kill_C_0.Description",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "E7084AE046A02CF41A80DD88608E8AB9",
+			"source": "Eliminate",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_101_RR.DA_KIA_101_RR:IRRMissionSequence_0.Headline",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "8A7860D34EC8B47729BF10B2B417CF42",
+			"source": "FANG Assignment <strong>KIA_101_RR</>: <italic>Eliminate the targets with the assigned condition.</>",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_101_RR.DA_KIA_101_RR.MissionInfo.Briefing.Text(0).Text.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "9D980E79404C954FE3037C9732381B6F",
+			"source": "Good job! ",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_101_RR.DA_KIA_101_RR.MissionInfo.Debriefing.Text(0).Text.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "70E1B7E34B4043DFED3F18AF79C38030",
+			"source": "Eliminate {count} with a DMR.",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_180_RR.DA_KIA_180_RR:IRRMissionSequence_0.BP_IRRObjectie_Kill_C_0.Description",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "AC63DA574850E0F4B2B6B7B26827BA9E",
+			"source": "Eliminate",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_180_RR.DA_KIA_180_RR:IRRMissionSequence_0.Headline",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "A6595497429B366AC4D12B8D49B7C4CF",
+			"source": "FANG Assignment <strong>KIA_180_RR</>: <italic>Eliminate the targets with the assigned condition.</>",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_180_RR.DA_KIA_180_RR.MissionInfo.Briefing.Text(0).Text.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "FE6284394F903E184063BBAB247369A0",
+			"source": "Good job! ",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_180_RR.DA_KIA_180_RR.MissionInfo.Debriefing.Text(0).Text.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "21098D2D49EB6BC5666C3FA1DCE9F476",
+			"source": "Eliminate",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_225_RR.DA_KIA_225_RR:IRRMissionSequence_0.Headline",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "EE26743B44015CD73FFDB794B55F2CDD",
+			"source": "FANG Assignment <strong>KIA_225_RR</>: <italic>Eliminate the targets with the assigned condition.</>",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_225_RR.DA_KIA_225_RR.MissionInfo.Briefing.Text(0).Text.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "6D95D67044204D3926FB0AB0E0C3CA03",
+			"source": "Good job! ",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_225_RR.DA_KIA_225_RR.MissionInfo.Debriefing.Text(0).Text.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "84DBA99949275EFFA3B153A4D8536F18",
+			"source": "Eliminate",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_333_RR.DA_KIA_333_RR:IRRMissionSequence_0.Headline",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "C6696EA44AEDA994AB838BAB5D4ED3E3",
+			"source": "FANG Assignment <strong>KIA_333_RR</>: <italic>Eliminate the targets with the assigned condition.</>",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_333_RR.DA_KIA_333_RR.MissionInfo.Briefing.Text(0).Text.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "7481B13341FE5BA47AB3488E66BCD59E",
+			"source": "Good job! ",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_333_RR.DA_KIA_333_RR.MissionInfo.Debriefing.Text(0).Text.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "144AC91C4D5974008BADE39106EBDE0E",
+			"source": "Eliminate {count} with a SMG.",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_454_RR.DA_KIA_454_RR:IRRMissionSequence_0.BP_IRRObjectie_Kill_C_0.Description",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "35FE6D8D47369F8E78A0DFAC4063F188",
+			"source": "Eliminate",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_454_RR.DA_KIA_454_RR:IRRMissionSequence_0.Headline",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "0C3E43184E7F2E238FAE42AD2229C67C",
+			"source": "FANG Assignment <strong>KIA_454_RR</>: <italic>Eliminate the targets with the assigned condition.</>",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_454_RR.DA_KIA_454_RR.MissionInfo.Briefing.Text(0).Text.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "536891D84FC21ED7628DAD8405B88C06",
+			"source": "Good job! ",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_454_RR.DA_KIA_454_RR.MissionInfo.Debriefing.Text(0).Text.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "BC98B95C4293F6D48BA2248C02A732DE",
+			"source": "Eliminate {count} with the weapon from MONSTERA.",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_523_RR.DA_KIA_523_RR:IRRMissionSequence_0.BP_IRRObjectie_Kill_C_0.Description",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "71EBD98B4E4F7EB8BBFF8B91F6BC083E",
+			"source": "Eliminate",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_523_RR.DA_KIA_523_RR:IRRMissionSequence_0.Headline",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "9B92F65C4B8935B9286B1FB6DA44D786",
+			"source": "FANG Assignment <strong>KIA_523_RR</>: <italic>Eliminate the targets with the assigned condition.</>",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_523_RR.DA_KIA_523_RR.MissionInfo.Briefing.Text(0).Text.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "18E190214EB9590D0038B39EA22C5402",
+			"source": "Good job! ",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_523_RR.DA_KIA_523_RR.MissionInfo.Debriefing.Text(0).Text.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "A22906F94A5DC0E5A68BE6BB59AB11F8",
+			"source": "Use the ghillie handguard and stock to make the kills count!",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_523_RR.DA_KIA_523_RR.MissionInfo.Hint",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "6DA49A724AF76D320CA936A277991D23",
+			"source": "Eliminate",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_580_RR.DA_KIA_580_RR:IRRMissionSequence_0.Headline",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "0DE51CB94B38ED28F218E2A06F5AFB9A",
+			"source": "FANG Assignment <strong>KIA_580_RR</>: <italic>Eliminate the targets with the assigned condition.</>",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_580_RR.DA_KIA_580_RR.MissionInfo.Briefing.Text(0).Text.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "404046E24BB7142E1545C3B5BF78A8B5",
+			"source": "Good job! ",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_580_RR.DA_KIA_580_RR.MissionInfo.Debriefing.Text(0).Text.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "596464D74CE1DB5F67361D8F99F9F698",
+			"source": "Eliminate {count} with a headshot.",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_756_RR.DA_KIA_756_RR:IRRMissionSequence_0.BP_IRRObjectie_Kill_C_0.Description",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "A67433AE49A8115A2C53ADA44897CF24",
+			"source": "Eliminate",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_756_RR.DA_KIA_756_RR:IRRMissionSequence_0.Headline",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "9EB6FAB54F1C414E2926848663FB357D",
+			"source": "FANG Assignment <strong>KIA_756_RR</>: <italic>Eliminate the targets with the assigned condition.</>",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_756_RR.DA_KIA_756_RR.MissionInfo.Briefing.Text(0).Text.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "6E85E81C4917C32A0291558EC6D712C3",
+			"source": "Good job! ",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_756_RR.DA_KIA_756_RR.MissionInfo.Debriefing.Text(0).Text.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "128B81B94E356B6F7B77F4AFB54F978F",
+			"source": "Eliminate {count} with a Ngyuen Equipment.",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_901_RR.DA_KIA_901_RR:IRRMissionSequence_0.BP_IRRObjectie_Kill_C_0.Description",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "68F60D014FC354B189924E9BC47242A8",
+			"source": "Eliminate",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_901_RR.DA_KIA_901_RR:IRRMissionSequence_0.Headline",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "FF2A662244907A6736EF3C8D2EAA155C",
+			"source": "FANG Assignment <strong>KIA_901_RR</>: <italic>Eliminate the targets with the assigned condition.</>",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_901_RR.DA_KIA_901_RR.MissionInfo.Briefing.Text(0).Text.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "4FCE3E47407680C6EDEF4E99B5EFD1ED",
+			"source": "Good job! ",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_901_RR.DA_KIA_901_RR.MissionInfo.Debriefing.Text(0).Text.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "293C3BFE440FD9D96FE516A9E67B6495",
+			"source": "To fullfill the mission you need to wear Ngyuen's Helmet and Armored Rig.",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_901_RR.DA_KIA_901_RR.MissionInfo.Hint",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:07:18Z"
+		}
+	]
+}
