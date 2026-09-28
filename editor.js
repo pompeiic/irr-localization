@@ -944,42 +944,55 @@ async function setExcluded(records, exclude) {
     : `${records.length} text(s) are localized again.`, "ok");
 }
 
+// Shared header for the admin views, styled like the list toolbar.
+function adminHeader(title, count, description, ...actions) {
+  return h("div", { class: "adminbar" },
+    h("div", { class: "titlerow" }, h("h2", {}, title), count != null ? h("span", { class: "count" }, count) : null),
+    description ? h("div", { class: "hint" }, description) : null,
+    actions.length ? h("div", { class: "rowline" }, ...actions) : null);
+}
+
+const adminCheck = (checked, disabled, label, onChange) => {
+  const check = h("input", { type: "checkbox", class: "pick", checked, disabled, "aria-label": label });
+  check.addEventListener("change", () => onChange(check.checked));
+  return check;
+};
+
 function renderExcludedView() {
-  const rows = [...state.excluded.values()].map((r) => ({ r, pending: state.bySlot.has(slotOf(r)) }));
+  const rows = [...state.excluded.values()].map((r) => ({ r, entry: state.bySlot.get(slotOf(r)) }));
   const picked = state.excludedPicked;
-  for (const id of [...picked]) if (!rows.some((x) => x.pending && slotOf(x.r) === id)) picked.delete(id);
-  const pendingRows = rows.filter((x) => x.pending);
-  const bar = h("div", { class: "rowline" },
-    h("span", { class: "hint grow" }, "Texts the web editor hides. Until Unreal's next Full Sync they can still be localized again; after it, the asset itself is changed — re-tick Localize on the text in Unreal to undo."),
-    h("button", { class: "ghost small", disabled: !pendingRows.length, onclick: () => {
-      const allOn = pendingRows.every((x) => picked.has(slotOf(x.r)));
-      state.excludedPicked = new Set(allOn ? [] : pendingRows.map((x) => slotOf(x.r)));
+  for (const id of [...picked]) if (!rows.some((x) => x.entry && slotOf(x.r) === id)) picked.delete(id);
+  const waiting = rows.filter((x) => x.entry);
+  const header = adminHeader("Not localized", `${waiting.length.toLocaleString()} waiting · ${(rows.length - waiting.length).toLocaleString()} done`,
+    "Texts hidden from the editor. Until Unreal's next Full Sync they can be localized again; after it the asset itself is changed — re-tick Localize on the text in Unreal to undo.",
+    h("span", { class: "grow" }, picked.size ? `${picked.size} selected` : ""),
+    h("button", { type: "button", class: "ghost small", disabled: !waiting.length, onclick: () => {
+      const allOn = waiting.every((x) => picked.has(slotOf(x.r)));
+      state.excludedPicked = new Set(allOn ? [] : waiting.map((x) => slotOf(x.r)));
       renderAdminView();
     } }, "Select all waiting"),
-    h("button", { class: "primary small", disabled: !picked.size, onclick: guarded(async (ev) => {
+    h("button", { type: "button", class: "primary small", disabled: !picked.size, onclick: guarded(async (ev) => {
       const records = [...picked].map((id) => state.excluded.get(id)).filter(Boolean);
       ev.target.disabled = true;
       try { await setExcluded(records, false); picked.clear(); } finally { ev.target.disabled = false; }
       renderAll();
     }) }, `Localize again (${picked.size})`));
-  const card = h("div", { class: "card" }, h("h3", {}, "Not localized"), bar);
-  if (!rows.length) card.append(h("div", { class: "empty-state" }, "Nothing excluded. Select texts in the list and use \"Don't localize\"."));
-  else {
-    const table = h("table", { class: "queue" }, h("tr", {}, h("th", {}, ""), h("th", {}, "English"), h("th", {}, "Asset"), h("th", {}, "By"), h("th", {}, "State")));
-    for (const { r, pending } of rows.sort((a, b) => b.pending - a.pending || a.r.origin.localeCompare(b.r.origin))) {
-      const id = slotOf(r);
-      const check = h("input", { type: "checkbox", checked: picked.has(id), disabled: !pending });
-      check.addEventListener("change", () => { check.checked ? picked.add(id) : picked.delete(id); renderAdminView(); });
-      table.append(h("tr", { class: pending ? "" : "outdated" },
-        h("td", {}, check),
-        h("td", { class: "t" }, richBlock(r.source || "")),
-        h("td", {}, h("div", { class: "sub" }, r.origin)),
-        h("td", {}, h("div", { class: "sub" }, joinMeta(r.by, fmtDate(r.at)) || "—")),
-        h("td", { class: "num" }, pending ? "Waiting for Unreal sync" : "Done in Unreal")));
-    }
-    card.append(table);
-  }
-  return card;
+  if (!rows.length) return h("div", {}, header, h("div", { class: "empty-state" }, "Nothing excluded. Tick texts in the list and use \"Don't localize\"."));
+  const cards = rows.sort((a, b) => !!b.entry - !!a.entry || (a.r.origin || "").localeCompare(b.r.origin || "")).map(({ r, entry }) => {
+    const id = slotOf(r);
+    const usage = usageOf(r);
+    return h("article", { class: `entry compact${picked.has(id) ? " picked" : ""}${entry ? "" : " done"}` },
+      h("div", { class: "head" },
+        adminCheck(picked.has(id), !entry, `Select "${r.source || r.key}"`, (on) => { on ? picked.add(id) : picked.delete(id); renderAdminView(); }),
+        entry ? h("span", { class: "sb outdated", title: "Unreal makes this text not localizable on its next Full Sync" }, "Waiting for Unreal sync")
+          : h("span", { class: "sb human", title: "Unreal has made this text culture-invariant" }, "Done in Unreal"),
+        entry?.category ? h("span", { class: "cat" }, entry.category) : null,
+        usage ? h("span", { class: "ctx" }, usage) : null,
+        r.origin ? h("span", { class: "origin", title: joinMeta(r.ns ? `${r.ns},${r.key}` : r.key, r.origin) }, r.origin) : null),
+      h("div", { class: "source", lang: "en" }, r.source ? richBlock(r.source) : h("span", { class: "hint" }, "(no English text recorded)")),
+      joinMeta(r.by, fmtDate(r.at)) ? h("div", { class: "byline" }, `Excluded by ${joinMeta(r.by, fmtDate(r.at))}`) : null);
+  });
+  return h("div", {}, header, ...cards);
 }
 
 // ---------- admin views ----------
@@ -1019,26 +1032,27 @@ function renderAdminView() {
   if (state.view === "admin-settings") { box.replaceChildren(renderSettingsView()); return; }
   if (state.view === "admin-excluded") { box.replaceChildren(renderExcludedView()); return; }
   const rows = state.queueRows;
-  const showAll = h("input", { type: "checkbox", checked: state.queueShowAll });
+  const showAll = h("input", { type: "checkbox", class: "pick", checked: state.queueShowAll });
   showAll.addEventListener("change", guarded(async () => { state.queueShowAll = showAll.checked; await loadQueue(); }));
-  const bar = h("div", { class: "rowline" },
-    h("span", { class: "hint grow" }, state.queueShowAll ? "Every open suggestion." : "Best suggestion per text that reached its threshold and beats the current translation."),
-    h("label", { class: "hint" }, showAll, " Show all open"),
-    h("button", { class: "ghost small", onclick: guarded(loadQueue) }, "Refresh"),
-    h("button", { class: "ghost small", onclick: () => {
+  const header = adminHeader("Review queue", `${rows.length.toLocaleString()} suggestion${rows.length === 1 ? "" : "s"}`,
+    state.queueShowAll ? "Every open suggestion, ready or not." : "The best suggestion per text that reached its threshold" + (state.settings.requireBeatCurrent ? " and beats the current translation." : "."),
+    h("label", { class: "toggle" }, showAll, "Show all open"),
+    h("span", { class: "grow" }, state.queueSelected.size ? `${state.queueSelected.size} selected` : ""),
+    h("button", { type: "button", class: "ghost small", onclick: guarded(loadQueue) }, "Refresh"),
+    h("button", { type: "button", class: "ghost small", onclick: () => {
       const eligible = rows.filter((r) => !r.outdated);
       const allOn = eligible.length && eligible.every((r) => state.queueSelected.has(r.s.id));
       state.queueSelected = new Set(allOn ? [] : eligible.map((r) => r.s.id));
       renderAdminView();
     } }, "Select all"),
-    h("button", { class: "danger small", onclick: guarded(async () => {
+    h("button", { type: "button", class: "danger small", disabled: !state.queueSelected.size, onclick: guarded(async () => {
       const list = selectedQueue();
       if (!list.length) throw new Error("Select suggestions first.");
       if (!confirm(`Reject ${list.length} suggestion(s)?`)) return;
       await rejectSuggestions(list);
       state.queueSelected.clear();
     }) }, "Reject selected"),
-    h("button", { class: "primary small", onclick: guarded(async (ev) => {
+    h("button", { type: "button", class: "primary small", disabled: !state.queueSelected.size, onclick: guarded(async (ev) => {
       const list = selectedQueue();
       if (!list.length) throw new Error("Select suggestions first.");
       if (!confirm(`Apply ${list.length} suggestion(s) to the repo?`)) return;
@@ -1046,28 +1060,54 @@ function renderAdminView() {
       try { await applySuggestions(list); state.queueSelected.clear(); } finally { ev.target.disabled = false; }
     }) }, `Apply selected (${state.queueSelected.size})`));
 
-  const card = h("div", { class: "card" }, h("h3", {}, "Review queue"), bar);
-  if (!rows.length) card.append(h("div", { class: "empty-state" }, state.queueShowAll ? "No open suggestions." : "Nothing has reached the threshold yet."));
-  else {
-    const table = h("table", { class: "queue" }, h("tr", {}, h("th", {}, ""), h("th", {}, "Lang"), h("th", {}, "English"), h("th", {}, "Current"), h("th", {}, "Suggestion"), h("th", {}, "Score"), h("th", {}, "Needs")));
-    for (const r of rows) {
-      const { s, entry, cur } = r;
-      const t = entry ? currentOf(entry, s.culture) : null;
-      const check = h("input", { type: "checkbox", checked: state.queueSelected.has(s.id), disabled: r.outdated });
-      check.addEventListener("change", () => { check.checked ? state.queueSelected.add(s.id) : state.queueSelected.delete(s.id); renderAdminView(); });
-      const need = Math.max(thresholdFor(s.culture), state.settings.requireBeatCurrent ? net(cur) + 1 : 0);
-      table.append(h("tr", { class: r.outdated ? "outdated" : "" },
-        h("td", {}, check),
-        h("td", {}, s.culture),
-        h("td", { class: "t" }, entry ? richBlock(entry.source) : "(string removed)", entry ? h("div", { class: "sub" }, entry.origin) : null),
-        h("td", { class: "t" }, t ? [h("span", { class: `sb ${describe(t).cls}` }, describe(t).label), h("br"), richBlock(t.text)] : h("span", { class: "hint" }, "untranslated")),
-        h("td", { class: "t" }, richBlock(s.text), s.note ? h("div", { class: "sub" }, s.note) : null, h("div", { class: "sub" }, joinMeta(s.author_name, fmtDate(s.created_at), r.outdated ? "outdated" : null))),
-        h("td", { class: "num" }, `${signed(net(s))} (${s.ups}/${s.downs})`, cur ? h("div", { class: "sub" }, `current ${signed(net(cur))}`) : null),
-        h("td", { class: "num" }, r.pass ? "✓" : `≥ ${need}`)));
-    }
-    card.append(table);
+  if (!rows.length) {
+    box.replaceChildren(header, h("div", { class: "empty-state" }, state.queueShowAll ? "No open suggestions." : "Nothing has reached the threshold yet."));
+    return;
   }
-  box.replaceChildren(card);
+  box.replaceChildren(header, ...rows.map(renderQueueItem));
+}
+
+function renderQueueItem(r) {
+  const { s, entry, cur } = r;
+  const t = entry ? currentOf(entry, s.culture) : null;
+  const info = describe(t);
+  const lang = cultureName(s.culture, false);
+  const selected = state.queueSelected.has(s.id);
+  const need = Math.max(thresholdFor(s.culture), state.settings.requireBeatCurrent ? net(cur) + 1 : 0);
+  const usage = entry ? usageOf(entry) : null;
+  return h("article", { class: `entry${selected ? " picked" : ""}${r.outdated ? " done" : ""}` },
+    h("div", { class: "head" },
+      adminCheck(selected, r.outdated, `Select suggestion for "${entry?.source || s.key}"`, (on) => { on ? state.queueSelected.add(s.id) : state.queueSelected.delete(s.id); renderAdminView(); }),
+      h("span", { class: "langtag" }, lang),
+      entry?.category ? h("span", { class: "cat" }, entry.category) : null,
+      usage ? h("span", { class: "ctx" }, usage) : null,
+      r.outdated ? h("span", { class: "sb outdated", title: "The English text changed after this was suggested, so it can't be applied" }, "Outdated") : null,
+      entry?.origin ? h("span", { class: "origin", title: entry.origin }, entry.origin) : null),
+    h("div", { class: "pair" },
+      h("section", { class: "src", "aria-label": "English source" },
+        h("div", { class: "lbl" }, "English · source"),
+        h("div", { class: "source", lang: "en" }, entry ? richBlock(entry.source) : h("span", { class: "hint" }, "(string removed from the game)"))),
+      h("section", { class: `tgt ${info.cls}`, "aria-label": `Current ${lang} translation` },
+        h("div", { class: "lbl" }, h("span", { class: "grow" }, `Current ${lang}`),
+          cur ? h("span", { class: "score", title: "Community score of the current translation" }, `score ${signed(net(cur))}`) : null,
+          h("span", { class: `sb ${info.cls}`, title: info.tip }, info.label)),
+        h("div", { class: `text${t ? "" : " empty"}`, lang: t ? s.culture : null }, t ? richBlock(t.text) : "No translation yet — the game shows the English text."))),
+    h("div", { class: "suggestions" },
+      h("div", { class: "lbl" }, "Suggested"),
+      h("div", { class: "sugg" },
+        h("div", { class: "stext", lang: s.culture }, richBlock(s.text)),
+        s.note ? h("div", { class: "note" }, s.note) : null,
+        h("div", { class: "rowline" },
+          h("span", { class: "score strong", title: `${s.ups} up, ${s.downs} down` }, `${signed(net(s))}  ▲${s.ups} ▼${s.downs}`),
+          r.pass ? h("span", { class: "sb pass", title: "Passed the threshold — ready to apply" }, "Ready")
+            : h("span", { class: "sb mine", title: "Score this suggestion still needs to reach the queue" }, `Needs ${signed(need)}`),
+          h("span", { class: "grow" }, joinMeta(s.author_name, fmtDate(s.created_at))),
+          h("button", { type: "button", class: "linkbtn danger", onclick: guarded(async () => { if (confirm("Reject this suggestion?")) await rejectSuggestions([s]); }) }, "Reject"),
+          h("button", { type: "button", class: "suggest small", disabled: r.outdated, onclick: guarded(async (ev) => {
+            if (!confirm(`Apply this ${lang} suggestion to the repo?`)) return;
+            ev.target.disabled = true;
+            try { await applySuggestions([s]); state.queueSelected.delete(s.id); } finally { ev.target.disabled = false; }
+          }) }, "Apply")))));
 }
 
 function renderSettingsView() {
@@ -1115,7 +1155,8 @@ function renderSettingsView() {
       saved.textContent = ok ? "Saved to the repo." : "No change.";
       await loadQueue();
     }) }, "Save to repo")));
-  return h("div", { class: "grid2" }, tokenCard, thresholdCard);
+  return h("div", {}, adminHeader("Settings", null, "Thresholds are saved to the repo for every admin; the GitHub token stays in this browser only."),
+    h("div", { class: "grid2" }, tokenCard, thresholdCard));
 }
 
 // ---------- render ----------
