@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Incursion: Red River — Translation Editor</title>
+<link rel="stylesheet" href="editor.css">
+</head>
+<body>
+<header>
+  <div class="brand">Incursion: Red River <span class="muted">· Translations</span></div>
+  <label class="field">Language <select id="culture"></select></label>
+  <input id="search" type="search" placeholder="Search English, translation or key…">
+  <select id="area"><option value="">All areas</option></select>
+  <select id="filter">
+    <option value="all">All strings</option>
+    <option value="ai">AI translated</option>
+    <option value="missing">Untranslated / outdated</option>
+    <option value="human">Human translated</option>
+    <option value="open">Has suggestions</option>
+    <option value="mine">My suggestions</option>
+  </select>
+  <label class="field">Your name <input id="displayName" maxlength="40" placeholder="Anonymous"></label>
+  <button id="adminToggle" class="ghost">Admin</button>
+</header>
+
+<div id="notice" hidden></div>
+
+<section id="admin" hidden>
+  <div class="admin-grid">
+    <div class="card">
+      <h3>Moderator sign-in</h3>
+      <p class="muted">Your Supabase admin account — needed to apply, reject and ban.</p>
+      <div id="adminAuth" class="row">
+        <input id="adminEmail" type="email" placeholder="Email" autocomplete="username">
+        <input id="adminPassword" type="password" placeholder="Password" autocomplete="current-password">
+        <button id="adminSignIn">Sign in</button>
+      </div>
+      <div class="row"><span id="adminWho" class="muted"></span><button id="adminSignOut" class="ghost" hidden>Sign out</button></div>
+    </div>
+    <div class="card">
+      <h3>GitHub token</h3>
+      <p class="muted">Fine-grained token for this repo with <b>Contents: read/write</b>. Kept only in this browser.</p>
+      <div class="row">
+        <input id="ghToken" type="password" placeholder="github_pat_…" autocomplete="off">
+        <button id="ghSave">Save</button>
+        <button id="ghForget" class="ghost">Forget</button>
+      </div>
+      <div id="ghWho" class="muted"></div>
+    </div>
+    <div class="card">
+      <h3>Acceptance threshold</h3>
+      <p class="muted">A suggestion enters the queue at net score (up − down) ≥ threshold.</p>
+      <div id="thresholds"></div>
+      <div class="row"><button id="thresholdsSave">Save to repo</button><span id="thresholdsState" class="muted"></span></div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="row wrap">
+      <h3 class="grow">Queue</h3>
+      <label class="field"><input type="checkbox" id="queueAll"> Show every open suggestion</label>
+      <button id="queueRefresh" class="ghost">Refresh</button>
+      <button id="queueSelectAll" class="ghost">Select all</button>
+      <button id="queueReject" class="danger">Reject selected</button>
+      <button id="queueApply" class="primary">Apply selected</button>
+    </div>
+    <div id="queue" class="muted">Sign in and add a token to load the queue.</div>
+  </div>
+</section>
+
+<main>
+  <div id="summary" class="muted">Loading…</div>
+  <div id="list"></div>
+  <nav id="pager"></nav>
+</main>
+
+<div id="captcha" hidden>
+  <div class="box">
+    <p>Quick check before your first vote or suggestion.</p>
+    <div id="captchaWidget"></div>
+    <button id="captchaCancel" class="ghost">Cancel</button>
+  </div>
+</div>
+
+<script type="module" src="editor.js"></script>
+</body>
+</html>
