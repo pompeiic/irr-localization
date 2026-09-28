@@ -10,23 +10,9 @@
 		"ja",
 		"es-ES"
 	],
-	"exportedAt": "2026-09-28T10:58:11.600Z",
-	"entries": 3701,
+	"exportedAt": "2026-09-28T12:41:15.321Z",
+	"entries": 3546,
 	"areas": [
-		{
-			"area": "Blueprints/AI",
-			"file": "Areas/Blueprints_AI.json",
-			"entries": 5,
-			"translated":
-			{
-				"de": 5,
-				"zh-Hans": 5,
-				"ru": 5,
-				"ko": 5,
-				"ja": 5,
-				"es-ES": 5
-			}
-		},
 		{
 			"area": "Blueprints/Airdrop",
 			"file": "Areas/Blueprints_Airdrop.json",
@@ -72,15 +58,15 @@
 		{
 			"area": "Blueprints/InputSystem",
 			"file": "Areas/Blueprints_InputSystem.json",
-			"entries": 57,
+			"entries": 16,
 			"translated":
 			{
-				"de": 57,
-				"zh-Hans": 57,
-				"ru": 57,
-				"ko": 57,
-				"ja": 57,
-				"es-ES": 57
+				"de": 16,
+				"zh-Hans": 16,
+				"ru": 16,
+				"ko": 16,
+				"ja": 16,
+				"es-ES": 16
 			}
 		},
 		{
@@ -128,43 +114,43 @@
 		{
 			"area": "Blueprints/SimpleGameplayAbilitySystem",
 			"file": "Areas/Blueprints_SimpleGameplayAbilitySystem.json",
-			"entries": 37,
+			"entries": 15,
 			"translated":
 			{
-				"de": 37,
-				"zh-Hans": 37,
-				"ru": 37,
-				"ko": 37,
-				"ja": 37,
-				"es-ES": 37
+				"de": 15,
+				"zh-Hans": 15,
+				"ru": 15,
+				"ko": 15,
+				"ja": 15,
+				"es-ES": 15
 			}
 		},
 		{
 			"area": "Gameloop",
 			"file": "Areas/Gameloop.json",
-			"entries": 12,
+			"entries": 10,
 			"translated":
 			{
-				"de": 12,
-				"zh-Hans": 12,
-				"ru": 12,
-				"ko": 12,
-				"ja": 12,
-				"es-ES": 12
+				"de": 10,
+				"zh-Hans": 10,
+				"ru": 10,
+				"ko": 10,
+				"ja": 10,
+				"es-ES": 10
 			}
 		},
 		{
 			"area": "Gameloop/CinematicCamera",
 			"file": "Areas/Gameloop_CinematicCamera.json",
-			"entries": 7,
+			"entries": 3,
 			"translated":
 			{
-				"de": 7,
-				"zh-Hans": 7,
-				"ru": 7,
-				"ko": 7,
-				"ja": 7,
-				"es-ES": 7
+				"de": 3,
+				"zh-Hans": 3,
+				"ru": 3,
+				"ko": 3,
+				"ja": 3,
+				"es-ES": 3
 			}
 		},
 		{
@@ -198,29 +184,29 @@
 		{
 			"area": "Gameloop/Lobby",
 			"file": "Areas/Gameloop_Lobby.json",
-			"entries": 35,
+			"entries": 30,
 			"translated":
 			{
-				"de": 35,
-				"zh-Hans": 35,
-				"ru": 35,
-				"ko": 35,
-				"ja": 35,
-				"es-ES": 35
+				"de": 30,
+				"zh-Hans": 30,
+				"ru": 30,
+				"ko": 30,
+				"ja": 30,
+				"es-ES": 30
 			}
 		},
 		{
 			"area": "Gameloop/Menu",
 			"file": "Areas/Gameloop_Menu.json",
-			"entries": 32,
+			"entries": 4,
 			"translated":
 			{
-				"de": 32,
-				"zh-Hans": 32,
-				"ru": 32,
-				"ko": 32,
-				"ja": 32,
-				"es-ES": 32
+				"de": 4,
+				"zh-Hans": 4,
+				"ru": 4,
+				"ko": 4,
+				"ja": 4,
+				"es-ES": 4
 			}
 		},
 		{
@@ -296,15 +282,15 @@
 		{
 			"area": "Inventory/Components",
 			"file": "Areas/Inventory_Components.json",
-			"entries": 2,
+			"entries": 1,
 			"translated":
 			{
-				"de": 2,
-				"zh-Hans": 2,
-				"ru": 2,
-				"ko": 2,
-				"ja": 2,
-				"es-ES": 2
+				"de": 1,
+				"zh-Hans": 1,
+				"ru": 1,
+				"ko": 1,
+				"ja": 1,
+				"es-ES": 1
 			}
 		},
 		{
@@ -324,15 +310,15 @@
 		{
 			"area": "Inventory/Items",
 			"file": "Areas/Inventory_Items.json",
-			"entries": 732,
+			"entries": 731,
 			"translated":
 			{
-				"de": 732,
-				"zh-Hans": 732,
-				"ru": 732,
-				"ko": 732,
-				"ja": 732,
-				"es-ES": 732
+				"de": 731,
+				"zh-Hans": 731,
+				"ru": 731,
+				"ko": 731,
+				"ja": 731,
+				"es-ES": 731
 			}
 		},
 		{
@@ -406,20 +392,6 @@
 			}
 		},
 		{
-			"area": "Missions",
-			"file": "Areas/Missions.json",
-			"entries": 3,
-			"translated":
-			{
-				"de": 3,
-				"zh-Hans": 3,
-				"ru": 3,
-				"ko": 3,
-				"ja": 3,
-				"es-ES": 3
-			}
-		},
-		{
 			"area": "Missions/Actors",
 			"file": "Areas/Missions_Actors.json",
 			"entries": 37,
@@ -436,15 +408,15 @@
 		{
 			"area": "Missions/DataAssets",
 			"file": "Areas/Missions_DataAssets.json",
-			"entries": 939,
+			"entries": 903,
 			"translated":
 			{
-				"de": 930,
-				"zh-Hans": 930,
-				"ru": 930,
-				"ko": 930,
-				"ja": 930,
-				"es-ES": 930
+				"de": 903,
+				"zh-Hans": 903,
+				"ru": 903,
+				"ko": 903,
+				"ja": 903,
+				"es-ES": 903
 			}
 		},
 		{
@@ -492,15 +464,15 @@
 		{
 			"area": "Missions/UI",
 			"file": "Areas/Missions_UI.json",
-			"entries": 270,
+			"entries": 268,
 			"translated":
 			{
-				"de": 270,
-				"zh-Hans": 270,
-				"ru": 270,
-				"ko": 270,
-				"ja": 270,
-				"es-ES": 270
+				"de": 268,
+				"zh-Hans": 268,
+				"ru": 268,
+				"ko": 268,
+				"ja": 268,
+				"es-ES": 268
 			}
 		},
 		{
@@ -562,7 +534,7 @@
 		{
 			"area": "ThirdParty/CMG",
 			"file": "Areas/ThirdParty_CMG.json",
-			"entries": 181,
+			"entries": 175,
 			"translated":
 			{
 				"de": 175,
@@ -604,15 +576,15 @@
 		{
 			"area": "UI/Widgets",
 			"file": "Areas/UI_Widgets.json",
-			"entries": 573,
+			"entries": 574,
 			"translated":
 			{
-				"de": 573,
-				"zh-Hans": 573,
-				"ru": 573,
-				"ko": 573,
-				"ja": 573,
-				"es-ES": 573
+				"de": 572,
+				"zh-Hans": 572,
+				"ru": 572,
+				"ko": 572,
+				"ja": 572,
+				"es-ES": 572
 			}
 		}
 	]
