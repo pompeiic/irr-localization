@@ -2032,58 +2032,6 @@
 		},
 		{
 			"ns": "",
-			"key": "0C3E43184E7F2E238FAE42AD2229C67C",
-			"source": "FANG Assignment <strong>KIA_454_RR</>: <italic>Eliminate the targets with the assigned condition.</>",
-			"sourceHash": "c0081eea",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_454_RR.DA_KIA_454_RR.MissionInfo.Briefing.Text(0).Text.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "FANG-Auftrag <strong>KIA_454_RR</>: <italic>Schalte die Ziele unter der zugewiesenen Bedingung aus.</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "FANG 任务 <strong>KIA_454_RR</>：<italic>按指定条件清除目标。</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Задание FANG <strong>KIA_454_RR</>: <italic>Устрани цели с заданным условием.</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "FANG 과제 <strong>KIA_454_RR</>: <italic>지정 조건으로 목표를 처치하라.</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "FANG課題 <strong>KIA_454_RR</>：<italic>指定条件で標的を排除せよ。</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Encargo FANG <strong>KIA_454_RR</>: <italic>Elimina los objetivos con la condición asignada.</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "0CF5A11E4A4793967E2258B59E0C286A",
 			"source": "Go to the radar tower and install the jammers.",
 			"sourceHash": "727d502b",
@@ -2284,58 +2232,6 @@
 				"es-ES":
 				{
 					"text": "Apagar terminal",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "0DE51CB94B38ED28F218E2A06F5AFB9A",
-			"source": "FANG Assignment <strong>KIA_580_RR</>: <italic>Eliminate the targets with the assigned condition.</>",
-			"sourceHash": "2307aa70",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_580_RR.DA_KIA_580_RR.MissionInfo.Briefing.Text(0).Text.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "FANG-Auftrag <strong>KIA_580_RR</>: <italic>Schalte die Ziele unter der zugewiesenen Bedingung aus.</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "FANG 任务 <strong>KIA_580_RR</>：<italic>按指定条件清除目标。</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Задание FANG <strong>KIA_580_RR</>: <italic>Устрани цели с заданным условием.</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "FANG 과제 <strong>KIA_580_RR</>: <italic>지정 조건으로 목표를 처치하라.</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "FANG課題 <strong>KIA_580_RR</>：<italic>指定条件で標的を排除せよ。</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Encargo FANG <strong>KIA_580_RR</>: <italic>Elimina los objetivos con la condición asignada.</>",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -2968,58 +2864,6 @@
 		},
 		{
 			"ns": "",
-			"key": "128B81B94E356B6F7B77F4AFB54F978F",
-			"source": "Eliminate {count} with a Ngyuen Equipment.",
-			"sourceHash": "bd2408c2",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_901_RR.DA_KIA_901_RR:IRRMissionSequence_0.BP_IRRObjectie_Kill_C_0.Description",
-			"t":
-			{
-				"de":
-				{
-					"text": "Schalte {count} mit Ngyuen-Ausrüstung aus.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "使用 Ngyuen 装备击杀 {count} 人。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Устрани {count} со снаряжением Ngyuen.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "Ngyuen 장비로 {count}명 처치.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "Ngyuenの装備で{count}人排除。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Elimina {count} con equipamiento de Ngyuen.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "12D58B3E4F539F8C92E647BBC9AC9C5F",
 			"source": "The <strong>IGC</> are really trying to wrestle control of the <strong>DELTA</> region, it seems. Very well done, pushing them back.",
 			"sourceHash": "1be33355",
@@ -3376,58 +3220,6 @@
 				"es-ES":
 				{
 					"text": "Descargar VLF_MemberData.zip",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "144AC91C4D5974008BADE39106EBDE0E",
-			"source": "Eliminate {count} with a SMG.",
-			"sourceHash": "4950829f",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_454_RR.DA_KIA_454_RR:IRRMissionSequence_0.BP_IRRObjectie_Kill_C_0.Description",
-			"t":
-			{
-				"de":
-				{
-					"text": "Schalte {count} mit einer SMG aus.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "用冲锋枪击杀 {count} 人。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Устрани {count} из SMG.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "SMG로 {count}명 처치.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "SMGで{count}人排除。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Elimina {count} con un SMG.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -4676,58 +4468,6 @@
 				"es-ES":
 				{
 					"text": "Mejorar centro de inteligencia",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "18E190214EB9590D0038B39EA22C5402",
-			"source": "Good job! ",
-			"sourceHash": "59013376",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_523_RR.DA_KIA_523_RR.MissionInfo.Debriefing.Text(0).Text.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "Gute Arbeit! ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "干得好！ ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Хорошая работа! ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "잘했다! ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "よくやった！ ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "¡Buen trabajo! ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -6036,58 +5776,6 @@
 		},
 		{
 			"ns": "",
-			"key": "21098D2D49EB6BC5666C3FA1DCE9F476",
-			"source": "Eliminate",
-			"sourceHash": "c5a81fc8",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_225_RR.DA_KIA_225_RR:IRRMissionSequence_0.Headline",
-			"t":
-			{
-				"de":
-				{
-					"text": "Ausschalten",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "清除",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Устранить",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "처치",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "排除",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Eliminar",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "22BD7AEE4CA18848E6E47980CADCBEF2",
 			"source": "Place the intel in the marked container on the map.",
 			"sourceHash": "1737b41c",
@@ -7328,58 +7016,6 @@
 				"es-ES":
 				{
 					"text": "Colocar inteligencia",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "293C3BFE440FD9D96FE516A9E67B6495",
-			"source": "To fullfill the mission you need to wear Ngyuen's Helmet and Armored Rig.",
-			"sourceHash": "ad50ac50",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_901_RR.DA_KIA_901_RR.MissionInfo.Hint",
-			"t":
-			{
-				"de":
-				{
-					"text": "Um die Mission zu erfüllen, musst du Ngyuens Helm und gepanzerte Weste tragen.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "要完成任务，你需要穿戴 Ngyuen 的头盔和防弹战术背心。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Чтобы выполнить задание, нужно надеть шлем и бронеразгрузку Ngyuen.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "임무를 완수하려면 Ngyuen의 헬멧과 방탄 전술 조끼를 착용해야 한다.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "ミッションを完了するには、Ngyuenのヘルメットとアーマーリグを着用する必要がある。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Para cumplir la misión, debes llevar el casco y el chaleco táctico blindado de Ngyuen.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -9312,58 +8948,6 @@
 		},
 		{
 			"ns": "",
-			"key": "35FE6D8D47369F8E78A0DFAC4063F188",
-			"source": "Eliminate",
-			"sourceHash": "c5a81fc8",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_454_RR.DA_KIA_454_RR:IRRMissionSequence_0.Headline",
-			"t":
-			{
-				"de":
-				{
-					"text": "Ausschalten",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "清除",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Устранить",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "처치",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "排除",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Eliminar",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "363E28574360F438EA5B788F75E6AA31",
 			"source": "continue",
 			"sourceHash": "3ba0baf5",
@@ -10916,58 +10500,6 @@
 				"es-ES":
 				{
 					"text": "help",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "404046E24BB7142E1545C3B5BF78A8B5",
-			"source": "Good job! ",
-			"sourceHash": "59013376",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_580_RR.DA_KIA_580_RR.MissionInfo.Debriefing.Text(0).Text.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "Gute Arbeit! ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "干得好！ ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Хорошая работа! ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "잘했다! ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "よくやった！ ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "¡Buen trabajo! ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -14720,58 +14252,6 @@
 		},
 		{
 			"ns": "",
-			"key": "4FCE3E47407680C6EDEF4E99B5EFD1ED",
-			"source": "Good job! ",
-			"sourceHash": "59013376",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_901_RR.DA_KIA_901_RR.MissionInfo.Debriefing.Text(0).Text.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "Gute Arbeit! ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "干得好！ ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Хорошая работа! ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "잘했다! ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "よくやった！ ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "¡Buen trabajo! ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "4FDFCACC47DA7101D0F92D83A512F0B5",
 			"source": "Scan Operation File",
 			"sourceHash": "65aec48b",
@@ -15492,58 +14972,6 @@
 				"es-ES":
 				{
 					"text": "Agente, tu objetivo es el corazón administrativo de las operaciones enemigas: las oficinas. Debes instalar discretamente tres inhibidores en estas zonas. Estos dispositivos cortarán las líneas de comunicación y entorpecerán los esfuerzos de coordinación entre las filas enemigas. La precisión y no ser detectado son esenciales para asegurar que los inhibidores sean efectivos y permanezcan ocultos.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "536891D84FC21ED7628DAD8405B88C06",
-			"source": "Good job! ",
-			"sourceHash": "59013376",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_454_RR.DA_KIA_454_RR.MissionInfo.Debriefing.Text(0).Text.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "Gute Arbeit! ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "干得好！ ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Хорошая работа! ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "잘했다! ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "よくやった！ ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "¡Buen trabajo! ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -16532,58 +15960,6 @@
 				"es-ES":
 				{
 					"text": "Colocar inteligencia",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "596464D74CE1DB5F67361D8F99F9F698",
-			"source": "Eliminate {count} with a headshot.",
-			"sourceHash": "8db38768",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_756_RR.DA_KIA_756_RR:IRRMissionSequence_0.BP_IRRObjectie_Kill_C_0.Description",
-			"t":
-			{
-				"de":
-				{
-					"text": "Schalte {count} mit einem Kopfschuss aus.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "用爆头击杀 {count} 人。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Устрани {count} выстрелом в голову.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "헤드샷으로 {count}명 처치.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "ヘッドショットで{count}人排除。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Elimina {count} de un disparo a la cabeza.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -19504,58 +18880,6 @@
 		},
 		{
 			"ns": "",
-			"key": "68F60D014FC354B189924E9BC47242A8",
-			"source": "Eliminate",
-			"sourceHash": "c5a81fc8",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_901_RR.DA_KIA_901_RR:IRRMissionSequence_0.Headline",
-			"t":
-			{
-				"de":
-				{
-					"text": "Ausschalten",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "清除",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Устранить",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "처치",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "排除",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Eliminar",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "691407A041302A7FA76447A270DBB1CE",
 			"source": "Go to the marked outpost on the map and secure the intel.",
 			"sourceHash": "0ba9286e",
@@ -20492,110 +19816,6 @@
 		},
 		{
 			"ns": "",
-			"key": "6D95D67044204D3926FB0AB0E0C3CA03",
-			"source": "Good job! ",
-			"sourceHash": "59013376",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_225_RR.DA_KIA_225_RR.MissionInfo.Debriefing.Text(0).Text.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "Gute Arbeit! ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "干得好！ ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Хорошая работа! ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "잘했다! ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "よくやった！ ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "¡Buen trabajo! ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "6DA49A724AF76D320CA936A277991D23",
-			"source": "Eliminate",
-			"sourceHash": "c5a81fc8",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_580_RR.DA_KIA_580_RR:IRRMissionSequence_0.Headline",
-			"t":
-			{
-				"de":
-				{
-					"text": "Ausschalten",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "清除",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Устранить",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "처치",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "排除",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Eliminar",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "6DC6A898491E20F81ED9239787B432E3",
 			"source": "Secure Intel",
 			"sourceHash": "315bdadb",
@@ -20640,58 +19860,6 @@
 				"es-ES":
 				{
 					"text": "Asegurar inteligencia",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "6E85E81C4917C32A0291558EC6D712C3",
-			"source": "Good job! ",
-			"sourceHash": "59013376",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_756_RR.DA_KIA_756_RR.MissionInfo.Debriefing.Text(0).Text.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "Gute Arbeit! ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "干得好！ ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Хорошая работа! ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "잘했다! ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "よくやった！ ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "¡Buen trabajo! ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -21272,58 +20440,6 @@
 		},
 		{
 			"ns": "",
-			"key": "70E1B7E34B4043DFED3F18AF79C38030",
-			"source": "Eliminate {count} with a DMR.",
-			"sourceHash": "66d57b3b",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_180_RR.DA_KIA_180_RR:IRRMissionSequence_0.BP_IRRObjectie_Kill_C_0.Description",
-			"t":
-			{
-				"de":
-				{
-					"text": "Schalte {count} mit einem DMR aus.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "用 DMR 击杀 {count} 人。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Устрани {count} из DMR.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "DMR로 {count}명 처치.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "DMRで{count}人排除。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Elimina {count} con un DMR.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "7183D72B44CD7F1C3751BEB8E253FAA2",
 			"source": "Soldier, an operation is ready for you. The evidence points to UICS leveraging tanks scattered across the map for their communications. Let’s tactfully place jammers in these areas to scramble their signals!",
 			"sourceHash": "7bf189f9",
@@ -21368,58 +20484,6 @@
 				"es-ES":
 				{
 					"text": "Soldado, hay una operación lista para ti. Las pruebas indican que UICS usa tanques dispersos por el mapa para sus comunicaciones. ¡Coloquemos tácticamente inhibidores en estas zonas para interferir sus señales!",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "71EBD98B4E4F7EB8BBFF8B91F6BC083E",
-			"source": "Eliminate",
-			"sourceHash": "c5a81fc8",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_523_RR.DA_KIA_523_RR:IRRMissionSequence_0.Headline",
-			"t":
-			{
-				"de":
-				{
-					"text": "Ausschalten",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "清除",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Устранить",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "처치",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "排除",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Eliminar",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -21784,58 +20848,6 @@
 				"es-ES":
 				{
 					"text": "Localiza e inicia el terminal en la zona de la bahía médica.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "7481B13341FE5BA47AB3488E66BCD59E",
-			"source": "Good job! ",
-			"sourceHash": "59013376",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_333_RR.DA_KIA_333_RR.MissionInfo.Debriefing.Text(0).Text.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "Gute Arbeit! ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "干得好！ ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Хорошая работа! ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "잘했다! ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "よくやった！ ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "¡Buen trabajo! ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -25172,58 +24184,6 @@
 		},
 		{
 			"ns": "",
-			"key": "84DBA99949275EFFA3B153A4D8536F18",
-			"source": "Eliminate",
-			"sourceHash": "c5a81fc8",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_333_RR.DA_KIA_333_RR:IRRMissionSequence_0.Headline",
-			"t":
-			{
-				"de":
-				{
-					"text": "Ausschalten",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "清除",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Устранить",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "처치",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "排除",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Eliminar",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "8579164B49F3AB464CD983B617998057",
 			"source": "run",
 			"sourceHash": "8cedc6c0",
@@ -25944,58 +24904,6 @@
 				"es-ES":
 				{
 					"text": "Usa la segunda pieza de antena para mejorar el centro de inteligencia.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "8A7860D34EC8B47729BF10B2B417CF42",
-			"source": "FANG Assignment <strong>KIA_101_RR</>: <italic>Eliminate the targets with the assigned condition.</>",
-			"sourceHash": "61b53ebd",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_101_RR.DA_KIA_101_RR.MissionInfo.Briefing.Text(0).Text.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "FANG-Auftrag <strong>KIA_101_RR</>: <italic>Schalte die Ziele unter der zugewiesenen Bedingung aus.</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "FANG 任务 <strong>KIA_101_RR</>：<italic>按指定条件清除目标。</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Задание FANG <strong>KIA_101_RR</>: <italic>Устрани цели с заданным условием.</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "FANG 과제 <strong>KIA_101_RR</>: <italic>지정 조건으로 목표를 처치하라.</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "FANG課題 <strong>KIA_101_RR</>：<italic>指定条件で標的を排除せよ。</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Encargo FANG <strong>KIA_101_RR</>: <italic>Elimina los objetivos con la condición asignada.</>",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -29748,58 +28656,6 @@
 		},
 		{
 			"ns": "",
-			"key": "9B5C44A04B26F96A0D8214910E476001",
-			"source": "Eliminate {count} with a Sniper Rifle.",
-			"sourceHash": "ad21b24b",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_101_RR.DA_KIA_101_RR:IRRMissionSequence_0.BP_IRRObjectie_Kill_C_0.Description",
-			"t":
-			{
-				"de":
-				{
-					"text": "Schalte {count} mit einem Scharfschützengewehr aus.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "用狙击步枪击杀 {count} 人。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Устрани {count} из снайперской винтовки.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "저격소총으로 {count}명 처치.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "スナイパーライフルで{count}人排除。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Elimina {count} con un rifle de francotirador.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "9B81CCA8475E19C71078AF83D95F305B",
 			"source": "Apologies, Operator, but I have other obligations. Don't worry, I am watching your reports closely. Also, you don’t need to call in for updates, as I won’t be available.",
 			"sourceHash": "5e964a53",
@@ -29844,58 +28700,6 @@
 				"es-ES":
 				{
 					"text": "Disculpas, operador, pero tengo otras obligaciones. No te preocupes, sigo tus informes de cerca. Además, no hace falta que llames para informar de novedades, ya que no estaré disponible.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "9B92F65C4B8935B9286B1FB6DA44D786",
-			"source": "FANG Assignment <strong>KIA_523_RR</>: <italic>Eliminate the targets with the assigned condition.</>",
-			"sourceHash": "13dbc377",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_523_RR.DA_KIA_523_RR.MissionInfo.Briefing.Text(0).Text.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "FANG-Auftrag <strong>KIA_523_RR</>: <italic>Schalte die Ziele unter der zugewiesenen Bedingung aus.</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "FANG 任务 <strong>KIA_523_RR</>：<italic>按指定条件清除目标。</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Задание FANG <strong>KIA_523_RR</>: <italic>Устрани цели с заданным условием.</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "FANG 과제 <strong>KIA_523_RR</>: <italic>지정 조건으로 목표를 처치하라.</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "FANG課題 <strong>KIA_523_RR</>：<italic>指定条件で標的を排除せよ。</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Encargo FANG <strong>KIA_523_RR</>: <italic>Elimina los objetivos con la condición asignada.</>",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -30372,58 +29176,6 @@
 		},
 		{
 			"ns": "",
-			"key": "9D980E79404C954FE3037C9732381B6F",
-			"source": "Good job! ",
-			"sourceHash": "59013376",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_101_RR.DA_KIA_101_RR.MissionInfo.Debriefing.Text(0).Text.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "Gute Arbeit! ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "干得好！ ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Хорошая работа! ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "잘했다! ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "よくやった！ ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "¡Buen trabajo! ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "9DB2693647813CFD99A0DEB5926A7A3B",
 			"source": "Shutdown the terminal to erase everything.",
 			"sourceHash": "cdf7414c",
@@ -30572,58 +29324,6 @@
 				"es-ES":
 				{
 					"text": "Asegurar inteligencia",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "9EB6FAB54F1C414E2926848663FB357D",
-			"source": "FANG Assignment <strong>KIA_756_RR</>: <italic>Eliminate the targets with the assigned condition.</>",
-			"sourceHash": "57560013",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_756_RR.DA_KIA_756_RR.MissionInfo.Briefing.Text(0).Text.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "FANG-Auftrag <strong>KIA_756_RR</>: <italic>Schalte die Ziele unter der zugewiesenen Bedingung aus.</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "FANG 任务 <strong>KIA_756_RR</>：<italic>按指定条件清除目标。</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Задание FANG <strong>KIA_756_RR</>: <italic>Устрани цели с заданным условием.</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "FANG 과제 <strong>KIA_756_RR</>: <italic>지정 조건으로 목표를 처치하라.</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "FANG課題 <strong>KIA_756_RR</>：<italic>指定条件で標的を排除せよ。</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Encargo FANG <strong>KIA_756_RR</>: <italic>Elimina los objetivos con la condición asignada.</>",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -31196,58 +29896,6 @@
 				"es-ES":
 				{
 					"text": "Encuentra la base militar.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "A22906F94A5DC0E5A68BE6BB59AB11F8",
-			"source": "Use the ghillie handguard and stock to make the kills count!",
-			"sourceHash": "bcefbffe",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_523_RR.DA_KIA_523_RR.MissionInfo.Hint",
-			"t":
-			{
-				"de":
-				{
-					"text": "Verwende den Ghillie-Handschutz und die Schulterstütze, damit die Kills zählen!",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "使用吉利护木和枪托，击杀才算数！",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Используй маскировочные цевьё и приклад, чтобы убийства засчитались!",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "처치가 인정되도록 길리 핸드가드와 개머리판을 사용하라!",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "キルをカウントさせるには、ギリーハンドガードとストックを使用しろ！",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "¡Usa el guardamanos y la culata ghillie para que las bajas cuenten!",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -32296,110 +30944,6 @@
 		},
 		{
 			"ns": "",
-			"key": "A6595497429B366AC4D12B8D49B7C4CF",
-			"source": "FANG Assignment <strong>KIA_180_RR</>: <italic>Eliminate the targets with the assigned condition.</>",
-			"sourceHash": "9249b294",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_180_RR.DA_KIA_180_RR.MissionInfo.Briefing.Text(0).Text.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "FANG-Auftrag <strong>KIA_180_RR</>: <italic>Schalte die Ziele unter der zugewiesenen Bedingung aus.</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "FANG 任务 <strong>KIA_180_RR</>：<italic>按指定条件清除目标。</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Задание FANG <strong>KIA_180_RR</>: <italic>Устрани цели с заданным условием.</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "FANG 과제 <strong>KIA_180_RR</>: <italic>지정 조건으로 목표를 처치하라.</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "FANG課題 <strong>KIA_180_RR</>：<italic>指定条件で標的を排除せよ。</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Encargo FANG <strong>KIA_180_RR</>: <italic>Elimina los objetivos con la condición asignada.</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "A67433AE49A8115A2C53ADA44897CF24",
-			"source": "Eliminate",
-			"sourceHash": "c5a81fc8",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_756_RR.DA_KIA_756_RR:IRRMissionSequence_0.Headline",
-			"t":
-			{
-				"de":
-				{
-					"text": "Ausschalten",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "清除",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Устранить",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "처치",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "排除",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Eliminar",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "A69A85A34D232AAFA41C9EAC14F07B0E",
 			"source": "Antenna Piece",
 			"sourceHash": "815b08a8",
@@ -33224,58 +31768,6 @@
 				"es-ES":
 				{
 					"text": "Extraer",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "AC63DA574850E0F4B2B6B7B26827BA9E",
-			"source": "Eliminate",
-			"sourceHash": "c5a81fc8",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_180_RR.DA_KIA_180_RR:IRRMissionSequence_0.Headline",
-			"t":
-			{
-				"de":
-				{
-					"text": "Ausschalten",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "清除",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Устранить",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "처치",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "排除",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Eliminar",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -36404,58 +34896,6 @@
 		},
 		{
 			"ns": "",
-			"key": "BC98B95C4293F6D48BA2248C02A732DE",
-			"source": "Eliminate {count} with the weapon from MONSTERA.",
-			"sourceHash": "e7b0c588",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_523_RR.DA_KIA_523_RR:IRRMissionSequence_0.BP_IRRObjectie_Kill_C_0.Description",
-			"t":
-			{
-				"de":
-				{
-					"text": "Schalte {count} mit der Waffe von MONSTERA aus.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "用 MONSTERA 的武器击杀 {count} 人。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Устрани {count} оружием от MONSTERA.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "MONSTERA 무기로 {count}명 처치.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "MONSTERAの武器で{count}人排除。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Elimina {count} con el arma de MONSTERA.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "BD7308C148ACEE8C787B0D9341FA0448",
 			"source": "Shutdown the terminal to erase everything.",
 			"sourceHash": "cdf7414c",
@@ -38372,58 +36812,6 @@
 				"es-ES":
 				{
 					"text": "Usa la pistola. Nada más, nada menos. No se trata de dominar — se trata de demostrar que incluso tu herramienta de menor calibre aún corta el ruido.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "C6696EA44AEDA994AB838BAB5D4ED3E3",
-			"source": "FANG Assignment <strong>KIA_333_RR</>: <italic>Eliminate the targets with the assigned condition.</>",
-			"sourceHash": "ea77ef2f",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_333_RR.DA_KIA_333_RR.MissionInfo.Briefing.Text(0).Text.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "FANG-Auftrag <strong>KIA_333_RR</>: <italic>Schalte die Ziele unter der zugewiesenen Bedingung aus.</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "FANG 任务 <strong>KIA_333_RR</>：<italic>按指定条件清除目标。</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Задание FANG <strong>KIA_333_RR</>: <italic>Устрани цели с заданным условием.</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "FANG 과제 <strong>KIA_333_RR</>: <italic>지정 조건으로 목표를 처치하라.</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "FANG課題 <strong>KIA_333_RR</>：<italic>指定条件で標的を排除せよ。</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Encargo FANG <strong>KIA_333_RR</>: <italic>Elimina los objetivos con la condición asignada.</>",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -44360,58 +42748,6 @@
 		},
 		{
 			"ns": "",
-			"key": "E7084AE046A02CF41A80DD88608E8AB9",
-			"source": "Eliminate",
-			"sourceHash": "c5a81fc8",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_101_RR.DA_KIA_101_RR:IRRMissionSequence_0.Headline",
-			"t":
-			{
-				"de":
-				{
-					"text": "Ausschalten",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "清除",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Устранить",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "처치",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "排除",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Eliminar",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "E7D32D3F41A92DDBAD5F269A8ECD654B",
 			"source": "The download was complete? Good to hear, <strong>FANG</> will be pleased. Each small step is important; now finish up.",
 			"sourceHash": "f2f87c5b",
@@ -45452,58 +43788,6 @@
 		},
 		{
 			"ns": "",
-			"key": "EE26743B44015CD73FFDB794B55F2CDD",
-			"source": "FANG Assignment <strong>KIA_225_RR</>: <italic>Eliminate the targets with the assigned condition.</>",
-			"sourceHash": "29efea4f",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_225_RR.DA_KIA_225_RR.MissionInfo.Briefing.Text(0).Text.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "FANG-Auftrag <strong>KIA_225_RR</>: <italic>Schalte die Ziele unter der zugewiesenen Bedingung aus.</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "FANG 任务 <strong>KIA_225_RR</>：<italic>按指定条件清除目标。</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Задание FANG <strong>KIA_225_RR</>: <italic>Устрани цели с заданным условием.</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "FANG 과제 <strong>KIA_225_RR</>: <italic>지정 조건으로 목표를 처치하라.</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "FANG課題 <strong>KIA_225_RR</>：<italic>指定条件で標的を排除せよ。</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Encargo FANG <strong>KIA_225_RR</>: <italic>Elimina los objetivos con la condición asignada.</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "EECE32F84F903599FB6426917C945BC9",
 			"source": "cd",
 			"sourceHash": "8f021865",
@@ -45548,58 +43832,6 @@
 				"es-ES":
 				{
 					"text": "cd",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "EF7406004B4E6984B747B18E811978C8",
-			"source": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. ",
-			"sourceHash": "5aa0a485",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/BLUEFOR/ADLER/StoryMissions/DA_BLUEFOR_ADLER_SM_1.DA_BLUEFOR_ADLER_SM_1.MissionInfo.Hint",
-			"t":
-			{
-				"de":
-				{
-					"text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -48208,58 +46440,6 @@
 		},
 		{
 			"ns": "",
-			"key": "FE6284394F903E184063BBAB247369A0",
-			"source": "Good job! ",
-			"sourceHash": "59013376",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_180_RR.DA_KIA_180_RR.MissionInfo.Debriefing.Text(0).Text.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "Gute Arbeit! ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "干得好！ ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Хорошая работа! ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "잘했다! ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "よくやった！ ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "¡Buen trabajo! ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "FEB38DC34B3BE8D9AF09D192A3B26B67",
 			"source": "Place USB",
 			"sourceHash": "e2e5bb99",
@@ -48512,58 +46692,6 @@
 				"es-ES":
 				{
 					"text": "Colocar inteligencia",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "FF2A662244907A6736EF3C8D2EAA155C",
-			"source": "FANG Assignment <strong>KIA_901_RR</>: <italic>Eliminate the targets with the assigned condition.</>",
-			"sourceHash": "d8580934",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_901_RR.DA_KIA_901_RR.MissionInfo.Briefing.Text(0).Text.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "FANG-Auftrag <strong>KIA_901_RR</>: <italic>Schalte die Ziele unter der zugewiesenen Bedingung aus.</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "FANG 任务 <strong>KIA_901_RR</>：<italic>按指定条件清除目标。</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Задание FANG <strong>KIA_901_RR</>: <italic>Устрани цели с заданным условием.</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "FANG 과제 <strong>KIA_901_RR</>: <italic>지정 조건으로 목표를 처치하라.</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "FANG課題 <strong>KIA_901_RR</>：<italic>指定条件で標的を排除せよ。</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Encargo FANG <strong>KIA_901_RR</>: <italic>Elimina los objetivos con la condición asignada.</>",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
