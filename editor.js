@@ -4,7 +4,7 @@ import { createClient } from "https://esm.sh/@supabase/supabase-js@2";
 
 const $ = (id) => document.getElementById(id);
 const PAGE = 40;
-const LS = { culture: "irrLoc.culture", token: "irrLoc.githubToken" };
+const LS = { culture: "irrLoc.culture", token: "irrLoc.githubToken", guide: "irrLoc.guide" };
 // Web-owned, like Glossary.json: Unreal's Full Sync makes each listed text culture-invariant so the gather drops it.
 const EXCLUDED_FILE = "Excluded.json";
 
@@ -14,6 +14,7 @@ const VIEWS = [
   { id: "missing", name: "Untranslated" },
   { id: "human", name: "Human translated" },
   { id: "open", name: "Has suggestions" },
+  { id: "review", name: "In review queue" },
   { id: "mine", name: "My suggestions" },
 ];
 const ADMIN_VIEWS = [
@@ -55,6 +56,8 @@ function h(tag, attrs = {}, ...children) {
   for (const c of children.flat()) if (c != null && c !== false) el.append(c instanceof Node ? c : String(c));
   return el;
 }
+// Native append/replaceChildren print null as text; h() already skips it.
+const kids = (...c) => c.flat().filter((x) => x != null && x !== false);
 
 let noticeTimer = 0;
 function notice(message, kind = "", sticky = false) {
@@ -75,12 +78,17 @@ const cultureName = (() => {
   return (c, native = true) => {
     try {
       const english = en.of(c);
-      return native ? `${english} · ${new Intl.DisplayNames([c], { type: "language" }).of(c)}` : english;
+      const own = native ? new Intl.DisplayNames([c], { type: "language" }).of(c) : "";
+      return joinMeta(english || c, own && own !== english ? own : null);
     } catch { return c; }
   };
 })();
 
-const fmtDate = (iso) => new Date(iso).toLocaleDateString(undefined, { year: "numeric", month: "short", day: "numeric" });
+const fmtDate = (iso) => {
+  const d = iso ? new Date(iso) : null;
+  return d && !isNaN(d) ? d.toLocaleDateString(undefined, { year: "numeric", month: "short", day: "numeric" }) : "";
+};
+const joinMeta = (...parts) => parts.filter((p) => p != null && String(p).trim() !== "").join(" · ");
 
 // ---------- rich text (Unreal <Tag>…</> markup, {Arguments}) ----------
 
@@ -312,13 +320,51 @@ function currentOf(entry, culture = state.culture) {
   return t && t.text && t.status !== "untranslated" ? t : null;
 }
 
+const STATUS_TIPS = {
+  none: "No translation yet — the game shows the English text here.",
+  stale: "The English text changed after this was translated, so the game shows English until it is updated.",
+  ai: "Machine translation. No person has checked it — vote on it or suggest a better one.",
+  community: "A community suggestion an admin accepted after it passed the vote threshold.",
+  human: "Entered by a person in the game's own localization files, or accepted by an admin.",
+};
+
 function describe(t) {
-  if (!t) return { cls: "none", label: "Untranslated" };
-  if (t.status === "stale") return { cls: "stale", label: "Outdated" };
-  if (t.status === "machine") return { cls: "ai", label: "AI · not human-checked" };
+  if (!t) return { cls: "none", label: "Untranslated", tip: STATUS_TIPS.none };
+  if (t.status === "stale") return { cls: "stale", label: "Outdated", tip: STATUS_TIPS.stale };
+  if (t.status === "machine") return { cls: "ai", label: "AI · not human-checked", tip: STATUS_TIPS.ai };
   const by = t.by || "";
-  if (by.startsWith("community:")) return { cls: "community", label: `Community · ${by.slice(10)}` };
-  return { cls: "human", label: t.status === "approved" ? "Approved" : "Human reviewed" };
+  if (by.startsWith("community:")) return { cls: "community", label: joinMeta("Community", by.slice(10).trim()), tip: STATUS_TIPS.community };
+  return { cls: "human", label: t.status === "approved" ? "Approved" : "Human reviewed", tip: STATUS_TIPS.human };
+}
+
+// "Used as" label, derived from the property path in the origin; no label rather than a guess.
+const USAGE = [
+  [/Subtitles/, "Spoken subtitle"],
+  [/Tool ?Tip/i, "Tooltip"],
+  [/\bDebriefing\b/, "Mission debriefing"],
+  [/\bBriefing\b/, "Mission briefing"],
+  [/IRRMissionObjective[^.]*\.Description/, "Objective"],
+  [/ItemAppearance\.Description|ItemDescription/, "Item description"],
+  [/ItemAppearance\.(Name|Abbreviation)|ItemName/, "Item name"],
+  [/InteractionText/, "Interaction prompt"],
+  [/BP_TerminalSequence_Text|SystemArt/, "Terminal screen"],
+  [/Commands\(\d+\)\.Commands\.Command/, "Terminal command"],
+  [/\.Subject$/, "Message subject"],
+  [/MessageText|NofityMessage|NotifyMessage|OnFailText/, "Notification"],
+  [/Warning/, "Warning"],
+  [/Hint/, "Hint"],
+  [/TabText/, "Tab label"],
+  [/Button/, "Button label"],
+  [/Headline|OverrideTitle|(^|\.)Title$/, "Heading"],
+  [/LabelSettings|LabelText/, "Label"],
+  [/DisplayName|StatName|SlotName|ContextName/, "Name"],
+  [/Description/, "Description"],
+];
+function usageOf(e) {
+  const o = e.origin || "";
+  if (!o.startsWith("/") || o.includes("[Script Bytecode]")) return null;
+  const path = o.includes(":") ? o.slice(o.indexOf(":") + 1) : o.split(".").slice(2).join(".");
+  return USAGE.find(([rx]) => rx.test(path))?.[1] ?? null;
 }
 
 const thresholdFor = (culture) => state.settings.cultures?.[culture] ?? state.settings.defaultThreshold;
@@ -498,6 +544,7 @@ function matchesView(e, view) {
     case "missing": return !cur || cur.status === "stale";
     case "human": return !!cur && (cur.status === "reviewed" || cur.status === "approved");
     case "open": return !!sugg?.length;
+    case "review": return !!sugg?.some((s) => passes(s, e, currentScore(e)));
     case "mine": return !!state.user && !!sugg?.some((s) => s.author === state.user.id);
     default: return true;
   }
@@ -506,8 +553,8 @@ function matchesView(e, view) {
 const isLive = (e) => !state.excluded.has(slotOf(e));
 
 function renderSidebar() {
-  const item = (name, count, active, onclick, attn) => h("div", { class: `side-item${active ? " active" : ""}`, onclick },
-    h("span", { class: "nm" }, name), count != null ? h("span", { class: `ct${attn ? " attn" : ""}` }, count) : null);
+  const item = (name, count, active, onclick, attn) => h("button", { type: "button", class: `side-item${active ? " active" : ""}`, "aria-pressed": String(!!active), onclick },
+    h("span", { class: "nm" }, name), count != null ? h("span", { class: `ct${attn ? " attn" : ""}` }, count.toLocaleString()) : null);
   const live = state.entries.filter(isLive);
   const toList = (fn) => () => { fn(); state.shown = PAGE; if (state.view.startsWith("admin")) state.view = "all"; renderAll(); };
   const inCategory = live.filter((e) => !state.category || e.category === state.category);
@@ -540,16 +587,45 @@ function visibleEntries() {
   });
 }
 
+// Active filters, each removable; the language is always shown because every count depends on it.
+function activeFilters() {
+  const q = $("search").value.trim();
+  const view = VIEWS.find((v) => v.id === state.view);
+  return [
+    view && view.id !== "all" ? { label: view.name, clear: () => (state.view = "all") } : null,
+    state.category ? { label: `Category: ${state.category}`, clear: () => (state.category = "") } : null,
+    q ? { label: `Search: “${q}”`, clear: () => ($("search").value = "") } : null,
+  ].filter(Boolean);
+}
+
+function renderCountline(list) {
+  const filters = activeFilters();
+  const reset = (clear) => () => { clear(); state.shown = PAGE; renderAll(); };
+  $("countline").replaceChildren(...kids(
+    h("strong", {}, `${list.length.toLocaleString()} string${list.length === 1 ? "" : "s"}`),
+    h("span", {}, "in"),
+    h("span", { class: "flt lang", title: "Change the language at the top right" }, cultureName(state.culture)),
+    ...filters.map((f) => h("button", { type: "button", class: "flt", title: "Remove this filter", "aria-label": `Remove filter ${f.label}`, onclick: reset(f.clear) }, f.label, h("span", { "aria-hidden": "true" }, " ✕"))),
+    filters.length > 1 ? h("button", { type: "button", class: "linkbtn", onclick: reset(() => filters.forEach((f) => f.clear())) }, "Clear all") : null,
+    state.sb ? null : h("span", { class: "hint" }, "Voting and suggestions are not enabled yet.")));
+}
+
 function renderList() {
   const list = visibleEntries();
-  $("countline").textContent = `${list.length} string${list.length === 1 ? "" : "s"} · ${cultureName(state.culture)}` + (state.sb ? "" : " · voting and suggestions are not enabled yet");
+  renderCountline(list);
   renderSelectionBar(list);
   const wrap = $("listWrap");
-  if (!list.length) { wrap.replaceChildren(h("div", { class: "empty-state" }, "Nothing here — try another view, category or search.")); return; }
+  if (!list.length) {
+    const filters = activeFilters();
+    wrap.replaceChildren(h("div", { class: "empty-state" },
+      h("div", {}, filters.length ? "No strings match these filters." : "No strings here."),
+      filters.length ? h("button", { type: "button", class: "ghost small", onclick: () => { filters.forEach((f) => f.clear()); state.shown = PAGE; renderAll(); } }, "Clear filters") : null));
+    return;
+  }
   const more = list.length > state.shown
-    ? h("div", { class: "more" }, h("button", { class: "ghost", onclick: () => { state.shown += PAGE; renderList(); } }, `Show more (${list.length - state.shown} left)`))
+    ? h("div", { class: "more" }, h("button", { type: "button", class: "ghost", onclick: () => { state.shown += PAGE; renderList(); } }, `Show more (${(list.length - state.shown).toLocaleString()} left)`))
     : null;
-  wrap.replaceChildren(...list.slice(0, state.shown).map(renderEntry), more);
+  wrap.replaceChildren(...kids(list.slice(0, state.shown).map(renderEntry), more));
 }
 
 function renderSelectionBar(list = visibleEntries()) {
@@ -558,7 +634,7 @@ function renderSelectionBar(list = visibleEntries()) {
   if (bar.hidden) return;
   const n = state.picked.size;
   const allOn = list.length > 0 && list.every((e) => state.picked.has(slotOf(e)));
-  bar.replaceChildren(
+  bar.replaceChildren(...kids(
     h("span", { class: "grow" }, n ? `${n} selected` : "Admin — tick texts, or search (asset paths work, e.g. InputActions/) and select everything matching."),
     list.length ? h("button", { class: "ghost small", onclick: () => { for (const e of list) allOn ? state.picked.delete(slotOf(e)) : state.picked.add(slotOf(e)); renderList(); } },
       allOn ? `Unselect ${list.length} matching` : `Select ${list.length} matching`) : null,
@@ -569,16 +645,21 @@ function renderSelectionBar(list = visibleEntries()) {
       ev.target.disabled = true;
       try { await setExcluded(entries, true); state.picked.clear(); } finally { ev.target.disabled = false; }
       renderAll();
-    }) }, `Don't localize (${n})`));
+    }) }, `Don't localize (${n})`)));
 }
 
-function voteBox(score, mine, onVote, disabledReason) {
+const VOTE_HELP = "Votes are community opinion, not a review. A suggestion goes to an admin once its score passes the threshold (and beats the current translation); the admin decides what ships.";
+
+function voteBox(score, mine, onVote, disabledReason, what = "translation") {
+  const ups = score?.ups || 0;
+  const downs = score?.downs || 0;
   const dis = !state.sb || !!disabledReason;
-  const title = disabledReason || (!state.sb ? "Community features are not configured yet." : !state.user ? "Sign in with Discord to vote" : "");
-  return h("span", { class: "votes", title },
-    h("button", { class: `up${mine === 1 ? " active" : ""}`, disabled: dis, onclick: guarded(() => onVote(1)) }, `▲ ${score?.ups || 0}`),
-    h("span", { class: "net" }, signed(net(score))),
-    h("button", { class: `down${mine === -1 ? " active" : ""}`, disabled: dis, onclick: guarded(() => onVote(-1)) }, `▼ ${score?.downs || 0}`));
+  const why = disabledReason || (!state.sb ? "Community features are not configured yet." : !state.user ? "Sign in with Discord to vote." : "");
+  const title = joinMeta(why, VOTE_HELP);
+  return h("span", { class: "votes", role: "group", "aria-label": `Votes on this ${what}: ${ups} up, ${downs} down`, title },
+    h("button", { type: "button", class: `up${mine === 1 ? " active" : ""}`, disabled: dis, "aria-pressed": String(mine === 1), "aria-label": `Vote up: this ${what} reads right (${ups})`, title: joinMeta(why, "Reads right in-game.", VOTE_HELP), onclick: guarded(() => onVote(1)) }, `▲ ${ups}`),
+    h("span", { class: "net", title: "Score = up − down" }, signed(ups - downs)),
+    h("button", { type: "button", class: `down${mine === -1 ? " active" : ""}`, disabled: dis, "aria-pressed": String(mine === -1), "aria-label": `Vote down: this ${what} has a problem (${downs})`, title: joinMeta(why, "Wrong, unnatural or broken.", VOTE_HELP), onclick: guarded(() => onVote(-1)) }, `▼ ${downs}`));
 }
 
 function renderEntry(e) {
@@ -600,22 +681,35 @@ function renderEntry(e) {
       renderSelectionBar();
     });
   }
+  const usage = usageOf(e);
+  const args = [...collectArgs(frameOf(e.source).nodes)];
+  const adminWhere = state.isAdmin ? joinMeta(e.area, e.ns ? `${e.ns},${e.key}` : e.key) : "";
   card.append(
-    h("div", { class: "head" }, pick, h("span", {}, e.category),
-      e.maxLength > 0 ? h("span", {}, `max ${e.maxLength} chars`) : null,
-      state.isAdmin ? h("span", { class: "origin", title: `${e.area} · ${e.ns ? `${e.ns},` : ""}${e.key}\n${e.origin}` }, e.origin) : null),
-    h("div", { class: "source", lang: "en" }, richBlock(e.source)),
-    e.note ? h("div", { class: "devnote" }, e.note) : null,
-    h("div", { class: `current${cur ? "" : " empty"}` },
-      h("span", { class: `sb ${info.cls}` }, info.label),
-      h("div", { class: "text", lang: c }, cur ? richBlock(cur.text) : "No translation yet"),
-      cur ? voteBox(curScore, state.myCurrentVotes.get(currentVoteKey(e, c, cur.text)), async (v) => { await voteCurrent(e, v); refresh(); }) : null));
-  if (sugg.length) card.append(h("div", { class: "suggestions" }, ...sugg.map((s) => renderSuggestion(e, s, curScore, refresh))));
+    h("div", { class: "head" }, pick,
+      e.category ? h("span", { class: "cat" }, e.category) : null,
+      usage ? h("span", { class: "ctx", title: "Where this text is used, read from the game data" }, usage) : null,
+      e.maxLength > 0 ? h("span", { class: "ctx limit", title: "Longer text will not fit where the game shows it" }, `Max ${e.maxLength} chars`) : null,
+      state.isAdmin && e.origin ? h("span", { class: "origin", title: joinMeta(adminWhere, e.origin) }, e.origin) : null),
+    h("div", { class: "pair" },
+      h("section", { class: "src", "aria-label": "English source" },
+        h("div", { class: "lbl" }, "English · source"),
+        h("div", { class: "source", lang: "en" }, richBlock(e.source))),
+      h("section", { class: `tgt ${info.cls}`, "aria-label": `Current ${cultureName(c, false)} translation` },
+        h("div", { class: "lbl" }, h("span", { class: "grow" }, cultureName(c, false)),
+          h("span", { class: `sb ${info.cls}`, title: info.tip, tabindex: "0", role: "note", "aria-label": `${info.label}: ${info.tip}` }, info.label)),
+        h("div", { class: `text${cur ? "" : " empty"}`, lang: cur ? c : null }, cur ? richBlock(cur.text) : "No translation yet — the game shows the English text."),
+        cur ? h("div", { class: "rowline" }, voteBox(curScore, state.myCurrentVotes.get(currentVoteKey(e, c, cur.text)), async (v) => { await voteCurrent(e, v); refresh(); })) : null)));
+  const context = [
+    args.length ? h("span", { class: "keep", title: "Placeholders the game fills in. Keep each one — the editor offers them as buttons." }, "Keep unchanged:", ...args.map((a) => renderRich([{ t: "arg", v: a }]))) : null,
+    e.note ? h("span", { class: "devnote" }, e.note) : null,
+  ].filter(Boolean);
+  if (context.length) card.append(h("div", { class: "context" }, ...context));
+  if (sugg.length) card.append(h("div", { class: "suggestions" }, h("div", { class: "lbl" }, `Suggestions (${sugg.length})`), ...sugg.map((s) => renderSuggestion(e, s, curScore, refresh))));
   if (state.openForms.has(id)) {
     card.append(renderForm(e, cur, () => { state.openForms.delete(id); refresh(); }));
   } else {
-    card.append(h("div", { class: "actions" }, h("button", { class: "linkbtn", onclick: () => { state.openForms.add(id); refresh(); } },
-      sugg.length ? "+ Suggest another translation" : cur ? "+ Suggest a better translation" : "+ Suggest a translation")));
+    card.append(h("div", { class: "actions" }, h("button", { type: "button", class: "suggest", "aria-expanded": "false", onclick: () => { state.openForms.add(id); refresh(); } },
+      sugg.length ? "Suggest another translation" : cur ? "Suggest translation" : "Add translation")));
   }
   return card;
 }
@@ -627,8 +721,8 @@ function renderSuggestion(entry, s, curScore, refresh) {
     h("div", { class: "stext", lang: s.culture }, richBlock(s.text)),
     s.note ? h("div", { class: "note" }, s.note) : null,
     h("div", { class: "rowline" },
-      voteBox(s, state.myVotes.get(s.id), async (v) => { await voteSuggestion(s, v); refresh(); }, mine ? "You can't vote on your own suggestion." : null),
-      h("span", { class: "grow" }, `${s.author_name} · ${fmtDate(s.created_at)}`),
+      voteBox(s, state.myVotes.get(s.id), async (v) => { await voteSuggestion(s, v); refresh(); }, mine ? "You can't vote on your own suggestion." : null, "suggestion"),
+      h("span", { class: "grow" }, joinMeta(s.author_name, fmtDate(s.created_at))),
       outdated ? h("span", { class: "sb outdated", title: "The English text changed after this was suggested." }, "Outdated") : null,
       passes(s, entry, curScore) ? h("span", { class: "sb pass" }, "In review") : null,
       mine ? h("button", { class: "linkbtn", onclick: guarded(async () => { await withdrawSuggestion(s); refresh(); }) }, "Withdraw") : null,
@@ -880,7 +974,7 @@ function renderExcludedView() {
         h("td", {}, check),
         h("td", { class: "t" }, richBlock(r.source || "")),
         h("td", {}, h("div", { class: "sub" }, r.origin)),
-        h("td", {}, h("div", { class: "sub" }, `${r.by || "?"} · ${r.at ? fmtDate(r.at) : ""}`)),
+        h("td", {}, h("div", { class: "sub" }, joinMeta(r.by, fmtDate(r.at)) || "—")),
         h("td", { class: "num" }, pending ? "Waiting for Unreal sync" : "Done in Unreal")));
     }
     card.append(table);
@@ -967,7 +1061,7 @@ function renderAdminView() {
         h("td", {}, s.culture),
         h("td", { class: "t" }, entry ? richBlock(entry.source) : "(string removed)", entry ? h("div", { class: "sub" }, entry.origin) : null),
         h("td", { class: "t" }, t ? [h("span", { class: `sb ${describe(t).cls}` }, describe(t).label), h("br"), richBlock(t.text)] : h("span", { class: "hint" }, "untranslated")),
-        h("td", { class: "t" }, richBlock(s.text), s.note ? h("div", { class: "sub" }, s.note) : null, h("div", { class: "sub" }, `${s.author_name} · ${fmtDate(s.created_at)}${r.outdated ? " · outdated" : ""}`)),
+        h("td", { class: "t" }, richBlock(s.text), s.note ? h("div", { class: "sub" }, s.note) : null, h("div", { class: "sub" }, joinMeta(s.author_name, fmtDate(s.created_at), r.outdated ? "outdated" : null))),
         h("td", { class: "num" }, `${signed(net(s))} (${s.ups}/${s.downs})`, cur ? h("div", { class: "sub" }, `current ${signed(net(cur))}`) : null),
         h("td", { class: "num" }, r.pass ? "✓" : `≥ ${need}`)));
     }
@@ -1026,11 +1120,38 @@ function renderSettingsView() {
 
 // ---------- render ----------
 
+function renderGuide() {
+  const chip = (cls, label) => h("span", { class: `sb ${cls}` }, label);
+  const need = thresholdFor(state.culture);
+  $("guideBody").replaceChildren(
+    h("dl", {},
+      h("dt", {}, chip("ai", describe({ status: "machine", by: "ai" }).label)), h("dd", {}, STATUS_TIPS.ai),
+      h("dt", {}, chip("human", "Human reviewed")), h("dd", {}, STATUS_TIPS.human),
+      h("dt", {}, chip("community", "Community")), h("dd", {}, STATUS_TIPS.community),
+      h("dt", {}, chip("none", "Untranslated")), h("dd", {}, STATUS_TIPS.none),
+      h("dt", {}, h("span", { class: "votes" }, h("span", { class: "net" }, "▲ ▼"))),
+      h("dd", {}, `Votes are community opinion, not a review. A suggestion needs a score of ${signed(need)} for ${cultureName(state.culture, false)}${state.settings.requireBeatCurrent ? " and must beat the current translation's score" : ""} to reach the admin queue; an admin makes the final call. Voting on a translation does not change its status.`)));
+}
+
+// Language, view and category live in the URL so a filtered list can be linked.
+function writeUrl() {
+  const p = new URLSearchParams(location.search);
+  const set = (k, v) => (v ? p.set(k, v) : p.delete(k));
+  set("lang", state.culture);
+  set("view", state.view !== "all" && !state.view.startsWith("admin") ? state.view : "");
+  set("cat", state.category);
+  const qs = p.toString();
+  history.replaceState(null, "", location.pathname + (qs ? `?${qs}` : "") + location.hash);
+}
+
 function renderAll() {
   const admin = state.view.startsWith("admin");
   $("listWrap").hidden = admin;
   $("toolbar").querySelector(".trow").hidden = admin;
   $("countline").hidden = admin;
+  $("guide").hidden = admin;
+  renderGuide();
+  writeUrl();
   $("adminView").hidden = !admin;
   $("search").placeholder = state.isAdmin ? "Search English, translation, key or asset path…" : "Search English or translation…";
   renderSidebar();
@@ -1075,7 +1196,10 @@ async function boot() {
   }
   state.categories = [...compiled.categories.map((t) => t.name), compiled.fallback].filter((t) => seen.has(t));
 
-  const urlLang = new URLSearchParams(location.search).get("lang");
+  const params = new URLSearchParams(location.search);
+  const urlLang = params.get("lang");
+  if (VIEWS.some((v) => v.id === params.get("view"))) state.view = params.get("view");
+  if (state.categories.includes(params.get("cat"))) state.category = params.get("cat");
   const saved = localStorage.getItem(LS.culture);
   const browser = state.cultures.find((c) => navigator.language?.toLowerCase().startsWith(c.split("-")[0].toLowerCase()));
   state.culture = [urlLang, saved, browser, state.cultures[0]].find((c) => c && state.cultures.includes(c));
@@ -1088,9 +1212,9 @@ async function boot() {
     await applySession(data.session);
     state.sb.auth.onAuthStateChange((event, session) => {
       if (event !== "SIGNED_IN" && event !== "SIGNED_OUT") return;
-      setTimeout(guarded(async () => { await applySession(session); await loadCommunity(); renderAll(); }), 0);
+      setTimeout(guarded(async () => { await applySession(session); await loadCommunity(); await loadQueue(); renderAll(); }), 0);
     });
-    try { await loadCommunity(); } catch (e) { notice(`Could not load suggestions: ${e.message}`, "err", true); }
+    try { await loadCommunity(); await loadQueue(); } catch (e) { notice(`Could not load suggestions: ${e.message}`, "err", true); }
   } else {
     notice("Browsing only — voting and suggestions are not switched on yet.", "", true);
   }
@@ -1111,6 +1235,10 @@ async function boot() {
   $("copyIdBtn").addEventListener("click", guarded(async () => { await navigator.clipboard.writeText(state.user.id); notice("User id copied.", "ok"); }));
   $("signOutBtn").addEventListener("click", guarded(async () => { await state.sb.auth.signOut(); }));
   $("adminBtn").addEventListener("click", guarded(async () => { state.view = "admin-queue"; renderAll(); await loadQueue(); }));
+  const guide = $("guide");
+  const guideState = localStorage.getItem(LS.guide);
+  guide.open = guideState ? guideState === "open" : matchMedia("(min-width: 901px)").matches;
+  guide.addEventListener("toggle", () => localStorage.setItem(LS.guide, guide.open ? "open" : "closed"));
   renderAll();
 }
 
