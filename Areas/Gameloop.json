@@ -108,58 +108,6 @@
 		},
 		{
 			"ns": "",
-			"key": "31AC324E43B4F1A53D413392000B294F",
-			"source": "cheat code",
-			"sourceHash": "9d5acf0a",
-			"origin": "/Game/Blueprints/Gameloop/W_ConsoleCommand.W_ConsoleCommand_C:WidgetTree.ConsoleCommand.HintText",
-			"t":
-			{
-				"de":
-				{
-					"text": "Cheat-Code",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "作弊码",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "чит-код",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "치트 코드",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "チートコード",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "código trampa",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "45A05E04428B6767ADF36092789225D5",
 			"source": "Failed To Follow Party Leader",
 			"sourceHash": "5fa0c450",
@@ -571,58 +519,6 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-25T20:54:02Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "FE7B6DE6407A271BB9C0FFAC8C094763",
-			"source": "CHEAT CONSOLE",
-			"sourceHash": "604972f9",
-			"origin": "/Game/Blueprints/Gameloop/W_ConsoleCommand.W_ConsoleCommand_C:WidgetTree.Title.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "CHEAT-KONSOLE",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "作弊控制台",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "ЧИТ-КОНСОЛЬ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "치트 콘솔",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "チートコンソール",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "CONSOLA DE TRAMPAS",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		}
