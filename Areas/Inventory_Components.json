@@ -53,58 +53,6 @@
 					"at": "2026-09-24T23:30:59Z"
 				}
 			}
-		},
-		{
-			"ns": "",
-			"key": "A05D803D47628119336E2DBED2D4B77E",
-			"source": "IA_Malfunction",
-			"sourceHash": "62d27e44",
-			"origin": "/Game/Blueprints/InventorySystem/Components/ItemComponents/BP_WeaponComponent.BP_WeaponComponent_C:ExecuteUbergraph_BP_WeaponComponent [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": "IA_Malfunction",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "IA_Malfunction",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "IA_Malfunction",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "IA_Malfunction",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "IA_Malfunction",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "IA_Malfunction",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
 		}
 	]
 }
