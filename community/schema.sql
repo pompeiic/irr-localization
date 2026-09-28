@@ -1,0 +1,148 @@
+-- Community suggestions backend. Paste into Supabase -> SQL Editor -> Run. Safe to re-run.
+-- The repo stays the source of truth: nothing here reaches the game until an admin applies it to Areas/*.json.
+
+create table if not exists public.admins (
+  user_id uuid primary key references auth.users on delete cascade
+);
+
+create table if not exists public.bans (
+  user_id uuid primary key references auth.users on delete cascade,
+  reason text not null default '',
+  created_at timestamptz not null default now()
+);
+
+create or replace function public.is_admin() returns boolean
+language sql stable security definer set search_path = public as $$
+  select exists (select 1 from admins where user_id = auth.uid());
+$$;
+
+create or replace function public.is_banned() returns boolean
+language sql stable security definer set search_path = public as $$
+  select exists (select 1 from bans where user_id = auth.uid());
+$$;
+
+create table if not exists public.suggestions (
+  id bigint generated always as identity primary key,
+  ns text not null default '',
+  key text not null,
+  culture text not null check (culture ~ '^[A-Za-z]{2,3}(-[A-Za-z0-9]{2,8})*$'),
+  source_hash text not null,
+  text text not null check (char_length(text) between 1 and 4000),
+  note text not null default '' check (char_length(note) <= 1000),
+  author uuid not null default auth.uid() references auth.users on delete cascade,
+  author_name text not null default 'Anonymous' check (char_length(author_name) between 1 and 40),
+  status text not null default 'open' check (status in ('open', 'applied', 'rejected')),
+  created_at timestamptz not null default now(),
+  resolved_at timestamptz
+);
+create index if not exists suggestions_slot on public.suggestions (culture, ns, key);
+create index if not exists suggestions_author on public.suggestions (author, created_at);
+
+create table if not exists public.votes (
+  suggestion_id bigint not null references public.suggestions on delete cascade,
+  voter uuid not null default auth.uid() references auth.users on delete cascade,
+  value smallint not null check (value in (-1, 1)),
+  primary key (suggestion_id, voter)
+);
+
+-- Votes on the translation currently in the repo; text_hash ties them to that exact text.
+create table if not exists public.current_votes (
+  ns text not null default '',
+  key text not null,
+  culture text not null,
+  text_hash text not null,
+  voter uuid not null default auth.uid() references auth.users on delete cascade,
+  value smallint not null check (value in (-1, 1)),
+  primary key (culture, ns, key, text_hash, voter)
+);
+
+-- Spam guard: 30 suggestions per hour per person, no duplicate open suggestion for the same slot.
+create or replace function public.guard_suggestion() returns trigger
+language plpgsql security definer set search_path = public as $$
+begin
+  if not is_admin() then
+    if (select count(*) from suggestions where author = new.author and created_at > now() - interval '1 hour') >= 30 then
+      raise exception 'Too many suggestions in the last hour - please try again later.';
+    end if;
+    if exists (select 1 from suggestions where culture = new.culture and ns = new.ns and key = new.key
+               and text = new.text and status = 'open') then
+      raise exception 'This exact text is already suggested - vote for it instead.';
+    end if;
+  end if;
+  return new;
+end $$;
+
+drop trigger if exists guard_suggestion on public.suggestions;
+create trigger guard_suggestion before insert on public.suggestions
+  for each row execute function public.guard_suggestion();
+
+-- Aggregates are public; the individual vote rows are only visible to their voter.
+create or replace view public.open_suggestions as
+  select s.id, s.ns, s.key, s.culture, s.source_hash, s.text, s.note, s.author, s.author_name, s.created_at,
+         coalesce(count(v.*) filter (where v.value > 0), 0)::int as ups,
+         coalesce(count(v.*) filter (where v.value < 0), 0)::int as downs
+  from public.suggestions s
+  left join public.votes v on v.suggestion_id = s.id
+  where s.status = 'open'
+  group by s.id;
+
+create or replace view public.current_scores as
+  select culture, ns, key, text_hash,
+         count(*) filter (where value > 0)::int as ups,
+         count(*) filter (where value < 0)::int as downs
+  from public.current_votes
+  group by culture, ns, key, text_hash;
+
+grant select on public.open_suggestions, public.current_scores to anon, authenticated;
+
+alter table public.admins enable row level security;
+alter table public.bans enable row level security;
+alter table public.suggestions enable row level security;
+alter table public.votes enable row level security;
+alter table public.current_votes enable row level security;
+
+drop policy if exists "see own admin row" on public.admins;
+create policy "see own admin row" on public.admins for select to authenticated using (user_id = auth.uid());
+
+drop policy if exists "admins manage bans" on public.bans;
+create policy "admins manage bans" on public.bans for all to authenticated using (is_admin()) with check (is_admin());
+
+drop policy if exists "anyone reads suggestions" on public.suggestions;
+create policy "anyone reads suggestions" on public.suggestions for select using (true);
+drop policy if exists "add own suggestion" on public.suggestions;
+create policy "add own suggestion" on public.suggestions for insert to authenticated
+  with check (author = auth.uid() and status = 'open' and resolved_at is null and not is_banned());
+drop policy if exists "withdraw own open suggestion" on public.suggestions;
+create policy "withdraw own open suggestion" on public.suggestions for delete to authenticated
+  using (author = auth.uid() and status = 'open');
+drop policy if exists "admins manage suggestions" on public.suggestions;
+create policy "admins manage suggestions" on public.suggestions for all to authenticated
+  using (is_admin()) with check (is_admin());
+
+drop policy if exists "see own votes" on public.votes;
+create policy "see own votes" on public.votes for select to authenticated using (voter = auth.uid());
+drop policy if exists "cast vote" on public.votes;
+create policy "cast vote" on public.votes for insert to authenticated
+  with check (voter = auth.uid() and not is_banned()
+              and exists (select 1 from public.suggestions s
+                          where s.id = suggestion_id and s.status = 'open' and s.author <> auth.uid()));
+drop policy if exists "change vote" on public.votes;
+create policy "change vote" on public.votes for update to authenticated
+  using (voter = auth.uid()) with check (voter = auth.uid() and not is_banned());
+drop policy if exists "remove vote" on public.votes;
+create policy "remove vote" on public.votes for delete to authenticated using (voter = auth.uid() or is_admin());
+
+drop policy if exists "see own current votes" on public.current_votes;
+create policy "see own current votes" on public.current_votes for select to authenticated using (voter = auth.uid());
+drop policy if exists "cast current vote" on public.current_votes;
+create policy "cast current vote" on public.current_votes for insert to authenticated
+  with check (voter = auth.uid() and not is_banned());
+drop policy if exists "change current vote" on public.current_votes;
+create policy "change current vote" on public.current_votes for update to authenticated
+  using (voter = auth.uid()) with check (voter = auth.uid() and not is_banned());
+drop policy if exists "remove current vote" on public.current_votes;
+create policy "remove current vote" on public.current_votes for delete to authenticated
+  using (voter = auth.uid() or is_admin());
+
+-- Make yourself admin once, after creating your user (Authentication -> Users -> Add user):
+--   insert into public.admins (user_id) values ('<your user id>');

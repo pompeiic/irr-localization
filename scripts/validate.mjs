@@ -43,7 +43,7 @@ const areaFiles = fs.existsSync("Areas")
   ? fs.readdirSync("Areas").filter((f) => f.endsWith(".json")).map((f) => path.posix.join("Areas", f))
   : [];
 
-for (const file of ["Project.json", "Glossary.json"]) {
+for (const file of ["Project.json", "Glossary.json", "community/config.json", "community/settings.json"]) {
   if (!fs.existsSync(file)) continue;
   try { JSON.parse(fs.readFileSync(file, "utf8")); } catch (e) { fail(file, `invalid JSON (${e.message})`); }
 }
@@ -94,7 +94,7 @@ for (const file of areaFiles) {
 if (base) {
   const changed = execSync(`git diff --name-only origin/${base}...HEAD`, { encoding: "utf8" }).split("\n").filter(Boolean);
   for (const file of changed) {
-    if (file === "Project.json" || file.startsWith(".github/") || file.startsWith("scripts/")) {
+    if (file === "Project.json" || file.startsWith(".github/") || file.startsWith("scripts/") || file.startsWith("community/")) {
       fail(file, "only Areas/*.json and Glossary.json may change in a translation pull request");
     }
   }

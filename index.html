@@ -15,10 +15,11 @@
 </head>
 <body>
 <h1>IRR Localization — progress</h1>
+<p><a href="editor.html" style="color:#4c8bf5">Open the translation editor →</a> Vote on translations and suggest better ones.</p>
 <div class="muted" id="meta">Loading…</div>
 <table id="table"></table>
 <script>
-// Read-only overview until the editor lands; reads the Unreal-exported Project.json.
+// Progress overview; reads the Unreal-exported Project.json.
 fetch("Project.json", { cache: "no-store" })
   .then((r) => { if (!r.ok) throw new Error("No export yet — run IRR -> Sync Translations (Full) in Unreal."); return r.json(); })
   .then((p) => {
