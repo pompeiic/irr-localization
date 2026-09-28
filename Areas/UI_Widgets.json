@@ -7960,6 +7960,46 @@
 		},
 		{
 			"ns": "",
+			"key": "45DED01D4A09EF50DB6683A0BB1C22DB",
+			"source": "https://pompeiic.github.io/irr-localization/editor.html",
+			"sourceHash": "10605f90",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GameplaySettings.WB_GameplaySettings_C:WidgetTree.Language.SettingDescriptor.WarningRichText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "460D74D741EF5381E05B1D9F26A55D3F",
 			"source": "Hideout",
 			"sourceHash": "13589584",
@@ -10243,6 +10283,46 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "57C5487844BD065F035C54A60DEBBB4D",
+			"source": "Translations are initially generated with AI and may contain mistakes. \r\n\r\nHelp improve them by suggesting translations and voting on existing ones in our community localisation editor.\r\n\r\nTogether, we can build translations reviewed by the community.",
+			"sourceHash": "b38b2d34",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GameplaySettings.WB_GameplaySettings_C:WidgetTree.Language.SettingDescriptor.DescriptionRichText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -15440,58 +15520,6 @@
 				"es-ES":
 				{
 					"text": "VALOR DEL BOTÍN",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "8DE10C9D4DDA60B6530128BFF1BF71CD",
-			"source": "Credits",
-			"sourceHash": "9c1ea7f0",
-			"origin": "/Game/Blueprints/UICore/Widgets/Menu/WB_MainMenu.WB_MainMenu_C:WidgetTree.Credits.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "Mitwirkende",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "制作人员",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Авторы",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "제작진",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "クレジット",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Créditos",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
