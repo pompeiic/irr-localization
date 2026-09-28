@@ -3,8 +3,10 @@
 import { createClient } from "https://esm.sh/@supabase/supabase-js@2";
 
 const $ = (id) => document.getElementById(id);
-const PAGE = 100;
+const PAGE = 40;
 const LS = { culture: "irrLoc.culture", token: "irrLoc.githubToken" };
+// Web-owned, like Glossary.json: Unreal's Full Sync makes each listed text culture-invariant so the gather drops it.
+const EXCLUDED_FILE = "Excluded.json";
 
 const VIEWS = [
   { id: "all", name: "All strings" },
@@ -16,14 +18,16 @@ const VIEWS = [
 ];
 const ADMIN_VIEWS = [
   { id: "admin-queue", name: "Review queue" },
+  { id: "admin-excluded", name: "Not localized" },
   { id: "admin-settings", name: "Settings" },
 ];
 
 const state = {
   config: {}, sb: null, user: null, isAdmin: false,
-  project: null, cultures: [], entries: [], bySlot: new Map(), themes: [],
+  project: null, cultures: [], entries: [], bySlot: new Map(), categories: [],
   settings: { defaultThreshold: 3, requireBeatCurrent: true, cultures: {} },
-  culture: "", view: "all", theme: "", shown: PAGE, selected: null,
+  culture: "", view: "all", category: "", shown: PAGE,
+  openForms: new Set(), picked: new Set(), excluded: new Map(), excludedPicked: new Set(),
   suggestions: new Map(), currentScores: new Map(), myVotes: new Map(), myCurrentVotes: new Map(),
   queueRows: [], queueSelected: new Set(), queueShowAll: false,
 };
@@ -331,16 +335,16 @@ function passes(s, entry, curScore) {
   return !state.settings.requireBeatCurrent || net(s) > net(curScore);
 }
 
-// ---------- themes ----------
+// ---------- categories ----------
 
-function compileThemes(doc) {
+function compileCategories(doc) {
   const rx = (list) => (list || []).map((p) => new RegExp(p, "i"));
-  return { hidden: rx(doc.hidden), themes: (doc.themes || []).map((t) => ({ name: t.name, match: rx(t.match) })), fallback: doc.fallback || "Other" };
+  return { hidden: rx(doc.hidden), categories: (doc.categories || []).map((t) => ({ name: t.name, match: rx(t.match) })), fallback: doc.fallback || "Other" };
 }
-function themeOf(compiled, entry) {
+function categoryOf(compiled, entry) {
   const s = `${entry.area}|${entry.origin}`;
   if (compiled.hidden.some((r) => r.test(s))) return null;
-  return compiled.themes.find((t) => t.match.some((r) => r.test(s)))?.name ?? compiled.fallback;
+  return compiled.categories.find((t) => t.match.some((r) => r.test(s)))?.name ?? compiled.fallback;
 }
 
 // ---------- Supabase ----------
@@ -366,7 +370,8 @@ async function applySession(session) {
   state.user = user;
   state.isAdmin = false;
   if (user) {
-    const { data } = await state.sb.from("admins").select("user_id").eq("user_id", user.id);
+    const { data, error } = await state.sb.from("admins").select("user_id").eq("user_id", user.id);
+    if (error) notice(`Could not check admin rights: ${error.message}`, "err", true);
     state.isAdmin = !!data?.length;
   }
   if (!state.isAdmin && state.view.startsWith("admin")) state.view = "all";
@@ -498,18 +503,23 @@ function matchesView(e, view) {
   }
 }
 
+const isLive = (e) => !state.excluded.has(slotOf(e));
+
 function renderSidebar() {
   const item = (name, count, active, onclick, attn) => h("div", { class: `side-item${active ? " active" : ""}`, onclick },
     h("span", { class: "nm" }, name), count != null ? h("span", { class: `ct${attn ? " attn" : ""}` }, count) : null);
-  const inTheme = state.entries.filter((e) => !state.theme || e.theme === state.theme);
+  const live = state.entries.filter(isLive);
+  const toList = (fn) => () => { fn(); state.shown = PAGE; if (state.view.startsWith("admin")) state.view = "all"; renderAll(); };
+  const inCategory = live.filter((e) => !state.category || e.category === state.category);
   $("views").replaceChildren(...VIEWS.filter((v) => v.id !== "mine" || state.user).map((v) =>
-    item(v.name, inTheme.filter((e) => matchesView(e, v.id)).length, state.view === v.id, () => { state.view = v.id; state.shown = PAGE; renderAll(); })));
-  const inView = state.entries.filter((e) => matchesView(e, state.view.startsWith("admin") ? "all" : state.view));
-  $("themeList").replaceChildren(
-    item("All themes", inView.length, !state.theme, () => { state.theme = ""; state.shown = PAGE; if (state.view.startsWith("admin")) state.view = "all"; renderAll(); }),
-    ...state.themes.map((t) => item(t, inView.filter((e) => e.theme === t).length, state.theme === t, () => { state.theme = t; state.shown = PAGE; if (state.view.startsWith("admin")) state.view = "all"; renderAll(); })));
+    item(v.name, inCategory.filter((e) => matchesView(e, v.id)).length, state.view === v.id, () => { state.view = v.id; state.shown = PAGE; renderAll(); })));
+  const inView = live.filter((e) => matchesView(e, state.view.startsWith("admin") ? "all" : state.view));
+  $("categoryList").replaceChildren(
+    item("All categories", inView.length, !state.category && !state.view.startsWith("admin"), toList(() => (state.category = ""))),
+    ...state.categories.map((t) => item(t, inView.filter((e) => e.category === t).length, state.category === t && !state.view.startsWith("admin"), toList(() => (state.category = t)))));
+  const pending = [...state.excluded.keys()].filter((id) => state.bySlot.has(id)).length;
   $("adminViews").replaceChildren(...ADMIN_VIEWS.map((v) =>
-    item(v.name, v.id === "admin-queue" ? state.queueRows.filter((r) => r.pass).length || null : null, state.view === v.id, guarded(async () => {
+    item(v.name, v.id === "admin-queue" ? state.queueRows.filter((r) => r.pass).length || null : v.id === "admin-excluded" ? pending || null : null, state.view === v.id, guarded(async () => {
       state.view = v.id;
       renderAll();
       if (v.id === "admin-queue") await loadQueue();
@@ -521,7 +531,8 @@ function renderSidebar() {
 function visibleEntries() {
   const q = $("search").value.trim().toLowerCase();
   return state.entries.filter((e) => {
-    if (state.theme && e.theme !== state.theme) return false;
+    if (!isLive(e)) return false;
+    if (state.category && e.category !== state.category) return false;
     if (!matchesView(e, state.view)) return false;
     if (!q) return true;
     const t = e.t?.[state.culture]?.text || "";
@@ -531,41 +542,35 @@ function visibleEntries() {
 
 function renderList() {
   const list = visibleEntries();
-  const c = state.culture;
-  $("countline").textContent = `${list.length} string${list.length === 1 ? "" : "s"} · ${cultureName(c)}` + (state.sb ? "" : " · voting and suggestions are not enabled yet");
+  $("countline").textContent = `${list.length} string${list.length === 1 ? "" : "s"} · ${cultureName(state.culture)}` + (state.sb ? "" : " · voting and suggestions are not enabled yet");
+  renderSelectionBar(list);
   const wrap = $("listWrap");
-  if (!list.length) { wrap.replaceChildren(h("div", { class: "empty-state" }, "Nothing here — try another view, theme or search.")); return; }
-  const table = h("table", { class: "list" },
-    h("colgroup", {}, h("col", { style: "width:42%" }), h("col", { style: "width:42%" }), h("col", { style: "width:16%" })),
-    h("thead", {}, h("tr", {}, h("th", {}, "English"), h("th", {}, cultureName(c, false)), h("th", {}, "Status"))));
-  const body = h("tbody");
-  for (const e of list.slice(0, state.shown)) {
-    const cur = currentOf(e);
-    const info = describe(cur);
-    const sugg = state.suggestions.get(slotOf(e))?.length || 0;
-    const tr = h("tr", { class: `row${state.selected === slotOf(e) ? " active" : ""}`, onclick: () => selectEntry(e) },
-      h("td", { class: "c-text" }, h("div", { class: "clamp", lang: "en" }, richBlock(e.source))),
-      h("td", { class: "c-text" }, cur ? h("div", { class: "clamp", lang: c }, richBlock(cur.text)) : h("span", { class: "empty" }, "—")),
-      h("td", { class: "c-meta" },
-        h("div", {}, h("span", { class: `sb ${info.cls}` }, info.cls === "community" ? "Community" : info.label)),
-        sugg ? h("div", {}, `${sugg} suggestion${sugg > 1 ? "s" : ""}`) : null));
-    body.append(tr);
-  }
-  table.append(body);
+  if (!list.length) { wrap.replaceChildren(h("div", { class: "empty-state" }, "Nothing here — try another view, category or search.")); return; }
   const more = list.length > state.shown
     ? h("div", { class: "more" }, h("button", { class: "ghost", onclick: () => { state.shown += PAGE; renderList(); } }, `Show more (${list.length - state.shown} left)`))
     : null;
-  wrap.replaceChildren(table, more);
+  wrap.replaceChildren(...list.slice(0, state.shown).map(renderEntry), more);
 }
 
-function selectEntry(e) {
-  state.selected = slotOf(e);
-  for (const tr of $("listWrap").querySelectorAll("tr.row.active")) tr.classList.remove("active");
-  renderList();
-  renderPanel();
+function renderSelectionBar(list = visibleEntries()) {
+  const bar = $("selbar");
+  bar.hidden = !state.isAdmin || state.view.startsWith("admin");
+  if (bar.hidden) return;
+  const n = state.picked.size;
+  const allOn = list.length > 0 && list.every((e) => state.picked.has(slotOf(e)));
+  bar.replaceChildren(
+    h("span", { class: "grow" }, n ? `${n} selected` : "Admin — tick texts, or search (asset paths work, e.g. InputActions/) and select everything matching."),
+    list.length ? h("button", { class: "ghost small", onclick: () => { for (const e of list) allOn ? state.picked.delete(slotOf(e)) : state.picked.add(slotOf(e)); renderList(); } },
+      allOn ? `Unselect ${list.length} matching` : `Select ${list.length} matching`) : null,
+    n ? h("button", { class: "ghost small", onclick: () => { state.picked.clear(); renderList(); } }, "Clear") : null,
+    h("button", { class: "danger small", disabled: !n, title: "Not a player-facing text — Unreal stops gathering it on its next Full Sync", onclick: guarded(async (ev) => {
+      const entries = [...state.picked].map((id) => state.bySlot.get(id)).filter(Boolean);
+      if (!confirm(`Stop localizing ${entries.length} text(s)? They disappear from the editor, and Unreal marks them not localizable on its next Full Sync.`)) return;
+      ev.target.disabled = true;
+      try { await setExcluded(entries, true); state.picked.clear(); } finally { ev.target.disabled = false; }
+      renderAll();
+    }) }, `Don't localize (${n})`));
 }
-
-// ---------- detail panel ----------
 
 function voteBox(score, mine, onVote, disabledReason) {
   const dis = !state.sb || !!disabledReason;
@@ -576,47 +581,43 @@ function voteBox(score, mine, onVote, disabledReason) {
     h("button", { class: `down${mine === -1 ? " active" : ""}`, disabled: dis, onclick: guarded(() => onVote(-1)) }, `▼ ${score?.downs || 0}`));
 }
 
-function renderPanel() {
-  const panel = $("panel");
-  const e = state.selected ? state.bySlot.get(state.selected) : null;
-  if (!e || state.view.startsWith("admin")) { panel.classList.remove("open"); return; }
-  panel.classList.add("open");
+function renderEntry(e) {
   const c = state.culture;
+  const id = slotOf(e);
   const cur = currentOf(e);
   const info = describe(cur);
-  const refresh = () => { renderPanel(); renderList(); renderSidebar(); };
-
-  $("panelHead").replaceChildren(
-    h("div", { class: "top" },
-      h("div", {}, h("div", { class: "theme" }, e.theme)),
-      h("span", { class: "close", title: "Close", onclick: () => { state.selected = null; renderPanel(); renderList(); } }, "✕")),
-    state.isAdmin ? h("div", { class: "origin" }, `${e.area} · ${e.ns ? `${e.ns},` : ""}${e.key}`, h("br"), e.origin) : null);
-
-  const body = [];
-  body.push(h("div", { class: "sec" }, "English"));
-  body.push(h("div", { class: "textbox", lang: "en" }, richBlock(e.source)));
-  if (e.note) body.push(h("div", { class: "devnote" }, e.note));
-  if (e.maxLength > 0) body.push(h("div", { class: "hint" }, `At most ${e.maxLength} characters.`));
-
-  body.push(h("div", { class: "sec" }, h("span", { class: "grow" }, `Current ${cultureName(c, false)}`), h("span", { class: `sb ${info.cls}` }, info.label)));
-  if (cur) {
-    body.push(h("div", { class: "textbox", lang: c }, richBlock(cur.text)));
-    body.push(h("div", { class: "rowline" },
-      voteBox(currentScore(e), state.myCurrentVotes.get(currentVoteKey(e, c, cur.text)), async (v) => { await voteCurrent(e, v); refresh(); }),
-      h("span", { class: "hint grow" }, cur.status === "machine" ? "Machine translated — vote to confirm it or suggest a better one." : "A suggestion replaces this only by outscoring it.")));
-  } else {
-    body.push(h("div", { class: "textbox empty" }, "No translation yet — be the first to suggest one."));
-  }
-
-  const sugg = [...(state.suggestions.get(slotOf(e)) || [])].sort((a, b) => net(b) - net(a) || a.id - b.id);
   const curScore = currentScore(e);
-  body.push(h("div", { class: "sec" }, `Suggestions (${sugg.length})`));
-  if (!sugg.length) body.push(h("div", { class: "hint" }, "No suggestions yet."));
-  for (const s of sugg) body.push(renderSuggestion(e, s, curScore, refresh));
+  const sugg = [...(state.suggestions.get(id) || [])].sort((a, b) => net(b) - net(a) || a.id - b.id);
+  const card = h("div", { class: `entry${state.picked.has(id) ? " picked" : ""}` });
+  const refresh = () => { card.replaceWith(renderEntry(e)); renderSidebar(); };
 
-  body.push(h("div", { class: "sec" }, "Suggest a translation"));
-  body.push(renderForm(e, cur, refresh));
-  $("panelBody").replaceChildren(...body);
+  let pick = null;
+  if (state.isAdmin) {
+    pick = h("input", { type: "checkbox", class: "pick", checked: state.picked.has(id), title: "Select for bulk actions" });
+    pick.addEventListener("change", () => {
+      pick.checked ? state.picked.add(id) : state.picked.delete(id);
+      card.classList.toggle("picked", pick.checked);
+      renderSelectionBar();
+    });
+  }
+  card.append(
+    h("div", { class: "head" }, pick, h("span", {}, e.category),
+      e.maxLength > 0 ? h("span", {}, `max ${e.maxLength} chars`) : null,
+      state.isAdmin ? h("span", { class: "origin", title: `${e.area} · ${e.ns ? `${e.ns},` : ""}${e.key}\n${e.origin}` }, e.origin) : null),
+    h("div", { class: "source", lang: "en" }, richBlock(e.source)),
+    e.note ? h("div", { class: "devnote" }, e.note) : null,
+    h("div", { class: `current${cur ? "" : " empty"}` },
+      h("span", { class: `sb ${info.cls}` }, info.label),
+      h("div", { class: "text", lang: c }, cur ? richBlock(cur.text) : "No translation yet"),
+      cur ? voteBox(curScore, state.myCurrentVotes.get(currentVoteKey(e, c, cur.text)), async (v) => { await voteCurrent(e, v); refresh(); }) : null));
+  if (sugg.length) card.append(h("div", { class: "suggestions" }, ...sugg.map((s) => renderSuggestion(e, s, curScore, refresh))));
+  if (state.openForms.has(id)) {
+    card.append(renderForm(e, cur, () => { state.openForms.delete(id); refresh(); }));
+  } else {
+    card.append(h("div", { class: "actions" }, h("button", { class: "linkbtn", onclick: () => { state.openForms.add(id); refresh(); } },
+      sugg.length ? "+ Suggest another translation" : cur ? "+ Suggest a better translation" : "+ Suggest a translation")));
+  }
+  return card;
 }
 
 function renderSuggestion(entry, s, curScore, refresh) {
@@ -631,19 +632,20 @@ function renderSuggestion(entry, s, curScore, refresh) {
       outdated ? h("span", { class: "sb outdated", title: "The English text changed after this was suggested." }, "Outdated") : null,
       passes(s, entry, curScore) ? h("span", { class: "sb pass" }, "In review") : null,
       mine ? h("button", { class: "linkbtn", onclick: guarded(async () => { await withdrawSuggestion(s); refresh(); }) }, "Withdraw") : null,
-      state.isAdmin ? h("button", { class: "linkbtn", onclick: guarded(async () => { await applySuggestions([s]); refresh(); }) }, "Apply") : null,
-      state.isAdmin ? h("button", { class: "linkbtn", onclick: guarded(async () => { await rejectSuggestions([s]); refresh(); }) }, "Reject") : null,
-      state.isAdmin && !mine ? h("button", { class: "linkbtn danger", onclick: guarded(async () => { await banAuthor(s); refresh(); }) }, "Ban") : null));
+      state.isAdmin ? h("button", { class: "linkbtn", onclick: guarded(async () => { await applySuggestions([s]); }) }, "Apply") : null,
+      state.isAdmin ? h("button", { class: "linkbtn", onclick: guarded(async () => { await rejectSuggestions([s]); }) }, "Reject") : null,
+      state.isAdmin && !mine ? h("button", { class: "linkbtn danger", onclick: guarded(async () => { await banAuthor(s); }) }, "Ban") : null));
 }
 
-function renderForm(entry, cur, refresh) {
-  if (!state.sb) return h("div", { class: "signin-box" }, "Suggestions open once the community backend is configured.");
+function renderForm(entry, cur, close) {
+  const cancel = h("button", { class: "ghost small", onclick: close }, "Cancel");
+  if (!state.sb) return h("div", { class: "form signin-box" }, "Suggestions open once the community backend is configured.", h("br"), cancel);
   if (!state.user) {
-    return h("div", { class: "signin-box" }, "Sign in with Discord to vote and suggest translations. One account, one vote — your Discord name is shown on your suggestions.",
-      h("br"), h("button", { class: "discord", onclick: guarded(signIn) }, "Sign in with Discord"));
+    return h("div", { class: "form signin-box" }, "Sign in with Discord to vote and suggest translations. One account, one vote — your Discord name is shown on your suggestions.",
+      h("div", { class: "rowline" }, h("button", { class: "discord", onclick: guarded(signIn) }, "Sign in with Discord"), cancel));
   }
   const problems = h("div", { class: "problems" });
-  const submit = h("button", { class: "primary" }, "Submit");
+  const submit = h("button", { class: "primary small" }, "Submit");
   const editor = createRichEditor(entry, cur?.text || "", () => check());
   const note = h("input", { type: "text", maxlength: "1000", placeholder: "Note (optional) — why this is better, context, terminology…" });
   function check() {
@@ -655,12 +657,12 @@ function renderForm(entry, cur, refresh) {
   }
   submit.addEventListener("click", guarded(async () => {
     submit.disabled = true;
-    try { await submitSuggestion(entry, editor.getText(), note.value.trim()); notice("Thanks — your suggestion is up for votes.", "ok"); refresh(); }
+    try { await submitSuggestion(entry, editor.getText(), note.value.trim()); notice("Thanks — your suggestion is up for votes.", "ok"); close(); }
     finally { submit.disabled = false; }
   }));
   queueMicrotask(check);
-  return h("div", {}, editor.el, h("div", { style: "margin-top:6px" }, note), problems,
-    h("div", { class: "formfoot" }, h("span", { class: "hint grow" }, `Suggesting as ${displayNameOf(state.user)}`), submit));
+  return h("div", { class: "form" }, editor.el, h("div", { style: "margin-top:6px" }, note), problems,
+    h("div", { class: "formfoot" }, h("span", { class: "hint grow" }, `Suggesting as ${displayNameOf(state.user)}`), cancel, submit));
 }
 
 // ---------- GitHub (admin) ----------
@@ -822,6 +824,70 @@ async function banAuthor(s) {
   renderAll();
 }
 
+// Adds (or removes) texts on the don't-localize list in one commit; records carry ns/key.
+async function setExcluded(records, exclude) {
+  if (!state.isAdmin) throw new Error("Admin only.");
+  const by = displayNameOf(state.user);
+  const at = new Date().toISOString().replace(/\.\d+Z$/, "Z");
+  const changed = await commitFiles(async (readFile) => {
+    const raw = await readFile(EXCLUDED_FILE);
+    const doc = raw ? JSON.parse(raw) : {};
+    const index = new Map((doc.entries || []).map((x) => [slotOf(x), x]));
+    for (const r of records) {
+      if (!exclude) index.delete(slotOf(r));
+      else if (!index.has(slotOf(r))) index.set(slotOf(r), { ns: r.ns, key: r.key, source: r.source, origin: r.origin, by, at });
+    }
+    const entries = [...index.values()].sort((a, b) => a.origin.localeCompare(b.origin) || a.key.localeCompare(b.key));
+    const content = `${ueJson({ entries }, "\r\n")}\r\n`;
+    return content === raw ? [] : [{ path: EXCLUDED_FILE, content }];
+  }, exclude ? `Don't localize ${records.length} text(s) (web editor)` : `Localize ${records.length} text(s) again (web editor)`);
+  for (const r of records) {
+    if (exclude) state.excluded.set(slotOf(r), state.excluded.get(slotOf(r)) || { ns: r.ns, key: r.key, source: r.source, origin: r.origin, by, at });
+    else state.excluded.delete(slotOf(r));
+  }
+  notice(!changed ? "Nothing changed." : exclude
+    ? `${records.length} text(s) marked "don't localize". Unreal makes them not localizable on its next Full Sync.`
+    : `${records.length} text(s) are localized again.`, "ok");
+}
+
+function renderExcludedView() {
+  const rows = [...state.excluded.values()].map((r) => ({ r, pending: state.bySlot.has(slotOf(r)) }));
+  const picked = state.excludedPicked;
+  for (const id of [...picked]) if (!rows.some((x) => x.pending && slotOf(x.r) === id)) picked.delete(id);
+  const pendingRows = rows.filter((x) => x.pending);
+  const bar = h("div", { class: "rowline" },
+    h("span", { class: "hint grow" }, "Texts the web editor hides. Until Unreal's next Full Sync they can still be localized again; after it, the asset itself is changed — re-tick Localize on the text in Unreal to undo."),
+    h("button", { class: "ghost small", disabled: !pendingRows.length, onclick: () => {
+      const allOn = pendingRows.every((x) => picked.has(slotOf(x.r)));
+      state.excludedPicked = new Set(allOn ? [] : pendingRows.map((x) => slotOf(x.r)));
+      renderAdminView();
+    } }, "Select all waiting"),
+    h("button", { class: "primary small", disabled: !picked.size, onclick: guarded(async (ev) => {
+      const records = [...picked].map((id) => state.excluded.get(id)).filter(Boolean);
+      ev.target.disabled = true;
+      try { await setExcluded(records, false); picked.clear(); } finally { ev.target.disabled = false; }
+      renderAll();
+    }) }, `Localize again (${picked.size})`));
+  const card = h("div", { class: "card" }, h("h3", {}, "Not localized"), bar);
+  if (!rows.length) card.append(h("div", { class: "empty-state" }, "Nothing excluded. Select texts in the list and use \"Don't localize\"."));
+  else {
+    const table = h("table", { class: "queue" }, h("tr", {}, h("th", {}, ""), h("th", {}, "English"), h("th", {}, "Asset"), h("th", {}, "By"), h("th", {}, "State")));
+    for (const { r, pending } of rows.sort((a, b) => b.pending - a.pending || a.r.origin.localeCompare(b.r.origin))) {
+      const id = slotOf(r);
+      const check = h("input", { type: "checkbox", checked: picked.has(id), disabled: !pending });
+      check.addEventListener("change", () => { check.checked ? picked.add(id) : picked.delete(id); renderAdminView(); });
+      table.append(h("tr", { class: pending ? "" : "outdated" },
+        h("td", {}, check),
+        h("td", { class: "t" }, richBlock(r.source || "")),
+        h("td", {}, h("div", { class: "sub" }, r.origin)),
+        h("td", {}, h("div", { class: "sub" }, `${r.by || "?"} · ${r.at ? fmtDate(r.at) : ""}`)),
+        h("td", { class: "num" }, pending ? "Waiting for Unreal sync" : "Done in Unreal")));
+    }
+    card.append(table);
+  }
+  return card;
+}
+
 // ---------- admin views ----------
 
 async function loadQueue() {
@@ -857,6 +923,7 @@ const selectedQueue = () => state.queueRows.filter((r) => state.queueSelected.ha
 function renderAdminView() {
   const box = $("adminView");
   if (state.view === "admin-settings") { box.replaceChildren(renderSettingsView()); return; }
+  if (state.view === "admin-excluded") { box.replaceChildren(renderExcludedView()); return; }
   const rows = state.queueRows;
   const showAll = h("input", { type: "checkbox", checked: state.queueShowAll });
   showAll.addEventListener("change", guarded(async () => { state.queueShowAll = showAll.checked; await loadQueue(); }));
@@ -965,9 +1032,9 @@ function renderAll() {
   $("toolbar").querySelector(".trow").hidden = admin;
   $("countline").hidden = admin;
   $("adminView").hidden = !admin;
+  $("search").placeholder = state.isAdmin ? "Search English, translation, key or asset path…" : "Search English or translation…";
   renderSidebar();
-  if (admin) renderAdminView(); else renderList();
-  renderPanel();
+  if (admin) { $("selbar").hidden = true; renderAdminView(); } else renderList();
 }
 
 // ---------- boot ----------
@@ -979,17 +1046,19 @@ async function fetchJson(path) {
 }
 
 async function boot() {
-  const [config, settings, themes, project] = await Promise.all([
+  const [config, settings, categories, excluded, project] = await Promise.all([
     fetchJson("community/config.json").catch(() => ({})),
     fetchJson("community/settings.json").catch(() => ({})),
-    fetchJson("community/themes.json").catch(() => ({})),
+    fetchJson("community/categories.json").catch(() => ({})),
+    fetchJson(EXCLUDED_FILE).catch(() => ({})),
     fetchJson("Project.json"),
   ]);
   state.config = config;
   state.settings = { ...state.settings, ...settings };
   state.project = project;
   state.cultures = project.cultures;
-  const compiled = compileThemes(themes);
+  state.excluded = new Map((excluded.entries || []).map((x) => [slotOf(x), x]));
+  const compiled = compileCategories(categories);
 
   const docs = await Promise.all(project.areas.map((a) => fetchJson(a.file).then((d) => ({ a, d }))));
   const seen = new Set();
@@ -997,14 +1066,14 @@ async function boot() {
     for (const e of d.entries) {
       e.area = a.area;
       e.file = a.file;
-      e.theme = themeOf(compiled, e);
-      if (!e.theme) continue;
-      seen.add(e.theme);
+      e.category = categoryOf(compiled, e);
+      if (!e.category) continue;
+      seen.add(e.category);
       state.entries.push(e);
       state.bySlot.set(slotOf(e), e);
     }
   }
-  state.themes = [...compiled.themes.map((t) => t.name), compiled.fallback].filter((t) => seen.has(t));
+  state.categories = [...compiled.categories.map((t) => t.name), compiled.fallback].filter((t) => seen.has(t));
 
   const urlLang = new URLSearchParams(location.search).get("lang");
   const saved = localStorage.getItem(LS.culture);

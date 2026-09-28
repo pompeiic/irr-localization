@@ -22,7 +22,9 @@ request is never overwritten by a stale export.
 | `Project.json` | Unreal | Languages, export time, area index with progress counts |
 | `Areas/<Area>.json` | Unreal (English) + translators (`t`, `note`, `maxLength`, `areaOverride`) | Every string of one game area |
 | `Glossary.json` | Translators | Do-not-translate words and fixed terms |
-| `community/config.json` | Admin | Supabase URL + public anon key, captcha site key |
+| `Excluded.json` | Admin (via the editor) | Texts marked "don't localize" — Unreal's Full Sync makes them culture-invariant so the gather drops them |
+| `community/config.json` | Admin | Supabase URL + public (publishable) key |
+| `community/categories.json` | Admin | Editor categories (regex rules) and hidden dev-only text |
 | `community/settings.json` | Admin (via the editor) | Acceptance thresholds |
 | `community/schema.sql` | Admin | Supabase tables and access rules |
 
@@ -55,9 +57,13 @@ Discord name is shown on their suggestions (set by the database, not the browser
 (`status: machine`) are labelled as such. Suggestions and votes live in Supabase; nothing reaches the game
 until an admin applies it.
 
-- Strings are grouped by game **theme** (`community/themes.json`: first matching regex on
+- Strings are grouped by game **category** (`community/categories.json`: first matching regex on
   `area|origin` wins; `hidden` = dev-only text, also excluded from the Unreal gather). Asset paths and
   keys are shown to admins only.
+- Admins can tick texts (or select everything matching a search — asset paths work, e.g.
+  `InputActions/`) and mark them **Don't localize**. They leave the editor at once and are listed in
+  `Excluded.json`; Unreal's next Full Sync makes each one culture-invariant in its asset (the
+  "Localize" checkbox off), so the gather drops it. Until then Admin → Not localized can undo it.
 - In-game formatting is shown rendered, never as raw `<Tag>…</>` markup. Tags that wrap a whole text are
   applied automatically; inner formatting is set by selecting words and clicking e.g. **Red** / **Bold**.
   `{Placeholders}` are locked chips with insert buttons. An opener nothing closes (`cd <directory>`) is

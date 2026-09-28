@@ -1,11 +1,11 @@
 {
-	"about": "Groups strings by game theme for the editor. Each pattern is a case-insensitive regex tested against 'area|origin'; the first theme with a matching pattern wins. 'hidden' strings are never shown (dev-only text that is also excluded from the Unreal gather).",
+	"about": "Groups strings into game categories for the editor. Each pattern is a case-insensitive regex tested against 'area|origin'; the first category with a matching pattern wins. 'hidden' strings are never shown (dev-only text that is also excluded from the Unreal gather).",
 	"hidden": [
 		"^Blueprints/AI\\|",
 		"W_DebugSimpleAbilitySystem",
 		"/MissionSystem/NewQuest\\."
 	],
-	"themes": [
+	"categories": [
 		{ "name": "Weapons & Attachments", "match": ["/(Items|Templates)/(Weapons|Attachments|Melee|Ammunition|Grenades)/"] },
 		{ "name": "Gear & Supplies", "match": ["/(Items|Templates)/", "/SecureContainer", "/ItemContainers/", "^Inventory/(BaseActors|ExampleActors)\\|"] },
 		{ "name": "Item Stats & Actions", "match": ["/Objects/Stats/", "/Objects/ItemContexts/", "/InventorySystem/Widgets/Stats/", "DT_StatItems", "/InventorySystem/Components/"] },
