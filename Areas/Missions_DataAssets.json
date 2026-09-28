@@ -64,38 +64,38 @@
 			{
 				"de":
 				{
-					"text": "Geh zur Milit?rbasis und installiere die St?rsender.",
+					"text": "Geh zur Militärbasis und installiere die Störsender.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"zh-Hans":
 				{
-					"text": "?????????????",
+					"text": "前往军事基地，安装干扰器。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ru":
 				{
-					"text": "??????????? ?? ??????? ???? ? ???????? ????????.",
+					"text": "Отправляйся на военную базу и установи глушилки.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ko":
 				{
-					"text": "?? ??? ?? ??? ????.",
+					"text": "군사 기지로 가서 재머를 설치하라.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ja":
 				{
-					"text": "??????????????????",
+					"text": "軍事基地へ向かい、ジャマーを設置しろ。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"es-ES":
 				{
@@ -272,33 +272,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Schießstand",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "靶场",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Тир",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "사격장",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "射撃場",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Campo de tiro",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				}
 			}
 		},
@@ -2080,38 +2092,38 @@
 			{
 				"de":
 				{
-					"text": "Geh zum Radarturm und installiere die St?rsender.",
+					"text": "Geh zum Radarturm und installiere die Störsender.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"zh-Hans":
 				{
-					"text": "????????????",
+					"text": "前往雷达塔，安装干扰器。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ru":
 				{
-					"text": "??????????? ? ???????? ????? ? ???????? ????????.",
+					"text": "Отправляйся к радарной вышке и установи глушилки.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ko":
 				{
-					"text": "??? ??? ?? ??? ????.",
+					"text": "레이더 타워로 가서 재머를 설치하라.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ja":
 				{
-					"text": "???????????????????",
+					"text": "レーダー塔へ向かい、ジャマーを設置しろ。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"es-ES":
 				{
@@ -3692,45 +3704,45 @@
 			{
 				"de":
 				{
-					"text": "Platziere die Informationen im Rohrwartungsraum\r\nnahe der H?hle.",
+					"text": "Platziere die Informationen im Rohrwartungsraum\r\nnahe der Höhle.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"zh-Hans":
 				{
-					"text": "??????????\r\n??????",
+					"text": "将情报放到洞穴附近的\r\n管道维护室。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ru":
 				{
-					"text": "??????? ???????????? ? ??????? ???????????? ????\r\n????? ? ???????.",
+					"text": "Оставь разведданные в помещении обслуживания труб\r\nрядом с пещерой.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ko":
 				{
-					"text": "?? ?? ?? ????\r\n??? ????.",
+					"text": "동굴 근처의 배관 정비실에\r\n정보를 놓아라.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ja":
 				{
-					"text": "???????????????\r\n????????",
+					"text": "洞窟近くの配管整備室に\r\n情報を置け。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"es-ES":
 				{
-					"text": "Coloca la inteligencia en la sala de mantenimiento de tuber?as\r\ncerca de la cueva.",
+					"text": "Coloca la inteligencia en la sala de mantenimiento de tuberías\r\ncerca de la cueva.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				}
 			}
 		},
@@ -4167,38 +4179,38 @@
 				},
 				"zh-Hans":
 				{
-					"text": "???????????????",
+					"text": "前往电梯控制室，收集任务情报。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ru":
 				{
-					"text": "??????????? ? ??????? ?????????? ?????? ? ?????? ???????????? ???????.",
+					"text": "Отправляйся в диспетчерскую лифта и забери разведданные миссии.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ko":
 				{
-					"text": "????? ???? ?? ?? ??? ????.",
+					"text": "엘리베이터 제어실로 가서 임무 정보를 회수하라.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ja":
 				{
-					"text": "???????????????????????????",
+					"text": "エレベーター制御室へ向かい、任務情報を回収しろ。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"es-ES":
 				{
-					"text": "Ve a la sala de control del ascensor y re?ne la inteligencia de la misi?n.",
+					"text": "Ve a la sala de control del ascensor y recoge la inteligencia de la misión.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				}
 			}
 		},
@@ -7495,31 +7507,31 @@
 				},
 				"zh-Hans":
 				{
-					"text": "??UICS??",
+					"text": "消灭UICS首领",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ru":
 				{
-					"text": "????????? ????? UICS",
+					"text": "Ликвидируй босса UICS",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ko":
 				{
-					"text": "UICS ?? ??",
+					"text": "UICS 보스 제거",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ja":
 				{
-					"text": "UICS?????",
+					"text": "UICSのボスを排除",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"es-ES":
 				{
@@ -7540,33 +7552,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Generator",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "发电机",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Генератор",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "발전기",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "発電機",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Generador",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				}
 			}
 		},
@@ -7580,45 +7604,45 @@
 			{
 				"de":
 				{
-					"text": "Geh zur H?hle neben der Fabrik und t?te den Boss.",
+					"text": "Geh zur Höhle neben der Fabrik und töte den Boss.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"zh-Hans":
 				{
-					"text": "??????????????",
+					"text": "前往工厂旁的洞穴并击杀首领。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ru":
 				{
-					"text": "??????????? ? ?????? ????? ? ??????? ? ???? ?????.",
+					"text": "Отправляйся в пещеру рядом с фабрикой и убей босса.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ko":
 				{
-					"text": "?? ? ??? ?? ??? ????.",
+					"text": "공장 옆 동굴로 가서 보스를 사살하라.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ja":
 				{
-					"text": "???????????????????",
+					"text": "工場の隣の洞窟へ行き、ボスを始末しろ。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"es-ES":
 				{
-					"text": "Ve a la cueva junto a la f?brica y mata al jefe.",
+					"text": "Ve a la cueva junto a la fábrica y mata al jefe.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				}
 			}
 		},
@@ -8672,45 +8696,45 @@
 			{
 				"de":
 				{
-					"text": "Geh zum Trainingsgel?nde und installiere die Wanzen.",
+					"text": "Geh zum Trainingsgelände und installiere die Wanzen.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"zh-Hans":
 				{
-					"text": "????????????",
+					"text": "前往训练场，安装窃听器。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ru":
 				{
-					"text": "??????????? ?? ????????????? ???????? ? ???????? ?????.",
+					"text": "Отправляйся на тренировочный полигон и установи жучки.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ko":
 				{
-					"text": "????? ?? ???? ????.",
+					"text": "훈련장으로 가서 도청 장치를 설치하라.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ja":
 				{
-					"text": "????????????????",
+					"text": "訓練場へ向かい、盗聴器を設置しろ。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"es-ES":
 				{
-					"text": "Ve al campo de entrenamiento e instala los micr?fonos.",
+					"text": "Ve al campo de entrenamiento e instala los micrófonos.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				}
 			}
 		},
@@ -10544,45 +10568,45 @@
 			{
 				"de":
 				{
-					"text": "Platziere die Informationen im Rohrwartungsraum\r\nnahe der H?hle.",
+					"text": "Platziere die Informationen im Rohrwartungsraum\r\nnahe der Höhle.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"zh-Hans":
 				{
-					"text": "??????????\r\n??????",
+					"text": "将情报放到洞穴附近的\r\n管道维护室。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ru":
 				{
-					"text": "??????? ???????????? ? ??????? ???????????? ????\r\n????? ? ???????.",
+					"text": "Оставь разведданные в помещении обслуживания труб\r\nрядом с пещерой.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ko":
 				{
-					"text": "?? ?? ?? ????\r\n??? ????.",
+					"text": "동굴 근처의 배관 정비실에\r\n정보를 놓아라.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ja":
 				{
-					"text": "???????????????\r\n????????",
+					"text": "洞窟近くの配管整備室に\r\n情報を置け。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"es-ES":
 				{
-					"text": "Coloca la inteligencia en la sala de mantenimiento de tuber?as\r\ncerca de la cueva.",
+					"text": "Coloca la inteligencia en la sala de mantenimiento de tuberías\r\ncerca de la cueva.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				}
 			}
 		},
@@ -10967,31 +10991,31 @@
 				},
 				"zh-Hans":
 				{
-					"text": "???????????",
+					"text": "前往指挥室，夺取情报。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ru":
 				{
-					"text": "??????????? ? ????????? ????? ? ?????? ????????????.",
+					"text": "Отправляйся в командный пункт и добудь разведданные.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ko":
 				{
-					"text": "???? ?? ??? ????.",
+					"text": "지휘실로 가서 정보를 확보하라.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ja":
 				{
-					"text": "????????????????",
+					"text": "司令室へ向かい、情報を確保しろ。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"es-ES":
 				{
@@ -14392,45 +14416,45 @@
 			{
 				"de":
 				{
-					"text": "Missionsbriefing: Dringe verdeckt in den Befehlsraum ein, um die wertvollen Informationen zu beschaffen. Sichere die Informationen anschlie?end in einem Beh?lter im Rohrwartungsraum nahe der H?hle. Diese Operation erfordert Heimlichkeit und rasche Ausf?hrung.",
+					"text": "Einsatzbesprechung: Dring unbemerkt in den Kommandoraum ein und beschaffe die wertvollen Informationen. Bring sie anschließend in einem Container im Rohrwartungsraum nahe der Höhle in Sicherheit. Dieser Einsatz erfordert Heimlichkeit und schnelles Handeln.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"zh-Hans":
 				{
-					"text": "??????????????????????????????????????????????????????????",
+					"text": "任务简报：秘密潜入指挥室，获取高价值情报。随后将情报存放到洞穴附近管道维护室内的容器中。此次行动要求隐蔽且迅速。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ru":
 				{
-					"text": "??????? ???????: ??????? ???????? ? ????????? ?????, ????? ?????????? ?????? ????????????. ????? ?????? ???????????? ? ????????? ? ??????? ???????????? ???? ????? ? ???????. ??? ???????? ??????? ?????????? ? ???????? ??????????.",
+					"text": "Инструктаж: скрытно проникни в командный пункт и добудь ценные разведданные. Затем спрячь их в контейнере в помещении обслуживания труб рядом с пещерой. Операция требует скрытности и быстроты.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ko":
 				{
-					"text": "?? ???: ???? ??? ??? ?? ??? ????. ? ? ?? ?? ?? ??? ?? ????? ??? ????. ? ??? ??? ??? ??? ????.",
+					"text": "임무 브리핑: 은밀히 지휘실에 침투해 고가치 정보를 입수하십시오. 이후 동굴 근처 배관 정비실의 컨테이너에 정보를 보관하십시오. 이번 작전은 은밀함과 신속함이 요구됩니다.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ja":
 				{
-					"text": "????????????: ??????????????????????????????????????????????????????????????????????????????",
+					"text": "作戦概要：司令室へ密かに潜入し、高価値の情報を入手しろ。その後、洞窟近くの配管整備室にあるコンテナに情報を確保しろ。この作戦には隠密性と迅速な実行が求められる。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"es-ES":
 				{
-					"text": "Informe de misi?n: entra de forma encubierta en la sala de mando para obtener la inteligencia de gran valor. A continuaci?n, asegura la inteligencia en un contenedor dentro de la sala de mantenimiento de tuber?as cerca de la cueva. Esta operaci?n exige sigilo y ejecuci?n r?pida.",
+					"text": "Informe de misión: entra en la sala de mando sin ser visto y consigue la inteligencia de alto valor. Después, guárdala en un contenedor de la sala de mantenimiento de tuberías, cerca de la cueva. Esta operación exige sigilo y rapidez.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				}
 			}
 		},
@@ -15543,31 +15567,31 @@
 				},
 				"zh-Hans":
 				{
-					"text": "??UICS??",
+					"text": "消灭UICS首领",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ru":
 				{
-					"text": "????????? ????? UICS",
+					"text": "Ликвидируй босса UICS",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ko":
 				{
-					"text": "UICS ?? ??",
+					"text": "UICS 보스 제거",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ja":
 				{
-					"text": "UICS?????",
+					"text": "UICSのボスを排除",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"es-ES":
 				{
@@ -16212,33 +16236,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Lager",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "仓库",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Схрон",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "창고",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "倉庫",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Alijo",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				}
 			}
 		},
@@ -17500,33 +17536,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Bauwerk",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "建筑",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Строение",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "구조물",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "構造物",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Estructura",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				}
 			}
 		},
@@ -19731,31 +19779,31 @@
 				},
 				"zh-Hans":
 				{
-					"text": "???????????",
+					"text": "前往指挥室，夺取情报。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ru":
 				{
-					"text": "??????????? ? ????????? ????? ? ?????? ????????????.",
+					"text": "Отправляйся в командный пункт и добудь разведданные.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ko":
 				{
-					"text": "???? ?? ??? ????.",
+					"text": "지휘실로 가서 정보를 확보하라.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ja":
 				{
-					"text": "????????????????",
+					"text": "司令室へ向かい、情報を確保しろ。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"es-ES":
 				{
@@ -19828,45 +19876,45 @@
 			{
 				"de":
 				{
-					"text": "Agent, du hast den Auftrag, den Boss in der Fabrik zu eliminieren ? einen zentralen Knotenpunkt im logistischen Netzwerk des Feindes. Deine Mission erfordert, dass du dich unauff?llig bewegst, die Eliminierung leise ausf?hrst und ohne Alarm auszul?sen abziehst. Pr?zision und Ruhe unter Druck sind entscheidend.",
+					"text": "Agent, du hast den Auftrag, den Boss in der Fabrik auszuschalten, einen zentralen Knotenpunkt im Logistiknetz des Feindes. Deine Mission verlangt, dass du nicht auffällst, die Eliminierung leise durchführst und verschwindest, ohne Alarm auszulösen. Präzision und Ruhe unter Druck sind entscheidend.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"zh-Hans":
 				{
-					"text": "????????????????????????????????????????????????????????????????????????????????",
+					"text": "特工，你的任务是除掉工厂的首领，他是敌方后勤网络中的关键节点。你需要融入环境，悄无声息地完成刺杀，并在不触发警报的情况下撤离。精准与临危不乱至关重要。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ru":
 				{
-					"text": "?????, ???? ???????? ????????? ????? ?? ?????? ? ???????? ???? ?? ????????? ????????????? ????. ???? ?????? ??????? ?? ?????????? ????????, ???? ???????? ?????????? ? ????, ?? ???????? ???????. ???????? ? ???????????? ??? ????????? ?????? ?????.",
+					"text": "Агент, тебе поручено ликвидировать босса на фабрике — ключевое звено в логистической сети противника. Тебе нужно слиться с обстановкой, тихо устранить цель и уйти, не подняв тревоги. Точность и хладнокровие под давлением решают всё.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ko":
 				{
-					"text": "??, ? ???? ??? ??? ??? ??? ???? ??? ????. ??? ???? ??? ??? ????, ??? ??? ?? ? ????? ??. ???? ?? ?? ???? ???.",
+					"text": "요원, 당신에게 맡겨진 임무는 적 보급망의 핵심 거점인 공장의 보스를 제거하는 것입니다. 주변에 녹아들어 조용히 제거한 뒤 경보를 울리지 않고 빠져나와야 합니다. 정밀함과 압박 속의 침착함이 무엇보다 중요합니다.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ja":
 				{
-					"text": "???????????????????????????????????????????????????????????????????????????????????????????????",
+					"text": "エージェント、君の任務は工場のボスの排除だ。敵の兵站網の要となる存在だ。周囲に溶け込み、静かに始末し、警報を鳴らさずに離脱しろ。精密さと重圧下での冷静さが鍵となる。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"es-ES":
 				{
-					"text": "Agente, se te ha encomendado eliminar al jefe en la f?brica, un nodo crucial en la red log?stica del enemigo. Tu misi?n exige que te camufles, lleves a cabo la eliminaci?n en silencio y salgas sin dar la alarma. La precisi?n y la calma bajo presi?n son cruciales.",
+					"text": "Agente, se te ha encomendado eliminar al jefe de la fábrica, un nodo clave en la red logística del enemigo. Tu misión exige que pases desapercibido, lleves a cabo la eliminación en silencio y salgas sin dar la alarma. La precisión y la calma bajo presión son fundamentales.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				}
 			}
 		},
@@ -25496,45 +25544,45 @@
 			{
 				"de":
 				{
-					"text": "Soldat, Handeln ist gefragt. Wir haben die Milit?rbasis nahe dem Fluss als Hauptkommunikationszentrum der UICS identifiziert. Wir bitten dich, St?rsender zu installieren, um ihre Kommunikationsbem?hungen in dieser Umgebung zu behindern.",
+					"text": "Soldat, es muss gehandelt werden. Wir haben die Militärbasis am Fluss als Kommunikationszentrale der UICS identifiziert. Wir bitten dich, Störsender zu installieren, um ihre Kommunikation in diesem Gebiet zu behindern.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"zh-Hans":
 				{
-					"text": "????????????????????????? UICS ????????????????????????????????",
+					"text": "士兵，需要你采取行动。我们已确认河边的军事基地是UICS的主要通讯枢纽。我们要求你安装干扰器，阻断他们在该区域的通讯。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ru":
 				{
-					"text": "??????, ???? ???????????. ?? ????????, ??? ??????? ???? ? ???? ? ??????? ???????????????? ???? UICS. ?????? ???? ?????????? ????????, ????? ???????? ?? ???????? ????? ? ???? ??????.",
+					"text": "Солдат, пора действовать. Мы установили, что военная база у реки — главный узел связи UICS. Мы просим тебя установить глушилки, чтобы помешать их связи в этом районе.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ko":
 				{
-					"text": "??, ??? ????. ? ?? ?? ??? UICS? ?? ?? ??? ????. ?? ???? ??? ?? ??? ????? ??? ??? ?? ???.",
+					"text": "병사, 행동이 필요합니다. 강 근처의 군사 기지가 UICS의 주요 통신 거점으로 확인되었습니다. 재머를 설치해 해당 지역에서 그들의 통신을 방해해 주십시오.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ja":
 				{
-					"text": "???????????????????UICS?????????????????????????????????????????????????",
+					"text": "兵士よ、行動の時だ。川沿いの軍事基地がUICSの主要な通信拠点だと判明した。ジャマーを設置し、その一帯での奴らの通信を妨害してほしい。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"es-ES":
 				{
-					"text": "Soldado, es hora de actuar. Hemos identificado la base militar cerca del r?o como el centro principal de comunicaciones de UICS. Te pedimos que instales inhibidores para obstaculizar sus esfuerzos de comunicaci?n en esas inmediaciones.",
+					"text": "Soldado, hay que actuar. Hemos identificado la base militar junto al río como el principal centro de comunicaciones de la UICS. Te pedimos que instales inhibidores para obstaculizar sus comunicaciones en la zona.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				}
 			}
 		},
@@ -25763,31 +25811,31 @@
 				},
 				"zh-Hans":
 				{
-					"text": "???????????",
+					"text": "前往指挥室，夺取情报。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ru":
 				{
-					"text": "??????????? ? ????????? ????? ? ?????? ????????????.",
+					"text": "Отправляйся в командный пункт и добудь разведданные.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ko":
 				{
-					"text": "???? ?? ??? ????.",
+					"text": "지휘실로 가서 정보를 확보하라.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ja":
 				{
-					"text": "????????????????",
+					"text": "司令室へ向かい、情報を確保しろ。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"es-ES":
 				{
@@ -26068,33 +26116,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Beleuchtung",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "照明",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Освещение",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "조명",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "照明",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Iluminación",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				}
 			}
 		},
@@ -26784,38 +26844,38 @@
 			{
 				"de":
 				{
-					"text": "Platziere einen St?rsender an den Panzern auf der Karte.",
+					"text": "Platziere einen Störsender an den Tanks auf der Karte.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"zh-Hans":
 				{
-					"text": "??????????????",
+					"text": "在地图上的储罐处放置干扰器。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ru":
 				{
-					"text": "???????? ???????? ? ?????? ?? ?????.",
+					"text": "Установи глушилку у цистерн на карте.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ko":
 				{
-					"text": "?? ?? ??? ??? ????.",
+					"text": "맵의 탱크에 재머를 설치하라.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ja":
 				{
-					"text": "?????????????????????",
+					"text": "マップ上のタンクにジャマーを設置しろ。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"es-ES":
 				{
@@ -28916,45 +28976,45 @@
 			{
 				"de":
 				{
-					"text": "Agent, du hast den Auftrag, den Boss in der Fabrik zu eliminieren ? einen zentralen Knotenpunkt im logistischen Netzwerk des Feindes. Deine Mission erfordert, dass du dich unauff?llig bewegst, die Eliminierung leise ausf?hrst und ohne Alarm auszul?sen abziehst. Pr?zision und Ruhe unter Druck sind entscheidend.",
+					"text": "Agent, du hast den Auftrag, den Boss in der Fabrik auszuschalten, einen zentralen Knotenpunkt im Logistiknetz des Feindes. Deine Mission verlangt, dass du nicht auffällst, die Eliminierung leise durchführst und verschwindest, ohne Alarm auszulösen. Präzision und Ruhe unter Druck sind entscheidend.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"zh-Hans":
 				{
-					"text": "????????????????????????????????????????????????????????????????????????????????",
+					"text": "特工，你的任务是除掉工厂的首领，他是敌方后勤网络中的关键节点。你需要融入环境，悄无声息地完成刺杀，并在不触发警报的情况下撤离。精准与临危不乱至关重要。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ru":
 				{
-					"text": "?????, ???? ???????? ????????? ????? ?? ?????? ? ???????? ???? ?? ????????? ????????????? ????. ???? ?????? ??????? ?? ?????????? ????????, ???? ???????? ?????????? ? ????, ?? ???????? ???????. ???????? ? ???????????? ??? ????????? ?????? ?????.",
+					"text": "Агент, тебе поручено ликвидировать босса на фабрике — ключевое звено в логистической сети противника. Тебе нужно слиться с обстановкой, тихо устранить цель и уйти, не подняв тревоги. Точность и хладнокровие под давлением решают всё.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ko":
 				{
-					"text": "??, ? ???? ??? ??? ??? ??? ???? ??? ????. ??? ???? ??? ??? ????, ??? ??? ?? ? ????? ??. ???? ?? ?? ???? ???.",
+					"text": "요원, 당신에게 맡겨진 임무는 적 보급망의 핵심 거점인 공장의 보스를 제거하는 것입니다. 주변에 녹아들어 조용히 제거한 뒤 경보를 울리지 않고 빠져나와야 합니다. 정밀함과 압박 속의 침착함이 무엇보다 중요합니다.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ja":
 				{
-					"text": "???????????????????????????????????????????????????????????????????????????????????????????????",
+					"text": "エージェント、君の任務は工場のボスの排除だ。敵の兵站網の要となる存在だ。周囲に溶け込み、静かに始末し、警報を鳴らさずに離脱しろ。精密さと重圧下での冷静さが鍵となる。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"es-ES":
 				{
-					"text": "Agente, se te ha encomendado eliminar al jefe en la f?brica, un nodo crucial en la red log?stica del enemigo. Tu misi?n exige que te camufles, lleves a cabo la eliminaci?n en silencio y salgas sin dar la alarma. La precisi?n y la calma bajo presi?n son cruciales.",
+					"text": "Agente, se te ha encomendado eliminar al jefe de la fábrica, un nodo clave en la red logística del enemigo. Tu misión exige que pases desapercibido, lleves a cabo la eliminación en silencio y salgas sin dar la alarma. La precisión y la calma bajo presión son fundamentales.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				}
 			}
 		},
@@ -29956,45 +30016,45 @@
 			{
 				"de":
 				{
-					"text": "Platziere die Informationen im Rohrwartungsraum\r\nnahe der H?hle.",
+					"text": "Platziere die Informationen im Rohrwartungsraum\r\nnahe der Höhle.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"zh-Hans":
 				{
-					"text": "??????????\r\n??????",
+					"text": "将情报放到洞穴附近的\r\n管道维护室。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ru":
 				{
-					"text": "??????? ???????????? ? ??????? ???????????? ????\r\n????? ? ???????.",
+					"text": "Оставь разведданные в помещении обслуживания труб\r\nрядом с пещерой.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ko":
 				{
-					"text": "?? ?? ?? ????\r\n??? ????.",
+					"text": "동굴 근처의 배관 정비실에\r\n정보를 놓아라.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ja":
 				{
-					"text": "???????????????\r\n????????",
+					"text": "洞窟近くの配管整備室に\r\n情報を置け。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"es-ES":
 				{
-					"text": "Coloca la inteligencia en la sala de mantenimiento de tuber?as\r\ncerca de la cueva.",
+					"text": "Coloca la inteligencia en la sala de mantenimiento de tuberías\r\ncerca de la cueva.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				}
 			}
 		},
@@ -30587,38 +30647,38 @@
 				},
 				"zh-Hans":
 				{
-					"text": "???????????????",
+					"text": "前往电梯控制室，收集任务情报。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ru":
 				{
-					"text": "??????????? ? ??????? ?????????? ?????? ? ?????? ???????????? ???????.",
+					"text": "Отправляйся в диспетчерскую лифта и забери разведданные миссии.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ko":
 				{
-					"text": "????? ???? ?? ?? ??? ????.",
+					"text": "엘리베이터 제어실로 가서 임무 정보를 회수하라.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ja":
 				{
-					"text": "???????????????????????????",
+					"text": "エレベーター制御室へ向かい、任務情報を回収しろ。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"es-ES":
 				{
-					"text": "Ve a la sala de control del ascensor y re?ne la inteligencia de la misi?n.",
+					"text": "Ve a la sala de control del ascensor y recoge la inteligencia de la misión.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				}
 			}
 		},
@@ -35111,31 +35171,31 @@
 				},
 				"zh-Hans":
 				{
-					"text": "??UICS??",
+					"text": "消灭UICS首领",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ru":
 				{
-					"text": "????????? ????? UICS",
+					"text": "Ликвидируй босса UICS",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ko":
 				{
-					"text": "UICS ?? ??",
+					"text": "UICS 보스 제거",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ja":
 				{
-					"text": "UICS?????",
+					"text": "UICSのボスを排除",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"es-ES":
 				{
@@ -37912,45 +37972,45 @@
 			{
 				"de":
 				{
-					"text": "Soldat, es gibt Arbeit zu tun. Anomale Kommunikationssignale wurden bis zur Dschungelstra?e zur?ckverfolgt, die zur Fabrik f?hrt. Wir vertrauen dir an, diese Aktivit?t zu st?ren, indem du St?rsender installierst, um ihre Kommunikation in dem Gebiet zu unterbrechen.",
+					"text": "Soldat, es gibt Arbeit. Ungewöhnliche Funksignale wurden bis zur Dschungelstraße zurückverfolgt, die zur Fabrik führt. Wir vertrauen darauf, dass du diese Aktivität unterbindest, indem du Störsender installierst, die ihre Kommunikation in der Gegend durcheinanderbringen.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"zh-Hans":
 				{
-					"text": "??????????????????????????????????????????????????????????????????",
+					"text": "士兵，有活要干了。我们追踪到通往工厂的丛林道路上有异常通讯信号。我们委托你安装干扰器，扰乱他们在该区域的通讯，阻止这些活动。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ru":
 				{
-					"text": "??????, ???? ??????. ?????????? ??????? ????? ???? ????????? ?? ?????? ????? ???????, ??????? ? ??????. ?? ???????? ???? ??????? ??? ??????????, ????????? ???????? ? ??????? ?? ????? ? ???? ??????.",
+					"text": "Солдат, есть работа. Аномальные сигналы связи отследили до лесной дороги, ведущей к фабрике. Мы поручаем тебе пресечь эту активность: установи глушилки, чтобы сбить им связь в этом районе.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ko":
 				{
-					"text": "??, ??? ?? ??. ?? ?? ??? ???? ???? ?? ???? ????. ? ??? ??? ??? ??? ???? ?? ??? ????? ?? ?? ???.",
+					"text": "병사, 할 일이 있습니다. 공장으로 이어지는 정글 도로에서 비정상적인 통신 신호가 추적되었습니다. 재머를 설치해 해당 지역의 통신을 교란하고 이 활동을 저지해 주십시오.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ja":
 				{
-					"text": "?????????????????????????????????????????????????????????????????????????????",
+					"text": "兵士よ、仕事だ。工場へ続くジャングルの道路で異常な通信信号が探知された。ジャマーを設置してその一帯の通信を攪乱し、この活動を阻止してくれ。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"es-ES":
 				{
-					"text": "Soldado, hay trabajo por hacer. Se han rastreado se?ales de comunicaci?n an?malas hasta el camino de la jungla que lleva a la f?brica. Te encomendamos desbaratar esta actividad instalando inhibidores para entorpecer sus comunicaciones en la zona.",
+					"text": "Soldado, hay trabajo que hacer. Se han rastreado señales de comunicación anómalas hasta la carretera de la jungla que lleva a la fábrica. Te confiamos la tarea de desbaratar esta actividad instalando inhibidores que entorpezcan sus comunicaciones en la zona.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				}
 			}
 		},
@@ -38068,38 +38128,38 @@
 			{
 				"de":
 				{
-					"text": "Platziere einen St?rsender an den Antennen auf der Karte.",
+					"text": "Platziere einen Störsender an den Antennen auf der Karte.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"zh-Hans":
 				{
-					"text": "??????????????",
+					"text": "在地图上的天线处放置干扰器。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ru":
 				{
-					"text": "???????? ???????? ? ?????? ?? ?????.",
+					"text": "Установи глушилку у антенн на карте.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ko":
 				{
-					"text": "?? ??? ??? ??? ????.",
+					"text": "맵의 안테나에 재머를 설치하라.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ja":
 				{
-					"text": "???????????????????????",
+					"text": "マップ上のアンテナにジャマーを設置しろ。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"es-ES":
 				{
@@ -38484,45 +38544,45 @@
 			{
 				"de":
 				{
-					"text": "Geh zur Fabrik und t?te den Boss.",
+					"text": "Geh zur Fabrik und töte den Boss.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"zh-Hans":
 				{
-					"text": "??????????",
+					"text": "前往工厂并击杀首领。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ru":
 				{
-					"text": "??????????? ?? ????? ? ???? ?????.",
+					"text": "Отправляйся на фабрику и убей босса.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ko":
 				{
-					"text": "???? ?? ??? ????.",
+					"text": "공장으로 가서 보스를 사살하라.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ja":
 				{
-					"text": "??????????????",
+					"text": "工場へ行き、ボスを始末しろ。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"es-ES":
 				{
-					"text": "Ve a la f?brica y mata al jefe.",
+					"text": "Ve a la fábrica y mata al jefe.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				}
 			}
 		},
@@ -39420,38 +39480,38 @@
 			{
 				"de":
 				{
-					"text": "Soldat, deine Expertise wird gebraucht. Der Radarturm dient als Hauptkommunikationsbasis f?r UICS. Wir bitten dich, ihre Operationen zu st?ren, indem du St?rsender aufstellst, um ihre Kommunikation zu unterbrechen.",
+					"text": "Soldat, deine Fähigkeiten werden gebraucht. Der Radarturm dient der UICS als wichtigste Kommunikationsbasis. Wir bitten dich, ihre Operationen zu stören, indem du Störsender aufstellst, die ihre Kommunikation durcheinanderbringen.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"zh-Hans":
 				{
-					"text": "???????????????? UICS ???????????????????????????????????",
+					"text": "士兵，我们需要你的专业能力。雷达塔是UICS的主要通讯基地。我们要求你安装干扰器，扰乱他们的通讯，以此干扰其行动。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ru":
 				{
-					"text": "??????, ????? ???? ??????. ???????? ????? ?????? ??????? ????? ????? ??? UICS. ?? ?????? ???? ????????? ? ?? ????????, ????????? ????????, ????? ???????? ?? ?????.",
+					"text": "Солдат, нужны твои навыки. Радарная вышка — главный узел связи UICS. Мы просим тебя помешать их операциям: установи глушилки, чтобы сбить им связь.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ko":
 				{
-					"text": "??, ? ???? ????. ??? ??? UICS? ?? ?? ?? ??? ??. ??? ??? ? ??? ??? ??? ??? ??? ??? ?? ???.",
+					"text": "병사, 당신의 전문성이 필요합니다. 레이더 타워는 UICS의 주요 통신 기지입니다. 재머를 설치해 그들의 통신을 교란하고 작전을 방해해 주십시오.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ja":
 				{
-					"text": "??????????????????????UICS?????????????????????????????????????????????",
+					"text": "兵士よ、君の腕が必要だ。レーダー塔はUICSの主要な通信拠点となっている。ジャマーを設置して通信を攪乱し、奴らの作戦を妨害してほしい。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"es-ES":
 				{
@@ -42228,33 +42288,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Büchsenmacher",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "改枪",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Оружейник",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "총기 개조",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "ガンスミス",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Armero",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				}
 			}
 		},
@@ -42580,45 +42652,45 @@
 			{
 				"de":
 				{
-					"text": "Agent, deine Mission ist es, den Boss auf der Milit?rbasis auszuschalten ? eine Schl?sselfigur im feindlichen Verteidigungsnetzwerk. Du musst im Schutz der Dunkelheit in die Basis eindringen, dein Ziel lokalisieren und die Mission mit chirurgischer Pr?zision ausf?hren. Hinterlasse keine Spuren deiner Aktivit?ten, um eine Eskalation zu vermeiden.",
+					"text": "Agent, deine Mission ist es, den Boss auf der Militärbasis auszuschalten, eine Schlüsselfigur im Verteidigungsnetz des Feindes. Du musst im Schutz der Dunkelheit in die Basis eindringen, dein Ziel finden und den Auftrag mit chirurgischer Präzision ausführen. Hinterlasse keine Spuren, um eine Eskalation zu vermeiden.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"zh-Hans":
 				{
-					"text": "???????????????????????????????????????????????????????????????????????????????????",
+					"text": "特工，你的任务是除掉军事基地的首领，他是敌方防御网络中的关键人物。你需要趁夜色潜入基地，找到目标，并以精准的手法完成任务。不要留下任何行动痕迹，以免局势升级。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ru":
 				{
-					"text": "?????, ???? ?????? ? ????????? ????? ?? ??????? ????, ???????? ?????? ?? ????????? ???? ???????. ???? ??????????? ?????????? ?? ???? ??? ???????? ???????, ?????????? ???? ? ????????? ??????? ? ????????????? ?????????. ?? ???????? ?????? ????? ????????????, ????? ???????? ?????????.",
+					"text": "Агент, твоя задача — ликвидировать босса на военной базе, ключевую фигуру в системе обороны противника. Тебе нужно проникнуть на базу под покровом темноты, найти цель и выполнить задание с хирургической точностью. Не оставляй следов, чтобы избежать эскалации.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ko":
 				{
-					"text": "??, ? ??? ? ???? ?? ??? ?? ??? ??? ???? ???. ??? ?? ??? ????, ??? ?? ???? ?? ????? ??? ???? ??. ??? ???? ??? ?? ??? ??? ??.",
+					"text": "요원, 당신의 임무는 적 방어망의 핵심 인물인 군사 기지의 보스를 제거하는 것입니다. 어둠을 틈타 기지에 잠입해 목표를 찾아내고, 외과 수술처럼 정밀하게 임무를 수행하십시오. 사태가 확대되지 않도록 어떤 흔적도 남기지 마십시오.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ja":
 				{
-					"text": "????????????????????????????????????????????????????????????????????????????????????????????????????????",
+					"text": "エージェント、任務は軍事基地のボスの排除だ。敵の防衛網の要となる人物だ。闇に紛れて基地へ潜入し、標的を見つけ出し、外科手術のような精度で任務を遂行しろ。事態の拡大を避けるため、痕跡は一切残すな。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"es-ES":
 				{
-					"text": "Agente, tu misi?n es eliminar al jefe en la base militar, una figura clave en la red de defensa enemiga. Tendr?s que infiltrarte en la base al amparo de la oscuridad, localizar a tu objetivo y ejecutar la misi?n con precisi?n quir?rgica. No dejes rastro de tu actividad para evitar una escalada.",
+					"text": "Agente, tu misión es acabar con el jefe de la base militar, una figura clave en la red defensiva del enemigo. Tendrás que infiltrarte en la base al amparo de la oscuridad, localizar a tu objetivo y ejecutar la misión con precisión quirúrgica. No dejes rastro de tu actividad para evitar una escalada.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				}
 			}
 		},
@@ -44504,33 +44576,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Terminal",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "终端",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Терминал",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "단말기",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "端末",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Terminal",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				}
 			}
 		},
@@ -44551,38 +44635,38 @@
 				},
 				"zh-Hans":
 				{
-					"text": "???????????????",
+					"text": "前往电梯控制室，收集任务情报。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ru":
 				{
-					"text": "??????????? ? ??????? ?????????? ?????? ? ?????? ???????????? ???????.",
+					"text": "Отправляйся в диспетчерскую лифта и забери разведданные миссии.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ko":
 				{
-					"text": "????? ???? ?? ?? ??? ????.",
+					"text": "엘리베이터 제어실로 가서 임무 정보를 회수하라.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ja":
 				{
-					"text": "???????????????????????????",
+					"text": "エレベーター制御室へ向かい、任務情報を回収しろ。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"es-ES":
 				{
-					"text": "Ve a la sala de control del ascensor y re?ne la inteligencia de la misi?n.",
+					"text": "Ve a la sala de control del ascensor y recoge la inteligencia de la misión.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				}
 			}
 		},
@@ -45688,33 +45772,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Informationszentrale",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "情报中心",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Разведцентр",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "정보 센터",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "情報センター",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Centro de inteligencia",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				}
 			}
 		},
@@ -47184,33 +47280,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Reparaturstation",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "维修站",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Ремонтная станция",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "수리 스테이션",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "修理ステーション",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Estación de reparación",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T11:08:07Z"
 				}
 			}
 		},
@@ -47744,45 +47852,45 @@
 			{
 				"de":
 				{
-					"text": "Operator, deine Mission: Verschaff dir Zugang zum schwer bewachten Aufzugsraum in der feindlichen Anlage. Sichere die entscheidenden Informationen und bring sie sicher zu unserem gesicherten Beh?lter auf der untersten Ebene des Fahrzeugaufzugs. Bleib unentdeckt und handle schnell.",
+					"text": "Agent, deine Mission ist es, in den schwer bewachten Aufzugsraum der feindlichen Anlage einzudringen. Sichere die wichtigen Informationen und bring sie sicher zu unserem gesicherten Container auf der untersten Ebene des Fahrzeugaufzugs. Bleib unentdeckt und handle schnell.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"zh-Hans":
 				{
-					"text": "??????????????????????????????????????????????????????????????????",
+					"text": "特工，你的任务是进入敌方设施内戒备森严的电梯室。夺取关键情报，并确保将其安全送到车辆升降机最底层的我方安全容器中。保持隐蔽，迅速行动。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ru":
 				{
-					"text": "???????????, ???? ?????? ? ?????????? ? ?????? ?????????? ???????? ????????? ?????? ?????????? ???????. ?????? ?????????? ?????? ???????????? ? ???????? ?? ?????????? ???????? ? ??? ?????????? ????????? ?? ????? ?????? ?????? ?????????????? ??????????. ????????? ???????????? ? ???????? ??????.",
+					"text": "Оперативник, твоя задача — проникнуть в хорошо охраняемое помещение лифта на вражеском объекте. Захвати важные разведданные и доставь их в наш защищённый контейнер на нижнем уровне грузового подъёмника. Оставайся незамеченным и действуй быстро.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ko":
 				{
-					"text": "?????, ? ??? ? ?? ?? ???? ??? ??????? ???? ???. ?? ??? ??? ?? ??? ???? ?? ?? ?? ????? ???? ????. ??? ?? ???? ????.",
+					"text": "요원, 당신의 임무는 적 시설 내 경비가 삼엄한 엘리베이터실에 진입하는 것입니다. 핵심 정보를 확보해 차량 리프트 최하층에 있는 아군 보안 컨테이너까지 안전하게 전달하십시오. 발각되지 말고 신속하게 움직이십시오.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ja":
 				{
-					"text": "????????????????????????????????????????????????????????????????????????????????????????",
+					"text": "工作員、任務は敵施設内の厳重に警備されたエレベーター室への潜入だ。重要な情報を確保し、車両用リフト最下層にある我々の保管コンテナまで確実に届けろ。発見されることなく、迅速に行動しろ。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"es-ES":
 				{
-					"text": "Operador, tu misi?n es acceder a la sala del ascensor, fuertemente vigilada, dentro de la instalaci?n enemiga. Asegura la inteligencia cr?tica y garantiza su entrega segura en nuestro contenedor protegido en el nivel m?s bajo del elevador de veh?culos. No seas detectado y act?a con rapidez.",
+					"text": "Operativo, tu misión es acceder a la sala del ascensor, fuertemente vigilada, dentro de las instalaciones enemigas. Hazte con la inteligencia crítica y asegúrate de entregarla en nuestro contenedor seguro, en el nivel más bajo del montacargas de vehículos. Pasa desapercibido y actúa con rapidez.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				}
 			}
 		},
@@ -48576,38 +48684,38 @@
 			{
 				"de":
 				{
-					"text": "Geh zur Milit?rbasis und t?te den Boss.",
+					"text": "Geh zur Militärbasis und töte den Boss.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"zh-Hans":
 				{
-					"text": "????????????",
+					"text": "前往军事基地并击杀首领。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ru":
 				{
-					"text": "??????????? ?? ??????? ???? ? ???? ?????.",
+					"text": "Отправляйся на военную базу и убей босса.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ko":
 				{
-					"text": "?? ??? ?? ??? ????.",
+					"text": "군사 기지로 가서 보스를 사살하라.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"ja":
 				{
-					"text": "????????????????",
+					"text": "軍事基地へ行き、ボスを始末しろ。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T11:08:07Z"
 				},
 				"es-ES":
 				{
