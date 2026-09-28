@@ -1,6 +1,6 @@
 {
-	"supabaseUrl": "",
-	"supabaseAnonKey": "",
+	"supabaseUrl": "https://iudnwgwadelczocdloeu.supabase.co",
+	"supabaseAnonKey": "sb_publishable_EtbRrEM-U-SrUozWsXkNZg_71aYwTLI",
 	"turnstileSiteKey": "",
 	"repo": "pompeiic/irr-localization",
 	"branch": "main"

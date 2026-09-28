@@ -16,5 +16,5 @@ jobs:
           url=$(jq -r '.supabaseUrl // ""' community/config.json)
           key=$(jq -r '.supabaseAnonKey // ""' community/config.json)
           if [ -z "$url" ] || [ -z "$key" ]; then echo "Supabase not configured yet - nothing to ping."; exit 0; fi
-          curl -fsS "$url/rest/v1/open_suggestions?select=id&limit=1" -H "apikey: $key" -H "Authorization: Bearer $key" > /dev/null
+          curl -fsS "$url/rest/v1/open_suggestions?select=id&limit=1" -H "apikey: $key" > /dev/null
           echo "Supabase answered."
