@@ -74,11 +74,227 @@
 		},
 		{
 			"ns": "",
+			"key": "7BA62B224EEA290B905F2DB993CB8374",
+			"source": "Powered by Wwise © 2006 – 2024 Audiokinetic Inc. All rights reserved.",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.LongText.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:32:13Z"
+		},
+		{
+			"ns": "",
+			"key": "FE4F34924D46E29FD7E794966F792B67",
+			"source": "Nemesis - QA / Moderator",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Mark_1.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:32:13Z"
+		},
+		{
+			"ns": "",
+			"key": "1E08393C42CBB680434791A1BD2D3A0D",
+			"source": "Mark - Environment Art / Technical Artist",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Mark.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:32:13Z"
+		},
+		{
+			"ns": "",
+			"key": "BC4BCC764223CCDC66AAAD9504AA5989",
+			"source": "BlueTheRobot - Community Manager/Level Designer",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_1.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:32:13Z"
+		},
+		{
+			"ns": "",
+			"key": "8829250C45412C6CEFFF2AA983A7D5B3",
+			"source": "Dakota Dawe [Sneaky Kitty] - Programming Advisory",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_10.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:32:13Z"
+		},
+		{
+			"ns": "",
+			"key": "B3EC4B28440468AE63C64A834F8463B0",
+			"source": "Hiago - 2D/3D Artist",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_15.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:32:13Z"
+		},
+		{
+			"ns": "",
+			"key": "FE1D5DE641B498C793E836BF5608508A",
+			"source": "Venny - Level Design/Media Creation/Voice Actor",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_16.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:32:13Z"
+		},
+		{
+			"ns": "",
+			"key": "81CFE1244A0DC99E3AA6D2AF6ED489A9",
+			"source": "Noah - Technical Art Advisory",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_17.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:32:13Z"
+		},
+		{
+			"ns": "",
+			"key": "9855B0954A5977B312316F91CDD6CDB7",
+			"source": "Satyaki Mandal - 3D Artist",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_2.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:32:13Z"
+		},
+		{
+			"ns": "",
+			"key": "636BA8E5472107A98D931CBAF89FF571",
+			"source": "Robin - Creative Director/Level Designer/UI & UX",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_20.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:32:13Z"
+		},
+		{
+			"ns": "",
+			"key": "444FCE2F468BC806707688A9A7E40B50",
+			"source": "Sacha - Sound Designer",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_21.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:32:13Z"
+		},
+		{
+			"ns": "",
+			"key": "750FF54F47F45C1A452BA4A27E3C180B",
+			"source": "Erwin - Gameplay Animator",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_22.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:32:13Z"
+		},
+		{
+			"ns": "",
+			"key": "A792C30C4AD91EF6798B008208C2CEB5",
+			"source": "Taylor - Weapon Expertise",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_23.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:32:13Z"
+		},
+		{
+			"ns": "",
+			"key": "DC87EE6B4B4A525BF2F07C8EDCE734CC",
+			"source": "Paul - Operations Manager",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_24.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:32:13Z"
+		},
+		{
+			"ns": "",
+			"key": "2F7CA24C4E00CF814A34FD92C6EFE08B",
+			"source": "Marcin - 3D Artist",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_25.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:32:13Z"
+		},
+		{
+			"ns": "",
+			"key": "A6A5F72A48E03D240426BDAA9C6C30DB",
+			"source": "Josh - Level Designer",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_3.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:32:13Z"
+		},
+		{
+			"ns": "",
+			"key": "BD8394D04921A3A4E60096B3AE3C27B4",
+			"source": "Toby - Sound Designer",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_4.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:32:13Z"
+		},
+		{
+			"ns": "",
 			"key": "09DDE7394F8E28B9A7CA5FB42DCBE77F",
 			"source": "Travis Siegel - Assistent Writer",
 			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_41.Text",
 			"by": "CiaoKakao",
 			"at": "2026-09-28T10:30:13Z"
+		},
+		{
+			"ns": "",
+			"key": "A096C706411AE5B0ABAE7CA43EEF318B",
+			"source": "Chad Siegel - Assistent Writer",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_45.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:32:13Z"
+		},
+		{
+			"ns": "",
+			"key": "30562B4F4B1EB9D04697E493F027C574",
+			"source": "Liam - Sound Designer",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_5.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:32:13Z"
+		},
+		{
+			"ns": "",
+			"key": "8917F18849427A775CB69F9F782F7B18",
+			"source": "Solarint - AI Engineer",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_6.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:32:13Z"
+		},
+		{
+			"ns": "",
+			"key": "DAFF368A497EC3CF09F7D0908F11F2BB",
+			"source": "Jane Perry - Observer",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_7.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:32:13Z"
+		},
+		{
+			"ns": "",
+			"key": "44CA06B940E112701F6B6AAEF039DD84",
+			"source": "Moritz - Lead Developer/Engineering",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:32:13Z"
+		},
+		{
+			"ns": "",
+			"key": "CCCD7B08438B8826D3DA169A4A23D912",
+			"source": "Voice ACtors",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.TextBlock_1.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:32:13Z"
+		},
+		{
+			"ns": "",
+			"key": "2BA310334DEDCED67D26B5ACF0415E8F",
+			"source": "Special Thanks ",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.TextBlock_3.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:32:13Z"
+		},
+		{
+			"ns": "",
+			"key": "A3A781484ADEAB740843E99DD66E468B",
+			"source": "OUR FELLOW PATREON SUPPORTERS",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.TextBlock_4.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:32:13Z"
+		},
+		{
+			"ns": "",
+			"key": "C14A517346562264ED45CAAF9B722B4E",
+			"source": "INCURSION RED RIVER",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.TextBlock_88.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:32:13Z"
+		},
+		{
+			"ns": "",
+			"key": "D94A37E14FE48276B08D248E03C91DBA",
+			"source": "Developers",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.TextBlock.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:32:13Z"
 		},
 		{
 			"ns": "",
@@ -871,6 +1087,14 @@
 			"origin": "/Game/Blueprints/MissionSystem/UI/Hideout/W_IRR_HideoutUpgrade_Overview.W_IRR_HideoutUpgrade_Overview_C:WidgetTree.Description.Text",
 			"by": "CiaoKakao",
 			"at": "2026-09-28T10:08:18Z"
+		},
+		{
+			"ns": "",
+			"key": "8DE10C9D4DDA60B6530128BFF1BF71CD",
+			"source": "Credits",
+			"origin": "/Game/Blueprints/UICore/Widgets/Menu/WB_MainMenu.WB_MainMenu_C:WidgetTree.Credits.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:32:13Z"
 		},
 		{
 			"ns": "",
