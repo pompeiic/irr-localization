@@ -3,27 +3,41 @@
 import { createClient } from "https://esm.sh/@supabase/supabase-js@2";
 
 const $ = (id) => document.getElementById(id);
-const PAGE_SIZE = 40;
-const LS = { name: "irrLoc.displayName", culture: "irrLoc.culture", token: "irrLoc.githubToken" };
+const PAGE = 100;
+const LS = { culture: "irrLoc.culture", token: "irrLoc.githubToken" };
+
+const VIEWS = [
+  { id: "all", name: "All strings" },
+  { id: "ai", name: "AI translated" },
+  { id: "missing", name: "Untranslated" },
+  { id: "human", name: "Human translated" },
+  { id: "open", name: "Has suggestions" },
+  { id: "mine", name: "My suggestions" },
+];
+const ADMIN_VIEWS = [
+  { id: "admin-queue", name: "Review queue" },
+  { id: "admin-settings", name: "Settings" },
+];
 
 const state = {
   config: {}, sb: null, user: null, isAdmin: false,
-  project: null, cultures: [], entries: [], bySlot: new Map(),
+  project: null, cultures: [], entries: [], bySlot: new Map(), themes: [],
   settings: { defaultThreshold: 3, requireBeatCurrent: true, cultures: {} },
-  culture: "", page: 0, expanded: new Set(),
+  culture: "", view: "all", theme: "", shown: PAGE, selected: null,
   suggestions: new Map(), currentScores: new Map(), myVotes: new Map(), myCurrentVotes: new Map(),
-  queueRows: [], queueSelected: new Set(),
+  queueRows: [], queueSelected: new Set(), queueShowAll: false,
 };
 
 // ---------- helpers ----------
 
 const slotOf = (e) => `${e.ns}\u001f${e.key}`;
 const net = (o) => (o?.ups || 0) - (o?.downs || 0);
+const signed = (n) => (n > 0 ? `+${n}` : String(n));
 
 function fnv(text) {
-  let h = 0x811c9dc5;
-  for (const b of new TextEncoder().encode(text)) { h ^= b; h = Math.imul(h, 0x01000193) >>> 0; }
-  return h.toString(16).padStart(8, "0");
+  let hash = 0x811c9dc5;
+  for (const b of new TextEncoder().encode(text)) { hash ^= b; hash = Math.imul(hash, 0x01000193) >>> 0; }
+  return hash.toString(16).padStart(8, "0");
 }
 
 function h(tag, attrs = {}, ...children) {
@@ -39,23 +53,210 @@ function h(tag, attrs = {}, ...children) {
 }
 
 let noticeTimer = 0;
-function notice(message, isError = false, sticky = false) {
+function notice(message, kind = "", sticky = false) {
   const n = $("notice");
   n.textContent = message;
-  n.className = isError ? "error" : "";
+  n.className = kind;
   n.hidden = !message;
   clearTimeout(noticeTimer);
-  if (message && !sticky) noticeTimer = setTimeout(() => (n.hidden = true), 6000);
+  if (message && !sticky) noticeTimer = setTimeout(() => (n.hidden = true), 7000);
 }
+
+const guarded = (fn) => async (...args) => {
+  try { await fn(...args); } catch (e) { notice(e.message || String(e), "err"); }
+};
 
 const cultureName = (() => {
   const en = new Intl.DisplayNames(["en"], { type: "language" });
-  return (c) => {
-    try { return `${en.of(c)} · ${new Intl.DisplayNames([c], { type: "language" }).of(c)}`; } catch { return c; }
+  return (c, native = true) => {
+    try {
+      const english = en.of(c);
+      return native ? `${english} · ${new Intl.DisplayNames([c], { type: "language" }).of(c)}` : english;
+    } catch { return c; }
   };
 })();
 
 const fmtDate = (iso) => new Date(iso).toLocaleDateString(undefined, { year: "numeric", month: "short", day: "numeric" });
+
+// ---------- rich text (Unreal <Tag>…</> markup, {Arguments}) ----------
+
+const TAG_LABELS = {
+  red: "Red", strong: "Bold", italic: "Italic", strongitalic: "Bold italic", italicstrong: "Bold italic",
+  redacted: "Redacted", file_id: "File id", directory: "Path", fguid: "Id",
+};
+const tagLabel = (name) => TAG_LABELS[name.toLowerCase()] || name;
+
+function parseRich(text) {
+  const root = [];
+  const stack = [root];
+  let buf = "";
+  const flush = () => { if (buf) { stack.at(-1).push({ t: "text", v: buf }); buf = ""; } };
+  for (let i = 0; i < text.length;) {
+    const ch = text[i];
+    if (ch === "`" && i + 1 < text.length) { buf += text.slice(i, i + 2); i += 2; continue; }
+    if (ch === "{") {
+      const end = text.indexOf("}", i + 1);
+      if (end > i) { flush(); stack.at(-1).push({ t: "arg", v: text.slice(i + 1, end) }); i = end + 1; continue; }
+    }
+    if (ch === "<") {
+      if (text.startsWith("</>", i) && stack.length > 1) { flush(); stack.pop(); i += 3; continue; }
+      const m = /^<([A-Za-z][\w-]*)((?:\s[^<>]*?)?)(\/?)>/.exec(text.slice(i));
+      // An opener nothing closes is literal text, e.g. "cd <directory>" in the terminal help.
+      if (m && (m[3] || text.slice(i + m[0].length).split("</>").length - 1 >= stack.length)) {
+        flush();
+        if (m[3]) stack.at(-1).push({ t: "atom", v: m[0] });
+        else {
+          const node = { t: "tag", name: m[1], attrs: m[2], c: [] };
+          stack.at(-1).push(node);
+          stack.push(node.c);
+        }
+        i += m[0].length;
+        continue;
+      }
+    }
+    buf += ch;
+    i++;
+  }
+  flush();
+  return root;
+}
+
+// Tags wrapping the whole text are applied automatically, so translators never see them.
+function frameOf(text) {
+  let nodes = parseRich(text);
+  const wraps = [];
+  while (nodes.length === 1 && nodes[0].t === "tag") { wraps.push(nodes[0]); nodes = nodes[0].c; }
+  return { wraps, nodes };
+}
+const wrapWith = (inner, wraps) => wraps.reduceRight((s, w) => `<${w.name}${w.attrs}>${s}</>`, inner);
+
+function renderRich(nodes) {
+  const frag = document.createDocumentFragment();
+  for (const n of nodes) {
+    if (n.t === "text") frag.append(document.createTextNode(n.v));
+    else if (n.t === "arg") frag.append(h("span", { class: "arg", contenteditable: "false", "data-arg": n.v, title: "Placeholder — the game fills this in" }, n.v || "{}"));
+    else if (n.t === "atom") frag.append(h("span", { class: "arg", contenteditable: "false", "data-atom": n.v, title: n.v }, "◆"));
+    else {
+      const known = TAG_LABELS[n.name.toLowerCase()];
+      const span = h("span", { class: `rt-${known ? n.name.toLowerCase() : "unknown"}`, "data-tag": n.name, "data-attrs": n.attrs || "", title: tagLabel(n.name) });
+      span.append(renderRich(n.c));
+      frag.append(span);
+    }
+  }
+  return frag;
+}
+
+const richBlock = (text, cls = "rt") => { const el = h("span", { class: cls }); el.append(renderRich(parseRich(text))); return el; };
+
+// Nested formatting does not exist in-game, so the innermost tag wins when serializing.
+function serializeRich(root) {
+  const runs = [];
+  const walk = (node, tag) => {
+    for (const n of node.childNodes) {
+      if (n.nodeType === Node.TEXT_NODE) runs.push({ v: n.nodeValue, tag });
+      else if (n.nodeType === Node.ELEMENT_NODE) {
+        if (n.dataset.arg != null) runs.push({ v: `{${n.dataset.arg}}`, tag });
+        else if (n.dataset.atom != null) runs.push({ v: n.dataset.atom, tag });
+        else if (n.tagName === "BR") runs.push({ v: "\n", tag });
+        else {
+          if ((n.tagName === "DIV" || n.tagName === "P") && runs.length) runs.push({ v: "\n", tag });
+          walk(n, n.dataset.tag ? { name: n.dataset.tag, attrs: n.dataset.attrs || "" } : tag);
+        }
+      }
+    }
+  };
+  walk(root, null);
+  let out = "";
+  let open = null;
+  for (const r of runs) {
+    if (!r.v) continue;
+    const key = r.tag ? `<${r.tag.name}${r.tag.attrs}>` : null;
+    if (key !== open) { if (open) out += "</>"; if (key) out += key; open = key; }
+    out += r.v;
+  }
+  if (open) out += "</>";
+  return out;
+}
+
+function collectTags(nodes, out = new Map()) {
+  for (const n of nodes) if (n.t === "tag") { if (!out.has(n.name)) out.set(n.name, n.attrs); collectTags(n.c, out); }
+  return out;
+}
+function collectArgs(nodes, out = new Set()) {
+  for (const n of nodes) { if (n.t === "arg") out.add(n.v); if (n.t === "tag") collectArgs(n.c, out); }
+  return out;
+}
+
+function createRichEditor(entry, initialText, onChange) {
+  const src = frameOf(entry.source);
+  const cur = initialText ? frameOf(initialText) : null;
+  const sameWraps = cur && cur.wraps.map((w) => w.name).join() === src.wraps.map((w) => w.name).join();
+  const startNodes = !cur ? [] : sameWraps ? cur.nodes : parseRich(initialText);
+
+  const box = h("div", { class: "rich", contenteditable: "true", spellcheck: "true", lang: state.culture, "data-placeholder": `Type the ${cultureName(state.culture, false)} text…` });
+  box.append(renderRich(startNodes));
+
+  const getText = () => {
+    let inner = serializeRich(box);
+    if (!entry.source.endsWith("\n")) inner = inner.replace(/\n+$/, "");
+    return wrapWith(inner, src.wraps);
+  };
+  const normalize = () => { const text = serializeRich(box); box.replaceChildren(renderRich(parseRich(text))); onChange(); };
+  const selectionRange = () => {
+    const sel = getSelection();
+    if (!sel.rangeCount) return null;
+    const range = sel.getRangeAt(0);
+    return box.contains(range.commonAncestorContainer) ? range : null;
+  };
+  const unwrapAll = (frag) => frag.querySelectorAll("[data-tag]").forEach((el) => el.replaceWith(...el.childNodes));
+
+  const bar = h("div", { class: "fmtbar" });
+  for (const [name, attrs] of collectTags(src.nodes)) {
+    bar.append(h("button", { class: "ghost small", title: `Select words, then click to mark them ${tagLabel(name)}`, onmousedown: (e) => e.preventDefault(), onclick: () => {
+      const range = selectionRange();
+      if (!range || range.collapsed) return notice(`Select the words that should be ${tagLabel(name)} first.`);
+      const frag = range.extractContents();
+      unwrapAll(frag);
+      const span = h("span", { "data-tag": name, "data-attrs": attrs || "" });
+      span.append(frag);
+      range.insertNode(span);
+      normalize();
+    } }, tagLabel(name)));
+  }
+  if (bar.childNodes.length) {
+    bar.append(h("button", { class: "ghost small", title: "Remove formatting from the selected words", onmousedown: (e) => e.preventDefault(), onclick: () => {
+      const range = selectionRange();
+      if (!range || range.collapsed) return notice("Select the words to clear first.");
+      const frag = range.extractContents();
+      unwrapAll(frag);
+      range.insertNode(frag);
+      normalize();
+    } }, "Clear"));
+  }
+  const args = [...collectArgs(src.nodes)];
+  if (args.length) {
+    if (bar.childNodes.length) bar.append(h("span", { class: "sep" }));
+    for (const a of args) {
+      bar.append(h("button", { class: "ghost small", title: "Insert this placeholder at the cursor", onmousedown: (e) => e.preventDefault(), onclick: () => {
+        const range = selectionRange();
+        const chip = renderRich([{ t: "arg", v: a }]).firstChild;
+        if (range) { range.deleteContents(); range.insertNode(chip); range.setStartAfter(chip); range.collapse(true); }
+        else box.append(chip);
+        onChange();
+      } }, `+ ${a}`));
+    }
+  }
+
+  box.addEventListener("input", onChange);
+  box.addEventListener("keydown", (e) => {
+    if (e.key === "Enter") { e.preventDefault(); document.execCommand("insertText", false, "\n"); }
+  });
+  box.addEventListener("paste", (e) => {
+    e.preventDefault();
+    document.execCommand("insertText", false, e.clipboardData.getData("text/plain"));
+  });
+  return { el: h("div", {}, bar.childNodes.length ? bar : null, box), getText };
+}
 
 // ---------- structure checks (same rules as scripts/validate.mjs + Unreal import) ----------
 
@@ -72,47 +273,74 @@ function formatArgs(text) {
   return [...args].sort().join(",");
 }
 const closers = (text) => text.split("</>").length - 1;
-const openTags = (text) => [...text.matchAll(/<([A-Za-z][\w-]*)>/g)].map((m) => m[1]).sort().join(",");
+function tagCounts(text, nodes = parseRich(text), c = new Map()) {
+  for (const n of nodes) if (n.t === "tag") { c.set(n.name, (c.get(n.name) || 0) + 1); tagCounts(null, n.c, c); }
+  return c;
+}
 
 function checkText(entry, text) {
+  const inner = frameOf(text);
+  if (!serializeText(inner.nodes).trim()) return ["Enter a translation."];
   const problems = [];
-  if (!text.trim()) return ["Enter a translation."];
-  const args = formatArgs(entry.source);
-  if (formatArgs(text) !== args) problems.push(`Keep these {arguments} exactly as written: ${args ? args.split(",").map((a) => `{${a}}`).join(" ") : "none"}`);
-  if (closers(text) !== closers(entry.source) || openTags(text) !== openTags(entry.source)) {
-    problems.push(`Keep the rich-text tags: ${openTags(entry.source) ? openTags(entry.source).split(",").map((t) => `<${t}>…</>`).join(" ") : "none"}`);
+  const want = formatArgs(entry.source);
+  if (formatArgs(text) !== want) problems.push(want ? `Keep every placeholder (use the buttons above): ${want.split(",").join(", ")}.` : "Remove the placeholders — the English text has none.");
+  const a = tagCounts(entry.source);
+  const b = tagCounts(text);
+  const wraps = frameOf(entry.source).wraps;
+  for (const name of new Set([...a.keys(), ...b.keys()])) {
+    const auto = wraps.filter((w) => w.name === name).length;
+    const need = (a.get(name) || 0) - auto;
+    const have = (b.get(name) || 0) - auto;
+    if (need !== have) problems.push(need ? `Mark ${need} part${need > 1 ? "s" : ""} as ${tagLabel(name)} (currently ${have}).` : `Remove the ${tagLabel(name)} formatting — the English text has none there.`);
   }
+  if (!problems.length && closers(text) !== closers(entry.source)) problems.push("The formatting doesn't match the English text.");
   if (entry.maxLength > 0 && text.length > entry.maxLength) problems.push(`${text.length}/${entry.maxLength} characters — too long for this spot.`);
   return problems;
 }
+function serializeText(nodes) {
+  return nodes.map((n) => (n.t === "text" ? n.v : n.t === "tag" ? serializeText(n.c) : "x")).join("");
+}
 
-// ---------- status of the current translation ----------
+// ---------- status ----------
 
-function currentOf(entry, culture) {
+function currentOf(entry, culture = state.culture) {
   const t = entry.t?.[culture];
   return t && t.text && t.status !== "untranslated" ? t : null;
 }
 
 function describe(t) {
   if (!t) return { cls: "none", label: "Untranslated" };
-  if (t.status === "stale") return { cls: "stale", label: "Outdated — English changed" };
-  if (t.status === "machine") return { cls: "ai", label: "AI translation · not checked by a human" };
+  if (t.status === "stale") return { cls: "stale", label: "Outdated" };
+  if (t.status === "machine") return { cls: "ai", label: "AI · not human-checked" };
   const by = t.by || "";
   if (by.startsWith("community:")) return { cls: "community", label: `Community · ${by.slice(10)}` };
-  return { cls: "human", label: `${t.status === "approved" ? "Approved" : "Human reviewed"}${by && by !== "ai" ? ` · ${by}` : ""}` };
+  return { cls: "human", label: t.status === "approved" ? "Approved" : "Human reviewed" };
 }
 
 const thresholdFor = (culture) => state.settings.cultures?.[culture] ?? state.settings.defaultThreshold;
+const currentVoteKey = (entry, culture, text) => `${culture}|${slotOf(entry)}|${fnv(text)}`;
 
-function currentScore(entry, culture, scores = state.currentScores) {
+function currentScore(entry, culture = state.culture, scores = state.currentScores) {
   const t = currentOf(entry, culture);
-  return t ? scores.get(`${culture}|${slotOf(entry)}|${fnv(t.text)}`) : null;
+  return t ? scores.get(currentVoteKey(entry, culture, t.text)) : null;
 }
 
 function passes(s, entry, curScore) {
   if (!entry || s.source_hash !== entry.sourceHash) return false;
   if (net(s) < thresholdFor(s.culture)) return false;
   return !state.settings.requireBeatCurrent || net(s) > net(curScore);
+}
+
+// ---------- themes ----------
+
+function compileThemes(doc) {
+  const rx = (list) => (list || []).map((p) => new RegExp(p, "i"));
+  return { hidden: rx(doc.hidden), themes: (doc.themes || []).map((t) => ({ name: t.name, match: rx(t.match) })), fallback: doc.fallback || "Other" };
+}
+function themeOf(compiled, entry) {
+  const s = `${entry.area}|${entry.origin}`;
+  if (compiled.hidden.some((r) => r.test(s))) return null;
+  return compiled.themes.find((t) => t.match.some((r) => r.test(s)))?.name ?? compiled.fallback;
 }
 
 // ---------- Supabase ----------
@@ -127,44 +355,33 @@ async function fetchAll(build) {
   }
 }
 
-async function refreshUser() {
-  const { data } = await state.sb.auth.getSession();
-  state.user = data.session?.user ?? null;
+function displayNameOf(user) {
+  const m = user?.user_metadata || {};
+  return m.custom_claims?.global_name || m.full_name || m.name || m.user_name || user?.email || "Unknown";
+}
+
+async function applySession(session) {
+  let user = session?.user ?? null;
+  if (user?.is_anonymous) { await state.sb.auth.signOut(); user = null; }
+  state.user = user;
   state.isAdmin = false;
-  if (state.user && !state.user.is_anonymous) {
-    const { data: rows } = await state.sb.from("admins").select("user_id").eq("user_id", state.user.id);
-    state.isAdmin = !!rows?.length;
+  if (user) {
+    const { data } = await state.sb.from("admins").select("user_id").eq("user_id", user.id);
+    state.isAdmin = !!data?.length;
   }
-  renderAdminAuth();
+  if (!state.isAdmin && state.view.startsWith("admin")) state.view = "all";
+  renderAccount();
 }
 
-function loadScript(src) {
-  return new Promise((resolve, reject) => {
-    if (document.querySelector(`script[src="${src}"]`)) return resolve();
-    document.head.append(h("script", { src, onload: resolve, onerror: () => reject(new Error("Could not load the captcha.")) }));
-  });
-}
-
-async function captchaToken() {
-  const sitekey = state.config.turnstileSiteKey;
-  if (!sitekey) return undefined;
-  await loadScript("https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit");
-  return new Promise((resolve, reject) => {
-    const box = $("captcha");
-    const close = (fn) => (v) => { box.hidden = true; fn(v); };
-    box.hidden = false;
-    $("captchaWidget").replaceChildren();
-    window.turnstile.render("#captchaWidget", { sitekey, callback: close(resolve), "error-callback": close(() => reject(new Error("Captcha failed — try again."))) });
-    $("captchaCancel").onclick = close(() => reject(new Error("Cancelled.")));
-  });
-}
-
-async function ensureSignedIn() {
+function requireMember() {
   if (!state.sb) throw new Error("Community features are not configured yet.");
-  if (state.user) return;
-  const { error } = await state.sb.auth.signInAnonymously({ options: { captchaToken: await captchaToken() } });
+  if (!state.user) throw new Error("Sign in with Discord to vote or suggest — one account, one vote.");
+}
+
+async function signIn() {
+  if (!state.sb) throw new Error("Community features are not configured yet.");
+  const { error } = await state.sb.auth.signInWithOAuth({ provider: "discord", options: { redirectTo: location.origin + location.pathname } });
   if (error) throw error;
-  await refreshUser();
 }
 
 async function loadCommunity() {
@@ -200,30 +417,28 @@ function applyVoteDelta(target, before, after) {
 }
 
 async function voteSuggestion(s, value) {
-  await ensureSignedIn();
+  requireMember();
   const before = state.myVotes.get(s.id) || 0;
   const after = before === value ? 0 : value;
-  const q = after
-    ? state.sb.from("votes").upsert({ suggestion_id: s.id, voter: state.user.id, value: after })
-    : state.sb.from("votes").delete().eq("suggestion_id", s.id).eq("voter", state.user.id);
-  const { error } = await q;
+  const { error } = after
+    ? await state.sb.from("votes").upsert({ suggestion_id: s.id, voter: state.user.id, value: after })
+    : await state.sb.from("votes").delete().eq("suggestion_id", s.id).eq("voter", state.user.id);
   if (error) throw error;
   if (after) state.myVotes.set(s.id, after); else state.myVotes.delete(s.id);
   applyVoteDelta(s, before, after);
 }
 
 async function voteCurrent(entry, value) {
-  await ensureSignedIn();
+  requireMember();
   const c = state.culture;
-  const hash = fnv(currentOf(entry, c).text);
-  const id = `${c}|${slotOf(entry)}|${hash}`;
+  const text = currentOf(entry, c).text;
+  const id = currentVoteKey(entry, c, text);
   const before = state.myCurrentVotes.get(id) || 0;
   const after = before === value ? 0 : value;
-  const row = { ns: entry.ns, key: entry.key, culture: c, text_hash: hash, voter: state.user.id };
-  const q = after
-    ? state.sb.from("current_votes").upsert({ ...row, value: after })
-    : state.sb.from("current_votes").delete().match(row);
-  const { error } = await q;
+  const row = { ns: entry.ns, key: entry.key, culture: c, text_hash: fnv(text), voter: state.user.id };
+  const { error } = after
+    ? await state.sb.from("current_votes").upsert({ ...row, value: after })
+    : await state.sb.from("current_votes").delete().match(row);
   if (error) throw error;
   if (after) state.myCurrentVotes.set(id, after); else state.myCurrentVotes.delete(id);
   if (!state.currentScores.has(id)) state.currentScores.set(id, { ups: 0, downs: 0 });
@@ -231,10 +446,9 @@ async function voteCurrent(entry, value) {
 }
 
 async function submitSuggestion(entry, text, note) {
-  await ensureSignedIn();
-  const author_name = ($("displayName").value.trim() || "Anonymous").slice(0, 40);
+  requireMember();
   const { data, error } = await state.sb.from("suggestions")
-    .insert({ ns: entry.ns, key: entry.key, culture: state.culture, source_hash: entry.sourceHash, text, note, author_name })
+    .insert({ ns: entry.ns, key: entry.key, culture: state.culture, source_hash: entry.sourceHash, text, note })
     .select().single();
   if (error) throw error;
   const id = slotOf(entry);
@@ -249,153 +463,211 @@ async function withdrawSuggestion(s) {
 }
 
 function dropSuggestionLocally(s) {
-  const id = `${s.ns}\u001f${s.key}`;
   if (s.culture !== state.culture) return;
+  const id = `${s.ns}\u001f${s.key}`;
   const list = (state.suggestions.get(id) || []).filter((x) => x.id !== s.id);
   if (list.length) state.suggestions.set(id, list); else state.suggestions.delete(id);
 }
 
-// ---------- list view ----------
+// ---------- header / sidebar ----------
+
+function renderAccount() {
+  const signedIn = !!state.user;
+  $("signInBtn").hidden = signedIn || !state.sb;
+  $("accountBtn").hidden = !signedIn;
+  $("accountMenu").hidden = true;
+  $("adminBtn").hidden = !state.isAdmin;
+  $("adminNav").hidden = !state.isAdmin;
+  if (signedIn) {
+    $("accountBtn").textContent = `${displayNameOf(state.user)} ▾`;
+    $("accountWho").textContent = `Signed in with Discord as ${displayNameOf(state.user)}${state.isAdmin ? " · admin" : ""}. User id: ${state.user.id}`;
+  }
+}
+
+function matchesView(e, view) {
+  const t = e.t?.[state.culture];
+  const cur = currentOf(e);
+  const sugg = state.suggestions.get(slotOf(e));
+  switch (view) {
+    case "ai": return t?.status === "machine";
+    case "missing": return !cur || cur.status === "stale";
+    case "human": return !!cur && (cur.status === "reviewed" || cur.status === "approved");
+    case "open": return !!sugg?.length;
+    case "mine": return !!state.user && !!sugg?.some((s) => s.author === state.user.id);
+    default: return true;
+  }
+}
+
+function renderSidebar() {
+  const item = (name, count, active, onclick, attn) => h("div", { class: `side-item${active ? " active" : ""}`, onclick },
+    h("span", { class: "nm" }, name), count != null ? h("span", { class: `ct${attn ? " attn" : ""}` }, count) : null);
+  const inTheme = state.entries.filter((e) => !state.theme || e.theme === state.theme);
+  $("views").replaceChildren(...VIEWS.filter((v) => v.id !== "mine" || state.user).map((v) =>
+    item(v.name, inTheme.filter((e) => matchesView(e, v.id)).length, state.view === v.id, () => { state.view = v.id; state.shown = PAGE; renderAll(); })));
+  const inView = state.entries.filter((e) => matchesView(e, state.view.startsWith("admin") ? "all" : state.view));
+  $("themeList").replaceChildren(
+    item("All themes", inView.length, !state.theme, () => { state.theme = ""; state.shown = PAGE; if (state.view.startsWith("admin")) state.view = "all"; renderAll(); }),
+    ...state.themes.map((t) => item(t, inView.filter((e) => e.theme === t).length, state.theme === t, () => { state.theme = t; state.shown = PAGE; if (state.view.startsWith("admin")) state.view = "all"; renderAll(); })));
+  $("adminViews").replaceChildren(...ADMIN_VIEWS.map((v) =>
+    item(v.name, v.id === "admin-queue" ? state.queueRows.filter((r) => r.pass).length || null : null, state.view === v.id, guarded(async () => {
+      state.view = v.id;
+      renderAll();
+      if (v.id === "admin-queue") await loadQueue();
+    }), true)));
+}
+
+// ---------- list ----------
 
 function visibleEntries() {
   const q = $("search").value.trim().toLowerCase();
-  const area = $("area").value;
-  const filter = $("filter").value;
-  const c = state.culture;
   return state.entries.filter((e) => {
-    if (area && e.area !== area) return false;
-    const t = e.t?.[c];
-    const cur = currentOf(e, c);
-    const sugg = state.suggestions.get(slotOf(e));
-    if (filter === "ai" && t?.status !== "machine") return false;
-    if (filter === "missing" && cur && cur.status !== "stale") return false;
-    if (filter === "human" && !(cur && (cur.status === "reviewed" || cur.status === "approved"))) return false;
-    if (filter === "open" && !sugg?.length) return false;
-    if (filter === "mine" && !sugg?.some((s) => s.author === state.user?.id)) return false;
-    if (q && !(e.source.toLowerCase().includes(q) || (t?.text || "").toLowerCase().includes(q) || e.key.toLowerCase().includes(q))) return false;
-    return true;
+    if (state.theme && e.theme !== state.theme) return false;
+    if (!matchesView(e, state.view)) return false;
+    if (!q) return true;
+    const t = e.t?.[state.culture]?.text || "";
+    return e.source.toLowerCase().includes(q) || t.toLowerCase().includes(q) || (state.isAdmin && `${e.key} ${e.origin}`.toLowerCase().includes(q));
   });
 }
 
-function guarded(fn) {
-  return async (...args) => {
-    try { await fn(...args); } catch (e) { notice(e.message || String(e), true); }
-  };
+function renderList() {
+  const list = visibleEntries();
+  const c = state.culture;
+  $("countline").textContent = `${list.length} string${list.length === 1 ? "" : "s"} · ${cultureName(c)}` + (state.sb ? "" : " · voting and suggestions are not enabled yet");
+  const wrap = $("listWrap");
+  if (!list.length) { wrap.replaceChildren(h("div", { class: "empty-state" }, "Nothing here — try another view, theme or search.")); return; }
+  const table = h("table", { class: "list" },
+    h("colgroup", {}, h("col", { style: "width:42%" }), h("col", { style: "width:42%" }), h("col", { style: "width:16%" })),
+    h("thead", {}, h("tr", {}, h("th", {}, "English"), h("th", {}, cultureName(c, false)), h("th", {}, "Status"))));
+  const body = h("tbody");
+  for (const e of list.slice(0, state.shown)) {
+    const cur = currentOf(e);
+    const info = describe(cur);
+    const sugg = state.suggestions.get(slotOf(e))?.length || 0;
+    const tr = h("tr", { class: `row${state.selected === slotOf(e) ? " active" : ""}`, onclick: () => selectEntry(e) },
+      h("td", { class: "c-text" }, h("div", { class: "clamp", lang: "en" }, richBlock(e.source))),
+      h("td", { class: "c-text" }, cur ? h("div", { class: "clamp", lang: c }, richBlock(cur.text)) : h("span", { class: "empty" }, "—")),
+      h("td", { class: "c-meta" },
+        h("div", {}, h("span", { class: `sb ${info.cls}` }, info.cls === "community" ? "Community" : info.label)),
+        sugg ? h("div", {}, `${sugg} suggestion${sugg > 1 ? "s" : ""}`) : null));
+    body.append(tr);
+  }
+  table.append(body);
+  const more = list.length > state.shown
+    ? h("div", { class: "more" }, h("button", { class: "ghost", onclick: () => { state.shown += PAGE; renderList(); } }, `Show more (${list.length - state.shown} left)`))
+    : null;
+  wrap.replaceChildren(table, more);
 }
+
+function selectEntry(e) {
+  state.selected = slotOf(e);
+  for (const tr of $("listWrap").querySelectorAll("tr.row.active")) tr.classList.remove("active");
+  renderList();
+  renderPanel();
+}
+
+// ---------- detail panel ----------
 
 function voteBox(score, mine, onVote, disabledReason) {
   const dis = !state.sb || !!disabledReason;
-  const title = disabledReason || (state.sb ? "" : "Community features are not configured yet.");
+  const title = disabledReason || (!state.sb ? "Community features are not configured yet." : !state.user ? "Sign in with Discord to vote" : "");
   return h("span", { class: "votes", title },
     h("button", { class: `up${mine === 1 ? " active" : ""}`, disabled: dis, onclick: guarded(() => onVote(1)) }, `▲ ${score?.ups || 0}`),
-    h("span", { class: "net" }, net(score) > 0 ? `+${net(score)}` : net(score)),
+    h("span", { class: "net" }, signed(net(score))),
     h("button", { class: `down${mine === -1 ? " active" : ""}`, disabled: dis, onclick: guarded(() => onVote(-1)) }, `▼ ${score?.downs || 0}`));
 }
 
-function renderEntry(entry) {
+function renderPanel() {
+  const panel = $("panel");
+  const e = state.selected ? state.bySlot.get(state.selected) : null;
+  if (!e || state.view.startsWith("admin")) { panel.classList.remove("open"); return; }
+  panel.classList.add("open");
   const c = state.culture;
-  const id = slotOf(entry);
-  const cur = currentOf(entry, c);
+  const cur = currentOf(e);
   const info = describe(cur);
-  const curScore = currentScore(entry, c);
-  const sugg = [...(state.suggestions.get(id) || [])].sort((a, b) => net(b) - net(a) || a.id - b.id);
-  const expanded = state.expanded.has(id);
-  const card = h("div", { class: "entry" });
-  const rerender = () => card.replaceWith(renderEntry(entry));
+  const refresh = () => { renderPanel(); renderList(); renderSidebar(); };
 
-  const currentRow = h("div", { class: `current${cur ? "" : " empty"}` },
-    h("span", { class: `badge ${info.cls}` }, info.label),
-    h("div", { class: "text", lang: c }, cur ? cur.text : "No translation yet"),
-    cur ? voteBox(curScore, state.myCurrentVotes.get(`${c}|${id}|${fnv(cur.text)}`), async (v) => { await voteCurrent(entry, v); rerender(); }) : null);
+  $("panelHead").replaceChildren(
+    h("div", { class: "top" },
+      h("div", {}, h("div", { class: "theme" }, e.theme)),
+      h("span", { class: "close", title: "Close", onclick: () => { state.selected = null; renderPanel(); renderList(); } }, "✕")),
+    state.isAdmin ? h("div", { class: "origin" }, `${e.area} · ${e.ns ? `${e.ns},` : ""}${e.key}`, h("br"), e.origin) : null);
 
-  card.append(
-    h("div", { class: "head" },
-      h("span", {}, entry.area),
-      h("span", { class: "key", title: entry.origin }, entry.ns ? `${entry.ns} · ${entry.key}` : entry.key),
-      entry.maxLength > 0 ? h("span", {}, `max ${entry.maxLength} chars`) : null),
-    h("div", { class: "source text", lang: "en" }, entry.source),
-    entry.note ? h("div", { class: "muted" }, entry.note) : null,
-    currentRow,
-    h("div", { class: "toggle" },
-      h("button", { class: "link", onclick: () => { expanded ? state.expanded.delete(id) : state.expanded.add(id); rerender(); } },
-        expanded ? "Hide suggestions" : sugg.length ? `${sugg.length} suggestion${sugg.length > 1 ? "s" : ""} — view / suggest` : "Suggest a better translation")));
+  const body = [];
+  body.push(h("div", { class: "sec" }, "English"));
+  body.push(h("div", { class: "textbox", lang: "en" }, richBlock(e.source)));
+  if (e.note) body.push(h("div", { class: "devnote" }, e.note));
+  if (e.maxLength > 0) body.push(h("div", { class: "hint" }, `At most ${e.maxLength} characters.`));
 
-  if (expanded) {
-    const box = h("div", { class: "suggestions" });
-    for (const s of sugg) box.append(renderSuggestion(entry, s, curScore, rerender));
-    box.append(renderForm(entry, cur, rerender));
-    card.append(box);
+  body.push(h("div", { class: "sec" }, h("span", { class: "grow" }, `Current ${cultureName(c, false)}`), h("span", { class: `sb ${info.cls}` }, info.label)));
+  if (cur) {
+    body.push(h("div", { class: "textbox", lang: c }, richBlock(cur.text)));
+    body.push(h("div", { class: "rowline" },
+      voteBox(currentScore(e), state.myCurrentVotes.get(currentVoteKey(e, c, cur.text)), async (v) => { await voteCurrent(e, v); refresh(); }),
+      h("span", { class: "hint grow" }, cur.status === "machine" ? "Machine translated — vote to confirm it or suggest a better one." : "A suggestion replaces this only by outscoring it.")));
+  } else {
+    body.push(h("div", { class: "textbox empty" }, "No translation yet — be the first to suggest one."));
   }
-  return card;
+
+  const sugg = [...(state.suggestions.get(slotOf(e)) || [])].sort((a, b) => net(b) - net(a) || a.id - b.id);
+  const curScore = currentScore(e);
+  body.push(h("div", { class: "sec" }, `Suggestions (${sugg.length})`));
+  if (!sugg.length) body.push(h("div", { class: "hint" }, "No suggestions yet."));
+  for (const s of sugg) body.push(renderSuggestion(e, s, curScore, refresh));
+
+  body.push(h("div", { class: "sec" }, "Suggest a translation"));
+  body.push(renderForm(e, cur, refresh));
+  $("panelBody").replaceChildren(...body);
 }
 
-function renderSuggestion(entry, s, curScore, rerender) {
+function renderSuggestion(entry, s, curScore, refresh) {
   const outdated = s.source_hash !== entry.sourceHash;
   const mine = state.user && s.author === state.user.id;
-  const pass = passes(s, entry, curScore);
   return h("div", { class: `sugg${outdated ? " outdated" : ""}` },
-    h("div", { class: "line" },
-      h("div", { class: "text", lang: s.culture }, s.text),
-      voteBox(s, state.myVotes.get(s.id), async (v) => { await voteSuggestion(s, v); rerender(); }, mine ? "You can't vote on your own suggestion." : null)),
+    h("div", { class: "stext", lang: s.culture }, richBlock(s.text)),
     s.note ? h("div", { class: "note" }, s.note) : null,
-    h("div", { class: "by" },
-      h("span", {}, `${s.author_name} · ${fmtDate(s.created_at)}`),
-      outdated ? h("span", { class: "badge outdated", title: "The English text changed after this was suggested." }, "Outdated") : null,
-      pass ? h("span", { class: "badge pass" }, "In admin queue") : null,
-      mine ? h("span", { class: "badge mine" }, "Yours") : null,
-      mine ? h("button", { class: "link", onclick: guarded(async () => { await withdrawSuggestion(s); rerender(); }) }, "Withdraw") : null,
-      state.isAdmin ? h("button", { class: "link", onclick: guarded(async () => { await applySuggestions([s]); rerender(); }) }, "Apply") : null,
-      state.isAdmin ? h("button", { class: "link", onclick: guarded(async () => { await rejectSuggestions([s]); rerender(); }) }, "Reject") : null,
-      state.isAdmin && !mine ? h("button", { class: "link", onclick: guarded(async () => { await banAuthor(s); rerender(); }) }, "Ban author") : null));
+    h("div", { class: "rowline" },
+      voteBox(s, state.myVotes.get(s.id), async (v) => { await voteSuggestion(s, v); refresh(); }, mine ? "You can't vote on your own suggestion." : null),
+      h("span", { class: "grow" }, `${s.author_name} · ${fmtDate(s.created_at)}`),
+      outdated ? h("span", { class: "sb outdated", title: "The English text changed after this was suggested." }, "Outdated") : null,
+      passes(s, entry, curScore) ? h("span", { class: "sb pass" }, "In review") : null,
+      mine ? h("button", { class: "linkbtn", onclick: guarded(async () => { await withdrawSuggestion(s); refresh(); }) }, "Withdraw") : null,
+      state.isAdmin ? h("button", { class: "linkbtn", onclick: guarded(async () => { await applySuggestions([s]); refresh(); }) }, "Apply") : null,
+      state.isAdmin ? h("button", { class: "linkbtn", onclick: guarded(async () => { await rejectSuggestions([s]); refresh(); }) }, "Reject") : null,
+      state.isAdmin && !mine ? h("button", { class: "linkbtn danger", onclick: guarded(async () => { await banAuthor(s); refresh(); }) }, "Ban") : null));
 }
 
-function renderForm(entry, cur, rerender) {
-  if (!state.sb) return h("div", { class: "muted form" }, "Suggestions open once the community backend is configured.");
-  const text = h("textarea", { lang: state.culture, placeholder: `Your ${cultureName(state.culture).split(" · ")[0]} translation` });
-  text.value = cur?.text || "";
-  const note = h("input", { maxlength: "1000", placeholder: "Note (optional) — why this is better, context, terminology…" });
+function renderForm(entry, cur, refresh) {
+  if (!state.sb) return h("div", { class: "signin-box" }, "Suggestions open once the community backend is configured.");
+  if (!state.user) {
+    return h("div", { class: "signin-box" }, "Sign in with Discord to vote and suggest translations. One account, one vote — your Discord name is shown on your suggestions.",
+      h("br"), h("button", { class: "discord", onclick: guarded(signIn) }, "Sign in with Discord"));
+  }
   const problems = h("div", { class: "problems" });
-  const submit = h("button", { class: "primary" }, "Submit suggestion");
-  const check = () => {
-    const p = checkText(entry, text.value);
-    if (!p.length && cur && text.value === cur.text) p.push("Change the text to suggest something new.");
+  const submit = h("button", { class: "primary" }, "Submit");
+  const editor = createRichEditor(entry, cur?.text || "", () => check());
+  const note = h("input", { type: "text", maxlength: "1000", placeholder: "Note (optional) — why this is better, context, terminology…" });
+  function check() {
+    const text = editor.getText();
+    const p = checkText(entry, text);
+    if (!p.length && cur && text === cur.text) p.push("Change the text to suggest something new.");
     problems.replaceChildren(...p.map((x) => h("div", {}, x)));
     submit.disabled = p.length > 0;
-  };
-  text.addEventListener("input", check);
+  }
   submit.addEventListener("click", guarded(async () => {
     submit.disabled = true;
-    try { await submitSuggestion(entry, text.value, note.value.trim()); notice("Thanks — your suggestion is up for votes."); rerender(); }
+    try { await submitSuggestion(entry, editor.getText(), note.value.trim()); notice("Thanks — your suggestion is up for votes.", "ok"); refresh(); }
     finally { submit.disabled = false; }
   }));
-  check();
-  return h("div", { class: "form" }, text, note, problems, h("div", { class: "row" }, submit,
-    h("span", { class: "muted" }, "Keep {arguments} and <Tag>…</> markup unchanged.")));
-}
-
-function render() {
-  const list = visibleEntries();
-  const pages = Math.max(1, Math.ceil(list.length / PAGE_SIZE));
-  state.page = Math.min(state.page, pages - 1);
-  const c = state.culture;
-  const done = state.entries.filter((e) => currentOf(e, c) && e.t[c].status !== "stale").length;
-  const ai = state.entries.filter((e) => e.t?.[c]?.status === "machine").length;
-  const open = [...state.suggestions.values()].reduce((n, l) => n + l.length, 0);
-  $("summary").textContent = `${list.length} of ${state.entries.length} strings · ${cultureName(c)}: ${done} translated, ${ai} by AI · ${open} open suggestions` +
-    (state.sb ? "" : " · voting and suggestions are not enabled yet");
-  $("list").replaceChildren(...list.slice(state.page * PAGE_SIZE, (state.page + 1) * PAGE_SIZE).map(renderEntry));
-  const go = (p) => () => { state.page = p; render(); window.scrollTo(0, 0); };
-  $("pager").replaceChildren(
-    h("button", { disabled: state.page === 0, onclick: go(state.page - 1) }, "‹ Previous"),
-    h("span", { class: "muted" }, `Page ${state.page + 1} of ${pages}`),
-    h("button", { disabled: state.page >= pages - 1, onclick: go(state.page + 1) }, "Next ›"));
+  queueMicrotask(check);
+  return h("div", {}, editor.el, h("div", { style: "margin-top:6px" }, note), problems,
+    h("div", { class: "formfoot" }, h("span", { class: "hint grow" }, `Suggesting as ${displayNameOf(state.user)}`), submit));
 }
 
 // ---------- GitHub (admin) ----------
 
 async function gh(path, init = {}) {
   const token = localStorage.getItem(LS.token);
-  if (!token) throw new Error("Add your GitHub token in the admin panel first.");
+  if (!token) throw new Error("Add your GitHub token under Admin → Settings first.");
   const r = await fetch(`https://api.github.com/repos/${state.config.repo}${path ? `/${path}` : ""}`, {
     ...init,
     headers: { Authorization: `Bearer ${token}`, Accept: "application/vnd.github+json", "X-GitHub-Api-Version": "2022-11-28", ...(init.body ? { "Content-Type": "application/json" } : {}) },
@@ -466,7 +738,7 @@ async function commitFiles(buildChanges, message) {
 
 // Picks the best selected suggestion per slot, re-checks it against the live file, commits once.
 async function applySuggestions(list) {
-  if (!state.isAdmin) throw new Error("Sign in with your admin account first.");
+  if (!state.isAdmin) throw new Error("Admin only.");
   const best = new Map();
   for (const s of list) {
     const id = `${s.culture}|${s.ns}\u001f${s.key}`;
@@ -483,6 +755,7 @@ async function applySuggestions(list) {
   let applied = [];
   const skipped = [];
   const at = new Date().toISOString().replace(/\.\d+Z$/, "Z");
+  const cultures = [...new Set(chosen.map((s) => s.culture))].join(", ");
   const done = await commitFiles(async (readFile) => {
     applied = [];
     skipped.length = 0;
@@ -508,11 +781,11 @@ async function applySuggestions(list) {
       changes.push({ path: file, content: ueJson(doc, eol) + raw.match(/\s*$/)[0] });
     }
     return changes;
-  }, `Apply community suggestions from the web editor (${chosen.map((s) => s.culture).filter((c, i, a) => a.indexOf(c) === i).join(", ")})`);
+  }, `Apply community suggestions from the web editor (${cultures})`);
 
   if (done && applied.length) {
     const { error } = await state.sb.from("suggestions").update({ status: "applied", resolved_at: new Date().toISOString() }).in("id", applied.map((s) => s.id));
-    if (error) notice(`Committed, but marking suggestions as applied failed: ${error.message}`, true, true);
+    if (error) notice(`Committed, but marking suggestions as applied failed: ${error.message}`, "err", true);
     for (const s of applied) {
       const entry = state.bySlot.get(`${s.ns}\u001f${s.key}`);
       entry.t = entry.t || {};
@@ -520,21 +793,21 @@ async function applySuggestions(list) {
       dropSuggestionLocally(s);
     }
   }
-  const msg = `${applied.length} applied${skipped.length ? `, ${skipped.length} skipped (${skipped.map(([s, why]) => `${s.culture} "${s.text.slice(0, 30)}": ${why}`).join("; ")})` : ""}.` +
-    (applied.length ? " The site updates in about a minute; Unreal picks it up on its next sync." : "");
-  notice(msg, skipped.length > 0 && !applied.length, skipped.length > 0);
-  if ($("admin").hidden === false) await loadQueue();
-  render();
+  const why = skipped.map(([s, reason]) => `${s.culture} "${s.text.slice(0, 30)}": ${reason}`).join("; ");
+  notice(`${applied.length} applied${skipped.length ? `, ${skipped.length} skipped (${why})` : ""}.` + (applied.length ? " The site updates in about a minute; Unreal picks it up on its next sync." : ""),
+    skipped.length && !applied.length ? "err" : "ok", skipped.length > 0);
+  if (state.view === "admin-queue") await loadQueue();
+  renderAll();
 }
 
 async function rejectSuggestions(list) {
-  if (!state.isAdmin) throw new Error("Sign in with your admin account first.");
+  if (!state.isAdmin) throw new Error("Admin only.");
   const { error } = await state.sb.from("suggestions").update({ status: "rejected", resolved_at: new Date().toISOString() }).in("id", list.map((s) => s.id));
   if (error) throw error;
   list.forEach(dropSuggestionLocally);
-  notice(`${list.length} rejected.`);
-  if ($("admin").hidden === false) await loadQueue();
-  render();
+  notice(`${list.length} rejected.`, "ok");
+  if (state.view === "admin-queue") await loadQueue();
+  renderAll();
 }
 
 async function banAuthor(s) {
@@ -545,171 +818,156 @@ async function banAuthor(s) {
     .eq("author", s.author).eq("status", "open").select("id,ns,key,culture");
   if (e2) throw e2;
   (data || []).forEach(dropSuggestionLocally);
-  notice(`Banned ${s.author_name}; ${data?.length || 0} suggestion(s) rejected.`);
-  render();
+  notice(`Banned ${s.author_name}; ${data?.length || 0} suggestion(s) rejected.`, "ok");
+  renderAll();
 }
 
-// ---------- admin panel ----------
+// ---------- admin views ----------
 
-function renderAdminAuth() {
-  const who = $("adminWho");
-  const signedInAdmin = state.user && !state.user.is_anonymous;
-  $("adminAuth").hidden = !!signedInAdmin;
-  $("adminSignOut").hidden = !signedInAdmin;
-  who.textContent = !state.sb ? "Supabase is not configured (community/config.json)."
-    : signedInAdmin ? `Signed in as ${state.user.email} — ${state.isAdmin ? "admin ✓" : `not an admin yet (user id ${state.user.id})`}`
-    : "Not signed in.";
+async function loadQueue() {
+  if (!state.isAdmin) return;
+  const [sugg, scores] = await Promise.all([
+    fetchAll(() => state.sb.from("open_suggestions").select("*").order("id")),
+    fetchAll(() => state.sb.from("current_scores").select("*")),
+  ]);
+  const scoreMap = new Map(scores.map((r) => [`${r.culture}|${r.ns}\u001f${r.key}|${r.text_hash}`, r]));
+  let rows = [];
+  for (const s of sugg) {
+    const entry = state.bySlot.get(`${s.ns}\u001f${s.key}`);
+    const cur = entry ? currentScore(entry, s.culture, scoreMap) : null;
+    rows.push({ s, entry, cur, pass: passes(s, entry, cur), outdated: !entry || entry.sourceHash !== s.source_hash });
+  }
+  if (!state.queueShowAll) {
+    const best = new Map();
+    for (const r of rows.filter((x) => x.pass)) {
+      const id = `${r.s.culture}|${r.s.ns}\u001f${r.s.key}`;
+      if (!best.has(id) || net(r.s) > net(best.get(id).s)) best.set(id, r);
+    }
+    rows = [...best.values()];
+  }
+  rows.sort((a, b) => a.s.culture.localeCompare(b.s.culture) || net(b.s) - net(a.s));
+  state.queueRows = rows;
+  state.queueSelected = new Set([...state.queueSelected].filter((id) => rows.some((r) => r.s.id === id)));
+  if (state.view === "admin-queue") renderAdminView();
+  renderSidebar();
 }
 
-function renderThresholds() {
-  const box = $("thresholds");
+const selectedQueue = () => state.queueRows.filter((r) => state.queueSelected.has(r.s.id)).map((r) => r.s);
+
+function renderAdminView() {
+  const box = $("adminView");
+  if (state.view === "admin-settings") { box.replaceChildren(renderSettingsView()); return; }
+  const rows = state.queueRows;
+  const showAll = h("input", { type: "checkbox", checked: state.queueShowAll });
+  showAll.addEventListener("change", guarded(async () => { state.queueShowAll = showAll.checked; await loadQueue(); }));
+  const bar = h("div", { class: "rowline" },
+    h("span", { class: "hint grow" }, state.queueShowAll ? "Every open suggestion." : "Best suggestion per text that reached its threshold and beats the current translation."),
+    h("label", { class: "hint" }, showAll, " Show all open"),
+    h("button", { class: "ghost small", onclick: guarded(loadQueue) }, "Refresh"),
+    h("button", { class: "ghost small", onclick: () => {
+      const eligible = rows.filter((r) => !r.outdated);
+      const allOn = eligible.length && eligible.every((r) => state.queueSelected.has(r.s.id));
+      state.queueSelected = new Set(allOn ? [] : eligible.map((r) => r.s.id));
+      renderAdminView();
+    } }, "Select all"),
+    h("button", { class: "danger small", onclick: guarded(async () => {
+      const list = selectedQueue();
+      if (!list.length) throw new Error("Select suggestions first.");
+      if (!confirm(`Reject ${list.length} suggestion(s)?`)) return;
+      await rejectSuggestions(list);
+      state.queueSelected.clear();
+    }) }, "Reject selected"),
+    h("button", { class: "primary small", onclick: guarded(async (ev) => {
+      const list = selectedQueue();
+      if (!list.length) throw new Error("Select suggestions first.");
+      if (!confirm(`Apply ${list.length} suggestion(s) to the repo?`)) return;
+      ev.target.disabled = true;
+      try { await applySuggestions(list); state.queueSelected.clear(); } finally { ev.target.disabled = false; }
+    }) }, `Apply selected (${state.queueSelected.size})`));
+
+  const card = h("div", { class: "card" }, h("h3", {}, "Review queue"), bar);
+  if (!rows.length) card.append(h("div", { class: "empty-state" }, state.queueShowAll ? "No open suggestions." : "Nothing has reached the threshold yet."));
+  else {
+    const table = h("table", { class: "queue" }, h("tr", {}, h("th", {}, ""), h("th", {}, "Lang"), h("th", {}, "English"), h("th", {}, "Current"), h("th", {}, "Suggestion"), h("th", {}, "Score"), h("th", {}, "Needs")));
+    for (const r of rows) {
+      const { s, entry, cur } = r;
+      const t = entry ? currentOf(entry, s.culture) : null;
+      const check = h("input", { type: "checkbox", checked: state.queueSelected.has(s.id), disabled: r.outdated });
+      check.addEventListener("change", () => { check.checked ? state.queueSelected.add(s.id) : state.queueSelected.delete(s.id); renderAdminView(); });
+      const need = Math.max(thresholdFor(s.culture), state.settings.requireBeatCurrent ? net(cur) + 1 : 0);
+      table.append(h("tr", { class: r.outdated ? "outdated" : "" },
+        h("td", {}, check),
+        h("td", {}, s.culture),
+        h("td", { class: "t" }, entry ? richBlock(entry.source) : "(string removed)", entry ? h("div", { class: "sub" }, entry.origin) : null),
+        h("td", { class: "t" }, t ? [h("span", { class: `sb ${describe(t).cls}` }, describe(t).label), h("br"), richBlock(t.text)] : h("span", { class: "hint" }, "untranslated")),
+        h("td", { class: "t" }, richBlock(s.text), s.note ? h("div", { class: "sub" }, s.note) : null, h("div", { class: "sub" }, `${s.author_name} · ${fmtDate(s.created_at)}${r.outdated ? " · outdated" : ""}`)),
+        h("td", { class: "num" }, `${signed(net(s))} (${s.ups}/${s.downs})`, cur ? h("div", { class: "sub" }, `current ${signed(net(cur))}`) : null),
+        h("td", { class: "num" }, r.pass ? "✓" : `≥ ${need}`)));
+    }
+    card.append(table);
+  }
+  box.replaceChildren(card);
+}
+
+function renderSettingsView() {
+  const tokenIn = h("input", { type: "password", placeholder: "github_pat_…", autocomplete: "off" });
+  const tokenState = h("div", { class: "hint" }, localStorage.getItem(LS.token) ? "Checking token…" : "No token saved.");
+  const checkToken = async () => {
+    if (!localStorage.getItem(LS.token)) { tokenState.textContent = "No token saved."; return; }
+    try {
+      const repo = await gh("");
+      tokenState.textContent = repo.permissions?.push ? `Token can write to ${repo.full_name} ✓` : `Token can read ${repo.full_name} but not write.`;
+    } catch (e) { tokenState.textContent = e.message; }
+  };
+  checkToken();
+  const tokenCard = h("div", { class: "card" }, h("h3", {}, "GitHub token"),
+    h("div", { class: "hint" }, "Fine-grained token for this repo with Contents: read/write. Used to apply suggestions and save thresholds; kept only in this browser."),
+    h("div", { class: "rowline", style: "margin-top:8px" }, tokenIn,
+      h("button", { class: "small", onclick: guarded(async () => { const v = tokenIn.value.trim(); if (v) localStorage.setItem(LS.token, v); tokenIn.value = ""; await checkToken(); }) }, "Save"),
+      h("button", { class: "ghost small", onclick: guarded(async () => { localStorage.removeItem(LS.token); await checkToken(); }) }, "Forget")),
+    tokenState);
+
   const s = state.settings;
+  const saved = h("span", { class: "hint grow" });
+  const dirty = () => (saved.textContent = "Unsaved changes");
   const def = h("input", { type: "number", min: "1", step: "1", value: s.defaultThreshold });
-  def.addEventListener("input", () => { s.defaultThreshold = Math.max(1, parseInt(def.value, 10) || 1); $("thresholdsState").textContent = "unsaved"; });
+  def.addEventListener("input", () => { s.defaultThreshold = Math.max(1, parseInt(def.value, 10) || 1); dirty(); });
   const beat = h("input", { type: "checkbox", checked: s.requireBeatCurrent });
-  beat.addEventListener("change", () => { s.requireBeatCurrent = beat.checked; $("thresholdsState").textContent = "unsaved"; });
-  const rows = [h("span", {}, "Default"), def, h("span", {}, "Must outscore current"), beat];
+  beat.addEventListener("change", () => { s.requireBeatCurrent = beat.checked; dirty(); });
+  const grid = h("div", { id: "thresholds" }, h("span", {}, "Default net score"), def, h("span", {}, "Must outscore the current translation"), beat);
   for (const c of state.cultures) {
     const input = h("input", { type: "number", min: "1", step: "1", placeholder: String(s.defaultThreshold), value: s.cultures?.[c] ?? "" });
     input.addEventListener("input", () => {
       const v = parseInt(input.value, 10);
       s.cultures = s.cultures || {};
       if (v > 0) s.cultures[c] = v; else delete s.cultures[c];
-      $("thresholdsState").textContent = "unsaved";
+      dirty();
     });
-    rows.push(h("span", { class: "muted" }, cultureName(c)), input);
+    grid.append(h("span", {}, cultureName(c)), input);
   }
-  box.replaceChildren(...rows);
+  const thresholdCard = h("div", { class: "card" }, h("h3", {}, "Acceptance threshold"),
+    h("div", { class: "hint" }, "A suggestion enters the review queue at net score (up − down) ≥ threshold. Leave a language empty to use the default."),
+    grid,
+    h("div", { class: "rowline", style: "margin-top:10px" }, saved, h("button", { class: "primary small", onclick: guarded(async () => {
+      const clean = { defaultThreshold: s.defaultThreshold, requireBeatCurrent: !!s.requireBeatCurrent, cultures: s.cultures || {} };
+      const ok = await commitFiles(async () => [{ path: "community/settings.json", content: `${JSON.stringify(clean, null, "\t")}\n` }], "Update community acceptance thresholds");
+      saved.textContent = ok ? "Saved to the repo." : "No change.";
+      await loadQueue();
+    }) }, "Save to repo")));
+  return h("div", { class: "grid2" }, tokenCard, thresholdCard);
 }
 
-async function saveThresholds() {
-  const clean = { defaultThreshold: state.settings.defaultThreshold, requireBeatCurrent: !!state.settings.requireBeatCurrent, cultures: state.settings.cultures || {} };
-  const content = `${JSON.stringify(clean, null, "\t")}\n`;
-  const ok = await commitFiles(async () => [{ path: "community/settings.json", content }], "Update community acceptance thresholds");
-  $("thresholdsState").textContent = ok ? "saved" : "no change";
-  await loadQueue();
-  render();
-}
+// ---------- render ----------
 
-async function checkToken() {
-  const who = $("ghWho");
-  if (!localStorage.getItem(LS.token)) { who.textContent = "No token saved."; return; }
-  try {
-    const repo = await gh("");
-    who.textContent = repo.permissions?.push ? `Token can write to ${repo.full_name} ✓` : `Token can read ${repo.full_name} but not write.`;
-  } catch (e) { who.textContent = e.message; }
-}
-
-async function loadQueue() {
-  const box = $("queue");
-  if (!state.sb || !state.isAdmin) { box.textContent = "Sign in with your admin account to load the queue."; return; }
-  box.textContent = "Loading…";
-  const [sugg, scores] = await Promise.all([
-    fetchAll(() => state.sb.from("open_suggestions").select("*").order("id")),
-    fetchAll(() => state.sb.from("current_scores").select("*")),
-  ]);
-  const scoreMap = new Map(scores.map((r) => [`${r.culture}|${r.ns}\u001f${r.key}|${r.text_hash}`, r]));
-  const showAll = $("queueAll").checked;
-  const rows = [];
-  for (const s of sugg) {
-    const entry = state.bySlot.get(`${s.ns}\u001f${s.key}`);
-    const cur = entry ? currentScore(entry, s.culture, scoreMap) : null;
-    const pass = passes(s, entry, cur);
-    if (pass || showAll) rows.push({ s, entry, cur, pass, outdated: !entry || entry.sourceHash !== s.source_hash });
-  }
-  if (!showAll) {
-    const best = new Map();
-    for (const r of rows) {
-      const id = `${r.s.culture}|${r.s.ns}\u001f${r.s.key}`;
-      if (!best.has(id) || net(r.s) > net(best.get(id).s)) best.set(id, r);
-    }
-    rows.splice(0, rows.length, ...best.values());
-  }
-  rows.sort((a, b) => a.s.culture.localeCompare(b.s.culture) || net(b.s) - net(a.s));
-  state.queueRows = rows;
-  state.queueSelected = new Set([...state.queueSelected].filter((id) => rows.some((r) => r.s.id === id)));
-  renderQueue();
-}
-
-function renderQueue() {
-  const box = $("queue");
-  const rows = state.queueRows;
-  if (!rows.length) { box.textContent = $("queueAll").checked ? "No open suggestions." : "Nothing has reached the threshold yet."; return; }
-  const table = h("table", { class: "queue" },
-    h("tr", {}, h("th", {}, ""), h("th", {}, "Lang"), h("th", {}, "English"), h("th", {}, "Current"), h("th", {}, "Suggestion"), h("th", {}, "Score"), h("th", {}, "Needs")));
-  for (const r of rows) {
-    const { s, entry, cur } = r;
-    const t = entry ? currentOf(entry, s.culture) : null;
-    const box2 = h("input", { type: "checkbox", checked: state.queueSelected.has(s.id), disabled: r.outdated });
-    box2.addEventListener("change", () => { box2.checked ? state.queueSelected.add(s.id) : state.queueSelected.delete(s.id); });
-    const need = Math.max(thresholdFor(s.culture), state.settings.requireBeatCurrent ? net(cur) + 1 : 0);
-    table.append(h("tr", { class: r.outdated ? "outdated" : "" },
-      h("td", {}, box2),
-      h("td", {}, s.culture),
-      h("td", { class: "text" }, entry ? entry.source : "(string removed)"),
-      h("td", { class: "text" }, t ? [h("span", { class: `badge ${describe(t).cls}` }, describe(t).label), h("br"), t.text] : h("span", { class: "muted" }, "untranslated")),
-      h("td", { class: "text" }, s.text, s.note ? h("div", { class: "muted" }, s.note) : null, h("div", { class: "muted" }, `${s.author_name} · ${fmtDate(s.created_at)}${r.outdated ? " · outdated" : ""}`)),
-      h("td", { class: "num" }, `${net(s) > 0 ? "+" : ""}${net(s)} (${s.ups}/${s.downs})${cur ? ` vs ${net(cur)}` : ""}`),
-      h("td", { class: "num" }, r.pass ? "✓" : `≥ ${need}`)));
-  }
-  box.replaceChildren(table);
-}
-
-const selectedQueue = () => state.queueRows.filter((r) => state.queueSelected.has(r.s.id)).map((r) => r.s);
-
-function wireAdmin() {
-  $("adminToggle").addEventListener("click", guarded(async () => {
-    const panel = $("admin");
-    panel.hidden = !panel.hidden;
-    if (!panel.hidden) { renderAdminAuth(); renderThresholds(); await checkToken(); await loadQueue(); }
-  }));
-  $("adminSignIn").addEventListener("click", guarded(async () => {
-    if (!state.sb) throw new Error("Supabase is not configured.");
-    const { error } = await state.sb.auth.signInWithPassword({ email: $("adminEmail").value.trim(), password: $("adminPassword").value });
-    if (error) throw error;
-    $("adminPassword").value = "";
-    await refreshUser();
-    await loadCommunity();
-    await loadQueue();
-    render();
-  }));
-  $("adminSignOut").addEventListener("click", guarded(async () => {
-    await state.sb.auth.signOut();
-    await refreshUser();
-    await loadCommunity();
-    await loadQueue();
-    render();
-  }));
-  $("ghSave").addEventListener("click", guarded(async () => {
-    const v = $("ghToken").value.trim();
-    if (v) localStorage.setItem(LS.token, v);
-    $("ghToken").value = "";
-    await checkToken();
-  }));
-  $("ghForget").addEventListener("click", guarded(async () => { localStorage.removeItem(LS.token); await checkToken(); }));
-  $("thresholdsSave").addEventListener("click", guarded(saveThresholds));
-  $("queueRefresh").addEventListener("click", guarded(loadQueue));
-  $("queueAll").addEventListener("change", guarded(loadQueue));
-  $("queueSelectAll").addEventListener("click", () => {
-    const all = state.queueRows.filter((r) => !r.outdated);
-    const allOn = all.every((r) => state.queueSelected.has(r.s.id));
-    state.queueSelected = new Set(allOn ? [] : all.map((r) => r.s.id));
-    renderQueue();
-  });
-  $("queueApply").addEventListener("click", guarded(async () => {
-    const list = selectedQueue();
-    if (!list.length) throw new Error("Select suggestions first.");
-    if (!confirm(`Apply ${list.length} suggestion(s) to the repo?`)) return;
-    $("queueApply").disabled = true;
-    try { await applySuggestions(list); state.queueSelected.clear(); } finally { $("queueApply").disabled = false; }
-  }));
-  $("queueReject").addEventListener("click", guarded(async () => {
-    const list = selectedQueue();
-    if (!list.length) throw new Error("Select suggestions first.");
-    if (!confirm(`Reject ${list.length} suggestion(s)?`)) return;
-    await rejectSuggestions(list);
-    state.queueSelected.clear();
-  }));
+function renderAll() {
+  const admin = state.view.startsWith("admin");
+  $("listWrap").hidden = admin;
+  $("toolbar").querySelector(".trow").hidden = admin;
+  $("countline").hidden = admin;
+  $("adminView").hidden = !admin;
+  renderSidebar();
+  if (admin) renderAdminView(); else renderList();
+  renderPanel();
 }
 
 // ---------- boot ----------
@@ -721,54 +979,70 @@ async function fetchJson(path) {
 }
 
 async function boot() {
-  state.config = await fetchJson("community/config.json").catch(() => ({}));
-  state.settings = { ...state.settings, ...(await fetchJson("community/settings.json").catch(() => ({}))) };
-  state.project = await fetchJson("Project.json");
-  state.cultures = state.project.cultures;
+  const [config, settings, themes, project] = await Promise.all([
+    fetchJson("community/config.json").catch(() => ({})),
+    fetchJson("community/settings.json").catch(() => ({})),
+    fetchJson("community/themes.json").catch(() => ({})),
+    fetchJson("Project.json"),
+  ]);
+  state.config = config;
+  state.settings = { ...state.settings, ...settings };
+  state.project = project;
+  state.cultures = project.cultures;
+  const compiled = compileThemes(themes);
 
-  const docs = await Promise.all(state.project.areas.map((a) => fetchJson(a.file).then((d) => ({ a, d }))));
+  const docs = await Promise.all(project.areas.map((a) => fetchJson(a.file).then((d) => ({ a, d }))));
+  const seen = new Set();
   for (const { a, d } of docs) {
     for (const e of d.entries) {
       e.area = a.area;
       e.file = a.file;
+      e.theme = themeOf(compiled, e);
+      if (!e.theme) continue;
+      seen.add(e.theme);
       state.entries.push(e);
       state.bySlot.set(slotOf(e), e);
     }
   }
+  state.themes = [...compiled.themes.map((t) => t.name), compiled.fallback].filter((t) => seen.has(t));
 
   const urlLang = new URLSearchParams(location.search).get("lang");
   const saved = localStorage.getItem(LS.culture);
   const browser = state.cultures.find((c) => navigator.language?.toLowerCase().startsWith(c.split("-")[0].toLowerCase()));
   state.culture = [urlLang, saved, browser, state.cultures[0]].find((c) => c && state.cultures.includes(c));
-
   const sel = $("culture");
   sel.replaceChildren(...state.cultures.map((c) => h("option", { value: c, selected: c === state.culture }, cultureName(c))));
-  $("area").append(...state.project.areas.map((a) => h("option", { value: a.area }, `${a.area} (${a.entries})`)));
-  $("displayName").value = localStorage.getItem(LS.name) || "";
 
-  if (state.config.supabaseUrl && state.config.supabaseAnonKey) {
-    state.sb = createClient(state.config.supabaseUrl, state.config.supabaseAnonKey, { auth: { persistSession: true } });
-    await refreshUser();
-    try { await loadCommunity(); } catch (e) { notice(`Could not load suggestions: ${e.message}`, true, true); }
+  if (config.supabaseUrl && config.supabaseAnonKey) {
+    state.sb = createClient(config.supabaseUrl, config.supabaseAnonKey, { auth: { persistSession: true, detectSessionInUrl: true, flowType: "pkce" } });
+    const { data } = await state.sb.auth.getSession();
+    await applySession(data.session);
+    state.sb.auth.onAuthStateChange((event, session) => {
+      if (event !== "SIGNED_IN" && event !== "SIGNED_OUT") return;
+      setTimeout(guarded(async () => { await applySession(session); await loadCommunity(); renderAll(); }), 0);
+    });
+    try { await loadCommunity(); } catch (e) { notice(`Could not load suggestions: ${e.message}`, "err", true); }
   } else {
-    notice("Browsing only — community voting and suggestions are not switched on yet.", false, true);
+    notice("Browsing only — voting and suggestions are not switched on yet.", "", true);
   }
+  renderAccount();
 
   sel.addEventListener("change", guarded(async () => {
     state.culture = sel.value;
     localStorage.setItem(LS.culture, state.culture);
-    state.page = 0;
-    state.expanded.clear();
+    state.shown = PAGE;
     await loadCommunity();
-    render();
+    renderAll();
   }));
   let searchTimer = 0;
-  $("search").addEventListener("input", () => { clearTimeout(searchTimer); searchTimer = setTimeout(() => { state.page = 0; render(); }, 150); });
-  $("area").addEventListener("change", () => { state.page = 0; render(); });
-  $("filter").addEventListener("change", () => { state.page = 0; render(); });
-  $("displayName").addEventListener("change", () => localStorage.setItem(LS.name, $("displayName").value.trim()));
-  wireAdmin();
-  render();
+  $("search").addEventListener("input", () => { clearTimeout(searchTimer); searchTimer = setTimeout(() => { state.shown = PAGE; renderList(); }, 150); });
+  $("signInBtn").addEventListener("click", guarded(signIn));
+  $("accountBtn").addEventListener("click", (e) => { e.stopPropagation(); $("accountMenu").hidden = !$("accountMenu").hidden; });
+  document.addEventListener("click", (e) => { if (!$("account").contains(e.target)) $("accountMenu").hidden = true; });
+  $("copyIdBtn").addEventListener("click", guarded(async () => { await navigator.clipboard.writeText(state.user.id); notice("User id copied.", "ok"); }));
+  $("signOutBtn").addEventListener("click", guarded(async () => { await state.sb.auth.signOut(); }));
+  $("adminBtn").addEventListener("click", guarded(async () => { state.view = "admin-queue"; renderAll(); await loadQueue(); }));
+  renderAll();
 }
 
-boot().catch((e) => { $("summary").textContent = e.message; notice(e.message, true, true); });
+boot().catch((e) => { $("countline").textContent = e.message; notice(e.message, "err", true); });

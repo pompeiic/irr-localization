@@ -49,33 +49,45 @@ Rules the check enforces (and Unreal re-checks on import):
 
 ## Community editor
 
-Anyone can browse, vote (▲/▼) on the current translation and on suggestions, and suggest a better
-translation with an optional note — no account, an anonymous session is created on the first vote.
-AI translations (`status: machine`) are labelled as such. Suggestions and votes live in Supabase; nothing
-reaches the game until an admin applies it.
+Anyone can browse. To vote (▲/▼) on the current translation and on suggestions, or to suggest a better
+translation with an optional note, people sign in with **Discord** — one account, one vote, and the
+Discord name is shown on their suggestions (set by the database, not the browser). AI translations
+(`status: machine`) are labelled as such. Suggestions and votes live in Supabase; nothing reaches the game
+until an admin applies it.
 
-- A suggestion enters the **admin queue** once its net score (up − down) reaches the threshold for its
+- Strings are grouped by game **theme** (`community/themes.json`: first matching regex on
+  `area|origin` wins; `hidden` = dev-only text, also excluded from the Unreal gather). Asset paths and
+  keys are shown to admins only.
+- In-game formatting is shown rendered, never as raw `<Tag>…</>` markup. Tags that wrap a whole text are
+  applied automatically; inner formatting is set by selecting words and clicking e.g. **Red** / **Bold**.
+  `{Placeholders}` are locked chips with insert buttons. An opener nothing closes (`cd <directory>`) is
+  literal text.
+- A suggestion enters the **review queue** once its net score (up − down) reaches the threshold for its
   language (`community/settings.json`: `defaultThreshold`, per-language `cultures` overrides) and — with
   `requireBeatCurrent` — beats the current translation's net score.
-- The admin bulk-applies from the queue with their own GitHub token (kept in their browser only). One
-  commit rewrites the touched area files in Unreal's JSON layout, setting
-  `status: reviewed`, `by: community:<name>`. Unreal imports it on its next sync.
+- Admins (`public.admins`) see the Admin views after signing in; nobody else sees them. The admin
+  bulk-applies from the queue with their own GitHub token (kept in their browser only). One commit
+  rewrites the touched area files in Unreal's JSON layout, setting `status: reviewed`,
+  `by: community:<name>`. Unreal imports it on its next sync.
 - A suggestion made for older English text is shown as **Outdated** and cannot be applied.
 - Spam guard: 30 suggestions per hour per person, no duplicates; admins can reject and ban.
 
 ### One-time setup (admin)
 
 1. Create a free project on [supabase.com](https://supabase.com). SQL Editor → paste
-   `community/schema.sql` → Run.
-2. Authentication → Sign In / Providers → enable **Anonymous sign-ins**. Optional but recommended:
-   Authentication → Attack Protection → enable **Captcha** (Cloudflare Turnstile) and put the Turnstile
-   *site* key into `community/config.json` → `turnstileSiteKey`.
-3. Authentication → Users → **Add user** (email + password) for yourself, copy its user id, then in the
-   SQL Editor: `insert into public.admins (user_id) values ('<user id>');`
-4. Project Settings → API: put the Project URL and the **anon public** key into `community/config.json`
-   (both are meant to be public — the access rules in `schema.sql` are what protect the data).
-5. On the editor page: **Admin** → sign in → paste a fine-grained GitHub token for this repo with
-   Contents: read/write.
+   `community/schema.sql` → Run (re-run it after it changes; it is safe to run repeatedly).
+2. Discord: [discord.com/developers/applications](https://discord.com/developers/applications) → **New
+   Application** → OAuth2 → add the redirect `https://<project>.supabase.co/auth/v1/callback` → copy
+   Client ID + Client Secret.
+3. Supabase → Authentication → Sign In / Providers → **Discord**: enable, paste Client ID + Secret. Turn
+   **Anonymous sign-ins** off. Authentication → URL Configuration: Site URL
+   `https://pompeiic.github.io/irr-localization/editor.html`, redirect URLs
+   `https://pompeiic.github.io/irr-localization/**`.
+4. Project Settings → API: put the Project URL and the **publishable** key into `community/config.json`
+   (both are meant to be public — the access rules in `schema.sql` protect the data).
+5. Sign in on the editor with Discord, account menu → **Copy user id**, then in the SQL Editor:
+   `insert into public.admins (user_id) values ('<user id>');` — reload, the Admin views appear.
+6. Admin → Settings: paste a fine-grained GitHub token for this repo with Contents: read/write.
 
 `keepalive.yml` pings the backend daily so the free project is never paused for inactivity.
 

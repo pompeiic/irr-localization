@@ -1,0 +1,25 @@
+{
+	"about": "Groups strings by game theme for the editor. Each pattern is a case-insensitive regex tested against 'area|origin'; the first theme with a matching pattern wins. 'hidden' strings are never shown (dev-only text that is also excluded from the Unreal gather).",
+	"hidden": [
+		"^Blueprints/AI\\|",
+		"W_DebugSimpleAbilitySystem",
+		"/MissionSystem/NewQuest\\."
+	],
+	"themes": [
+		{ "name": "Weapons & Attachments", "match": ["/(Items|Templates)/(Weapons|Attachments|Melee|Ammunition|Grenades)/"] },
+		{ "name": "Gear & Supplies", "match": ["/(Items|Templates)/", "/SecureContainer", "/ItemContainers/", "^Inventory/(BaseActors|ExampleActors)\\|"] },
+		{ "name": "Item Stats & Actions", "match": ["/Objects/Stats/", "/Objects/ItemContexts/", "/InventorySystem/Widgets/Stats/", "DT_StatItems", "/InventorySystem/Components/"] },
+		{ "name": "Hideout", "match": ["/Hideout", "HideoutCondition"] },
+		{ "name": "Terminals & Messages", "match": ["/Terminal", "/Inbox", "DefaultInboxItems", "/CMG/Widgets/EmailStyle/", "AddInboxEntry"] },
+		{ "name": "Raid & Combat", "match": ["/MissionSystem/UI/(Deploy|Extraction|GCPS|LeaveBounds)/", "/Airstrike/", "/Airdrop/", "/Spectator/", "/Optics/", "/Gameloop/InGame/", "BP_IRR_PlayerCharacter", "W_DeathScreen", "W_GameLost"] },
+		{ "name": "Factions & Missions", "match": ["^Missions", "/MissionSystem/", "/CMG/"] },
+		{ "name": "Inventory & Trading", "match": ["^Inventory/", "RaidTrader"] },
+		{ "name": "World Interaction", "match": ["^Interaction/", "/ResourceSystem/"] },
+		{ "name": "Health & Status Effects", "match": ["/SimpleGameplayAbilitySystem/"] },
+		{ "name": "Settings & Controls", "match": ["/Widgets/Settings/", "/InputSystem/", "/AdvancedAudio/"] },
+		{ "name": "Tutorials", "match": ["^Tutorial"] },
+		{ "name": "News & Patch Notes", "match": ["/PatchSystem/", "^Patch Notes"] },
+		{ "name": "Menus & Interface", "match": ["^UI/", "^Gameloop", "/LoadingScreen/"] }
+	],
+	"fallback": "Other"
+}

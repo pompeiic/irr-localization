@@ -43,7 +43,7 @@ const areaFiles = fs.existsSync("Areas")
   ? fs.readdirSync("Areas").filter((f) => f.endsWith(".json")).map((f) => path.posix.join("Areas", f))
   : [];
 
-for (const file of ["Project.json", "Glossary.json", "community/config.json", "community/settings.json"]) {
+for (const file of ["Project.json", "Glossary.json", "community/config.json", "community/settings.json", "community/themes.json"]) {
   if (!fs.existsSync(file)) continue;
   try { JSON.parse(fs.readFileSync(file, "utf8")); } catch (e) { fail(file, `invalid JSON (${e.message})`); }
 }
