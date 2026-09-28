@@ -3444,45 +3444,45 @@
 			{
 				"de":
 				{
-					"text": "Zarya-3",
+					"text": "Russische Blendgranate. Es wird empfohlen, NICHT in die Explosion zu schauen.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:14Z"
 				},
 				"zh-Hans":
 				{
-					"text": "Zarya-3",
+					"text": "俄制闪光弹。建议不要直视爆炸。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"ru":
 				{
-					"text": "Заря-3",
+					"text": "Российская светошумовая граната. На взрыв смотреть НЕ рекомендуется.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"ko":
 				{
-					"text": "Zarya-3",
+					"text": "러시아제 섬광탄. 폭발을 쳐다보지 않는 것을 권장한다.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"ja":
 				{
-					"text": "Zarya-3",
+					"text": "ロシア製のフラッシュグレネード。爆発を見ないことを推奨する。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"es-ES":
 				{
-					"text": "Zarya-3",
+					"text": "Granada aturdidora rusa. Se recomienda NO mirar la explosión.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				}
 			}
 		},
@@ -4016,45 +4016,45 @@
 			{
 				"de":
 				{
-					"text": "Five Seven",
+					"text": "5.7x28mm-Pistole von FN Herstal.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "Five Seven",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Five Seven",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "Five Seven",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "Five Seven",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:14Z"
 				},
 				"es-ES":
 				{
-					"text": "Five Seven",
+					"text": "Pistola de 5.7x28mm de FN Herstal.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:14Z"
+				},
+				"zh-Hans":
+				{
+					"text": "FN Herstal 生产的 5.7x28mm 手枪。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ru":
+				{
+					"text": "Пистолет FN Herstal под патрон 5.7x28mm.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ko":
+				{
+					"text": "FN Herstal의 5.7x28mm 권총.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ja":
+				{
+					"text": "FN Herstal製の5.7x28mm拳銃。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
 				}
 			}
 		},
@@ -4328,45 +4328,45 @@
 			{
 				"de":
 				{
-					"text": "P320",
+					"text": "9x19mm-Pistole von SIG Sauer.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "P320",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "P320",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "P320",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "P320",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:14Z"
 				},
 				"es-ES":
 				{
-					"text": "P320",
+					"text": "Pistola de 9x19mm fabricada por SIG Sauer.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:14Z"
+				},
+				"zh-Hans":
+				{
+					"text": "SIG Sauer 生产的 9x19mm 手枪。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ru":
+				{
+					"text": "Пистолет SIG Sauer под патрон 9x19mm.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ko":
+				{
+					"text": "SIG Sauer가 만든 9x19mm 권총.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ja":
+				{
+					"text": "SIG Sauer製の9x19mm拳銃。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
 				}
 			}
 		},
@@ -5888,45 +5888,45 @@
 			{
 				"de":
 				{
-					"text": "MCX",
+					"text": ".300 BLK-Sturmgewehr, entwickelt von SIG Sauer.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:14Z"
 				},
 				"zh-Hans":
 				{
-					"text": "MCX",
+					"text": "SIG Sauer 设计的 .300 BLK 突击步枪。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"ru":
 				{
-					"text": "MCX",
+					"text": "Штурмовая винтовка под патрон .300 BLK, разработанная SIG Sauer.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"ko":
 				{
-					"text": "MCX",
+					"text": "SIG Sauer가 설계한 .300 BLK 돌격소총.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"ja":
 				{
-					"text": "MCX",
+					"text": "SIG Sauerが設計した.300 BLKアサルトライフル。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"es-ES":
 				{
-					"text": "MCX",
+					"text": "Fusil de asalto de .300 BLK diseñado por SIG Sauer.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				}
 			}
 		},
@@ -5940,45 +5940,45 @@
 			{
 				"de":
 				{
-					"text": "Dose gezuckerte Kondensmilch.",
+					"text": "Vorlage",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "一罐加糖的甜炼乳。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Банка сладкого сгущённого молока с сахаром.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "설탕이 든 달콤한 연유 캔입니다.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "加糖の甘い練乳の缶詰。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:14Z"
 				},
 				"es-ES":
 				{
-					"text": "Lata de leche condensada azucarada.",
+					"text": "Plantilla",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:14Z"
+				},
+				"zh-Hans":
+				{
+					"text": "模板",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ru":
+				{
+					"text": "Шаблон",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ko":
+				{
+					"text": "템플릿",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ja":
+				{
+					"text": "テンプレート",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
 				}
 			}
 		},
@@ -6510,47 +6510,47 @@
 			"origin": "/Game/Blueprints/InventorySystem/Items/Provisions/Food/Canned_Soup/ID_Canned_Soup.ID_Canned_Soup.ItemAppearance.Description",
 			"t":
 			{
-				"de":
+				"es-ES":
 				{
-					"text": "Wasser",
+					"text": "?Hora de la sopa!",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:14Z"
+				},
+				"de":
+				{
+					"text": "Zeit für Suppe!",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"zh-Hans":
 				{
-					"text": "水",
+					"text": "喝汤时间到！",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"ru":
 				{
-					"text": "Вода",
+					"text": "Время супа!",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"ko":
 				{
-					"text": "물",
+					"text": "수프 먹을 시간이다!",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"ja":
 				{
-					"text": "水",
+					"text": "スープの時間だ！",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Agua",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				}
 			}
 		},
@@ -7032,45 +7032,45 @@
 			{
 				"de":
 				{
-					"text": "Dose gezuckerte Kondensmilch.",
+					"text": "Vorlage",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "一罐加糖的甜炼乳。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Банка сладкого сгущённого молока с сахаром.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "설탕이 든 달콤한 연유 캔입니다.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "加糖の甘い練乳の缶詰。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:14Z"
 				},
 				"es-ES":
 				{
-					"text": "Lata de leche condensada azucarada.",
+					"text": "Plantilla",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:14Z"
+				},
+				"zh-Hans":
+				{
+					"text": "模板",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ru":
+				{
+					"text": "Шаблон",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ko":
+				{
+					"text": "템플릿",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ja":
+				{
+					"text": "テンプレート",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
 				}
 			}
 		},
@@ -7862,47 +7862,47 @@
 			"origin": "/Game/Blueprints/InventorySystem/Items/Weapons/SMG/MP5SD/ID_MP5SD.ID_MP5SD.ItemAppearance.Description",
 			"t":
 			{
-				"de":
+				"es-ES":
 				{
-					"text": "MP5",
+					"text": "Variante de 9x19mm del MP5 con supresor integrado.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:14Z"
+				},
+				"de":
+				{
+					"text": "9x19mm-Variante der MP5 mit integriertem Schalldämpfer.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"zh-Hans":
 				{
-					"text": "MP5",
+					"text": "MP5 的 9x19mm 版本，配有一体式消音器。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"ru":
 				{
-					"text": "MP5",
+					"text": "Вариант MP5 под патрон 9x19mm со встроенным глушителем.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"ko":
 				{
-					"text": "MP5",
+					"text": "일체형 소음기를 갖춘 MP5의 9x19mm 버전.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"ja":
 				{
-					"text": "MP5",
+					"text": "一体型サプレッサーを備えたMP5の9x19mmバリアント。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "MP5",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				}
 			}
 		},
@@ -11036,45 +11036,45 @@
 			{
 				"de":
 				{
-					"text": "Kondensmilch",
+					"text": "Nahkampf",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "炼乳",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Сгущённое молоко",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "연유",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "練乳",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:14Z"
 				},
 				"es-ES":
 				{
-					"text": "Leche condensada",
+					"text": "Cuerpo a cuerpo",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:14Z"
+				},
+				"zh-Hans":
+				{
+					"text": "近战",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ru":
+				{
+					"text": "Ближний бой",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ko":
+				{
+					"text": "근접 공격",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ja":
+				{
+					"text": "近接攻撃",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
 				}
 			}
 		},
@@ -11972,45 +11972,45 @@
 			{
 				"de":
 				{
-					"text": "Dose gezuckerte Kondensmilch.",
+					"text": "Vorlage",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "一罐加糖的甜炼乳。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Банка сладкого сгущённого молока с сахаром.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "설탕이 든 달콤한 연유 캔입니다.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "加糖の甘い練乳の缶詰。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:14Z"
 				},
 				"es-ES":
 				{
-					"text": "Lata de leche condensada azucarada.",
+					"text": "Plantilla",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:14Z"
+				},
+				"zh-Hans":
+				{
+					"text": "模板",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ru":
+				{
+					"text": "Шаблон",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ko":
+				{
+					"text": "템플릿",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ja":
+				{
+					"text": "テンプレート",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
 				}
 			}
 		},
@@ -12232,45 +12232,45 @@
 			{
 				"de":
 				{
-					"text": "Aufklärungsdiskette, beschriftet mit dem Buchstaben D.",
+					"text": "Eine Diskette, die wichtige Informationen enthalten könnte..",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"zh-Hans":
 				{
-					"text": "标有字母 D 的情报光盘。",
+					"text": "一张可能含有重要情报的磁盘..",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"ru":
 				{
-					"text": "Диск с разведданными, помеченный буквой D.",
+					"text": "Диск, который может содержать важные разведданные..",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"ko":
 				{
-					"text": "글자 D가 표시된 정보 디스크입니다.",
+					"text": "중요한 정보가 담겨 있을지도 모르는 디스크..",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"ja":
 				{
-					"text": "文字Dと記された情報ディスク。",
+					"text": "重要な情報が入っているかもしれないディスク..",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"es-ES":
 				{
-					"text": "Disco de inteligencia etiquetado con la letra D.",
+					"text": "Un disco que podría contener información importante..",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				}
 			}
 		},
@@ -14414,47 +14414,47 @@
 			"origin": "/Game/Blueprints/InventorySystem/Items/Provisions/Drinks/Condensed_Milk/ID_Condensed_Milk.ID_Condensed_Milk.ItemAppearance.Description",
 			"t":
 			{
-				"de":
+				"es-ES":
 				{
-					"text": "Packung Vollmilch.",
+					"text": "Lata de deliciosa leche condensada.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:14Z"
+				},
+				"de":
+				{
+					"text": "Eine Dose köstliche Kondensmilch.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"zh-Hans":
 				{
-					"text": "一盒全脂牛奶。",
+					"text": "一罐美味的炼乳。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"ru":
 				{
-					"text": "Пакет цельного молока.",
+					"text": "Банка вкусной сгущёнки.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"ko":
 				{
-					"text": "전유 한 팩입니다.",
+					"text": "맛있는 연유 한 캔.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"ja":
 				{
-					"text": "成分無調整牛乳のパック。",
+					"text": "おいしい練乳の缶。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Cartón de leche entera.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				}
 			}
 		},
@@ -15820,45 +15820,45 @@
 			{
 				"de":
 				{
-					"text": "Dose gezuckerte Kondensmilch.",
+					"text": "Vorlage",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "一罐加糖的甜炼乳。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Банка сладкого сгущённого молока с сахаром.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "설탕이 든 달콤한 연유 캔입니다.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "加糖の甘い練乳の缶詰。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:14Z"
 				},
 				"es-ES":
 				{
-					"text": "Lata de leche condensada azucarada.",
+					"text": "Plantilla",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:14Z"
+				},
+				"zh-Hans":
+				{
+					"text": "模板",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ru":
+				{
+					"text": "Шаблон",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ko":
+				{
+					"text": "템플릿",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ja":
+				{
+					"text": "テンプレート",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
 				}
 			}
 		},
@@ -16496,45 +16496,45 @@
 			{
 				"de":
 				{
-					"text": "Steyr AUG A1",
+					"text": "9x19-Pistole, hergestellt von Norinco.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "斯泰尔 AUG A1",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Steyr AUG A1",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "Steyr AUG A1",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "Steyr AUG A1",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:14Z"
 				},
 				"es-ES":
 				{
-					"text": "Steyr AUG A1",
+					"text": "Pistola de 9x19 fabricada por Norinco.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:14Z"
+				},
+				"zh-Hans":
+				{
+					"text": "Norinco 生产的 9x19 手枪。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ru":
+				{
+					"text": "Пистолет под патрон 9x19 производства Norinco.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ko":
+				{
+					"text": "Norinco가 제조한 9x19 권총.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ja":
+				{
+					"text": "Norinco製の9x19拳銃。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
 				}
 			}
 		},
@@ -18940,45 +18940,45 @@
 			{
 				"de":
 				{
-					"text": "KAC leichtes Sturmmaschinengewehr",
+					"text": "Leichtes Sturmmaschinengewehr von Knight's Armament Company, entwickelt von Eugene Stoner. Im Kaliber 5.56x45mm NATO",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:14Z"
 				},
 				"zh-Hans":
 				{
-					"text": "KAC 轻型突击机枪",
+					"text": "Knight's Armament Company 轻型突击机枪，由 Eugene Stoner 设计。使用 5.56x45mm NATO 弹药",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"ru":
 				{
-					"text": "Лёгкий штурмовой пулемёт KAC",
+					"text": "Лёгкий штурмовой пулемёт Knight's Armament Company, разработанный Юджином Стоунером. Под патрон 5.56x45mm NATO",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"ko":
 				{
-					"text": "KAC 경돌격기관총",
+					"text": "Eugene Stoner가 개발한 Knight's Armament Company의 경돌격기관총. 5.56x45mm NATO 탄 사용",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"ja":
 				{
-					"text": "KAC ライトアサルトマシンガン",
+					"text": "Eugene Stonerが開発したKnight's Armament Company製の軽量アサルトマシンガン。5.56x45mm NATO弾を使用する",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"es-ES":
 				{
-					"text": "Ametralladora ligera de asalto KAC",
+					"text": "Ametralladora ligera de asalto de Knight's Armament Company, diseñada por Eugene Stoner. Calibre 5.56x45mm NATO",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				}
 			}
 		},
@@ -19824,45 +19824,45 @@
 			{
 				"de":
 				{
-					"text": "Dose gezuckerte Kondensmilch.",
+					"text": "Vorlage",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "一罐加糖的甜炼乳。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Банка сладкого сгущённого молока с сахаром.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "설탕이 든 달콤한 연유 캔입니다.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "加糖の甘い練乳の缶詰。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:14Z"
 				},
 				"es-ES":
 				{
-					"text": "Lata de leche condensada azucarada.",
+					"text": "Plantilla",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:14Z"
+				},
+				"zh-Hans":
+				{
+					"text": "模板",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ru":
+				{
+					"text": "Шаблон",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ko":
+				{
+					"text": "템플릿",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ja":
+				{
+					"text": "テンプレート",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
 				}
 			}
 		},
@@ -19876,45 +19876,45 @@
 			{
 				"de":
 				{
-					"text": "Honey Badger",
+					"text": ".300 BLK-Gewehr, entwickelt von Advanced Armament Corporation.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:14Z"
 				},
 				"zh-Hans":
 				{
-					"text": "Honey Badger",
+					"text": "Advanced Armament Corporation 设计的 .300 BLK 步枪。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"ru":
 				{
-					"text": "Honey Badger",
+					"text": "Винтовка под патрон .300 BLK, разработанная Advanced Armament Corporation.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"ko":
 				{
-					"text": "Honey Badger",
+					"text": "Advanced Armament Corporation이 설계한 .300 BLK 소총.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"ja":
 				{
-					"text": "Honey Badger",
+					"text": "Advanced Armament Corporationが設計した.300 BLKライフル。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"es-ES":
 				{
-					"text": "Honey Badger",
+					"text": "Fusil de .300 BLK diseñado por Advanced Armament Corporation.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				}
 			}
 		},
@@ -24712,45 +24712,45 @@
 			{
 				"de":
 				{
-					"text": "Fleischsuppe",
+					"text": "Eine Kassette, die wichtige Informationen enthalten könnte..",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"zh-Hans":
 				{
-					"text": "肉汤",
+					"text": "一盒可能含有重要情报的磁带..",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"ru":
 				{
-					"text": "Мясной суп",
+					"text": "Кассета, которая может содержать важные разведданные..",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"ko":
 				{
-					"text": "고기 수프",
+					"text": "중요한 정보가 담겨 있을지도 모르는 카세트..",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"ja":
 				{
-					"text": "肉スープ",
+					"text": "重要な情報が入っているかもしれないカセット..",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"es-ES":
 				{
-					"text": "Sopa de carne",
+					"text": "Una casete que podría contener información importante..",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				}
 			}
 		},
@@ -25856,45 +25856,45 @@
 			{
 				"de":
 				{
-					"text": "Milch",
+					"text": "Ein Karton Milch. Wieso ist die noch nicht schlecht?..",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "牛奶",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Молоко",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "우유",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "牛乳",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:14Z"
 				},
 				"es-ES":
 				{
-					"text": "Leche",
+					"text": "Un cart?n de leche. ?C?mo es que no se ha estropeado?..",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:14Z"
+				},
+				"zh-Hans":
+				{
+					"text": "一盒牛奶。怎么还没变质？..",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ru":
+				{
+					"text": "Пакет молока. Как оно ещё не скисло?..",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ko":
+				{
+					"text": "우유 한 팩. 어떻게 아직 안 상했지?..",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ja":
+				{
+					"text": "牛乳パック。なぜまだ腐っていないんだ？..",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
 				}
 			}
 		},
@@ -26740,45 +26740,45 @@
 			{
 				"de":
 				{
-					"text": "Dose gezuckerte Kondensmilch.",
+					"text": "Vorlage",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "一罐加糖的甜炼乳。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Банка сладкого сгущённого молока с сахаром.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "설탕이 든 달콤한 연유 캔입니다.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "加糖の甘い練乳の缶詰。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:14Z"
 				},
 				"es-ES":
 				{
-					"text": "Lata de leche condensada azucarada.",
+					"text": "Plantilla",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:14Z"
+				},
+				"zh-Hans":
+				{
+					"text": "模板",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ru":
+				{
+					"text": "Шаблон",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ko":
+				{
+					"text": "템플릿",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ja":
+				{
+					"text": "テンプレート",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
 				}
 			}
 		},
@@ -26948,45 +26948,45 @@
 			{
 				"de":
 				{
-					"text": "FN Five-Seven",
+					"text": "Leichtmaschinengewehr-Version der AK-74 im Kaliber 5.45x39mm.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:14Z"
 				},
 				"zh-Hans":
 				{
-					"text": "FN Five-Seven",
+					"text": "5.45x39mm AK-74 的轻机枪版本。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"ru":
 				{
-					"text": "FN Five-Seven",
+					"text": "Ручной пулемёт на базе AK-74 под патрон 5.45x39mm.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"ko":
 				{
-					"text": "FN Five-Seven",
+					"text": "5.45x39mm AK-74의 경기관총 버전.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"ja":
 				{
-					"text": "FN Five-Seven",
+					"text": "5.45x39mm弾を使用するAK-74の軽機関銃バージョン。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"es-ES":
 				{
-					"text": "FN Five-Seven",
+					"text": "Versión de ametralladora ligera del AK-74 de 5.45x39mm.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				}
 			}
 		},
@@ -28248,45 +28248,45 @@
 			{
 				"de":
 				{
-					"text": "Steyr AUG A3",
+					"text": "?sterreichisches Bullpup-Gewehr im Kaliber 5.56x45mm. Entwickelt und hergestellt von Steyr.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:14Z"
 				},
 				"zh-Hans":
 				{
-					"text": "斯泰尔 AUG A3",
+					"text": "奥地利产 5.56x45mm 无托步枪。由 Steyr 设计制造。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"ru":
 				{
-					"text": "Steyr AUG A3",
+					"text": "Австрийская винтовка компоновки буллпап под патрон 5.56x45mm. Разработана и производится Steyr.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"ko":
 				{
-					"text": "Steyr AUG A3",
+					"text": "5.56x45mm 탄을 사용하는 오스트리아제 불펍 소총. Steyr가 설계하고 제조했다.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"ja":
 				{
-					"text": "Steyr AUG A3",
+					"text": "5.56x45mm弾を使用するオーストリア製ブルパップライフル。Steyrが設計・製造した。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"es-ES":
 				{
-					"text": "Steyr AUG A3",
+					"text": "Fusil bullpup austriaco de calibre 5.56x45mm. Diseñado y fabricado por Steyr.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				}
 			}
 		},
@@ -30536,45 +30536,45 @@
 			{
 				"de":
 				{
-					"text": "Fleischsuppe",
+					"text": "Eine Kassette, die wichtige Informationen enthalten könnte..",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"zh-Hans":
 				{
-					"text": "肉汤",
+					"text": "一盒可能含有重要情报的磁带..",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"ru":
 				{
-					"text": "Мясной суп",
+					"text": "Кассета, которая может содержать важные разведданные..",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"ko":
 				{
-					"text": "고기 수프",
+					"text": "중요한 정보가 담겨 있을지도 모르는 카세트..",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"ja":
 				{
-					"text": "肉スープ",
+					"text": "重要な情報が入っているかもしれないカセット..",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"es-ES":
 				{
-					"text": "Sopa de carne",
+					"text": "Una casete que podría contener información importante..",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				}
 			}
 		},
@@ -31004,45 +31004,45 @@
 			{
 				"de":
 				{
-					"text": "Aufklärungsdiskette, beschriftet mit dem Buchstaben D.",
+					"text": "Eine Diskette, die wichtige Informationen enthalten könnte..",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"zh-Hans":
 				{
-					"text": "标有字母 D 的情报光盘。",
+					"text": "一张可能含有重要情报的磁盘..",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"ru":
 				{
-					"text": "Диск с разведданными, помеченный буквой D.",
+					"text": "Диск, который может содержать важные разведданные..",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"ko":
 				{
-					"text": "글자 D가 표시된 정보 디스크입니다.",
+					"text": "중요한 정보가 담겨 있을지도 모르는 디스크..",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"ja":
 				{
-					"text": "文字Dと記された情報ディスク。",
+					"text": "重要な情報が入っているかもしれないディスク..",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				},
 				"es-ES":
 				{
-					"text": "Disco de inteligencia etiquetado con la letra D.",
+					"text": "Un disco que podría contener información importante..",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:57Z"
 				}
 			}
 		},
@@ -31056,45 +31056,45 @@
 			{
 				"de":
 				{
-					"text": "Flasche sauberes Trinkwasser.",
+					"text": "Eine Flasche Wasser. Bei dieser Hitze ein Muss!",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "一瓶干净的饮用水。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Бутылка чистой питьевой воды.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "깨끗한 식수 한 병입니다.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "清潔な飲料水のボトル。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:14Z"
 				},
 				"es-ES":
 				{
-					"text": "Botella de agua potable limpia.",
+					"text": "Botella de agua. ?Imprescindible con este calor!",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:14Z"
+				},
+				"zh-Hans":
+				{
+					"text": "一瓶水。这么热的天必不可少！",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ru":
+				{
+					"text": "Бутылка воды. В такую жару без неё никак!",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ko":
+				{
+					"text": "물 한 병. 이 더위엔 필수다!",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ja":
+				{
+					"text": "水のボトル。この暑さでは必需品だ！",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
 				}
 			}
 		},

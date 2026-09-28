@@ -12936,45 +12936,45 @@
 			{
 				"de":
 				{
-					"text": "Kondensmilch",
+					"text": "Nahkampf",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "炼乳",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Сгущённое молоко",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "연유",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "練乳",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:14Z"
 				},
 				"es-ES":
 				{
-					"text": "Leche condensada",
+					"text": "Cuerpo a cuerpo",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-09-28T15:18:14Z"
+				},
+				"zh-Hans":
+				{
+					"text": "近战",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ru":
+				{
+					"text": "Ближний бой",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ko":
+				{
+					"text": "근접 공격",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ja":
+				{
+					"text": "近接攻撃",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
 				}
 			}
 		},
