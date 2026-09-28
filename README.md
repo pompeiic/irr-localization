@@ -77,6 +77,13 @@ until an admin applies it.
   `by: community:<name>`. Unreal imports it on its next sync.
 - A suggestion made for older English text is shown as **Outdated** and cannot be applied.
 - Spam guard: 30 suggestions per hour per person, no duplicates; admins can reject and ban.
+- Every text has an **About this text** box: where it sits in the game (read from its asset path — e.g.
+  *Missions › BLUEFOR › ADLER › Contract › Quarry › Convoy · step 1*, the item or screen it belongs to,
+  the widget element), the placeholders to keep, and the developer note. Signed-in players can add
+  **context** — a note, a screenshot (upload, paste or drop; shrunk to ≤1600 px and re-encoded in the
+  browser, which also strips file metadata), or both. It shows at once; the author or an admin removes
+  it. Stored in Supabase (`public.contexts`, images in the public `context` bucket, 20 per hour per
+  person) and never sent to Unreal.
 
 ### One-time setup (admin)
 

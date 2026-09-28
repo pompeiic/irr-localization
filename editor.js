@@ -28,7 +28,7 @@ const state = {
   project: null, cultures: [], entries: [], bySlot: new Map(), categories: [],
   settings: { defaultThreshold: 3, requireBeatCurrent: true, cultures: {} },
   culture: "", view: "all", category: "", shown: PAGE,
-  openForms: new Set(), picked: new Set(), excluded: new Map(), excludedPicked: new Set(),
+  openForms: new Set(), contextForms: new Set(), contexts: null, picked: new Set(), excluded: new Map(), excludedPicked: new Set(),
   suggestions: new Map(), currentScores: new Map(), myVotes: new Map(), myCurrentVotes: new Map(),
   queueRows: [], queueSelected: new Set(), queueShowAll: false,
 };
@@ -367,6 +367,49 @@ function usageOf(e) {
   return USAGE.find(([rx]) => rx.test(path))?.[1] ?? null;
 }
 
+// Readable names for asset and folder names: "W_VendorShoppingCart" -> "Vendor shopping cart".
+const ASSET_PREFIX = /^(DA|ID|WBP|WB|W|BP|DT|IA|IM|SGE|IO|U|E|UI|SM)_/i;
+const NOISE_FOLDERS = new Set(["blueprints", "dataassets", "data", "widgets", "new_ui", "objects", "actors", "framework", "templates", "thirdparty", "tables", "baseactors"]);
+const GENERIC_WIDGETS = /^(IRR)?(Text(Block)?|RichText(Block)?|TextRender|Label|Title|Text_?\d*)(_\d+)*$/i;
+const FOLDER_NAMES = { MissionSystem: "Missions", InventorySystem: "Inventory", UICore: "Interface", InteractionSystem: "World interaction",
+  InputSystem: "Controls", TutorialSystem: "Tutorial", Gameloop: "Game", SimpleGameplayAbilitySystem: "Effects", ResourceSystem: "Resources",
+  CMG: "Terminal & email", Contracts: "Contract", Factions: "", Items: "", InputActions: "", GEN_VARIABLE: "" };
+
+function humanize(name) {
+  const words = String(name).replace(ASSET_PREFIX, "").replace(/(_C|_GEN_VARIABLE)$/i, "").replace(/_\d+$/, "")
+    .replace(/_/g, " ").replace(/([a-z])([A-Z])/g, "$1 $2").replace(/([A-Z]+)([A-Z][a-z])/g, "$1 $2").trim().split(/\s+/);
+  return words.map((w, i) => (/^[A-Z0-9-]{2,}$/.test(w) || /\d/.test(w) ? w : i ? w.toLowerCase() : w[0].toUpperCase() + w.slice(1))).join(" ");
+}
+
+// Where a text sits in the game, read from its asset path. Only what the path actually says; null for code.
+function whereUsed(e) {
+  const o = e.origin || "";
+  const m = o.match(/^\/Game\/(.+)\/([^/.]+)\.[^:.]+(?:_C)?[.:](.*)$/);
+  if (!m) return null;
+  const [, folderPath, asset, prop] = m;
+  const folders = folderPath.split("/").filter((f) => !NOISE_FOLDERS.has(f.toLowerCase()))
+    .map((f) => (f in FOLDER_NAMES ? FOLDER_NAMES[f] : humanize(f))).filter(Boolean);
+  const where = [...new Set(folders)];
+  const whereText = where.join(" ").toLowerCase();
+  const assetName = humanize(asset);
+  const assetNew = assetName.split(" ").some((w) => w.length > 1 && !whereText.includes(w.toLowerCase()));
+  const detail = [];
+  const step = prop.match(/IRRMissionSequence_(\d+)/);
+  if (step) detail.push(`step ${+step[1] + 1}`);
+  const level = prop.match(/UpgradeLevels\((\d+)\)/);
+  if (level) detail.push(`upgrade level ${+level[1] + 1}`);
+  const row = /^DT_/i.test(asset) && prop.split(".")[1];
+  if (row && !/[0-9A-F]{16}|\(/i.test(row)) detail.push(`row “${humanize(row)}”`);
+  const widget = prop.match(/WidgetTree\.([^.]+)\./);
+  if (widget && !GENERIC_WIDGETS.test(widget[1])) detail.push(`element “${humanize(widget[1])}”`);
+  return {
+    where: where.join(" › "),
+    asset: assetNew ? assetName : "",
+    detail: detail.join(" · "),
+    kind: /\/Widgets?\//i.test(o) || /^W(BP|B)?_/i.test(asset) ? "Screen" : /^ID_/i.test(asset) ? "Item" : "Asset",
+  };
+}
+
 const thresholdFor = (culture) => state.settings.cultures?.[culture] ?? state.settings.defaultThreshold;
 const currentVoteKey = (entry, culture, text) => `${culture}|${slotOf(entry)}|${fnv(text)}`;
 
@@ -445,6 +488,7 @@ async function loadCommunity() {
   const [sugg, scores] = await Promise.all([
     fetchAll(() => state.sb.from("open_suggestions").select("*").eq("culture", c).order("id")),
     fetchAll(() => state.sb.from("current_scores").select("*").eq("culture", c)),
+    state.contexts ? null : loadContexts(),
   ]);
   for (const s of sugg) {
     const id = `${s.ns}\u001f${s.key}`;
@@ -699,11 +743,7 @@ function renderEntry(e) {
           h("span", { class: `sb ${info.cls}`, title: info.tip, tabindex: "0", role: "note", "aria-label": `${info.label}: ${info.tip}` }, info.label)),
         h("div", { class: `text${cur ? "" : " empty"}`, lang: cur ? c : null }, cur ? richBlock(cur.text) : "No translation yet — the game shows the English text."),
         cur ? h("div", { class: "rowline" }, voteBox(curScore, state.myCurrentVotes.get(currentVoteKey(e, c, cur.text)), async (v) => { await voteCurrent(e, v); refresh(); })) : null)));
-  const context = [
-    args.length ? h("span", { class: "keep", title: "Placeholders the game fills in. Keep each one — the editor offers them as buttons." }, "Keep unchanged:", ...args.map((a) => renderRich([{ t: "arg", v: a }]))) : null,
-    e.note ? h("span", { class: "devnote" }, e.note) : null,
-  ].filter(Boolean);
-  if (context.length) card.append(h("div", { class: "context" }, ...context));
+  card.append(renderContext(e, args, refresh));
   if (sugg.length) card.append(h("div", { class: "suggestions" }, h("div", { class: "lbl" }, `Suggestions (${sugg.length})`), ...sugg.map((s) => renderSuggestion(e, s, curScore, refresh))));
   if (state.openForms.has(id)) {
     card.append(renderForm(e, cur, () => { state.openForms.delete(id); refresh(); }));
@@ -712,6 +752,135 @@ function renderEntry(e) {
       sugg.length ? "Suggest another translation" : cur ? "Suggest translation" : "Add translation")));
   }
   return card;
+}
+
+function renderContext(e, args, refresh) {
+  const id = slotOf(e);
+  const w = whereUsed(e);
+  const notes = state.contexts?.get(id) || [];
+  const facts = kids(
+    w?.where ? h("span", { class: "fact" }, h("b", {}, "Where"), w.where) : null,
+    w?.asset ? h("span", { class: "fact" }, h("b", {}, w.kind), w.asset) : null,
+    w?.detail ? h("span", { class: "fact" }, h("b", {}, "Part"), w.detail) : null,
+    !w && e.origin?.startsWith("Source/") ? h("span", { class: "fact" }, h("b", {}, "Where"), "Game code") : null);
+  const box = h("div", { class: "context" },
+    h("div", { class: "lbl" }, h("span", { class: "grow" }, "About this text"),
+      notes.length ? h("span", { class: "hint" }, `${notes.length} from players`) : null),
+    facts.length ? h("div", { class: "facts", title: "Read from where the text sits in the game data" }, ...facts) : null,
+    kids(
+      args.length ? h("div", { class: "keep", title: "Placeholders the game fills in. Keep each one — the editor offers them as buttons." }, "Keep unchanged:", ...args.map((a) => renderRich([{ t: "arg", v: a }]))) : null,
+      e.note ? h("div", { class: "devnote" }, h("b", {}, "Developer note"), e.note) : null),
+    ...notes.map((n) => renderContextItem(n, refresh)));
+  if (state.contextForms.has(id)) box.append(renderContextForm(e, () => { state.contextForms.delete(id); refresh(); }));
+  else if (state.sb) {
+    box.append(h("button", { type: "button", class: "linkbtn addctx", onclick: () => { state.contextForms.add(id); refresh(); } },
+      "+ Add context (note or screenshot)"));
+  }
+  return box;
+}
+
+function renderContextItem(n, refresh) {
+  const mine = state.user && n.author === state.user.id;
+  const url = n.image_path ? state.sb.storage.from("context").getPublicUrl(n.image_path).data.publicUrl : null;
+  return h("div", { class: "ctxitem" },
+    url ? h("a", { href: url, target: "_blank", rel: "noopener", class: "shot", title: "Open full size" },
+      h("img", { src: url, alt: n.note ? `Screenshot: ${n.note}` : "Screenshot added by a player", loading: "lazy" })) : null,
+    h("div", { class: "grow" },
+      n.note ? h("div", { class: "ctxnote" }, n.note) : null,
+      h("div", { class: "rowline" }, h("span", { class: "hint grow" }, joinMeta(n.author_name, fmtDate(n.created_at))),
+        mine || state.isAdmin ? h("button", { class: `linkbtn${mine ? "" : " danger"}`, onclick: guarded(async () => { await removeContext(n); refresh(); }) }, mine ? "Remove" : "Remove (admin)") : null)));
+}
+
+function renderContextForm(entry, close) {
+  const cancel = h("button", { class: "ghost small", onclick: close }, "Cancel");
+  if (!state.user) {
+    return h("div", { class: "form signin-box" }, "Sign in with Discord to add context. Your Discord name is shown next to what you add.",
+      h("div", { class: "rowline" }, h("button", { class: "discord", onclick: guarded(signIn) }, "Sign in with Discord"), cancel));
+  }
+  let image = null;
+  const note = h("textarea", { maxlength: "1000", rows: "3", placeholder: "Where does this appear, who says it, what does it refer to? You can also paste a screenshot here." });
+  const preview = h("div", { class: "shotpreview" });
+  const file = h("input", { type: "file", accept: "image/png,image/jpeg,image/webp", hidden: true });
+  const pickBtn = h("button", { type: "button", class: "ghost small", onclick: () => file.click() }, "Add screenshot");
+  const submit = h("button", { class: "primary small" }, "Post context");
+  const sync = () => { submit.disabled = !note.value.trim() && !image; };
+  const setImage = guarded(async (f) => {
+    if (!f || !/^image\//.test(f.type)) return;
+    image = await shrinkImage(f);
+    const url = URL.createObjectURL(image);
+    preview.replaceChildren(h("img", { src: url, alt: "Screenshot to upload" }),
+      h("button", { type: "button", class: "linkbtn", onclick: () => { image = null; preview.replaceChildren(); sync(); } }, "Remove screenshot"));
+    sync();
+  });
+  file.addEventListener("change", () => setImage(file.files[0]));
+  note.addEventListener("input", sync);
+  const form = h("div", { class: "form ctxform" }, note, preview,
+    h("div", { class: "formfoot" }, pickBtn, file, h("span", { class: "hint grow" }, `Shown right away as ${displayNameOf(state.user)} · no personal info in screenshots`), cancel, submit));
+  form.addEventListener("paste", (ev) => {
+    const f = [...(ev.clipboardData?.files || [])].find((x) => x.type.startsWith("image/"));
+    if (f) { ev.preventDefault(); setImage(f); }
+  });
+  form.addEventListener("dragover", (ev) => ev.preventDefault());
+  form.addEventListener("drop", (ev) => { ev.preventDefault(); setImage(ev.dataTransfer?.files?.[0]); });
+  submit.addEventListener("click", guarded(async () => {
+    submit.disabled = true;
+    try { await addContext(entry, note.value.trim(), image); notice("Thanks — your context is now visible to everyone.", "ok"); close(); }
+    finally { sync(); }
+  }));
+  queueMicrotask(() => { sync(); note.focus(); });
+  return form;
+}
+
+// Screenshots are re-encoded before upload: keeps them under the bucket's 2 MB limit and strips file metadata.
+async function shrinkImage(f, maxSide = 1600) {
+  const bmp = await createImageBitmap(f);
+  const scale = Math.min(1, maxSide / Math.max(bmp.width, bmp.height));
+  const cv = document.createElement("canvas");
+  cv.width = Math.round(bmp.width * scale);
+  cv.height = Math.round(bmp.height * scale);
+  cv.getContext("2d").drawImage(bmp, 0, 0, cv.width, cv.height);
+  for (const [type, q] of [["image/webp", 0.85], ["image/jpeg", 0.8], ["image/jpeg", 0.6]]) {
+    const blob = await new Promise((r) => cv.toBlob(r, type, q));
+    if (blob && blob.type === type && blob.size <= 2_000_000) return blob;
+  }
+  throw new Error("That screenshot is too large even after shrinking it.");
+}
+
+async function loadContexts() {
+  const rows = await fetchAll(() => state.sb.from("contexts").select("id,ns,key,note,image_path,author,author_name,created_at").order("id"))
+    .catch(() => []);
+  state.contexts = new Map();
+  for (const r of rows) {
+    const id = `${r.ns}\u001f${r.key}`;
+    if (!state.contexts.has(id)) state.contexts.set(id, []);
+    state.contexts.get(id).push(r);
+  }
+}
+
+async function addContext(entry, note, image) {
+  let image_path = null;
+  if (image) {
+    image_path = `${state.user.id}/${crypto.randomUUID()}.${image.type === "image/webp" ? "webp" : "jpg"}`;
+    const { error } = await state.sb.storage.from("context").upload(image_path, image, { contentType: image.type });
+    if (error) throw new Error(`Upload failed: ${error.message}`);
+  }
+  const { data, error } = await state.sb.from("contexts").insert({ ns: entry.ns || "", key: entry.key, note, image_path }).select().single();
+  if (error) {
+    if (image_path) await state.sb.storage.from("context").remove([image_path]);
+    throw new Error(error.message);
+  }
+  const id = slotOf(entry);
+  if (!state.contexts.has(id)) state.contexts.set(id, []);
+  state.contexts.get(id).push(data);
+}
+
+async function removeContext(n) {
+  if (!confirm(n.author === state.user?.id ? "Remove your context?" : `Remove this context by ${n.author_name}?`)) return;
+  const { error } = await state.sb.from("contexts").delete().eq("id", n.id);
+  if (error) throw new Error(error.message);
+  if (n.image_path) await state.sb.storage.from("context").remove([n.image_path]);
+  const id = `${n.ns}\u001f${n.key}`;
+  state.contexts.set(id, (state.contexts.get(id) || []).filter((x) => x.id !== n.id));
 }
 
 function renderSuggestion(entry, s, curScore, refresh) {

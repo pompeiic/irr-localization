@@ -148,9 +148,22 @@ button:focus-visible, summary:focus-visible, .sb[tabindex]:focus-visible, .pick:
 .entry .tgt .text { font-family: var(--font-text); font-size: 15px; line-height: 1.5; overflow-wrap: anywhere; }
 .entry .tgt .text.empty { color: var(--dim); font-style: italic; font-family: var(--font-mono); font-size: 12px; }
 .entry .tgt .rowline { margin-top: 6px; }
-.entry .context { display: flex; flex-wrap: wrap; gap: 6px 14px; align-items: center; margin-top: 7px; color: var(--dim); font-size: 11.5px; }
-.entry .context .keep { display: inline-flex; flex-wrap: wrap; align-items: center; gap: 4px; }
-.entry .context .devnote { margin: 0; }
+.entry .context { display: flex; flex-direction: column; gap: 6px; margin-top: 8px; padding: 8px 10px; background: var(--panel2); border: 1px solid var(--border); color: var(--dim); font-size: 12px; }
+.entry .context > .lbl { display: flex; align-items: center; gap: 8px; margin: 0; }
+.entry .context .facts { display: flex; flex-wrap: wrap; gap: 4px 16px; color: var(--text); }
+.entry .context .fact b, .entry .context .devnote b { font-weight: 600; color: var(--dim); margin-right: 6px; text-transform: uppercase; font-size: 10.5px; letter-spacing: .06em; }
+.entry .context .keep { display: flex; flex-wrap: wrap; align-items: center; gap: 4px; }
+.entry .context .devnote { margin: 0; color: var(--text); }
+.ctxitem { display: flex; gap: 10px; align-items: flex-start; padding-top: 6px; border-top: 1px solid var(--border); }
+.ctxitem .grow { flex: 1; min-width: 0; }
+.ctxnote { color: var(--text); white-space: pre-wrap; overflow-wrap: anywhere; line-height: 1.45; }
+.ctxitem .shot img, .shotpreview img { display: block; max-width: 220px; max-height: 130px; border: 1px solid var(--border); object-fit: cover; }
+.ctxitem .shot:hover img { border-color: var(--accent); }
+.shotpreview { display: flex; gap: 10px; align-items: flex-end; margin-top: 6px; }
+.shotpreview:empty { display: none; }
+.ctxform textarea { width: 100%; box-sizing: border-box; resize: vertical; font: inherit; }
+.linkbtn.addctx { align-self: flex-start; }
+@media (max-width: 600px) { .ctxitem { flex-direction: column; } .ctxitem .shot img { max-width: 100%; } }
 .entry .suggestions { margin-top: 8px; padding-left: 10px; border-left: 2px solid var(--border); }
 .entry .suggestions .sugg:last-child { margin-bottom: 0; }
 .entry .actions { margin-top: 8px; display: flex; }
