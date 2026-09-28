@@ -770,6 +770,14 @@
 		},
 		{
 			"ns": "",
+			"key": "D38193124FC9A8A24A61E9BE69487582",
+			"source": "test",
+			"origin": "/Game/Blueprints/InteractionSystem/Actors/BP_AmmoRefill.BP_AmmoRefill_C:BP_InteractionTarget_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T15:10:04Z"
+		},
+		{
+			"ns": "",
 			"key": "A05D803D47628119336E2DBED2D4B77E",
 			"source": "IA_Malfunction",
 			"origin": "/Game/Blueprints/InventorySystem/Components/ItemComponents/BP_WeaponComponent.BP_WeaponComponent_C:ExecuteUbergraph_BP_WeaponComponent [Script Bytecode]",
@@ -783,6 +791,22 @@
 			"origin": "/Game/Blueprints/InventorySystem/Items/Weapons/Shotgun/RIA_VR80/ID_RIA_VR80.ID_RIA_VR80.ItemAppearance.Description",
 			"by": "CiaoKakao",
 			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "77FE8FC24E327C8D208BE1861526A144",
+			"source": "test",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Vendor/W_VendorList_Item.W_VendorList_Item_C:WidgetTree.W_IRR_BaseButton.ToolTipText",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T15:10:04Z"
+		},
+		{
+			"ns": "",
+			"key": "9E5A982D4C1A0F663F75CC9078081739",
+			"source": "Test",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/W_InventoryHeadline.W_InventoryHeadline_C:WidgetTree.Text.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T15:10:04Z"
 		},
 		{
 			"ns": "",
@@ -1074,6 +1098,22 @@
 		},
 		{
 			"ns": "",
+			"key": "EAD7141B4AA677E9FD76BFB604209EB5",
+			"source": "test",
+			"origin": "/Game/Blueprints/MissionSystem/UI/GCPS/W_GCPS_InputAction.W_GCPS_InputAction_C:WidgetTree.ActionText.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T15:10:04Z"
+		},
+		{
+			"ns": "",
+			"key": "FE1E7DC9458F3169C8E5DB9DD2AFAA2E",
+			"source": "test",
+			"origin": "/Game/Blueprints/MissionSystem/UI/GCPS/W_GCPS_MissionList_Item.W_GCPS_MissionList_Item_C:WidgetTree.Button.ToolTipText",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T15:10:04Z"
+		},
+		{
+			"ns": "",
 			"key": "422AA0204C92606F4E6CEF95F9321A96",
 			"source": "Textadasdsadsadasdasdadsadsadasdaasdasdasdasd sadsadasdasdadsadasdasdasdadsad",
 			"origin": "/Game/Blueprints/MissionSystem/UI/General/W_MissionObjectiveItem.W_MissionObjectiveItem_C:WidgetTree.ObjectiveText.Text",
@@ -1095,6 +1135,70 @@
 			"origin": "/Game/Blueprints/MissionSystem/UI/Hideout/W_IRR_HideoutUpgrade_Overview.W_IRR_HideoutUpgrade_Overview_C:WidgetTree.Description.Text",
 			"by": "CiaoKakao",
 			"at": "2026-09-28T10:08:18Z"
+		},
+		{
+			"ns": "",
+			"key": "F72A108644AEE4160AA64CA888789F17",
+			"source": "test",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Inbox/W_InboxList_Item.W_InboxList_Item_C:WidgetTree.Button.ToolTipText",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T15:10:04Z"
+		},
+		{
+			"ns": "",
+			"key": "1A866D7049851933517B89975B6446C7",
+			"source": "TEST",
+			"origin": "/Game/Blueprints/MissionSystem/UI/JobBoard/W_MissionInfo_Section.Default__W_MissionInfo_Section_C.SectionName",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T15:10:04Z"
+		},
+		{
+			"ns": "",
+			"key": "E9140D61498471142180158E88C7FA92",
+			"source": "test",
+			"origin": "/Game/Blueprints/MissionSystem/UI/JobBoard/W_MissionList_Item.W_MissionList_Item_C:WidgetTree.Button.ToolTipText",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T15:10:04Z"
+		},
+		{
+			"ns": "",
+			"key": "D58391AD4C6A905F4C748A8C615AD757",
+			"source": "test",
+			"origin": "/Game/Blueprints/UICore/Widgets/Base/W_InputAction_Base.W_InputAction_Base_C:WidgetTree.ActionText.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T15:10:04Z"
+		},
+		{
+			"ns": "",
+			"key": "93A78BD64572C253F61CF19576490C51",
+			"source": "test",
+			"origin": "/Game/Blueprints/UICore/Widgets/Base/W_IRR_BaseButton.Default__W_IRR_BaseButton_C.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T15:10:04Z"
+		},
+		{
+			"ns": "",
+			"key": "37ED57394CB0289EE6BC40951E97364A",
+			"source": "test",
+			"origin": "/Game/Blueprints/UICore/Widgets/Base/W_IRR_BaseButton.W_IRR_BaseButton_C:WidgetTree.ButtonTextBlock.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T15:10:04Z"
+		},
+		{
+			"ns": "",
+			"key": "12E35B484096163AE4A2FA82F34883D9",
+			"source": "test",
+			"origin": "/Game/Blueprints/UICore/Widgets/Base/W_IRR_HorizontalTabList.Default__W_IRR_HorizontalTabList_C.PreregisteredTabInfoArray(0).PreregisteredTabInfoArray.TabText",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T15:10:04Z"
+		},
+		{
+			"ns": "",
+			"key": "FB2EF83D4F020C07CC72B2BDC5D425CA",
+			"source": "Test",
+			"origin": "/Game/Blueprints/UICore/Widgets/Laptop/W_IRR_Laptop_SearchFilter.Default__W_IRR_Laptop_SearchFilter_C.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T15:10:04Z"
 		},
 		{
 			"ns": "",
