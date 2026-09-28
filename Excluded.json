@@ -759,6 +759,22 @@
 			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_901_RR.DA_KIA_901_RR.MissionInfo.Hint",
 			"by": "CiaoKakao",
 			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "83086BC94B1AF65E797AFDB91C3593AE",
+			"source": " / {max}",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Hideout/W_IRR_HideoutUpgrade_MinMaxText.W_IRR_HideoutUpgrade_MinMaxText_C:ExecuteUbergraph_W_IRR_HideoutUpgrade_MinMaxText [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:08:18Z"
+		},
+		{
+			"ns": "",
+			"key": "6DCB5C4549F6B80835EBD48AF556F880",
+			"source": "description bla bla bla .........\r\n............ <strong>strong example</> description bla bla bla ..................... <strong>strong example 2</>.",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Hideout/W_IRR_HideoutUpgrade_Overview.W_IRR_HideoutUpgrade_Overview_C:WidgetTree.Description.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:08:18Z"
 		}
 	]
 }
