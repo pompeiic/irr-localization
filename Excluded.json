@@ -2,11 +2,99 @@
 	"entries": [
 		{
 			"ns": "",
+			"key": "988D25664573499CD16583A15C33AEF6",
+			"source": "Camera Lag",
+			"origin": "/Game/Blueprints/Gameloop/CinematicCamera/W_CinematicCamera_HUD.W_CinematicCamera_HUD_C:WidgetTree.FlySmoothing.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:30:13Z"
+		},
+		{
+			"ns": "",
+			"key": "B885D60E47053064049D0EAE3A9704F4",
+			"source": "Camera Max Speed",
+			"origin": "/Game/Blueprints/Gameloop/CinematicCamera/W_CinematicCamera_HUD.W_CinematicCamera_HUD_C:WidgetTree.FlySpeed.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:30:13Z"
+		},
+		{
+			"ns": "",
+			"key": "835E7C5B491AD6BA842F8BBBFB8808D3",
+			"source": "Camera Start/Stop Speed",
+			"origin": "/Game/Blueprints/Gameloop/CinematicCamera/W_CinematicCamera_HUD.W_CinematicCamera_HUD_C:WidgetTree.FlyStartStop.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:30:13Z"
+		},
+		{
+			"ns": "",
+			"key": "12EC01B54B692465B81F148968624273",
+			"source": "Show AI",
+			"origin": "/Game/Blueprints/Gameloop/CinematicCamera/W_CinematicCamera_HUD.W_CinematicCamera_HUD_C:WidgetTree.ShowAI.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:30:13Z"
+		},
+		{
+			"ns": "",
 			"key": "6C57DF5B4458C30C0EE256A3A41DDDBB",
 			"source": "IA_PushToTalk",
 			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobby.WBP_KronosLobby_C:OnKeyUp [Script Bytecode]",
 			"by": "CiaoKakao",
 			"at": "2026-09-28T10:07:18Z"
+		},
+		{
+			"ns": "",
+			"key": "9CD4C1C04C0591DF1E9B98BA61F29901",
+			"source": "12:00",
+			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobby.WBP_KronosLobby_C:WidgetTree.ArrivalTime.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:30:13Z"
+		},
+		{
+			"ns": "",
+			"key": "D36E027B4074192D97BA6C912A011C87",
+			"source": "Joinability:",
+			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobby.WBP_KronosLobby_C:WidgetTree.IRRTextBlock_8.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:30:13Z"
+		},
+		{
+			"ns": "",
+			"key": "BF42923646D4EC3519A50FBEF74A0361",
+			"source": "JoinabilityText",
+			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobby.WBP_KronosLobby_C:WidgetTree.JoinabilityText.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:30:13Z"
+		},
+		{
+			"ns": "",
+			"key": "90B1893446F49B516705D4A00748E358",
+			"source": "SADSDSADSADSSADASDASDSAD",
+			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobbyPlayer.WBP_KronosLobbyPlayer_C:WidgetTree.PlayerNameText.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:30:13Z"
+		},
+		{
+			"ns": "",
+			"key": "09DDE7394F8E28B9A7CA5FB42DCBE77F",
+			"source": "Travis Siegel - Assistent Writer",
+			"origin": "/Game/Blueprints/Gameloop/Menu/Widgets/WB_Credits.WB_Credits_C:WidgetTree.Text_41.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:30:13Z"
+		},
+		{
+			"ns": "",
+			"key": "31AC324E43B4F1A53D413392000B294F",
+			"source": "cheat code",
+			"origin": "/Game/Blueprints/Gameloop/W_ConsoleCommand.W_ConsoleCommand_C:WidgetTree.ConsoleCommand.HintText",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:30:13Z"
+		},
+		{
+			"ns": "",
+			"key": "FE7B6DE6407A271BB9C0FFAC8C094763",
+			"source": "CHEAT CONSOLE",
+			"origin": "/Game/Blueprints/Gameloop/W_ConsoleCommand.W_ConsoleCommand_C:WidgetTree.Title.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:30:13Z"
 		},
 		{
 			"ns": "",
