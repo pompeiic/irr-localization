@@ -390,9 +390,6 @@ function whereUsed(e) {
   const folders = folderPath.split("/").filter((f) => !NOISE_FOLDERS.has(f.toLowerCase()))
     .map((f) => (f in FOLDER_NAMES ? FOLDER_NAMES[f] : humanize(f))).filter(Boolean);
   const where = [...new Set(folders)];
-  const whereText = where.join(" ").toLowerCase();
-  const assetName = humanize(asset);
-  const assetNew = assetName.split(" ").some((w) => w.length > 1 && !whereText.includes(w.toLowerCase()));
   const detail = [];
   const step = prop.match(/IRRMissionSequence_(\d+)/);
   if (step) detail.push(`step ${+step[1] + 1}`);
@@ -404,9 +401,7 @@ function whereUsed(e) {
   if (widget && !GENERIC_WIDGETS.test(widget[1])) detail.push(`element “${humanize(widget[1])}”`);
   return {
     where: where.join(" › "),
-    asset: assetNew ? assetName : "",
     detail: detail.join(" · "),
-    kind: /\/Widgets?\//i.test(o) || /^W(BP|B)?_/i.test(asset) ? "Screen" : /^ID_/i.test(asset) ? "Item" : "Asset",
   };
 }
 
@@ -760,7 +755,6 @@ function renderContext(e, args, refresh) {
   const notes = state.contexts?.get(id) || [];
   const facts = kids(
     w?.where ? h("span", { class: "fact" }, h("b", {}, "Where"), w.where) : null,
-    w?.asset ? h("span", { class: "fact" }, h("b", {}, w.kind), w.asset) : null,
     w?.detail ? h("span", { class: "fact" }, h("b", {}, "Part"), w.detail) : null,
     !w && e.origin?.startsWith("Source/") ? h("span", { class: "fact" }, h("b", {}, "Where"), "Game code") : null);
   const box = h("div", { class: "context" },
