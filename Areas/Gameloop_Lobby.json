@@ -732,58 +732,6 @@
 		},
 		{
 			"ns": "",
-			"key": "6C57DF5B4458C30C0EE256A3A41DDDBB",
-			"source": "IA_PushToTalk",
-			"sourceHash": "21260e64",
-			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobby.WBP_KronosLobby_C:OnKeyUp [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": "IA_PushToTalk",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "IA_PushToTalk",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "IA_PushToTalk",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "IA_PushToTalk",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "IA_PushToTalk",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "IA_PushToTalk",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "70A628A04D33B91C13EA7EB69DF0196D",
 			"source": "Joining match",
 			"sourceHash": "6afe9b03",
@@ -1044,58 +992,6 @@
 		},
 		{
 			"ns": "",
-			"key": "90B1893446F49B516705D4A00748E358",
-			"source": "SADSDSADSADSSADASDASDSAD",
-			"sourceHash": "af132f6b",
-			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobbyPlayer.WBP_KronosLobbyPlayer_C:WidgetTree.PlayerNameText.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "SADSDSADSADSSADASDASDSAD",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "SADSDSADSADSSADASDASDSAD",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "SADSDSADSADSSADASDASDSAD",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "SADSDSADSADSSADASDASDSAD",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "SADSDSADSADSSADASDASDSAD",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "SADSDSADSADSSADASDASDSAD",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "9308964E45CE1ECA3C32468F3AE015C5",
 			"source": "NOT CERTIFIED",
 			"sourceHash": "88fa546e",
@@ -1192,58 +1088,6 @@
 				"es-ES":
 				{
 					"text": "SALA",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "9CD4C1C04C0591DF1E9B98BA61F29901",
-			"source": "12:00",
-			"sourceHash": "6dc84edc",
-			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobby.WBP_KronosLobby_C:WidgetTree.ArrivalTime.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "12:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "12:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "12:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "12:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "12:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "12:00",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -1356,58 +1200,6 @@
 		},
 		{
 			"ns": "",
-			"key": "BF42923646D4EC3519A50FBEF74A0361",
-			"source": "JoinabilityText",
-			"sourceHash": "aa494eba",
-			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobby.WBP_KronosLobby_C:WidgetTree.JoinabilityText.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "JoinabilityText",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "JoinabilityText",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "JoinabilityText",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "JoinabilityText",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "JoinabilityText",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "JoinabilityText",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "C71E77E04D14475D5B70E885F9885E78",
 			"source": "Ready",
 			"sourceHash": "a25cd793",
@@ -1504,58 +1296,6 @@
 				"es-ES":
 				{
 					"text": "LISTO",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "D36E027B4074192D97BA6C912A011C87",
-			"source": "Joinability:",
-			"sourceHash": "2f44139f",
-			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobby.WBP_KronosLobby_C:WidgetTree.IRRTextBlock_8.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "Beitrittsart:",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "加入权限：",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Доступность:",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "참가 가능 여부:",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "参加設定:",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Accesibilidad:",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
