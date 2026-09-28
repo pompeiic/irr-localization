@@ -10,7 +10,7 @@
 		"ja",
 		"es-ES"
 	],
-	"exportedAt": "2026-09-27T15:29:27.678Z",
+	"exportedAt": "2026-09-28T08:43:41.761Z",
 	"entries": 3701,
 	"areas": [
 		{
@@ -422,21 +422,21 @@
 		{
 			"area": "Missions/Actors",
 			"file": "Areas/Missions_Actors.json",
-			"entries": 46,
+			"entries": 37,
 			"translated":
 			{
-				"de": 34,
-				"zh-Hans": 34,
-				"ru": 34,
-				"ko": 34,
-				"ja": 34,
-				"es-ES": 34
+				"de": 37,
+				"zh-Hans": 37,
+				"ru": 37,
+				"ko": 37,
+				"ja": 37,
+				"es-ES": 37
 			}
 		},
 		{
 			"area": "Missions/DataAssets",
 			"file": "Areas/Missions_DataAssets.json",
-			"entries": 930,
+			"entries": 939,
 			"translated":
 			{
 				"de": 930,
@@ -565,12 +565,12 @@
 			"entries": 181,
 			"translated":
 			{
-				"de": 0,
-				"zh-Hans": 0,
-				"ru": 0,
-				"ko": 0,
-				"ja": 0,
-				"es-ES": 0
+				"de": 175,
+				"zh-Hans": 175,
+				"ru": 175,
+				"ko": 175,
+				"ja": 175,
+				"es-ES": 175
 			}
 		},
 		{
