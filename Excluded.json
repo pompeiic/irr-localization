@@ -482,6 +482,14 @@
 		},
 		{
 			"ns": "",
+			"key": "EF7406004B4E6984B747B18E811978C8",
+			"source": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. ",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/BLUEFOR/ADLER/StoryMissions/DA_BLUEFOR_ADLER_SM_1.DA_BLUEFOR_ADLER_SM_1.MissionInfo.Hint",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:09:27Z"
+		},
+		{
+			"ns": "",
 			"key": "9B5C44A04B26F96A0D8214910E476001",
 			"source": "Eliminate {count} with a Sniper Rifle.",
 			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Elimination/DA_KIA_101_RR.DA_KIA_101_RR:IRRMissionSequence_0.BP_IRRObjectie_Kill_C_0.Description",
@@ -775,6 +783,54 @@
 			"origin": "/Game/Blueprints/MissionSystem/UI/Hideout/W_IRR_HideoutUpgrade_Overview.W_IRR_HideoutUpgrade_Overview_C:WidgetTree.Description.Text",
 			"by": "CiaoKakao",
 			"at": "2026-09-28T10:08:18Z"
+		},
+		{
+			"ns": "",
+			"key": "D485E75A41400A1498C692A5F61F1118",
+			"source": "Soldier! \r\n\r\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. \r\n\r\nAt vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. \r\n\r\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. \r\n\r\nGreetings, Tanaka\r\n",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.AdditionalMission.Email_48_1EF60E214686034DD7C3F3A821AD083A.Content_4_C09FE08643CABC95C2BF36A747E9E267",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:09:27Z"
+		},
+		{
+			"ns": "",
+			"key": "AE86EA5044C685E0AC26C683D769CEB8",
+			"source": "Hello Friend, \r\n\r\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. \r\n\r\nAt vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. \r\n\r\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. \r\n\r\nGreetings, Tanaka\r\n",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.Australia.Email_48_1EF60E214686034DD7C3F3A821AD083A.Content_4_C09FE08643CABC95C2BF36A747E9E267",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:09:27Z"
+		},
+		{
+			"ns": "",
+			"key": "873AF33C4379A60EA82B7C88D453DA88",
+			"source": "Hello Friend, \r\n\r\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. \r\n\r\nAt vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. \r\n\r\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. \r\n\r\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. \r\n\r\nAt vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. \r\n\r\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. \r\n\r\nGreetings, Tanaka\r\n",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.BlockoutMission.Email_48_1EF60E214686034DD7C3F3A821AD083A.Content_4_C09FE08643CABC95C2BF36A747E9E267",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:09:27Z"
+		},
+		{
+			"ns": "",
+			"key": "F57574F44B488CE7F128189D12C3A7FA",
+			"source": "Soldier! \r\n\r\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. \r\n\r\nAt vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. \r\n\r\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. \r\n\r\nGreetings, Tanaka\r\n",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.DeactivateWaveSpawner.Email_48_1EF60E214686034DD7C3F3A821AD083A.Content_4_C09FE08643CABC95C2BF36A747E9E267",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:09:27Z"
+		},
+		{
+			"ns": "",
+			"key": "CE26EC2A4CD770A0BA6798961F4B7BFC",
+			"source": "Hey agent, \r\n\r\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. \r\n\r\nAt vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. \r\n\r\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. \r\n\r\nRegards, Mr Miller\r\n",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.DemoMission_0.Email_48_1EF60E214686034DD7C3F3A821AD083A.Content_4_C09FE08643CABC95C2BF36A747E9E267",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:09:27Z"
+		},
+		{
+			"ns": "",
+			"key": "25FD732A4A494F7466DDC98B7E380234",
+			"source": "Hey agent, \r\n\r\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. \r\n\r\nAt vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. \r\n\r\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. \r\n\r\nRegards, Mr Miller\r\n",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.DemoMission.Email_48_1EF60E214686034DD7C3F3A821AD083A.Content_4_C09FE08643CABC95C2BF36A747E9E267",
+			"by": "CiaoKakao",
+			"at": "2026-09-28T10:09:27Z"
 		}
 	]
 }
