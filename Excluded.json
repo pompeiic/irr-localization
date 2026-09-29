@@ -1314,11 +1314,43 @@
 		},
 		{
 			"ns": "",
+			"key": "C777A0184B64D9B49B45638B6B06B712",
+			"source": " / 2",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Hideout/W_IRR_HideoutUpgrade_MinMaxText.W_IRR_HideoutUpgrade_MinMaxText_C:WidgetTree.Max.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T09:58:18Z"
+		},
+		{
+			"ns": "",
+			"key": "DBA03DBC47D04CA6CC1CE9BB42D21C82",
+			"source": "0",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Hideout/W_IRR_HideoutUpgrade_MinMaxText.W_IRR_HideoutUpgrade_MinMaxText_C:WidgetTree.Min.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T09:58:18Z"
+		},
+		{
+			"ns": "",
+			"key": "701D4AD24B6ED08D778C9FBB53C05B88",
+			"source": "Requires UICS faction level 2.",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Hideout/W_IRR_HideoutUpgrade_Overview_Resource.W_IRR_HideoutUpgrade_Overview_Resource_C:WidgetTree.IRRTextBlock.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T09:58:18Z"
+		},
+		{
+			"ns": "",
 			"key": "6DCB5C4549F6B80835EBD48AF556F880",
 			"source": "description bla bla bla .........\r\n............ <strong>strong example</> description bla bla bla ..................... <strong>strong example 2</>.",
 			"origin": "/Game/Blueprints/MissionSystem/UI/Hideout/W_IRR_HideoutUpgrade_Overview.W_IRR_HideoutUpgrade_Overview_C:WidgetTree.Description.Text",
 			"by": "CiaoKakao",
 			"at": "2026-09-28T10:08:18Z"
+		},
+		{
+			"ns": "",
+			"key": "A994929E43365E0E37200295F1819B22",
+			"source": "Gunsmith - Lv. 2",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Hideout/W_IRR_HideoutUpgrade_Overview.W_IRR_HideoutUpgrade_Overview_C:WidgetTree.MissionName.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T09:58:18Z"
 		},
 		{
 			"ns": "",
