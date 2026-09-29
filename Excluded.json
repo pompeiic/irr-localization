@@ -802,6 +802,190 @@
 		},
 		{
 			"ns": "",
+			"key": "60FC94A044E5176F48CE66A7F6F4896F",
+			"source": "-",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatCompatibleItems.W_StatCompatibleItems_C:Get_ContextButton_ToolTipWidget [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T09:55:20Z"
+		},
+		{
+			"ns": "",
+			"key": "A7611F784B9950BF08967E9F496B463C",
+			"source": " / {x}",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatPlainTextBox.W_StatPlainTextBox_C:ExecuteUbergraph_W_StatPlainTextBox [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T09:55:20Z"
+		},
+		{
+			"ns": "",
+			"key": "18E872BA4A1A13E6B0DCED9076AB91FE",
+			"source": "-",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatPlainTextBox.W_StatPlainTextBox_C:SetDisplayText [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T09:55:20Z"
+		},
+		{
+			"ns": "",
+			"key": "206F1CAD4E0E41DBE9C1A6B05D150BBF",
+			"source": "{sign}{Value}{Percent}",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatPlainTextBox.W_StatPlainTextBox_C:SetDisplayText [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T09:55:20Z"
+		},
+		{
+			"ns": "",
+			"key": "A463EFF34C9D1E30546816ABE8F64539",
+			"source": "+",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatPlainTextBox.W_StatPlainTextBox_C:SetDisplayText [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T09:55:20Z"
+		},
+		{
+			"ns": "",
+			"key": "B08B1A8A438B173F89EC9381552568E3",
+			"source": "{Value}",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatPlainTextBox.W_StatPlainTextBox_C:SetDisplayText [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T09:55:20Z"
+		},
+		{
+			"ns": "",
+			"key": "CFE533D04F5E01B85AAFC28FD1F687CA",
+			"source": " %",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatPlainTextBox.W_StatPlainTextBox_C:SetDisplayText [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T09:55:20Z"
+		},
+		{
+			"ns": "",
+			"key": "716760B34C3B1EF5A2DEC994B4D91657",
+			"source": "+ 30",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatPlainTextBox.W_StatPlainTextBox_C:WidgetTree.CompareValueText.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T09:55:20Z"
+		},
+		{
+			"ns": "",
+			"key": "8CCCB43D4FD4A3C902484E80D6EAE49F",
+			"source": "Semi, Auto",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatPlainTextBox.W_StatPlainTextBox_C:WidgetTree.CurrentValueText.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T09:55:20Z"
+		},
+		{
+			"ns": "",
+			"key": "0CF0AF43403ED00CCF3EA99E0E7F2188",
+			"source": "R",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatPlainTextBox.W_StatPlainTextBox_C:WidgetTree.StatNameText.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T09:55:20Z"
+		},
+		{
+			"ns": "",
+			"key": "5BBE304641DE9F4E009A2BB84638F038",
+			"source": "1000",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatPrice.W_StatPrice_C:WidgetTree.EstimatedPrice.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T09:55:20Z"
+		},
+		{
+			"ns": "",
+			"key": "8AAE7F9142A60AD5DCEDCC83315EEE30",
+			"source": "1200",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatPrice.W_StatPrice_C:WidgetTree.FullPrice.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T09:55:20Z"
+		},
+		{
+			"ns": "",
+			"key": "156FB0CB4DCA49A1FC08BDAE9AB3B06C",
+			"source": "<",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatPrice.W_StatPrice_C:WidgetTree.Text_1.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T09:55:20Z"
+		},
+		{
+			"ns": "",
+			"key": "A93F0DCB4CE6F7C2810A7DBDC38B463E",
+			"source": "$",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatPrice.W_StatPrice_C:WidgetTree.Text_3.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T09:55:20Z"
+		},
+		{
+			"ns": "",
+			"key": "0F91C30D4E909880423F7499D048C6CE",
+			"source": "-",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatProgressBar.W_StatProgressBar_C:ExecuteUbergraph_W_StatProgressBar [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T09:55:20Z"
+		},
+		{
+			"ns": "",
+			"key": "12D21F0B4231B202E0FF36973C1D7EE4",
+			"source": "{x}{y}",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatProgressBar.W_StatProgressBar_C:ExecuteUbergraph_W_StatProgressBar [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T09:55:20Z"
+		},
+		{
+			"ns": "",
+			"key": "9EFF299E42934ED947AC6393B494C917",
+			"source": "+",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatProgressBar.W_StatProgressBar_C:ExecuteUbergraph_W_StatProgressBar [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T09:55:20Z"
+		},
+		{
+			"ns": "",
+			"key": "B6DC54E34438123CCF2208AE23071976",
+			"source": "/ {x}",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatProgressBar.W_StatProgressBar_C:ExecuteUbergraph_W_StatProgressBar [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T09:55:20Z"
+		},
+		{
+			"ns": "",
+			"key": "AAB7F65C4E0AD4DD1721FCBE27C35A08",
+			"source": "+ 30",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatProgressBar.W_StatProgressBar_C:WidgetTree.CompareValueText.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T09:55:20Z"
+		},
+		{
+			"ns": "",
+			"key": "6474541E4E0C5BF4DED057BF631E6A4E",
+			"source": "20 /",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatProgressBar.W_StatProgressBar_C:WidgetTree.CurrentValueText.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T09:55:20Z"
+		},
+		{
+			"ns": "",
+			"key": "C0520DA444A812FC70FD4CB955F9FA5D",
+			"source": " 100",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatProgressBar.W_StatProgressBar_C:WidgetTree.MaxValueText.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T09:55:20Z"
+		},
+		{
+			"ns": "",
+			"key": "DD2CF767436D2937B8C99486C17F2AB3",
+			"source": "Kg",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatWeight.W_StatWeight_C:WidgetTree.WeightText_1.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T09:55:20Z"
+		},
+		{
+			"ns": "",
+			"key": "E4B36BB0414A52783923988A2C214237",
+			"source": "3.28",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatWeight.W_StatWeight_C:WidgetTree.WeightText.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T09:55:20Z"
+		},
+		{
+			"ns": "",
 			"key": "9E5A982D4C1A0F663F75CC9078081739",
 			"source": "Test",
 			"origin": "/Game/Blueprints/InventorySystem/Widgets/W_InventoryHeadline.W_InventoryHeadline_C:WidgetTree.Text.Text",
