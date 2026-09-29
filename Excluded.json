@@ -34,6 +34,14 @@
 		},
 		{
 			"ns": "",
+			"key": "4A8FA6EB48469D482BD06FB39B1EFD4C",
+			"source": "Unknown",
+			"origin": "/Game/Blueprints/Gameloop/InGame/WBP_KronosExampleInGamePlayer.WBP_KronosExampleInGamePlayer_C:WidgetTree.PlayerNameText.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T10:58:56Z"
+		},
+		{
+			"ns": "",
 			"key": "6C57DF5B4458C30C0EE256A3A41DDDBB",
 			"source": "IA_PushToTalk",
 			"origin": "/Game/Blueprints/Gameloop/Lobby/Widgets/WBP_KronosLobby.WBP_KronosLobby_C:OnKeyUp [Script Bytecode]",
@@ -1282,6 +1290,134 @@
 		},
 		{
 			"ns": "",
+			"key": "C014C4C54CC424D09F9FB2A73C5533ED",
+			"source": "{Minutes}:{Seconds}",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Deploy/WB_DeployTab.WB_DeployTab_C:UpdateDisplay [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T10:58:56Z"
+		},
+		{
+			"ns": "",
+			"key": "1F6D03D6444D82389397E18862FB62D3",
+			"source": "<red>{text}</>",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction_LEGACY.W_Extraction_LEGACY_C:ExecuteUbergraph_W_Extraction_LEGACY [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T10:58:56Z"
+		},
+		{
+			"ns": "",
+			"key": "83CCD6E04E1DA8A5C7FB1789259DAACB",
+			"source": "<red>{text}</>",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction_LEGACY.W_Extraction_LEGACY_C:ExecuteUbergraph_W_Extraction_LEGACY [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T10:58:56Z"
+		},
+		{
+			"ns": "",
+			"key": "9B3ADA0E4CD82307A7A0ECB51BC308E3",
+			"source": "<red>{text}</>",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction_LEGACY.W_Extraction_LEGACY_C:ExecuteUbergraph_W_Extraction_LEGACY [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T10:58:56Z"
+		},
+		{
+			"ns": "",
+			"key": "0790846248806F87ED016493C8B63C39",
+			"source": "<red>10</>",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction_LEGACY.W_Extraction_LEGACY_C:WidgetTree.ExtractionCounter.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T10:58:56Z"
+		},
+		{
+			"ns": "",
+			"key": "1349698B47718673EAA68EA6C8293ECD",
+			"source": "/",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction_LEGACY.W_Extraction_LEGACY_C:WidgetTree.IRRTextBlock_1.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T10:58:56Z"
+		},
+		{
+			"ns": "",
+			"key": "352347884DFC60148C0981927843A23E",
+			"source": "0",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction_LEGACY.W_Extraction_LEGACY_C:WidgetTree.PlayerInZone_2.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T10:58:56Z"
+		},
+		{
+			"ns": "",
+			"key": "73101B464FFC5C47C89F36A8BD5BACBE",
+			"source": "<red>1</>",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction_LEGACY.W_Extraction_LEGACY_C:WidgetTree.PlayerInZone.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T10:58:56Z"
+		},
+		{
+			"ns": "",
+			"key": "35A097E942013BE77F3E9AAB2F057667",
+			"source": "3",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction_LEGACY.W_Extraction_LEGACY_C:WidgetTree.PlayersAlive_2.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T10:58:56Z"
+		},
+		{
+			"ns": "",
+			"key": "D0589FEF4EC7E298E4E2AEA42A92D5E8",
+			"source": "<red>3</>",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction_LEGACY.W_Extraction_LEGACY_C:WidgetTree.PlayersAlive.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T10:58:56Z"
+		},
+		{
+			"ns": "",
+			"key": "00D4CD8C42A68626EB5706A67DEF3DAD",
+			"source": "<red>/</>",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction_LEGACY.W_Extraction_LEGACY_C:WidgetTree.RichTextBlock.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T10:58:56Z"
+		},
+		{
+			"ns": "",
+			"key": "9984268741F79C98BFC2298D9F97A520",
+			"source": "/",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction.W_Extraction_C:WidgetTree.IRRTextBlock_1.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T10:58:56Z"
+		},
+		{
+			"ns": "",
+			"key": "AE6796C444167CC460BA2B80D7218DF3",
+			"source": "0",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction.W_Extraction_C:WidgetTree.PlayerInZone.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T10:58:56Z"
+		},
+		{
+			"ns": "",
+			"key": "5A9E617446423F640EC87BA75FAED49E",
+			"source": "3",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction.W_Extraction_C:WidgetTree.PlayersAlive.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T10:58:56Z"
+		},
+		{
+			"ns": "",
+			"key": "5974B82945AE72F4A52F609D74F432D1",
+			"source": "--:--",
+			"origin": "/Game/Blueprints/MissionSystem/UI/GCPS/Minimap/W_GCPS_ToolTip_ExtractionZone.W_GCPS_ToolTip_ExtractionZone_C:ExecuteUbergraph_W_GCPS_ToolTip_ExtractionZone [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T10:58:56Z"
+		},
+		{
+			"ns": "",
+			"key": "2B3CE06B482B8BC374DCE3B5F3B8F69C",
+			"source": "01:40",
+			"origin": "/Game/Blueprints/MissionSystem/UI/GCPS/Minimap/W_GCPS_ToolTip_ExtractionZone.W_GCPS_ToolTip_ExtractionZone_C:WidgetTree.OpenTimeText.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T10:58:56Z"
+		},
+		{
+			"ns": "",
 			"key": "EAD7141B4AA677E9FD76BFB604209EB5",
 			"source": "test",
 			"origin": "/Game/Blueprints/MissionSystem/UI/GCPS/W_GCPS_InputAction.W_GCPS_InputAction_C:WidgetTree.ActionText.Text",
@@ -1295,6 +1431,126 @@
 			"origin": "/Game/Blueprints/MissionSystem/UI/GCPS/W_GCPS_MissionList_Item.W_GCPS_MissionList_Item_C:WidgetTree.Button.ToolTipText",
 			"by": "CiaoKakao",
 			"at": "2026-09-28T15:10:04Z"
+		},
+		{
+			"ns": "",
+			"key": "2B2942444694503DA3DE398AD905579A",
+			"source": "SEQ_{Index}: ",
+			"origin": "/Game/Blueprints/MissionSystem/UI/GCPS/W_GCPS_MissionSequenceItem.W_GCPS_MissionSequenceItem_C:ExecuteUbergraph_W_GCPS_MissionSequenceItem [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T10:58:56Z"
+		},
+		{
+			"ns": "",
+			"key": "61CF64F5440715B59B2A9EB0941BCBDE",
+			"source": "SEQ_1: ",
+			"origin": "/Game/Blueprints/MissionSystem/UI/GCPS/W_GCPS_MissionSequenceItem.W_GCPS_MissionSequenceItem_C:WidgetTree.SequenceNumber.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T10:58:56Z"
+		},
+		{
+			"ns": "",
+			"key": "146F429A42EA0D37399D00864E771F0C",
+			"source": "{CDATA}: \"{Resource}\"",
+			"origin": "/Game/Blueprints/MissionSystem/UI/GCPS/W_GCPS_ResourceItem.W_GCPS_ResourceItem_C:ExecuteUbergraph_W_GCPS_ResourceItem [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T10:58:56Z"
+		},
+		{
+			"ns": "",
+			"key": "60D71805419E68733E2E28907911E469",
+			"source": "/",
+			"origin": "/Game/Blueprints/MissionSystem/UI/GCPS/W_GCPS_ResourceItem.W_GCPS_ResourceItem_C:WidgetTree.Amount_1.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T10:58:56Z"
+		},
+		{
+			"ns": "",
+			"key": "86D13B324394D6A2653BDDBFB6FD58CD",
+			"source": "1575",
+			"origin": "/Game/Blueprints/MissionSystem/UI/GCPS/W_GCPS_ResourceItem.W_GCPS_ResourceItem_C:WidgetTree.Amount.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T10:58:56Z"
+		},
+		{
+			"ns": "",
+			"key": "AE852D6A406545B229B892BE38E5E197",
+			"source": "2700",
+			"origin": "/Game/Blueprints/MissionSystem/UI/GCPS/W_GCPS_ResourceItem.W_GCPS_ResourceItem_C:WidgetTree.Max.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T10:58:56Z"
+		},
+		{
+			"ns": "",
+			"key": "53AAB75C42FC4E4B7CA09D8E2343F950",
+			"source": "CDATA_A: \"Concrete\"",
+			"origin": "/Game/Blueprints/MissionSystem/UI/GCPS/W_GCPS_ResourceItem.W_GCPS_ResourceItem_C:WidgetTree.ResourceTypeText.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T10:58:56Z"
+		},
+		{
+			"ns": "",
+			"key": "F64725214AC6894375DB5096CE4A4FD5",
+			"source": "04:45 pm",
+			"origin": "/Game/Blueprints/MissionSystem/UI/GCPS/W_GCPS_TopBar.W_GCPS_TopBar_C:WidgetTree.Time_Text.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T10:58:56Z"
+		},
+		{
+			"ns": "",
+			"key": "E75782894160BAFD4F65C2A7B7C74CA9",
+			"source": "CDATA_B",
+			"origin": "/Game/Blueprints/MissionSystem/UI/GCPS/W_GCPS_TopBar.W_GCPS_TopBar_C:WidgetTree.W_GCPS_ResourceItem_1.CDATA",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T10:58:56Z"
+		},
+		{
+			"ns": "",
+			"key": "2022FFCC4D02447A42335D85BC06B47A",
+			"source": "CDATA_C",
+			"origin": "/Game/Blueprints/MissionSystem/UI/GCPS/W_GCPS_TopBar.W_GCPS_TopBar_C:WidgetTree.W_GCPS_ResourceItem_2.CDATA",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T10:58:56Z"
+		},
+		{
+			"ns": "",
+			"key": "B63AEBDB4693070330A485B173C8E7DC",
+			"source": "CDATA_D",
+			"origin": "/Game/Blueprints/MissionSystem/UI/GCPS/W_GCPS_TopBar.W_GCPS_TopBar_C:WidgetTree.W_GCPS_ResourceItem_3.CDATA",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T10:58:56Z"
+		},
+		{
+			"ns": "",
+			"key": "3A8F25DA440312CE1951F6AF0D131DAA",
+			"source": "CDATA_A",
+			"origin": "/Game/Blueprints/MissionSystem/UI/GCPS/W_GCPS_TopBar.W_GCPS_TopBar_C:WidgetTree.W_GCPS_ResourceItem.CDATA",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T10:58:56Z"
+		},
+		{
+			"ns": "",
+			"key": "7E492A534EADB5C536573BB8425134BE",
+			"source": "Ver. 1.2.9.4",
+			"origin": "/Game/Blueprints/MissionSystem/UI/GCPS/W_GCPS_UI.W_GCPS_UI_C:WidgetTree.IRRTextBlock_100.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T10:58:56Z"
+		},
+		{
+			"ns": "",
+			"key": "19C7628343DB4B283D3921A77AB54038",
+			"source": "--- MPH",
+			"origin": "/Game/Blueprints/MissionSystem/UI/GCPS/W_GCPS_UI.W_GCPS_UI_C:WidgetTree.IRRTextBlock_2.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T10:58:56Z"
+		},
+		{
+			"ns": "",
+			"key": "74632C3D427C06E4A6A4AC93AA093CB7",
+			"source": "CUSTOM SAT DATA : UNLOADED",
+			"origin": "/Game/Blueprints/MissionSystem/UI/GCPS/W_GCPS_UI.W_GCPS_UI_C:WidgetTree.IRRTextBlock_3.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T10:58:56Z"
 		},
 		{
 			"ns": "",
@@ -1479,6 +1735,22 @@
 			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.DemoMission.Email_48_1EF60E214686034DD7C3F3A821AD083A.Content_4_C09FE08643CABC95C2BF36A747E9E267",
 			"by": "CiaoKakao",
 			"at": "2026-09-28T10:09:27Z"
+		},
+		{
+			"ns": "",
+			"key": "713430F84E7B5633EB75DA98A58EB8B9",
+			"source": "20",
+			"origin": "/Game/ThirdParty/CMG/Widgets/W_DeathScreen.W_DeathScreen_C:WidgetTree.RemainingTime.Text",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T10:58:56Z"
+		},
+		{
+			"ns": "IRRSpectatorMenu",
+			"key": "Close",
+			"source": "X",
+			"origin": "Source/Test_C/Spectator/SIRRSpectatorMenu.cpp(137)",
+			"by": "CiaoKakao",
+			"at": "2026-09-29T10:58:56Z"
 		}
 	]
 }
