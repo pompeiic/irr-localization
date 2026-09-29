@@ -216,8 +216,8 @@ button.suggest.small { padding: 4px 12px; font-size: 11px; }
 .card { background: var(--panel); border: 1px solid var(--border); border-left: 2px solid var(--border-strong); padding: 11px 14px 12px; margin-bottom: 12px; }
 .card h3 { margin: 0 0 6px; font-family: var(--font-ui); font-size: 12px; color: var(--dim); letter-spacing: 2px; text-transform: uppercase; font-weight: 600; }
 .grid2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 14px; }
-#thresholds { display: grid; grid-template-columns: 1fr 90px; gap: 6px 10px; align-items: center; margin-top: 8px; }
-#thresholds span { color: var(--dim); }
+#thresholds, .limits { display: grid; grid-template-columns: 1fr 90px; gap: 6px 10px; align-items: center; margin-top: 8px; }
+#thresholds span, .limits span { color: var(--dim); }
 table.queue { width: 100%; border-collapse: collapse; margin-top: 10px; }
 table.queue th { text-align: left; font-family: var(--font-ui); font-size: 11px; color: var(--faint); letter-spacing: 2px; text-transform: uppercase; padding: 6px 8px; border-bottom: 1px solid var(--border-strong); }
 table.queue td { padding: 7px 8px; border-bottom: 1px dashed var(--border); vertical-align: top; }

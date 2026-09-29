@@ -1318,8 +1318,34 @@ function renderSettingsView() {
       saved.textContent = ok ? "Saved to the repo." : "No change.";
       await loadQueue();
     }) }, "Save to repo")));
-  return h("div", {}, adminHeader("Settings", null, "Thresholds are saved to the repo for every admin; the GitHub token stays in this browser only."),
-    h("div", { class: "grid2" }, tokenCard, thresholdCard));
+  return h("div", {}, adminHeader("Settings", null, "Thresholds are saved to the repo and limits to the community database, for every admin; the GitHub token stays in this browser only."),
+    h("div", { class: "grid2" }, tokenCard, thresholdCard, renderLimitsCard()));
+}
+
+// Enforced by the database triggers, so these live in Supabase rather than in the repo.
+function renderLimitsCard() {
+  const num = () => h("input", { type: "number", min: "0", step: "1", disabled: true });
+  const sug = num(), ctx = num();
+  const status = h("span", { class: "hint grow" }, "Loading…");
+  const save = h("button", { class: "primary small", disabled: true, onclick: guarded(async () => {
+    const row = { suggestions_per_hour: Math.max(0, parseInt(sug.value, 10) || 0), contexts_per_hour: Math.max(0, parseInt(ctx.value, 10) || 0) };
+    const { data, error } = await state.sb.from("limits").update(row).eq("id", true).select();
+    if (error) throw new Error(`Could not save limits: ${error.message}`);
+    if (!data?.length) throw new Error("Limits were not saved - check that you are an admin and that community/schema.sql has been run.");
+    sug.value = row.suggestions_per_hour; ctx.value = row.contexts_per_hour;
+    status.textContent = "Saved. Applies immediately.";
+  }) }, "Save");
+  for (const i of [sug, ctx]) i.addEventListener("input", () => (status.textContent = "Unsaved changes"));
+  state.sb.from("limits").select("suggestions_per_hour, contexts_per_hour").maybeSingle().then(({ data, error }) => {
+    if (error || !data) { status.textContent = error ? `Could not load limits: ${error.message}` : "No limits yet - run community/schema.sql in Supabase."; return; }
+    sug.value = data.suggestions_per_hour; ctx.value = data.contexts_per_hour;
+    sug.disabled = ctx.disabled = save.disabled = false;
+    status.textContent = "";
+  });
+  return h("div", { class: "card" }, h("h3", {}, "Spam limits"),
+    h("div", { class: "hint" }, "The most one person can post per hour. 0 = no limit. Admins are never limited."),
+    h("div", { class: "limits" }, h("span", {}, "Suggestions per hour"), sug, h("span", {}, "Context posts per hour"), ctx),
+    h("div", { class: "rowline", style: "margin-top:10px" }, status, save));
 }
 
 // ---------- render ----------
