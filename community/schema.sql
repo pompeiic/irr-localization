@@ -29,6 +29,19 @@ language sql stable security definer set search_path = public as $$
      and not exists (select 1 from bans where user_id = auth.uid());
 $$;
 
+-- Hourly spam limits, edited in the web editor's admin settings. One row; 0 = no limit. Admins are never limited.
+create table if not exists public.limits (
+  id boolean primary key default true check (id),
+  suggestions_per_hour integer not null default 30 check (suggestions_per_hour >= 0),
+  contexts_per_hour integer not null default 20 check (contexts_per_hour >= 0)
+);
+insert into public.limits default values on conflict do nothing;
+alter table public.limits enable row level security;
+drop policy if exists "anyone reads limits" on public.limits;
+create policy "anyone reads limits" on public.limits for select using (true);
+drop policy if exists "admins change limits" on public.limits;
+create policy "admins change limits" on public.limits for update to authenticated using (is_admin()) with check (is_admin());
+
 create table if not exists public.suggestions (
   id bigint generated always as identity primary key,
   ns text not null default '',
@@ -64,17 +77,20 @@ create table if not exists public.current_votes (
   primary key (culture, ns, key, text_hash, voter)
 );
 
--- Author name always comes from the account, never from the client. Spam guard: 30 per hour, no duplicates.
+-- Author name always comes from the account, never from the client. Spam guard: hourly limit, no duplicates.
 create or replace function public.guard_suggestion() returns trigger
 language plpgsql security definer set search_path = public as $$
 declare
   meta jsonb;
+  cap integer;
 begin
   select raw_user_meta_data into meta from auth.users where id = new.author;
   new.author_name := left(coalesce(nullif(meta -> 'custom_claims' ->> 'global_name', ''), nullif(meta ->> 'full_name', ''),
                                    nullif(meta ->> 'name', ''), nullif(meta ->> 'user_name', ''), 'Unknown'), 40);
   if not is_admin() then
-    if (select count(*) from suggestions where author = new.author and created_at > now() - interval '1 hour') >= 30 then
+    select suggestions_per_hour into cap from limits;
+    if coalesce(cap, 30) > 0
+       and (select count(*) from suggestions where author = new.author and created_at > now() - interval '1 hour') >= coalesce(cap, 30) then
       raise exception 'Too many suggestions in the last hour - please try again later.';
     end if;
     if exists (select 1 from suggestions where culture = new.culture and ns = new.ns and key = new.key
@@ -175,11 +191,14 @@ create or replace function public.guard_context() returns trigger
 language plpgsql security definer set search_path = public as $$
 declare
   meta jsonb;
+  cap integer;
 begin
   select raw_user_meta_data into meta from auth.users where id = new.author;
   new.author_name := left(coalesce(nullif(meta -> 'custom_claims' ->> 'global_name', ''), nullif(meta ->> 'full_name', ''),
                                    nullif(meta ->> 'name', ''), nullif(meta ->> 'user_name', ''), 'Unknown'), 40);
-  if not is_admin() and (select count(*) from contexts where author = new.author and created_at > now() - interval '1 hour') >= 20 then
+  select contexts_per_hour into cap from limits;
+  if not is_admin() and coalesce(cap, 20) > 0
+     and (select count(*) from contexts where author = new.author and created_at > now() - interval '1 hour') >= coalesce(cap, 20) then
     raise exception 'Too much context added in the last hour - please try again later.';
   end if;
   return new;
