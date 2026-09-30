@@ -7968,33 +7968,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "https://pompeiic.github.io/irr-localization/editor.html",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-30T05:09:07Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "https://pompeiic.github.io/irr-localization/editor.html",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-30T05:09:07Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "https://pompeiic.github.io/irr-localization/editor.html",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-30T05:09:07Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "https://pompeiic.github.io/irr-localization/editor.html",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-30T05:09:07Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "https://pompeiic.github.io/irr-localization/editor.html",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-30T05:09:07Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "https://pompeiic.github.io/irr-localization/editor.html",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-30T05:09:07Z"
 				}
 			}
 		},
@@ -10296,33 +10308,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Übersetzungen werden anfangs mit KI erzeugt und können Fehler enthalten. \r\n\r\nHilf mit, sie zu verbessern: Schlage im Community-Lokalisierungseditor Übersetzungen vor und stimme über vorhandene ab.\r\n\r\nGemeinsam schaffen wir von der Community geprüfte Übersetzungen.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-30T05:09:07Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "翻译最初由AI生成，可能包含错误。 \r\n\r\n请在社区本地化编辑器中提出翻译建议，并为现有翻译投票，帮助改进它们。\r\n\r\n我们可以共同建立经社区审校的翻译。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-30T05:09:07Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Переводы сначала создаются ИИ и могут содержать ошибки. \r\n\r\nПомоги их улучшить: предлагай переводы и голосуй за существующие в нашем редакторе локализации сообщества.\r\n\r\nВместе мы создадим переводы, проверенные сообществом.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-30T05:09:07Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "번역은 처음에 AI로 생성되며 오류가 있을 수 있습니다. \r\n\r\n커뮤니티 현지화 편집기에서 번역을 제안하고 기존 번역에 투표하여 개선을 도와주십시오.\r\n\r\n함께라면 커뮤니티가 검토한 번역을 만들 수 있습니다.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-30T05:09:07Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "翻訳は最初にAIで生成され、誤りを含むことがあります。 \r\n\r\nコミュニティのローカライズエディタで翻訳を提案し、既存の翻訳に投票して改善にご協力ください。\r\n\r\nコミュニティが確認した翻訳を、一緒に作り上げましょう。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-30T05:09:07Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Las traducciones se generan al principio con IA y pueden contener errores. \r\n\r\nAyuda a mejorarlas proponiendo traducciones y votando las ya existentes en nuestro editor comunitario de localización.\r\n\r\nJuntos podemos crear traducciones revisadas por la comunidad.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-30T05:09:07Z"
 				}
 			}
 		},
