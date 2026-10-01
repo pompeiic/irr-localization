@@ -1,5 +1,6 @@
 {
 	"defaultThreshold": 3,
 	"requireBeatCurrent": true,
+	"excludeThreshold": 3,
 	"cultures": {}
 }

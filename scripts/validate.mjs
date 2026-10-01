@@ -94,7 +94,7 @@ for (const file of areaFiles) {
 if (base) {
   const changed = execSync(`git diff --name-only origin/${base}...HEAD`, { encoding: "utf8" }).split("\n").filter(Boolean);
   for (const file of changed) {
-    if (file === "Project.json" || file === "Excluded.json" || file.startsWith(".github/") || file.startsWith("scripts/") || file.startsWith("community/")) {
+    if (file === "Project.json" || file === "Excluded.json" || file === "GUIDELINES.md" || file.startsWith(".github/") || file.startsWith("scripts/") || file.startsWith("community/")) {
       fail(file, "only Areas/*.json and Glossary.json may change in a translation pull request");
     }
   }

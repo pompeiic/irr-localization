@@ -4,8 +4,8 @@
   (translate each batch into .work/done/t##.json, see scripts/TRANSLATING.md)
   python scripts/ai_translate.py merge     -> validates the results and writes them into Areas/ as "machine"
 
-A language needs work when it is missing, untranslated, stale, or its text was mangled into "??" by a
-wrong-encoding write. Excluded ("don't localize") texts and Lorem-ipsum placeholders are skipped.
+A language needs work when it is missing, untranslated, stale, its text was mangled into "??" by a
+wrong-encoding write, or a machine text breaks a style rule (added dashes, lost non-English words). Excluded ("don't localize") texts and Lorem-ipsum placeholders are skipped.
 """
 import datetime
 import glob
@@ -56,12 +56,37 @@ def mangled(text, src):
     return "?" not in src and re.search(r"\w\?\w", text) is not None
 
 
+VIET = re.compile(r"[ăâđêôơưàáảãạằắẳẵặầấẩẫậèéẻẽẹềếểễệìíỉĩịòóỏõọồốổỗộờớởỡợùúủũụừứửữựỳýỷỹỵ]", re.I)
+CYRILLIC = re.compile(r"[\u0400-\u04FF]")
+LATIN = re.compile(r"[A-Za-z]")
+
+
+def dash_count(s):
+    return len(re.findall(r"[\u2013\u2014]", s)) + len(re.findall(r"-{2,}", s))
+
+
+def foreign_words(src):
+    # Vietnamese (accented Latin) or all-Cyrillic words; mixed-script typos like a Cyrillic "АK" are skipped.
+    words = re.findall(r"[^\s\[\](){}<>.,!?;:\"“”«»„'’]+", re.sub(r"<[^>]*>", " ", src))
+    return sorted({w for w in words if VIET.search(w) or (CYRILLIC.search(w) and not LATIN.search(w))})
+
+
+def style_problem(src, text):
+    if dash_count(text) > dash_count(src):
+        return "adds a dash (— – --); use a comma, colon, full stop or rephrase"
+    lost = [w for w in foreign_words(src) if w not in text]
+    if lost:
+        return f"non-English words must stay as written: {', '.join(lost[:5])}"
+    return None
+
+
 def cultures_needing_work(entry):
     out = []
     for c in CULTURES:
         t = (entry.get("t") or {}).get(c) or {}
         status, text = t.get("status"), t.get("text", "")
-        if status in (None, "untranslated", "stale") or not text or (status == "machine" and mangled(text, entry["source"])):
+        if status in (None, "untranslated", "stale") or not text or (
+                status == "machine" and (mangled(text, entry["source"]) or style_problem(entry["source"], text))):
             out.append(c)
     return out
 
@@ -89,7 +114,7 @@ def check(src, text):
         return f"placeholders {args(text)} vs {args(src)}"
     if text.count("</>") != src.count("</>") or tag_names(text) != tag_names(src):
         return "rich-text tags differ"
-    return None
+    return style_problem(src, text)
 
 
 def extract():

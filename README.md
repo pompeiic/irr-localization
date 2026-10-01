@@ -22,10 +22,11 @@ request is never overwritten by a stale export.
 | `Project.json` | Unreal | Languages, export time, area index with progress counts |
 | `Areas/<Area>.json` | Unreal (English) + translators (`t`, `note`, `maxLength`, `areaOverride`) | Every string of one game area |
 | `Glossary.json` | Translators | Do-not-translate words and fixed terms |
+| `GUIDELINES.md` | Admin | How we translate (style, punctuation, non-English lines); shown in the editor |
 | `Excluded.json` | Admin (via the editor) | Texts marked "don't localize" — Unreal's Full Sync makes them culture-invariant so the gather drops them |
 | `community/config.json` | Admin | Supabase URL + public (publishable) key |
 | `community/categories.json` | Admin | Editor categories (regex rules) and hidden dev-only text |
-| `community/settings.json` | Admin (via the editor) | Acceptance thresholds |
+| `community/settings.json` | Admin (via the editor) | Acceptance thresholds, removal votes needed (`excludeThreshold`) |
 | `community/schema.sql` | Admin | Supabase tables and access rules |
 
 An entry:
@@ -64,6 +65,14 @@ until an admin applies it.
   `InputActions/`) and mark them **Don't localize**. They leave the editor at once and are listed in
   `Excluded.json`; Unreal's next Full Sync makes each one culture-invariant in its asset (the
   "Localize" checkbox off), so the gather drops it. Until then Admin → Not localized can undo it.
+- Signed-in players can vote **Shouldn't be translated** on a text (one vote per person, all languages
+  together; the button shows votes/needed). At `excludeThreshold` votes the request is ready under
+  Admin → Not localized → Requested by players, where an admin either marks it Don't localize or keeps
+  translating it; both clear its votes. Nothing is removed automatically.
+- Each suggestion shows its score against the score it needs to reach the review queue.
+- The editor shows `GUIDELINES.md` and gives non-blocking hints when a suggestion adds a dash or drops
+  a non-English word from the English text. Drafts in open forms (text, note, screenshot) survive
+  switching tabs and re-renders until submitted or cancelled.
 - In-game formatting is shown rendered, never as raw `<Tag>…</>` markup. Tags that wrap a whole text are
   applied automatically; inner formatting is set by selecting words and clicking e.g. **Red** / **Bold**.
   `{Placeholders}` are locked chips with insert buttons. An opener nothing closes (`cd <directory>`) is
