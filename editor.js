@@ -313,7 +313,7 @@ function checkText(entry, text) {
   return problems;
 }
 // Guideline hints (GUIDELINES.md), same rules as scripts/ai_translate.py; shown but never blocking.
-const dashCount = (s) => (s.match(/[\u2013\u2014]/g) || []).length + (s.match(/-{2,}/g) || []).length;
+const doubleHyphens = (s) => (s.match(/(?<!-)--(?!-)/g) || []).length;
 const VIET = /[ăâđêôơưàáảãạằắẳẵặầấẩẫậèéẻẽẹềếểễệìíỉĩịòóỏõọồốổỗộờớởỡợùúủũụừứửữựỳýỷỹỵ]/i;
 function foreignWords(src) {
   const words = src.replace(/<[^>]*>/g, " ").match(/[^\s[\](){}<>.,!?;:"“”«»„'’]+/g) || [];
@@ -321,7 +321,7 @@ function foreignWords(src) {
 }
 function styleWarnings(entry, text) {
   const out = [];
-  if (dashCount(text) > dashCount(entry.source)) out.push("Avoid dashes (— – --) as punctuation: use a comma, colon or full stop, or rephrase.");
+  if (/[\u2013\u2014]/.test(text) || doubleHyphens(text) > doubleHyphens(entry.source)) out.push("Replace — and – (and --) with a regular hyphen (-), or use a comma, colon or full stop.");
   const lost = foreignWords(entry.source).filter((w) => !text.includes(w));
   if (lost.length) out.push(`Keep the non-English words exactly as written: ${lost.slice(0, 5).join(", ")}.`);
   return out;

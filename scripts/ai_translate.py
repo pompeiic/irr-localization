@@ -5,7 +5,7 @@
   python scripts/ai_translate.py merge     -> validates the results and writes them into Areas/ as "machine"
 
 A language needs work when it is missing, untranslated, stale, its text was mangled into "??" by a
-wrong-encoding write, or a machine text breaks a style rule (added dashes, lost non-English words). Excluded ("don't localize") texts and Lorem-ipsum placeholders are skipped.
+wrong-encoding write, or a machine text breaks a style rule (em/en dashes, lost non-English words). Excluded ("don't localize") texts and Lorem-ipsum placeholders are skipped.
 """
 import datetime
 import glob
@@ -61,8 +61,8 @@ CYRILLIC = re.compile(r"[\u0400-\u04FF]")
 LATIN = re.compile(r"[A-Za-z]")
 
 
-def dash_count(s):
-    return len(re.findall(r"[\u2013\u2014]", s)) + len(re.findall(r"-{2,}", s))
+def double_hyphens(s):
+    return len(re.findall(r"(?<!-)--(?!-)", s))
 
 
 def foreign_words(src):
@@ -72,8 +72,10 @@ def foreign_words(src):
 
 
 def style_problem(src, text):
-    if dash_count(text) > dash_count(src):
-        return "adds a dash (— – --); use a comma, colon, full stop or rephrase"
+    if re.search(r"[\u2013\u2014]", text):
+        return "contains an em/en dash (— –); use a regular hyphen (-), comma, colon or full stop"
+    if double_hyphens(text) > double_hyphens(src):
+        return "adds a double hyphen (--); use a regular hyphen (-), comma, colon or full stop"
     lost = [w for w in foreign_words(src) if w not in text]
     if lost:
         return f"non-English words must stay as written: {', '.join(lost[:5])}"

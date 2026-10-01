@@ -70,7 +70,7 @@ until an admin applies it.
   Admin → Not localized → Requested by players, where an admin either marks it Don't localize or keeps
   translating it; both clear its votes. Nothing is removed automatically.
 - Each suggestion shows its score against the score it needs to reach the review queue.
-- The editor shows `GUIDELINES.md` and gives non-blocking hints when a suggestion adds a dash or drops
+- The editor shows `GUIDELINES.md` and gives non-blocking hints when a suggestion uses an em/en dash or drops
   a non-English word from the English text. Drafts in open forms (text, note, screenshot) survive
   switching tabs and re-renders until submitted or cancelled.
 - In-game formatting is shown rendered, never as raw `<Tag>…</>` markup. Tags that wrap a whole text are

@@ -41,15 +41,18 @@ Strict JSON: escape `"` as `\"`, backslashes as `\\`, line breaks as `\n` (keep 
    `QUARRY BUNKER DELTA OUTSKIRTS HEARTLANDS`, weapon / brand / model / part names (AK-74M, AUG, MCX …),
    calibers (5.56x45 …), key names (F, Esc, Tab), terminal commands, file names, passwords, code names and
    acronyms. Personal names and Vietnamese / Russian words already in the English stay as written.
-5. If the source is ALL CAPS, write de / ru / es-ES in ALL CAPS too.
-6. **No dashes as punctuation.** A translation may not contain more em dashes (—), en dashes (–) or
-   double hyphens (--) than its source. Use a comma, colon, full stop or brackets, or rephrase (Russian:
-   `это` / `является` / a colon instead of `X — Y`). Machine translations that added dashes are queued again.
+5. **Keep the letter case of the source**: ALL CAPS stays ALL CAPS, Every Word Capitalized stays that
+   way, sentences stay sentences (not checked by the merge; zh-Hans / ja / ko only for Latin words).
+6. **No em dashes (—) or en dashes (–)**, not even where the source has one: write a regular hyphen (`-`)
+   or a comma, colon or full stop. No double hyphens (`--`) beyond the source's (separator lines like
+   `-----` are copied). Machine translations with em/en dashes are queued again.
 7. **Words that are not English stay as written.** Vietnamese and Cyrillic words in the source
    (`Quân Liên Lục Địa`, `bọn tây`, `Сволочь`) appear verbatim, accents included, in every language; only
    the English around them (e.g. a `[that means UICS]` explanation) is translated.
 
 ## Style
 Follow [`GUIDELINES.md`](../GUIDELINES.md): it is the same rule set the community works to (stay close to
-the English, tone and register, punctuation, consistency, per-language forms of address). Also match how
+the English, almost word for word unless that reads wrong; keep the length; don't fix the English's
+mistakes; tone and register; consistency within a group, e.g. hideout unit names are all nouns;
+per-language forms of address). Also match how
 existing translations in `Areas/` render recurring game terms (stash, intel, jammer, boss, hideout units).
