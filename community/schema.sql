@@ -173,6 +173,32 @@ drop policy if exists "remove current vote" on public.current_votes;
 create policy "remove current vote" on public.current_votes for delete to authenticated
   using (voter = auth.uid() or is_admin());
 
+-- "Shouldn't be translated" votes, one per person per text and for every language at once. An admin acts on
+-- them in the editor (Excluded.json); excluding or keeping the text clears its votes.
+create table if not exists public.exclusion_votes (
+  ns text not null default '',
+  key text not null,
+  voter uuid not null default auth.uid() references auth.users on delete cascade,
+  created_at timestamptz not null default now(),
+  primary key (ns, key, voter)
+);
+
+create or replace view public.exclusion_scores as
+  select ns, key, count(*)::int as votes, max(created_at) as last_vote
+  from public.exclusion_votes
+  group by ns, key;
+grant select on public.exclusion_scores to anon, authenticated;
+
+alter table public.exclusion_votes enable row level security;
+drop policy if exists "see own exclusion votes" on public.exclusion_votes;
+create policy "see own exclusion votes" on public.exclusion_votes for select to authenticated using (voter = auth.uid() or is_admin());
+drop policy if exists "cast exclusion vote" on public.exclusion_votes;
+create policy "cast exclusion vote" on public.exclusion_votes for insert to authenticated
+  with check (voter = auth.uid() and is_member());
+drop policy if exists "remove exclusion vote" on public.exclusion_votes;
+create policy "remove exclusion vote" on public.exclusion_votes for delete to authenticated
+  using (voter = auth.uid() or is_admin());
+
 -- Context players add to an entry: a note, a screenshot, or both. Shown at once; the author or an admin removes it.
 create table if not exists public.contexts (
   id bigint generated always as identity primary key,

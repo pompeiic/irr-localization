@@ -1,8 +1,8 @@
 # AI first pass — Incursion: Red River
 
 Fills in whatever is still missing after an Unreal sync: languages that are missing, `untranslated` or
-`stale`, and machine translations whose characters were lost to a wrong-encoding write (`??`,
-`Milit?rbasis`). Texts in `Excluded.json` and Lorem-ipsum placeholders are skipped. Human work
+`stale`, machine translations whose characters were lost to a wrong-encoding write (`??`,
+`Milit?rbasis`), and machine translations that break rule 6 or 7 below. Texts in `Excluded.json` and Lorem-ipsum placeholders are skipped. Human work
 (`reviewed` / `approved`) is never touched. Everything written here has `status: machine`, `by: ai`.
 
 ## Steps
@@ -41,17 +41,18 @@ Strict JSON: escape `"` as `\"`, backslashes as `\\`, line breaks as `\n` (keep 
    `QUARRY BUNKER DELTA OUTSKIRTS HEARTLANDS`, weapon / brand / model / part names (AK-74M, AUG, MCX …),
    calibers (5.56x45 …), key names (F, Esc, Tab), terminal commands, file names, passwords, code names and
    acronyms. Personal names and Vietnamese / Russian words already in the English stay as written.
-5. If the source is ALL CAPS, write de / ru / es-ES in ALL CAPS too.
+5. **Keep the letter case of the source**: ALL CAPS stays ALL CAPS, Every Word Capitalized stays that
+   way, sentences stay sentences (not checked by the merge; zh-Hans / ja / ko only for Latin words).
+6. **No em dashes (—) or en dashes (–)**, not even where the source has one: write a regular hyphen (`-`)
+   or a comma, colon or full stop. No double hyphens (`--`) beyond the source's (separator lines like
+   `-----` are copied). Machine translations with em/en dashes are queued again.
+7. **Words that are not English stay as written.** Vietnamese and Cyrillic words in the source
+   (`Quân Liên Lục Địa`, `bọn tây`, `Сволочь`) appear verbatim, accents included, in every language; only
+   the English around them (e.g. a `[that means UICS]` explanation) is translated.
 
 ## Style
-Setting: a hardcore tactical extraction shooter in a fictional war-torn, Vietnam-like river region; players
-are private military operators working contracts for factions. Tone: terse, military, grounded.
-
-- UI labels and buttons: short, the standard wording games use. Item names: translate the descriptive part,
-  keep model names. Descriptions and briefings: natural and fluent, not word-for-word.
-- `de`: informal "du". `es-ES`: Castilian, "tú". `ru`: "ты" in dialogue. `ko`: objectives as imperatives
-  (`…하라`), UI as short nouns, briefings in formal 합쇼체. `ja`: UI concise, objectives as `…しろ`.
-  `zh-Hans`: concise.
-- Keep length close to the source; German runs long — prefer the shorter wording.
-- Use `Glossary.json` (`terms` per language, `doNotTranslate`), and match how existing translations in
-  `Areas/` already render recurring game terms (stash, intel, jammer, boss, hideout units).
+Follow [`GUIDELINES.md`](../GUIDELINES.md): it is the same rule set the community works to (stay close to
+the English, almost word for word unless that reads wrong; keep the length; don't fix the English's
+mistakes; tone and register; consistency within a group, e.g. hideout unit names are all nouns;
+per-language forms of address). Also match how
+existing translations in `Areas/` render recurring game terms (stash, intel, jammer, boss, hideout units).

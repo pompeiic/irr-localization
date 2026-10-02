@@ -26,10 +26,13 @@ const ADMIN_VIEWS = [
 const state = {
   config: {}, sb: null, user: null, isAdmin: false,
   project: null, cultures: [], entries: [], bySlot: new Map(), categories: [],
-  settings: { defaultThreshold: 3, requireBeatCurrent: true, cultures: {} },
+  settings: { defaultThreshold: 3, requireBeatCurrent: true, excludeThreshold: 3, cultures: {} },
   culture: "", view: "all", category: "", shown: PAGE,
   openForms: new Set(), contextForms: new Set(), contexts: null, picked: new Set(), excluded: new Map(), excludedPicked: new Set(),
+  // Unsent form contents, so a re-render (sign-in refresh, filter change, show more) never loses typing or a screenshot.
+  drafts: new Map(), contextDrafts: new Map(),
   suggestions: new Map(), currentScores: new Map(), myVotes: new Map(), myCurrentVotes: new Map(),
+  removalAvailable: false, removalScores: new Map(), myRemovalVotes: new Set(),
   queueRows: [], queueSelected: new Set(), queueShowAll: false,
 };
 
@@ -309,6 +312,22 @@ function checkText(entry, text) {
   if (entry.maxLength > 0 && text.length > entry.maxLength) problems.push(`${text.length}/${entry.maxLength} characters — too long for this spot.`);
   return problems;
 }
+// Guideline hints (GUIDELINES.md), same rules as scripts/ai_translate.py; shown but never blocking.
+const doubleHyphens = (s) => (s.match(/(?<!-)--(?!-)/g) || []).length;
+const VIET = /[ăâđêôơưàáảãạằắẳẵặầấẩẫậèéẻẽẹềếểễệìíỉĩịòóỏõọồốổỗộờớởỡợùúủũụừứửữựỳýỷỹỵ]/i;
+function foreignWords(src) {
+  const words = src.replace(/<[^>]*>/g, " ").match(/[^\s[\](){}<>.,!?;:"“”«»„'’]+/g) || [];
+  return [...new Set(words.filter((w) => VIET.test(w) || (/[\u0400-\u04FF]/.test(w) && !/[A-Za-z]/.test(w))))];
+}
+function styleWarnings(entry, text) {
+  const out = [];
+  if (/[\u2013\u2014]/.test(text) || doubleHyphens(text) > doubleHyphens(entry.source)) out.push("Replace — and – (and --) with a regular hyphen (-), or use a comma, colon or full stop.");
+  const lost = foreignWords(entry.source).filter((w) => !text.includes(w));
+  if (lost.length) out.push(`Keep the non-English words exactly as written: ${lost.slice(0, 5).join(", ")}.`);
+  return out;
+}
+const guidelinesUrl = () => (state.config.repo ? `https://github.com/${state.config.repo}/blob/${state.config.branch || "main"}/GUIDELINES.md` : "GUIDELINES.md");
+
 function serializeText(nodes) {
   return nodes.map((n) => (n.t === "text" ? n.v : n.t === "tag" ? serializeText(n.c) : "x")).join("");
 }
@@ -413,6 +432,9 @@ function currentScore(entry, culture = state.culture, scores = state.currentScor
   return t ? scores.get(currentVoteKey(entry, culture, t.text)) : null;
 }
 
+const neededScore = (s, curScore) => Math.max(thresholdFor(s.culture), state.settings.requireBeatCurrent ? net(curScore) + 1 : 0);
+const removalThreshold = () => Math.max(1, state.settings.excludeThreshold || 3);
+
 function passes(s, entry, curScore) {
   if (!entry || s.source_hash !== entry.sourceHash) return false;
   if (net(s) < thresholdFor(s.culture)) return false;
@@ -480,11 +502,16 @@ async function loadCommunity() {
   state.myCurrentVotes = new Map();
   if (!state.sb) return;
   const c = state.culture;
-  const [sugg, scores] = await Promise.all([
+  const [sugg, scores, removals] = await Promise.all([
     fetchAll(() => state.sb.from("open_suggestions").select("*").eq("culture", c).order("id")),
     fetchAll(() => state.sb.from("current_scores").select("*").eq("culture", c)),
+    // null until community/schema.sql with exclusion_votes has been run; the vote button stays hidden then.
+    fetchAll(() => state.sb.from("exclusion_scores").select("ns,key,votes")).catch(() => null),
     state.contexts ? null : loadContexts(),
   ]);
+  state.removalAvailable = !!removals;
+  state.removalScores = new Map((removals || []).map((r) => [`${r.ns}\u001f${r.key}`, r.votes]));
+  state.myRemovalVotes = new Set();
   for (const s of sugg) {
     const id = `${s.ns}\u001f${s.key}`;
     if (!state.suggestions.has(id)) state.suggestions.set(id, []);
@@ -492,10 +519,12 @@ async function loadCommunity() {
   }
   for (const r of scores) state.currentScores.set(`${c}|${r.ns}\u001f${r.key}|${r.text_hash}`, r);
   if (state.user) {
-    const [mine, mineCurrent] = await Promise.all([
+    const [mine, mineCurrent, mineRemoval] = await Promise.all([
       fetchAll(() => state.sb.from("votes").select("suggestion_id,value").eq("voter", state.user.id)),
       fetchAll(() => state.sb.from("current_votes").select("ns,key,text_hash,value").eq("voter", state.user.id).eq("culture", c)),
+      state.removalAvailable ? fetchAll(() => state.sb.from("exclusion_votes").select("ns,key").eq("voter", state.user.id)) : [],
     ]);
+    for (const v of mineRemoval) state.myRemovalVotes.add(`${v.ns}\u001f${v.key}`);
     for (const v of mine) state.myVotes.set(v.suggestion_id, v.value);
     for (const v of mineCurrent) state.myCurrentVotes.set(`${c}|${v.ns}\u001f${v.key}|${v.text_hash}`, v.value);
   }
@@ -533,6 +562,30 @@ async function voteCurrent(entry, value) {
   if (after) state.myCurrentVotes.set(id, after); else state.myCurrentVotes.delete(id);
   if (!state.currentScores.has(id)) state.currentScores.set(id, { ups: 0, downs: 0 });
   applyVoteDelta(state.currentScores.get(id), before, after);
+}
+
+async function voteRemoval(entry) {
+  requireMember();
+  const id = slotOf(entry);
+  const mine = state.myRemovalVotes.has(id);
+  const row = { ns: entry.ns || "", key: entry.key };
+  const { error } = mine
+    ? await state.sb.from("exclusion_votes").delete().match({ ...row, voter: state.user.id })
+    : await state.sb.from("exclusion_votes").insert(row);
+  if (error) throw error;
+  if (mine) state.myRemovalVotes.delete(id); else state.myRemovalVotes.add(id);
+  const n = (state.removalScores.get(id) || 0) + (mine ? -1 : 1);
+  if (n > 0) state.removalScores.set(id, n); else state.removalScores.delete(id);
+}
+
+// Admin: excluding a text or deciding to keep it settles the request, so its votes are cleared.
+async function clearRemovalVotes(entries) {
+  for (const e of entries) {
+    const { error } = await state.sb.from("exclusion_votes").delete().match({ ns: e.ns || "", key: e.key });
+    if (error) throw error;
+    state.removalScores.delete(slotOf(e));
+    state.myRemovalVotes.delete(slotOf(e));
+  }
 }
 
 async function submitSuggestion(entry, text, note) {
@@ -603,7 +656,7 @@ function renderSidebar() {
   $("categoryList").replaceChildren(
     item("All categories", inView.length, !state.category && !state.view.startsWith("admin"), toList(() => (state.category = ""))),
     ...state.categories.map((t) => item(t, inView.filter((e) => e.category === t).length, state.category === t && !state.view.startsWith("admin"), toList(() => (state.category = t)))));
-  const pending = [...state.excluded.keys()].filter((id) => state.bySlot.has(id)).length;
+  const pending = [...state.excluded.keys()].filter((id) => state.bySlot.has(id)).length + removalRequests().filter((x) => x.ready).length;
   $("adminViews").replaceChildren(...ADMIN_VIEWS.map((v) =>
     item(v.name, v.id === "admin-queue" ? state.queueRows.filter((r) => r.pass).length || null : v.id === "admin-excluded" ? pending || null : null, state.view === v.id, guarded(async () => {
       state.view = v.id;
@@ -744,9 +797,24 @@ function renderEntry(e) {
     card.append(renderForm(e, cur, () => { state.openForms.delete(id); refresh(); }));
   } else {
     card.append(h("div", { class: "actions" }, h("button", { type: "button", class: "suggest", "aria-expanded": "false", onclick: () => { state.openForms.add(id); refresh(); } },
-      sugg.length ? "Suggest another translation" : cur ? "Suggest translation" : "Add translation")));
+      sugg.length ? "Suggest another translation" : cur ? "Suggest translation" : "Add translation"),
+    removalVoteButton(e, refresh)));
   }
   return card;
+}
+
+function removalVoteButton(e, refresh) {
+  if (!state.removalAvailable) return null;
+  const id = slotOf(e);
+  const votes = state.removalScores.get(id) || 0;
+  const need = removalThreshold();
+  const mine = state.myRemovalVotes.has(id);
+  return h("button", {
+    type: "button", class: `linkbtn removal${mine ? " active" : ""}`, "aria-pressed": String(mine),
+    title: joinMeta(state.user ? "" : "Sign in with Discord to vote.", mine ? "You voted — click to take your vote back." : "",
+      `For text that is not meant for players (debug, placeholder, internal ids) or must stay the same in every language. At ${need} votes it goes to an admin, who decides; nothing is removed automatically.`),
+    onclick: guarded(async () => { await voteRemoval(e); refresh(); }),
+  }, `${mine ? "✓ " : ""}Shouldn't be translated · ${votes}/${need}`);
 }
 
 function renderContext(e, args, refresh) {
@@ -785,27 +853,38 @@ function renderContextItem(n, refresh) {
         mine || state.isAdmin ? h("button", { class: `linkbtn${mine ? "" : " danger"}`, onclick: guarded(async () => { await removeContext(n); refresh(); }) }, mine ? "Remove" : "Remove (admin)") : null)));
 }
 
-function renderContextForm(entry, close) {
+function renderContextForm(entry, closeForm) {
+  const id = slotOf(entry);
+  const close = () => { state.contextDrafts.delete(id); closeForm(); };
   const cancel = h("button", { class: "ghost small", onclick: close }, "Cancel");
   if (!state.user) {
     return h("div", { class: "form signin-box" }, "Sign in with Discord to add context. Your Discord name is shown next to what you add.",
       h("div", { class: "rowline" }, h("button", { class: "discord", onclick: guarded(signIn) }, "Sign in with Discord"), cancel));
   }
-  let image = null;
+  const draft = state.contextDrafts.get(id) || {};
+  let image = draft.image || null;
   const note = h("textarea", { maxlength: "1000", rows: "3", placeholder: "Where does this appear, who says it, what does it refer to? You can also paste a screenshot here." });
+  note.value = draft.note || "";
   const preview = h("div", { class: "shotpreview" });
   const file = h("input", { type: "file", accept: "image/png,image/jpeg,image/webp", hidden: true });
   const pickBtn = h("button", { type: "button", class: "ghost small", onclick: () => file.click() }, "Add screenshot");
   const submit = h("button", { class: "primary small" }, "Post context");
-  const sync = () => { submit.disabled = !note.value.trim() && !image; };
+  const sync = () => {
+    submit.disabled = !note.value.trim() && !image;
+    state.contextDrafts.set(id, { note: note.value, image });
+  };
+  const showImage = () => {
+    if (!image) { preview.replaceChildren(); return; }
+    preview.replaceChildren(h("img", { src: URL.createObjectURL(image), alt: "Screenshot to upload" }),
+      h("button", { type: "button", class: "linkbtn", onclick: () => { image = null; showImage(); sync(); } }, "Remove screenshot"));
+  };
   const setImage = guarded(async (f) => {
     if (!f || !/^image\//.test(f.type)) return;
     image = await shrinkImage(f);
-    const url = URL.createObjectURL(image);
-    preview.replaceChildren(h("img", { src: url, alt: "Screenshot to upload" }),
-      h("button", { type: "button", class: "linkbtn", onclick: () => { image = null; preview.replaceChildren(); sync(); } }, "Remove screenshot"));
+    showImage();
     sync();
   });
+  showImage();
   file.addEventListener("change", () => setImage(file.files[0]));
   note.addEventListener("input", sync);
   const form = h("div", { class: "form ctxform" }, note, preview,
@@ -821,7 +900,7 @@ function renderContextForm(entry, close) {
     try { await addContext(entry, note.value.trim(), image); notice("Thanks — your context is now visible to everyone.", "ok"); close(); }
     finally { sync(); }
   }));
-  queueMicrotask(() => { sync(); note.focus(); });
+  queueMicrotask(() => { sync(); if (!draft.note && !draft.image) note.focus(); });
   return form;
 }
 
@@ -887,29 +966,37 @@ function renderSuggestion(entry, s, curScore, refresh) {
       voteBox(s, state.myVotes.get(s.id), async (v) => { await voteSuggestion(s, v); refresh(); }, mine ? "You can't vote on your own suggestion." : null, "suggestion"),
       h("span", { class: "grow" }, joinMeta(s.author_name, fmtDate(s.created_at))),
       outdated ? h("span", { class: "sb outdated", title: "The English text changed after this was suggested." }, "Outdated") : null,
-      passes(s, entry, curScore) ? h("span", { class: "sb pass" }, "In review") : null,
+      passes(s, entry, curScore) ? h("span", { class: "sb pass", title: "Reached the score it needs; an admin reviews it next" }, "In review")
+        : outdated ? null : h("span", { class: "sb mine", title: `Score ${signed(net(s))} now; it reaches the admin review queue at ${signed(neededScore(s, curScore))}` }, `${signed(net(s))} / ${signed(neededScore(s, curScore))} needed`),
       mine ? h("button", { class: "linkbtn", onclick: guarded(async () => { await withdrawSuggestion(s); refresh(); }) }, "Withdraw") : null,
       state.isAdmin ? h("button", { class: "linkbtn", onclick: guarded(async () => { await applySuggestions([s]); }) }, "Apply") : null,
       state.isAdmin ? h("button", { class: "linkbtn", onclick: guarded(async () => { await rejectSuggestions([s]); }) }, "Reject") : null,
       state.isAdmin && !mine ? h("button", { class: "linkbtn danger", onclick: guarded(async () => { await banAuthor(s); }) }, "Ban") : null));
 }
 
-function renderForm(entry, cur, close) {
+function renderForm(entry, cur, closeForm) {
+  const draftKey = `${state.culture}|${slotOf(entry)}`;
+  const close = () => { state.drafts.delete(draftKey); closeForm(); };
   const cancel = h("button", { class: "ghost small", onclick: close }, "Cancel");
   if (!state.sb) return h("div", { class: "form signin-box" }, "Suggestions open once the community backend is configured.", h("br"), cancel);
   if (!state.user) {
     return h("div", { class: "form signin-box" }, "Sign in with Discord to vote and suggest translations. One account, one vote — your Discord name is shown on your suggestions.",
       h("div", { class: "rowline" }, h("button", { class: "discord", onclick: guarded(signIn) }, "Sign in with Discord"), cancel));
   }
+  const draft = state.drafts.get(draftKey);
   const problems = h("div", { class: "problems" });
   const submit = h("button", { class: "primary small" }, "Submit");
-  const editor = createRichEditor(entry, cur?.text || "", () => check());
-  const note = h("input", { type: "text", maxlength: "1000", placeholder: "Note (optional) — why this is better, context, terminology…" });
+  const editor = createRichEditor(entry, draft ? draft.text : cur?.text || "", () => check());
+  const note = h("input", { type: "text", maxlength: "1000", value: draft?.note || "", placeholder: "Note (optional) — why this is better, context, terminology…" });
+  const keepDraft = () => state.drafts.set(draftKey, { text: editor.getText(), note: note.value });
+  note.addEventListener("input", keepDraft);
   function check() {
     const text = editor.getText();
+    keepDraft();
     const p = checkText(entry, text);
     if (!p.length && cur && text === cur.text) p.push("Change the text to suggest something new.");
-    problems.replaceChildren(...p.map((x) => h("div", {}, x)));
+    const warnings = p.length ? [] : styleWarnings(entry, text);
+    problems.replaceChildren(...p.map((x) => h("div", {}, x)), ...warnings.map((x) => h("div", { class: "warn" }, x)));
     submit.disabled = p.length > 0;
   }
   submit.addEventListener("click", guarded(async () => {
@@ -919,7 +1006,8 @@ function renderForm(entry, cur, close) {
   }));
   queueMicrotask(check);
   return h("div", { class: "form" }, editor.el, h("div", { style: "margin-top:6px" }, note), problems,
-    h("div", { class: "formfoot" }, h("span", { class: "hint grow" }, `Suggesting as ${displayNameOf(state.user)}`), cancel, submit));
+    h("div", { class: "formfoot" }, h("span", { class: "hint grow" }, `Suggesting as ${displayNameOf(state.user)} · `,
+      h("a", { href: guidelinesUrl(), target: "_blank", rel: "noopener" }, "translation guidelines")), cancel, submit));
 }
 
 // ---------- GitHub (admin) ----------
@@ -1140,7 +1228,8 @@ function renderExcludedView() {
       try { await setExcluded(records, false); picked.clear(); } finally { ev.target.disabled = false; }
       renderAll();
     }) }, `Localize again (${picked.size})`));
-  if (!rows.length) return h("div", {}, header, h("div", { class: "empty-state" }, "Nothing excluded. Tick texts in the list and use \"Don't localize\"."));
+  const requests = renderRemovalRequests();
+  if (!rows.length) return h("div", {}, requests, header, h("div", { class: "empty-state" }, "Nothing excluded. Tick texts in the list and use \"Don't localize\"."));
   const cards = rows.sort((a, b) => !!b.entry - !!a.entry || (a.r.origin || "").localeCompare(b.r.origin || "")).map(({ r, entry }) => {
     const id = slotOf(r);
     const usage = usageOf(r);
@@ -1155,7 +1244,48 @@ function renderExcludedView() {
       h("div", { class: "source", lang: "en" }, r.source ? richBlock(r.source) : h("span", { class: "hint" }, "(no English text recorded)")),
       joinMeta(r.by, fmtDate(r.at)) ? h("div", { class: "byline" }, `Excluded by ${joinMeta(r.by, fmtDate(r.at))}`) : null);
   });
-  return h("div", {}, header, ...cards);
+  return h("div", {}, requests, header, ...cards);
+}
+
+// Texts players voted "shouldn't be translated", most votes first; only still-localized texts.
+function removalRequests() {
+  const need = removalThreshold();
+  return [...state.removalScores].map(([id, votes]) => ({ entry: state.bySlot.get(id), votes }))
+    .filter((x) => x.entry && isLive(x.entry))
+    .map((x) => ({ ...x, ready: x.votes >= need }))
+    .sort((a, b) => b.votes - a.votes || (a.entry.origin || "").localeCompare(b.entry.origin || ""));
+}
+
+function renderRemovalRequests() {
+  if (!state.removalAvailable) return null;
+  const list = removalRequests();
+  const need = removalThreshold();
+  const ready = list.filter((x) => x.ready).length;
+  const header = adminHeader("Requested by players", `${ready.toLocaleString()} ready · ${(list.length - ready).toLocaleString()} collecting votes`,
+    `Players voted that these shouldn't be translated; ${need} votes make a request ready. Don't localize adds the text to the list below; Keep translating dismisses the request. Both clear its votes.`);
+  if (!list.length) return h("div", { class: "requests" }, header, h("div", { class: "empty-state" }, "No requests."));
+  const settle = (entry, exclude) => guarded(async (ev) => {
+    ev.target.disabled = true;
+    try {
+      if (exclude) await setExcluded([entry], true);
+      await clearRemovalVotes([entry]);
+    } finally { ev.target.disabled = false; }
+    renderAll();
+  });
+  return h("div", { class: "requests" }, header, ...list.map(({ entry, votes, ready: ok }) => {
+    const usage = usageOf(entry);
+    return h("article", { class: "entry compact" },
+      h("div", { class: "head" },
+        ok ? h("span", { class: "sb pass", title: "Reached the vote threshold" }, "Ready") : null,
+        h("span", { class: "sb mine", title: "Players who voted that this shouldn't be translated" }, `${votes}/${need} votes`),
+        entry.category ? h("span", { class: "cat" }, entry.category) : null,
+        usage ? h("span", { class: "ctx" }, usage) : null,
+        entry.origin ? h("span", { class: "origin", title: joinMeta(entry.ns ? `${entry.ns},${entry.key}` : entry.key, entry.origin) }, entry.origin) : null),
+      h("div", { class: "source", lang: "en" }, richBlock(entry.source)),
+      h("div", { class: "rowline" }, h("span", { class: "grow" }),
+        h("button", { type: "button", class: "ghost small", onclick: settle(entry, false) }, "Keep translating"),
+        h("button", { type: "button", class: "danger small", onclick: settle(entry, true) }, "Don't localize")));
+  }));
 }
 
 // ---------- admin views ----------
@@ -1236,7 +1366,7 @@ function renderQueueItem(r) {
   const info = describe(t);
   const lang = cultureName(s.culture, false);
   const selected = state.queueSelected.has(s.id);
-  const need = Math.max(thresholdFor(s.culture), state.settings.requireBeatCurrent ? net(cur) + 1 : 0);
+  const need = neededScore(s, cur);
   const usage = entry ? usageOf(entry) : null;
   return h("article", { class: `entry${selected ? " picked" : ""}${r.outdated ? " done" : ""}` },
     h("div", { class: "head" },
@@ -1298,7 +1428,10 @@ function renderSettingsView() {
   def.addEventListener("input", () => { s.defaultThreshold = Math.max(1, parseInt(def.value, 10) || 1); dirty(); });
   const beat = h("input", { type: "checkbox", checked: s.requireBeatCurrent });
   beat.addEventListener("change", () => { s.requireBeatCurrent = beat.checked; dirty(); });
-  const grid = h("div", { id: "thresholds" }, h("span", {}, "Default net score"), def, h("span", {}, "Must outscore the current translation"), beat);
+  const excl = h("input", { type: "number", min: "1", step: "1", value: removalThreshold() });
+  excl.addEventListener("input", () => { s.excludeThreshold = Math.max(1, parseInt(excl.value, 10) || 1); dirty(); });
+  const grid = h("div", { id: "thresholds" }, h("span", {}, "Default net score"), def, h("span", {}, "Must outscore the current translation"), beat,
+    h("span", { title: "Votes (all languages together) before a \"shouldn't be translated\" request is ready for an admin" }, "Removal votes needed"), excl);
   for (const c of state.cultures) {
     const input = h("input", { type: "number", min: "1", step: "1", placeholder: String(s.defaultThreshold), value: s.cultures?.[c] ?? "" });
     input.addEventListener("input", () => {
@@ -1310,10 +1443,10 @@ function renderSettingsView() {
     grid.append(h("span", {}, cultureName(c)), input);
   }
   const thresholdCard = h("div", { class: "card" }, h("h3", {}, "Acceptance threshold"),
-    h("div", { class: "hint" }, "A suggestion enters the review queue at net score (up − down) ≥ threshold. Leave a language empty to use the default."),
+    h("div", { class: "hint" }, "A suggestion enters the review queue at net score (up − down) ≥ threshold. Leave a language empty to use the default. Removal votes count across all languages."),
     grid,
     h("div", { class: "rowline", style: "margin-top:10px" }, saved, h("button", { class: "primary small", onclick: guarded(async () => {
-      const clean = { defaultThreshold: s.defaultThreshold, requireBeatCurrent: !!s.requireBeatCurrent, cultures: s.cultures || {} };
+      const clean = { defaultThreshold: s.defaultThreshold, requireBeatCurrent: !!s.requireBeatCurrent, excludeThreshold: removalThreshold(), cultures: s.cultures || {} };
       const ok = await commitFiles(async () => [{ path: "community/settings.json", content: `${JSON.stringify(clean, null, "\t")}\n` }], "Update community acceptance thresholds");
       saved.textContent = ok ? "Saved to the repo." : "No change.";
       await loadQueue();
@@ -1360,7 +1493,62 @@ function renderGuide() {
       h("dt", {}, chip("community", "Community")), h("dd", {}, STATUS_TIPS.community),
       h("dt", {}, chip("none", "Untranslated")), h("dd", {}, STATUS_TIPS.none),
       h("dt", {}, h("span", { class: "votes" }, h("span", { class: "net" }, "▲ ▼"))),
-      h("dd", {}, `Votes are community opinion, not a review. A suggestion needs a score of ${signed(need)} for ${cultureName(state.culture, false)}${state.settings.requireBeatCurrent ? " and must beat the current translation's score" : ""} to reach the admin queue; an admin makes the final call. Voting on a translation does not change its status.`)));
+      h("dd", {}, `Votes are community opinion, not a review. A suggestion needs a score of ${signed(need)} for ${cultureName(state.culture, false)}${state.settings.requireBeatCurrent ? " and must beat the current translation's score" : ""} to reach the admin queue; an admin makes the final call. Voting on a translation does not change its status.`),
+      state.removalAvailable ? h("dt", {}, h("span", { class: "linkbtn removal" }, "Shouldn't be translated")) : null,
+      state.removalAvailable ? h("dd", {}, `For text players never see or that must stay the same in every language (debug text, placeholders, internal ids). One vote per person, all languages together; at ${removalThreshold()} votes an admin decides.`) : null));
+}
+
+// Minimal markdown for GUIDELINES.md: ## headings, - lists, paragraphs, **bold**, `code`.
+function renderMarkdown(md) {
+  const inline = (text) => {
+    const out = [];
+    for (const part of text.split(/(\*\*[^*]+\*\*|`[^`]+`)/)) {
+      if (!part) continue;
+      if (part.startsWith("**")) out.push(h("strong", {}, part.slice(2, -2)));
+      else if (part.startsWith("`")) out.push(h("code", {}, part.slice(1, -1)));
+      else out.push(part);
+    }
+    return out;
+  };
+  const nodes = [];
+  let list = null, para = [];
+  const flush = () => {
+    if (para.length) nodes.push(h("p", {}, ...inline(para.join(" "))));
+    para = [];
+    list = null;
+  };
+  for (const raw of md.replace(/\r/g, "").split("\n")) {
+    const line = raw.trim();
+    if (!line) { flush(); continue; }
+    if (/^#\s/.test(line)) { flush(); continue; }
+    const heading = line.match(/^#{2,}\s+(.*)/);
+    if (heading) { flush(); nodes.push(h("h3", {}, ...inline(heading[1]))); continue; }
+    const item = line.match(/^[-*]\s+(.*)/);
+    if (item) {
+      if (para.length) { nodes.push(h("p", {}, ...inline(para.join(" ")))); para = []; }
+      if (!list) { list = h("ul", {}); nodes.push(list); }
+      list.append(h("li", {}, ...inline(item[1])));
+      continue;
+    }
+    if (list && /^\s/.test(raw)) { list.lastChild.append(" ", ...inline(line)); continue; }
+    list = null;
+    para.push(line);
+  }
+  flush();
+  return nodes;
+}
+
+async function loadGuidelines() {
+  try {
+    const res = await fetch(`GUIDELINES.md?v=${Date.now()}`, { cache: "no-store" });
+    if (!res.ok) throw new Error(res.statusText);
+    $("rulesBody").replaceChildren(...renderMarkdown(await res.text()),
+      h("p", {}, h("a", { href: guidelinesUrl(), target: "_blank", rel: "noopener" }, "Open on GitHub")));
+    state.guidelinesLoaded = true;
+  } catch {
+    state.guidelinesLoaded = false;
+  }
+  $("rules").hidden = !state.guidelinesLoaded || state.view.startsWith("admin");
 }
 
 // Language, view and category live in the URL so a filtered list can be linked.
@@ -1380,6 +1568,7 @@ function renderAll() {
   $("toolbar").querySelector(".trow").hidden = admin;
   $("countline").hidden = admin;
   $("guide").hidden = admin;
+  $("rules").hidden = admin || !state.guidelinesLoaded;
   renderGuide();
   writeUrl();
   $("adminView").hidden = !admin;
@@ -1442,6 +1631,8 @@ async function boot() {
     await applySession(data.session);
     state.sb.auth.onAuthStateChange((event, session) => {
       if (event !== "SIGNED_IN" && event !== "SIGNED_OUT") return;
+      // Supabase repeats SIGNED_IN whenever the browser tab regains focus; only a real account change re-renders.
+      if ((session?.user?.id ?? null) === (state.user?.id ?? null)) return;
       setTimeout(guarded(async () => { await applySession(session); await loadCommunity(); await loadQueue(); renderAll(); }), 0);
     });
     try { await loadCommunity(); await loadQueue(); } catch (e) { notice(`Could not load suggestions: ${e.message}`, "err", true); }
@@ -1470,6 +1661,7 @@ async function boot() {
   guide.open = guideState ? guideState === "open" : matchMedia("(min-width: 901px)").matches;
   guide.addEventListener("toggle", () => localStorage.setItem(LS.guide, guide.open ? "open" : "closed"));
   renderAll();
+  loadGuidelines();
 }
 
 boot().catch((e) => { $("countline").textContent = e.message; notice(e.message, "err", true); });

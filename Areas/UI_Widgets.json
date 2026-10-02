@@ -324,10 +324,10 @@
 			{
 				"de":
 				{
-					"text": "Bist du an oder nahe dem Ort, an dem ein Bot dich vermutet (hören oder sehen), gewinnt er dich schneller in Sicht — abhängig von der Distanz zu diesem Punkt.",
+					"text": "Bist du an oder nahe dem Ort, an dem ein Bot dich vermutet (hören oder sehen), gewinnt er dich schneller in Sicht - abhängig von der Distanz zu diesem Punkt.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"zh-Hans":
 				{
@@ -338,10 +338,10 @@
 				},
 				"ru":
 				{
-					"text": "Если вы в месте или рядом с местом, где бот считает вас (по слуху или зрению), он быстрее набирает зрение — в зависимости от дистанции до этой точки.",
+					"text": "Если вы в месте или рядом с местом, где бот считает вас (по слуху или зрению), он быстрее набирает зрение - в зависимости от дистанции до этой точки.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"ko":
 				{
@@ -1260,10 +1260,10 @@
 			{
 				"de":
 				{
-					"text": "Erhöht oder verringert, wie lange Bots warten, bevor sie beim Zielen die ersten Schüsse abgeben. Linearer Multiplikator — 2,0 verdoppelt die Wartezeit.",
+					"text": "Erhöht oder verringert, wie lange Bots warten, bevor sie beim Zielen die ersten Schüsse abgeben. Linearer Multiplikator - 2,0 verdoppelt die Wartezeit.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"zh-Hans":
 				{
@@ -3392,10 +3392,10 @@
 			{
 				"de":
 				{
-					"text": "Erhöht oder verringert, wie lange Bots zwischen Einzelschüssen oder Salven warten. Linearer Multiplikator — 2,0 verdoppelt die Wartezeit.",
+					"text": "Erhöht oder verringert, wie lange Bots zwischen Einzelschüssen oder Salven warten. Linearer Multiplikator - 2,0 verdoppelt die Wartezeit.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"zh-Hans":
 				{
@@ -3860,10 +3860,10 @@
 			{
 				"de":
 				{
-					"text": "Ermöglicht manuelle Kontrolle, wie flüssig Bots auf Distanz wirken — auf Kosten der Performance.",
+					"text": "Ermöglicht manuelle Kontrolle, wie flüssig Bots auf Distanz wirken - auf Kosten der Performance.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"zh-Hans":
 				{
@@ -4744,10 +4744,10 @@
 			{
 				"de":
 				{
-					"text": "Niedrige Werte machen Bots zu passiv — sie sitzen nur und warten. Hohe Werte können in manchen Situationen zu Schwärmen führen.",
+					"text": "Niedrige Werte machen Bots zu passiv - sie sitzen nur und warten. Hohe Werte können in manchen Situationen zu Schwärmen führen.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"zh-Hans":
 				{
@@ -4758,10 +4758,10 @@
 				},
 				"ru":
 				{
-					"text": "Низкие значения делают ботов слишком пассивными — они просто сидят и ждут. Высокие могут вызвать роение в некоторых ситуациях.",
+					"text": "Низкие значения делают ботов слишком пассивными - они просто сидят и ждут. Высокие могут вызвать роение в некоторых ситуациях.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"ko":
 				{
@@ -5056,10 +5056,10 @@
 			{
 				"de":
 				{
-					"text": "Prototyp – I",
+					"text": "Prototyp - I",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"zh-Hans":
 				{
@@ -5070,10 +5070,10 @@
 				},
 				"ru":
 				{
-					"text": "Прототип — I",
+					"text": "Прототип - I",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"ko":
 				{
@@ -6772,10 +6772,10 @@
 			{
 				"de":
 				{
-					"text": "Bist du an oder nahe dem Ort, an dem ein Bot dich vermutet (hören oder sehen), gewinnt er dich schneller in Sicht — abhängig von der Distanz zu diesem Punkt.",
+					"text": "Bist du an oder nahe dem Ort, an dem ein Bot dich vermutet (hören oder sehen), gewinnt er dich schneller in Sicht - abhängig von der Distanz zu diesem Punkt.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"zh-Hans":
 				{
@@ -6786,10 +6786,10 @@
 				},
 				"ru":
 				{
-					"text": "Если вы в месте или рядом с местом, где бот считает вас (по слуху или зрению), он быстрее набирает зрение — в зависимости от дистанции до этой точки.",
+					"text": "Если вы в месте или рядом с местом, где бот считает вас (по слуху или зрению), он быстрее набирает зрение - в зависимости от дистанции до этой точки.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"ko":
 				{
@@ -7618,10 +7618,10 @@
 				},
 				"ru":
 				{
-					"text": "С какого расстояния к голосам игроков применяется эффект радио. Ноль означает, что он включён всегда. Измеряется в метрах. Максимальное расстояние — 100 метров.",
+					"text": "С какого расстояния к голосам игроков применяется эффект радио. Ноль означает, что он включён всегда. Измеряется в метрах. Максимальное расстояние - 100 метров.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"ko":
 				{
@@ -7722,10 +7722,10 @@
 				},
 				"ru":
 				{
-					"text": "Твой уровень — {x}.",
+					"text": "Твой уровень - {x}.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"ko":
 				{
@@ -7971,42 +7971,42 @@
 					"text": "https://pompeiic.github.io/irr-localization/editor.html",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-30T05:09:07Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"zh-Hans":
 				{
 					"text": "https://pompeiic.github.io/irr-localization/editor.html",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-30T05:09:07Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"ru":
 				{
 					"text": "https://pompeiic.github.io/irr-localization/editor.html",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-30T05:09:07Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"ko":
 				{
 					"text": "https://pompeiic.github.io/irr-localization/editor.html",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-30T05:09:07Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"ja":
 				{
 					"text": "https://pompeiic.github.io/irr-localization/editor.html",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-30T05:09:07Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"es-ES":
 				{
 					"text": "https://pompeiic.github.io/irr-localization/editor.html",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-30T05:09:07Z"
+					"at": "2026-10-02T05:10:27Z"
 				}
 			}
 		},
@@ -8228,10 +8228,10 @@
 			{
 				"de":
 				{
-					"text": "Ermöglicht manuelle Kontrolle, wie flüssig Bots auf Distanz wirken — auf Kosten der Performance.",
+					"text": "Ermöglicht manuelle Kontrolle, wie flüssig Bots auf Distanz wirken - auf Kosten der Performance.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"zh-Hans":
 				{
@@ -9580,10 +9580,10 @@
 			{
 				"de":
 				{
-					"text": "H – UI ausblenden",
+					"text": "H - UI ausblenden",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"zh-Hans":
 				{
@@ -9594,10 +9594,10 @@
 				},
 				"ru":
 				{
-					"text": "H — скрыть интерфейс",
+					"text": "H - скрыть интерфейс",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"ko":
 				{
@@ -10311,42 +10311,42 @@
 					"text": "Übersetzungen werden anfangs mit KI erzeugt und können Fehler enthalten. \r\n\r\nHilf mit, sie zu verbessern: Schlage im Community-Lokalisierungseditor Übersetzungen vor und stimme über vorhandene ab.\r\n\r\nGemeinsam schaffen wir von der Community geprüfte Übersetzungen.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-30T05:09:07Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"zh-Hans":
 				{
 					"text": "翻译最初由AI生成，可能包含错误。 \r\n\r\n请在社区本地化编辑器中提出翻译建议，并为现有翻译投票，帮助改进它们。\r\n\r\n我们可以共同建立经社区审校的翻译。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-30T05:09:07Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"ru":
 				{
 					"text": "Переводы сначала создаются ИИ и могут содержать ошибки. \r\n\r\nПомоги их улучшить: предлагай переводы и голосуй за существующие в нашем редакторе локализации сообщества.\r\n\r\nВместе мы создадим переводы, проверенные сообществом.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-30T05:09:07Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"ko":
 				{
 					"text": "번역은 처음에 AI로 생성되며 오류가 있을 수 있습니다. \r\n\r\n커뮤니티 현지화 편집기에서 번역을 제안하고 기존 번역에 투표하여 개선을 도와주십시오.\r\n\r\n함께라면 커뮤니티가 검토한 번역을 만들 수 있습니다.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-30T05:09:07Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"ja":
 				{
 					"text": "翻訳は最初にAIで生成され、誤りを含むことがあります。 \r\n\r\nコミュニティのローカライズエディタで翻訳を提案し、既存の翻訳に投票して改善にご協力ください。\r\n\r\nコミュニティが確認した翻訳を、一緒に作り上げましょう。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-30T05:09:07Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"es-ES":
 				{
 					"text": "Las traducciones se generan al principio con IA y pueden contener errores. \r\n\r\nAyuda a mejorarlas proponiendo traducciones y votando las ya existentes en nuestro editor comunitario de localización.\r\n\r\nJuntos podemos crear traducciones revisadas por la comunidad.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-30T05:09:07Z"
+					"at": "2026-10-02T05:10:27Z"
 				}
 			}
 		},
@@ -12700,10 +12700,10 @@
 			{
 				"de":
 				{
-					"text": "Prototyp – II",
+					"text": "Prototyp - II",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"zh-Hans":
 				{
@@ -12714,10 +12714,10 @@
 				},
 				"ru":
 				{
-					"text": "Прототип — II",
+					"text": "Прототип - II",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"ko":
 				{
@@ -16354,10 +16354,10 @@
 				},
 				"ru":
 				{
-					"text": "Если боты дальше этой дистанции от игрока, их тикрейт и движение сильно снижаются для ЦП, а физика движения — максимально простая.",
+					"text": "Если боты дальше этой дистанции от игрока, их тикрейт и движение сильно снижаются для ЦП, а физика движения - максимально простая.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"ko":
 				{
@@ -18486,10 +18486,10 @@
 				},
 				"ru":
 				{
-					"text": "Если бот стреляет дальше этой дистанции (в метрах), переключается на полуавтомат. Иначе — на полный автомат, если доступен.",
+					"text": "Если бот стреляет дальше этой дистанции (в метрах), переключается на полуавтомат. Иначе - на полный автомат, если доступен.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"ko":
 				{
@@ -19668,24 +19668,24 @@
 			{
 				"de":
 				{
-					"text": "Aktiviert können Bots deutlich heimlicher sein.\r\nDeaktiviert gibt dir Hinweise, gegen wie viele Feinde du kämpfst — wenn sie reden, weißt du, dass es eine Gruppe ist.",
+					"text": "Aktiviert können Bots deutlich heimlicher sein.\r\nDeaktiviert gibt dir Hinweise, gegen wie viele Feinde du kämpfst - wenn sie reden, weißt du, dass es eine Gruppe ist.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"zh-Hans":
 				{
-					"text": "启用以使机器人更隐蔽。\r\n禁用则可从对话判断敌人数——若在说话，说明是一群。",
+					"text": "启用以使机器人更隐蔽。\r\n禁用则可从对话判断敌人数 - 若在说话，说明是一群。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"ru":
 				{
-					"text": "Включение делает ботов гораздо скрытнее.\r\nОтключение даёт понять, со сколькими врагами вы сражаетесь: если говорят — значит группа.",
+					"text": "Включение делает ботов гораздо скрытнее.\r\nОтключение даёт понять, со сколькими врагами вы сражаетесь: если говорят - значит группа.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"ko":
 				{
@@ -21540,10 +21540,10 @@
 			{
 				"de":
 				{
-					"text": "Erhöht oder verringert, wie lange Bots zwischen Einzelschüssen oder Salven warten. Linearer Multiplikator — 2,0 verdoppelt die Wartezeit.",
+					"text": "Erhöht oder verringert, wie lange Bots zwischen Einzelschüssen oder Salven warten. Linearer Multiplikator - 2,0 verdoppelt die Wartezeit.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"zh-Hans":
 				{
@@ -24674,10 +24674,10 @@
 				},
 				"ru":
 				{
-					"text": "Если бот стреляет дальше этой дистанции (в метрах), переключается на полуавтомат. Иначе — на полный автомат, если доступен.",
+					"text": "Если бот стреляет дальше этой дистанции (в метрах), переключается на полуавтомат. Иначе - на полный автомат, если доступен.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"ko":
 				{
@@ -25076,10 +25076,10 @@
 			{
 				"de":
 				{
-					"text": "T – Kameramodus umschalten",
+					"text": "T - Kameramodus umschalten",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"zh-Hans":
 				{
@@ -25090,10 +25090,10 @@
 				},
 				"ru":
 				{
-					"text": "T — переключить режим камеры",
+					"text": "T - переключить режим камеры",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"ko":
 				{
@@ -25648,10 +25648,10 @@
 			{
 				"de":
 				{
-					"text": "Erhöht oder verringert, wie lange Bots warten, bevor sie beim Zielen die ersten Schüsse abgeben. Linearer Multiplikator — 2,0 verdoppelt die Wartezeit.",
+					"text": "Erhöht oder verringert, wie lange Bots warten, bevor sie beim Zielen die ersten Schüsse abgeben. Linearer Multiplikator - 2,0 verdoppelt die Wartezeit.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"zh-Hans":
 				{
@@ -26494,10 +26494,10 @@
 				},
 				"ru":
 				{
-					"text": "Если боты дальше этой дистанции от игрока, их тикрейт и движение сильно снижаются для ЦП, а физика движения — максимально простая.",
+					"text": "Если боты дальше этой дистанции от игрока, их тикрейт и движение сильно снижаются для ЦП, а физика движения - максимально простая.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"ko":
 				{
