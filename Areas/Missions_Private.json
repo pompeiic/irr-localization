@@ -12,24 +12,24 @@
 			{
 				"de":
 				{
-					"text": "Einsatz abgeschlossen, Operator. Saubere Durchführung im Feld – dein Kontaktmann ist mehr als zufrieden mit dem Ergebnis. Deine Vergütung wurde freigegeben; hole sie ab, sobald du bereit bist.",
+					"text": "Einsatz abgeschlossen, Operator. Saubere Durchführung im Feld - dein Kontaktmann ist mehr als zufrieden mit dem Ergebnis. Deine Vergütung wurde freigegeben; hole sie ab, sobald du bereit bist.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"zh-Hans":
 				{
-					"text": "行动完成，干员。战场行动干净利落——你的联络人对结果非常满意。报酬已发放完毕，随时可以领取。",
+					"text": "行动完成，干员。战场行动干净利落 - 你的联络人对结果非常满意。报酬已发放完毕，随时可以领取。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"ru":
 				{
-					"text": "Операция завершена, оперативник. Чистая работа в поле — куратор более чем доволен результатом. Твоя награда переведена, забирай в любое время.",
+					"text": "Операция завершена, оперативник. Чистая работа в поле - куратор более чем доволен результатом. Твоя награда переведена, забирай в любое время.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"ko":
 				{
@@ -64,10 +64,10 @@
 			{
 				"de":
 				{
-					"text": "Gute Arbeit da draußen. Ziel gesichert, ohne Chaos zu hinterlassen – das verschafft dir echtes Ansehen bei uns. Deine Belohnung wartet – lass sie nicht liegen.",
+					"text": "Gute Arbeit da draußen. Ziel gesichert, ohne Chaos zu hinterlassen - das verschafft dir echtes Ansehen bei uns. Deine Belohnung wartet - lass sie nicht liegen.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"zh-Hans":
 				{
@@ -78,10 +78,10 @@
 				},
 				"ru":
 				{
-					"text": "Отличная работа. Цель взята без лишнего шума и грязи, а это дорогого стоит. Награда ждёт — не тяни с получением.",
+					"text": "Отличная работа. Цель взята без лишнего шума и грязи, а это дорогого стоит. Награда ждёт - не тяни с получением.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"ko":
 				{
@@ -168,24 +168,24 @@
 			{
 				"de":
 				{
-					"text": "Das war's. Die Fraktion ist zufrieden mit deinem Einsatz – genau so wollen wir das sehen. Deine Bezahlung wurde zur Abholung freigegeben.",
+					"text": "Das war's. Die Fraktion ist zufrieden mit deinem Einsatz - genau so wollen wir das sehen. Deine Bezahlung wurde zur Abholung freigegeben.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"zh-Hans":
 				{
-					"text": "收工。阵营对你这次的执行非常满意——这正是我们希望看到的利落手笔。报酬已发放，随时可以领取。",
+					"text": "收工。阵营对你这次的执行非常满意 - 这正是我们希望看到的利落手笔。报酬已发放，随时可以领取。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"ru":
 				{
-					"text": "Дело сделано. Фракция довольна тем, как ты всё исполнил — именно такой работы мы и ждём. Оплата выдана и готова к получению.",
+					"text": "Дело сделано. Фракция довольна тем, как ты всё исполнил - именно такой работы мы и ждём. Оплата выдана и готова к получению.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"ko":
 				{
@@ -272,24 +272,24 @@
 			{
 				"de":
 				{
-					"text": "Operation auf {Level} abgeschlossen, Operator. Gegenstands- und Bargeldbelohnungen sind in deinem Posteingang – hol sie ab, sobald du bereit bist.",
+					"text": "Operation auf {Level} abgeschlossen, Operator. Gegenstands- und Bargeldbelohnungen sind in deinem Posteingang - hol sie ab, sobald du bereit bist.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"zh-Hans":
 				{
-					"text": "{Level}的行动已完成，干员。物品和现金奖励已发送至你的收件箱——准备好后即可领取。",
+					"text": "{Level}的行动已完成，干员。物品和现金奖励已发送至你的收件箱 - 准备好后即可领取。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"ru":
 				{
-					"text": "Операция на {Level} завершена, оперативник. Награды в виде предметов и наличных уже во входящих — забирай, когда будешь готов.",
+					"text": "Операция на {Level} завершена, оперативник. Награды в виде предметов и наличных уже во входящих - забирай, когда будешь готов.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"ko":
 				{

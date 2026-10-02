@@ -168,24 +168,24 @@
 			{
 				"de":
 				{
-					"text": "Willkommen an deinem Versteck-Terminal – deinem zentralen Knotenpunkt, um Raids vorzubereiten, Missionen zu verwalten und Belohnungen einzufordern.",
+					"text": "Willkommen an deinem Versteck-Terminal - deinem zentralen Knotenpunkt, um Raids vorzubereiten, Missionen zu verwalten und Belohnungen einzufordern.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"zh-Hans":
 				{
-					"text": "欢迎来到藏身处终端——这是你准备突袭、管理任务和领取奖励的中心枢纽。",
+					"text": "欢迎来到藏身处终端 - 这是你准备突袭、管理任务和领取奖励的中心枢纽。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"ru":
 				{
-					"text": "Добро пожаловать к терминалу убежища — твоему главному центру для подготовки к рейдам, управления заданиями и получения наград.",
+					"text": "Добро пожаловать к терминалу убежища - твоему главному центру для подготовки к рейдам, управления заданиями и получения наград.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"ko":
 				{
@@ -532,24 +532,24 @@
 			{
 				"de":
 				{
-					"text": "Du kannst sowohl Waffen aus deinem Lager als auch in der Vorschau auf dem Marktplatz betrachtete Waffen modifizieren.\r\n\r\nGesperrte Anbauteile sind deutlich gekennzeichnet – schalte sie über deine Reputation frei. Gegenstände können nicht direkt auf dem Schwarzmarkt gekauft werden.",
+					"text": "Du kannst sowohl Waffen aus deinem Lager als auch in der Vorschau auf dem Marktplatz betrachtete Waffen modifizieren.\r\n\r\nGesperrte Anbauteile sind deutlich gekennzeichnet - schalte sie über deine Reputation frei. Gegenstände können nicht direkt auf dem Schwarzmarkt gekauft werden.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"zh-Hans":
 				{
-					"text": "你可以改装仓库中的武器，也可以改装在市场上预览的武器。\r\n\r\n未解锁的配件均有明确标记——通过提升声望解锁。物品无法直接从黑市购买。",
+					"text": "你可以改装仓库中的武器，也可以改装在市场上预览的武器。\r\n\r\n未解锁的配件均有明确标记 - 通过提升声望解锁。物品无法直接从黑市购买。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"ru":
 				{
-					"text": "Ты можешь модифицировать как оружие из своего схрона, так и оружие, просматриваемое на рынке.\r\n\r\nЗаблокированные модули чётко обозначены — открывай их за счёт репутации. Предметы нельзя купить напрямую на чёрном рынке.",
+					"text": "Ты можешь модифицировать как оружие из своего схрона, так и оружие, просматриваемое на рынке.\r\n\r\nЗаблокированные модули чётко обозначены - открывай их за счёт репутации. Предметы нельзя купить напрямую на чёрном рынке.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"ko":
 				{
@@ -584,24 +584,24 @@
 			{
 				"de":
 				{
-					"text": "Willkommen an der Waffenwerkbank – deinem Ort, um Waffen anzupassen, mit Builds zu experimentieren und Voreinstellungen zu erstellen, die zu deinem Spielstil passen.",
+					"text": "Willkommen an der Waffenwerkbank - deinem Ort, um Waffen anzupassen, mit Builds zu experimentieren und Voreinstellungen zu erstellen, die zu deinem Spielstil passen.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"zh-Hans":
 				{
-					"text": "欢迎来到武器工作台——在这里你可以自定义武器、尝试各种搭配方案，并创建契合你游戏风格的预设。",
+					"text": "欢迎来到武器工作台 - 在这里你可以自定义武器、尝试各种搭配方案，并创建契合你游戏风格的预设。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"ru":
 				{
-					"text": "Добро пожаловать за оружейный верстак — место, где можно модифицировать оружие, экспериментировать со сборками и создавать пресеты под свой стиль игры.",
+					"text": "Добро пожаловать за оружейный верстак - место, где можно модифицировать оружие, экспериментировать со сборками и создавать пресеты под свой стиль игры.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"ko":
 				{
@@ -636,24 +636,24 @@
 			{
 				"de":
 				{
-					"text": "Sobald deine Waffe fertig eingerichtet ist, kannst du sie als Voreinstellung für später speichern – oder eine bestehende Voreinstellung auf jede kompatible Waffe laden.",
+					"text": "Sobald deine Waffe fertig eingerichtet ist, kannst du sie als Voreinstellung für später speichern - oder eine bestehende Voreinstellung auf jede kompatible Waffe laden.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"zh-Hans":
 				{
-					"text": "武器配置完成后，你可以将其保存为预设以备后用——也可以将现有预设加载到任何兼容的武器上。",
+					"text": "武器配置完成后，你可以将其保存为预设以备后用 - 也可以将现有预设加载到任何兼容的武器上。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"ru":
 				{
-					"text": "Настроив оружие, ты можешь сохранить его как пресет на будущее — или применить существующий пресет к любому совместимому оружию.",
+					"text": "Настроив оружие, ты можешь сохранить его как пресет на будущее - или применить существующий пресет к любому совместимому оружию.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"ko":
 				{
@@ -1378,10 +1378,10 @@
 				},
 				"ru":
 				{
-					"text": "Генератор — главное условие для улучшения твоего сейфхауса. Это важный первый шаг к тому, чтобы запустить всё остальное.",
+					"text": "Генератор - главное условие для улучшения твоего сейфхауса. Это важный первый шаг к тому, чтобы запустить всё остальное.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"ko":
 				{
@@ -1742,10 +1742,10 @@
 				},
 				"ru":
 				{
-					"text": "Разведцентр — это комплекс для хранения и обработки данных. Собранные в рейде разведданные хранятся здесь и при необходимости отправляются в штаб FANG. Позже эту зону можно будет использовать для обработки метеорологических данных радаров и составления тепловых карт подозрительной активности.",
+					"text": "Разведцентр - это комплекс для хранения и обработки данных. Собранные в рейде разведданные хранятся здесь и при необходимости отправляются в штаб FANG. Позже эту зону можно будет использовать для обработки метеорологических данных радаров и составления тепловых карт подозрительной активности.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"ko":
 				{
@@ -1780,17 +1780,17 @@
 			{
 				"de":
 				{
-					"text": "Brauchst du Nachschub? Auf dem Marktplatz kannst du Ausrüstung für deinen Raid kaufen.\r\n\r\nArtikel sind durch deinen Ruf bei der jeweiligen Händlerfraktion begrenzt.\r\n\r\nKeine Lust zu warten? Versuch es auf dem Schwarzmarkt – unbegrenzter Vorrat, keine Einschränkungen, aber sehr teuer.",
+					"text": "Brauchst du Nachschub? Auf dem Marktplatz kannst du Ausrüstung für deinen Raid kaufen.\r\n\r\nArtikel sind durch deinen Ruf bei der jeweiligen Händlerfraktion begrenzt.\r\n\r\nKeine Lust zu warten? Versuch es auf dem Schwarzmarkt - unbegrenzter Vorrat, keine Einschränkungen, aber sehr teuer.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"zh-Hans":
 				{
-					"text": "需要补给？你可以在市场上为突袭购买装备。\r\n\r\n可购买的物品受制于你在卖家阵营中的声望。\r\n\r\n不想等待？不妨试试黑市——无限库存，毫无限制，但价格昂贵",
+					"text": "需要补给？你可以在市场上为突袭购买装备。\r\n\r\n可购买的物品受制于你在卖家阵营中的声望。\r\n\r\n不想等待？不妨试试黑市 - 无限库存，毫无限制，但价格昂贵",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-02T05:10:27Z"
 				},
 				"ru":
 				{
