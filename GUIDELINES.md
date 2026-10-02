@@ -26,7 +26,7 @@ How we translate Incursion: Red River. These apply to everyone: community transl
 - Some lines, mostly in Observer briefings and faction messages, mix in Vietnamese or Russian: `Quân Liên Lục Địa`, `bọn tây`, `Châu thổ`, `Сволочь`, `Жук`. Copy these exactly, with every accent, in every language. Do not translate, transliterate or "correct" them.
 - The English explanation next to them, usually in square brackets (`[that means UICS]`), is translated as normal.
 - A text with no English in it at all is copied unchanged.
-- Personal names, call signs, faction codes (`FANG`, `UICS`, `IGC`, `VLF`), map names, weapon, brand and model names, calibers, key names and terminal commands stay as written. `Glossary.json` lists them.
+- Personal names, call signs, faction codes (`FANG`, `UICS`, `IGC`, `VLF`), map names, weapon, brand and model names, calibers, key names and terminal commands stay as written. [`Glossary.json`](Glossary.json) lists them.
 
 ## Letter case
 
@@ -53,7 +53,7 @@ The editor and the checks enforce these; a translation that breaks them cannot b
 ## Consistency
 
 - The same term often appears in several categories. Before suggesting a change to a term, search the editor for it and make sure your wording matches everywhere it appears, or suggest the change everywhere.
-- Use the terms in `Glossary.json`. For anything else, use the word the existing translations already use for the same thing (stash, intel, hideout, contract).
+- Use the terms in [`Glossary.json`](Glossary.json). For anything else, use the word the existing translations already use for the same thing (stash, intel, hideout, contract).
 - Texts in the same group should feel the same: for example, all hideout unit names are nouns, all objectives are written the same way, all buttons use the same verb form.
 - For menus and settings, use the standard wording players know from other games in your language.
 - Address the player informally and avoid gendered forms for them where your language allows; the operator can be anyone.

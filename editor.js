@@ -1498,13 +1498,17 @@ function renderGuide() {
       state.removalAvailable ? h("dd", {}, `For text players never see or that must stay the same in every language (debug text, placeholders, internal ids). One vote per person, all languages together; at ${removalThreshold()} votes an admin decides.`) : null));
 }
 
-// Minimal markdown for GUIDELINES.md: ## headings, - lists, paragraphs, **bold**, `code`.
+// Minimal markdown for GUIDELINES.md: ## headings, - lists, paragraphs, **bold**, `code`, [links](...).
 function renderMarkdown(md) {
+  const repoUrl = (href) => (/^[a-z]+:/i.test(href) || !state.config.repo ? href
+    : `https://github.com/${state.config.repo}/blob/${state.config.branch || "main"}/${href.replace(/^\.?\//, "")}`);
   const inline = (text) => {
     const out = [];
-    for (const part of text.split(/(\*\*[^*]+\*\*|`[^`]+`)/)) {
+    for (const part of text.split(/(\[[^\]]+\]\([^)]+\)|\*\*[^*]+\*\*|`[^`]+`)/)) {
       if (!part) continue;
-      if (part.startsWith("**")) out.push(h("strong", {}, part.slice(2, -2)));
+      const link = part.match(/^\[([^\]]+)\]\(([^)]+)\)$/);
+      if (link) out.push(h("a", { href: repoUrl(link[2]), target: "_blank", rel: "noopener" }, ...inline(link[1])));
+      else if (part.startsWith("**")) out.push(h("strong", {}, part.slice(2, -2)));
       else if (part.startsWith("`")) out.push(h("code", {}, part.slice(1, -1)));
       else out.push(part);
     }
