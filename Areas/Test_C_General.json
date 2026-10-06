@@ -1,0 +1,1046 @@
+{
+	"schemaVersion": 1,
+	"area": "Test_C/General",
+	"entries": [
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "FrameGeneration_DLSS",
+			"source": "NVIDIA DLSS Frame Generation",
+			"sourceHash": "e6b8b345",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(825)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "FrameGeneration_DLSS3X",
+			"source": "NVIDIA DLSS Multi Frame Generation 3x",
+			"sourceHash": "e73fc349",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(829)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "FrameGeneration_DLSS4X",
+			"source": "NVIDIA DLSS Multi Frame Generation 4x",
+			"sourceHash": "edfaca50",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(831)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "FrameGeneration_FSR",
+			"source": "AMD FSR Frame Generation",
+			"sourceHash": "eebbfe26",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(835)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "FrameGeneration_Off",
+			"source": "Off",
+			"sourceHash": "31ebef0d",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(823)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "FrameGeneration_Unsupported",
+			"source": "Not available on this system (requires DirectX 12).",
+			"sourceHash": "64e258d5",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(870)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "FrameGeneration_XeSS",
+			"source": "Intel XeSS Frame Generation",
+			"sourceHash": "2fc8c83a",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(838)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "FrameGeneration_XeSS3X",
+			"source": "Intel XeSS Frame Generation 3x",
+			"sourceHash": "1579d10d",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(842)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "FrameGeneration_XeSS4X",
+			"source": "Intel XeSS Frame Generation 4x",
+			"sourceHash": "1fbcd814",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(844)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "LowLatency_Boost",
+			"source": "On + Boost",
+			"sourceHash": "b6db4c9b",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(888)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "LowLatency_Off",
+			"source": "Off",
+			"sourceHash": "31ebef0d",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(886)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "LowLatency_On",
+			"source": "On",
+			"sourceHash": "4e668f18",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(887)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "LowLatency_Unsupported",
+			"source": "Not available on this GPU.",
+			"sourceHash": "51c05981",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(901)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "Quality_Balanced",
+			"source": "Balanced",
+			"sourceHash": "4dfd9ccb",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(741)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "Quality_NativeAA",
+			"source": "Native AA",
+			"sourceHash": "45013e94",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(739)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "Quality_Performance",
+			"source": "Performance",
+			"sourceHash": "637240a4",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(742)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "Quality_Quality",
+			"source": "Quality",
+			"sourceHash": "e7712f1f",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(740)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "Quality_UltraPerformance",
+			"source": "Ultra Performance",
+			"sourceHash": "baeb9c29",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(743)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "RayReconstruction_Unsupported",
+			"source": "Requires an NVIDIA RTX GPU.",
+			"sourceHash": "0759d408",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(787)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "Upscaler_DLSS",
+			"source": "NVIDIA DLSS",
+			"sourceHash": "782ba415",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(695)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "Upscaler_FSR",
+			"source": "AMD FSR",
+			"sourceHash": "f991e1e9",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(696)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "Upscaler_FXAA",
+			"source": "FXAA",
+			"sourceHash": "6dbc0592",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(692)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "Upscaler_None",
+			"source": "Off",
+			"sourceHash": "31ebef0d",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(691)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "Upscaler_TAA",
+			"source": "TAA",
+			"sourceHash": "82375a37",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(693)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "Upscaler_TSR",
+			"source": "TSR",
+			"sourceHash": "fe059410",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(694)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "Upscaler_XeSS",
+			"source": "Intel XeSS",
+			"sourceHash": "c5203de9",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(697)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		}
+	]
+}
