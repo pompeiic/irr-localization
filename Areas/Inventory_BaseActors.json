@@ -5,50 +5,50 @@
 		{
 			"ns": "",
 			"key": "070D707C462391FED0F857B5FCFCB63F",
-			"source": "Hold <Red>F</> to loot the container",
-			"sourceHash": "979ebd5f",
+			"source": "Hold <Red>F</> to start trading.",
+			"sourceHash": "efa7c6fb",
 			"origin": "/Game/Blueprints/InventorySystem/BaseActors/BP_RaidTrader.BP_RaidTrader_C:BP_InteractionTarget_GEN_VARIABLE.IO_LootContainer_C_0.DefaultDisplaySetting.InteractionText",
 			"t":
 			{
 				"de":
 				{
 					"text": "Halte <Red>F</>, um den Container zu plündern",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-25T20:56:00Z"
 				},
 				"zh-Hans":
 				{
 					"text": "按住<Red>F</>搜刮容器",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-25T20:56:00Z"
 				},
 				"ru":
 				{
 					"text": "Удерживай <Red>F</>, чтобы обыскать контейнер",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-25T20:56:00Z"
 				},
 				"ko":
 				{
 					"text": "<Red>F</> 길게 눌러 컨테이너 루팅",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-25T20:56:00Z"
 				},
 				"ja":
 				{
 					"text": "<Red>F</>長押しでコンテナを漁る",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-25T20:56:00Z"
 				},
 				"es-ES":
 				{
 					"text": "Mantén <Red>F</> para saquear el contenedor",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-25T20:56:00Z"
 				}
@@ -57,50 +57,50 @@
 		{
 			"ns": "",
 			"key": "2EE8B90C4AFB25C4812A008665F388FB",
-			"source": "Hold <Red>F</> to loot the container",
-			"sourceHash": "979ebd5f",
+			"source": "Hold <Red>F</> to open the secure container",
+			"sourceHash": "fbfaf153",
 			"origin": "/Game/Blueprints/InventorySystem/BaseActors/BP_SecureContainer.BP_SecureContainer_C:BP_InteractionTarget_GEN_VARIABLE.IO_LootContainer_C_0.DefaultDisplaySetting.InteractionText",
 			"t":
 			{
 				"de":
 				{
 					"text": "Halte <Red>F</>, um den Container zu plündern",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-25T20:56:00Z"
 				},
 				"zh-Hans":
 				{
 					"text": "按住<Red>F</>搜刮容器",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-25T20:56:00Z"
 				},
 				"ru":
 				{
 					"text": "Удерживай <Red>F</>, чтобы обыскать контейнер",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-25T20:56:00Z"
 				},
 				"ko":
 				{
 					"text": "<Red>F</> 길게 눌러 컨테이너 루팅",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-25T20:56:00Z"
 				},
 				"ja":
 				{
 					"text": "<Red>F</>長押しでコンテナを漁る",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-25T20:56:00Z"
 				},
 				"es-ES":
 				{
 					"text": "Mantén <Red>F</> para saquear el contenedor",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-25T20:56:00Z"
 				}
