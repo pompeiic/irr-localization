@@ -1751,6 +1751,710 @@
 			"origin": "Source/Test_C/Spectator/SIRRSpectatorMenu.cpp(137)",
 			"by": "CiaoKakao",
 			"at": "2026-09-29T10:58:56Z"
+		},
+		{
+			"ns": "",
+			"key": "9923658C41A06FEF949B21B6E3B4AAA2",
+			"source": "--",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Gadgets/Binoculars/M1050_LRF_Binoculars/Materials/W_IRR_LRF_Reticle.W_IRR_LRF_Reticle_C:ExecuteUbergraph_W_IRR_LRF_Reticle [Script Bytecode]",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "99A49AF949A2D339C2DADCA013E1508C",
+			"source": "----",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Gadgets/Binoculars/M1050_LRF_Binoculars/Materials/W_IRR_LRF_Reticle.W_IRR_LRF_Reticle_C:ExecuteUbergraph_W_IRR_LRF_Reticle [Script Bytecode]",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "074BBA7D4B89965AB10A11AF74D69811",
+			"source": "--",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Gadgets/Binoculars/M1050_LRF_Binoculars/Materials/W_IRR_LRF_Reticle.W_IRR_LRF_Reticle_C:WidgetTree.InclinationText.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "F644616B43E0296FDBAFE399C6B77852",
+			"source": "4.0",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Gadgets/Binoculars/M1050_LRF_Binoculars/Materials/W_IRR_LRF_Reticle.W_IRR_LRF_Reticle_C:WidgetTree.MagnificationLevel.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "D79B7808452993CA622C1898497098A2",
+			"source": "-----",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Gadgets/Binoculars/M1050_LRF_Binoculars/Materials/W_IRR_LRF_Reticle.W_IRR_LRF_Reticle_C:WidgetTree.RangeText.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "131BFAC14935ECCB40888F975D62CD5C",
+			"source": "°",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Gadgets/Binoculars/M1050_LRF_Binoculars/Materials/W_IRR_LRF_Reticle.W_IRR_LRF_Reticle_C:WidgetTree.TextBlock_2.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "C7F140064C37AB7E301533B2D2BC4183",
+			"source": "%",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_ChanceToWound.Default__U_ChanceToWound_C.Unit",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "E246D58C41477DC852F1FBB57035BC35",
+			"source": "%",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Cooldown.Default__U_Cooldown_C.Unit",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "BD6F784C4AEB43A5F68DFFA0476FF0FE",
+			"source": "%",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Durability.Default__U_Durability_C.Unit",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "D24987CE45E3D1A49FD733ABAD8C80F1",
+			"source": "%",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_DurabilityBurn.Default__U_DurabilityBurn_C.Unit",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "15936F28458DF6E533CF2BA17A7D42F3",
+			"source": "%",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Heat.Default__U_Heat_C.Unit",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "7A6B3CF149F6230DDD092D8A1457DBFB",
+			"source": "%",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_ShrapnelChance.Default__U_ShrapnelChance_C.Unit",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "350491A34F9F56FF2DA4DB94CEFA5529",
+			"source": "%",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_StaminaBoost.Default__U_StaminaBoost_C.Unit",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "AF4D9369456052124366C090534EFA1C",
+			"source": "%",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_StaminaDrain.Default__U_StaminaDrain_C.Unit",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "57E554C94B809DFB31FECCA144504742",
+			"source": "$ 1000",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Gunsmith/W_IRR_Gunsmith_AssembleWeapon_Container.W_IRR_Gunsmith_AssembleWeapon_Container_C:WidgetTree.Price.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "77CD39804BE79B4836675DAB44CCA724",
+			"source": "(10) = 10",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Repair/W_IRR_RepairStation_Overview.W_IRR_RepairStation_Overview_C:WidgetTree.BaseValueTextMaterial.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "CB6EC87743F7A596F887E690CBB92FC9",
+			"source": "80 / 95",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Repair/W_IRR_RepairStation_Overview.W_IRR_RepairStation_Overview_C:WidgetTree.FinalValueCash.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "8274EA8E4DEA0C8A561714BE418CDC50",
+			"source": "95",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Repair/W_IRR_RepairStation_Overview.W_IRR_RepairStation_Overview_C:WidgetTree.FinalValueMaterial.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "82AAB16C4849560A7F294A93194D3C79",
+			"source": "=",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Repair/W_IRR_RepairStation_Overview.W_IRR_RepairStation_Overview_C:WidgetTree.ItemDescription_8.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "4D3AAAF045AAD9EBE48E4398A0ACAC6E",
+			"source": "(70) = 80",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Repair/W_IRR_RepairStation_Overview.W_IRR_RepairStation_Overview_C:WidgetTree.RepairBonusCash.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "A9ED3842454C856DFFDDE680EB423E76",
+			"source": "(25) = 95",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Repair/W_IRR_RepairStation_Overview.W_IRR_RepairStation_Overview_C:WidgetTree.RepairBonusMaterial.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "B729DA7E44BEE3FDD67085A5CC0CE274",
+			"source": "(5) = 95",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Repair/W_IRR_RepairStation_Overview.W_IRR_RepairStation_Overview_C:WidgetTree.RepairBonusText_1.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "6B016845485B02D0C59F51845356275D",
+			"source": "(60) = 70",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Repair/W_IRR_RepairStation_Overview.W_IRR_RepairStation_Overview_C:WidgetTree.ReplacementValueMaterial.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "B317B6BB4AD18FA0FCB8B3BAF2A0A0F2",
+			"source": "$ 1,700",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Vendor/W_VendorItem_Price.W_VendorItem_Price_C:WidgetTree.ItemPrice.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "240E508B4F8D640B65B76B873AC2BB9A",
+			"source": "<>",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/W_IRR_Button_Small.Default__W_IRR_Button_Small_C.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "882D5EEC4F0B03ED7343889B46B36BFB",
+			"source": " 100",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatPlainTextBox.W_StatPlainTextBox_C:WidgetTree.MaxValueText.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "2E19EDE24FBA94114BAED0A95E6AC2D8",
+			"source": "1",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/W_EquipToContainer.W_EquipToContainer_C:WidgetTree.KeyText.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "90D7AE0C4F6D953C2E5D289CEA0AEA87",
+			"source": "30",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/W_InventoryItem.W_InventoryItem_C:WidgetTree.ItemCapacity.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "7D2FDAE649A32CAFE654DC9FA93F557E",
+			"source": "/ 30",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/W_InventoryItem.W_InventoryItem_C:WidgetTree.ItemMaxCapacity.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "FAE6F9294181A9D1E8FAE79B551CAA49",
+			"source": "██████╗  ██████╗ ███╗   ███╗ ██████╗ ██╗   ██╗ ██████╗ ██╗   ██╗\r\n██╔══██╗██╔═══██╗████╗ ████║██╔═══██╗██║   ██║██╔═══██╗╚██╗ ██╔╝\r\n██║  ██║██║   ██║██╔████╔██║██║   ██║██║   ██║██║   ██║ ╚████╔╝ \r\n██║  ██║██║   ██║██║╚██╔╝██║██║   ██║╚██╗ ██╔╝██║   ██║  ╚██╔╝  \r\n██████╔╝╚██████╔╝██║ ╚═╝ ██║╚██████╔╝ ╚████╔╝ ╚██████╔╝   ██║   \r\n╚═════╝  ╚═════╝ ╚═╝     ╚═╝ ╚═════╝   ╚═══╝   ╚═════╝    ╚═╝   \r\n                                                                ",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_IGC.DA_Terminal_IGC.SystemArt",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "B8EFA1F24C5CFCB21728829AA1C6C0B5",
+			"source": "\r\n██╗   ██╗██╗ ██████╗███████╗                                     \r\n██║   ██║██║██╔════╝██╔════╝                                     \r\n██║   ██║██║██║     ███████╗                                     \r\n██║   ██║██║██║     ╚════██║                                     \r\n╚██████╔╝██║╚██████╗███████║                                     \r\n ╚═════╝ ╚═╝ ╚═════╝╚══════╝                                     \r\n                                                                 \r\n████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     \r\n╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║     \r\n   ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║     \r\n   ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     \r\n   ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗\r\n   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝\r\n                                                                 ",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS.DA_Terminal_UICS.SystemArt",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "C0493B5E4BC2FB5C2E855DA02CF7DE8F",
+			"source": "\r\n██╗   ██╗██╗ ██████╗███████╗                                     \r\n██║   ██║██║██╔════╝██╔════╝                                     \r\n██║   ██║██║██║     ███████╗                                     \r\n██║   ██║██║██║     ╚════██║                                     \r\n╚██████╔╝██║╚██████╗███████║                                     \r\n ╚═════╝ ╚═╝ ╚═════╝╚══════╝                                     \r\n                                                                 \r\n████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     \r\n╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║     \r\n   ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║     \r\n   ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     \r\n   ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗\r\n   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝\r\n                                                                 ",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY.SystemArt",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "B3D47A9A45C4E13A4B953897D9A74674",
+			"source": "████████╗███████╗██╗      ██████╗  ██████╗██╗  ██╗           \r\n╚══██╔══╝██╔════╝██║     ██╔═══██╗██╔════╝██║ ██╔╝           \r\n   ██║   █████╗  ██║     ██║   ██║██║     █████╔╝            \r\n   ██║   ██╔══╝  ██║     ██║   ██║██║     ██╔═██╗            \r\n   ██║   ███████╗███████╗╚██████╔╝╚██████╗██║  ██╗           \r\n   ╚═╝   ╚══════╝╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝           \r\n                                                             \r\n███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗███████╗\r\n██╔════╝╚██╗ ██╔╝██╔════╝╚══██╔══╝██╔════╝████╗ ████║██╔════╝\r\n███████╗ ╚████╔╝ ███████╗   ██║   █████╗  ██╔████╔██║███████╗\r\n╚════██║  ╚██╔╝  ╚════██║   ██║   ██╔══╝  ██║╚██╔╝██║╚════██║\r\n███████║   ██║   ███████║   ██║   ███████╗██║ ╚═╝ ██║███████║\r\n╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝╚══════╝",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_VLF.DA_Terminal_VLF.SystemArt",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "BE552149469FC20619F58A89133877D3",
+			"source": "18.11.2023",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Inbox/W_InboxMessage.W_InboxMessage_C:WidgetTree.DateText.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "04D1BDCF45E3B66A6D3DA4A9AB3AB961",
+			"source": "-",
+			"origin": "/Game/Blueprints/MissionSystem/UI/JobBoard/W_LoyaltyProgressItem.W_LoyaltyProgressItem_C:ExecuteUbergraph_W_LoyaltyProgressItem [Script Bytecode]",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "33A5057140D40C14A5FA4DA8626186DC",
+			"source": "+",
+			"origin": "/Game/Blueprints/MissionSystem/UI/JobBoard/W_LoyaltyProgressItem.W_LoyaltyProgressItem_C:ExecuteUbergraph_W_LoyaltyProgressItem [Script Bytecode]",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "2CC856B94C23781EDDC0DE8A8B1A9CDF",
+			"source": "+5%",
+			"origin": "/Game/Blueprints/MissionSystem/UI/JobBoard/W_LoyaltyProgressItem.W_LoyaltyProgressItem_C:WidgetTree.IRRTextBlock_0.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "D6A452FD4F9BB4108C20BB9B09EBBEAD",
+			"source": "16:22",
+			"origin": "/Game/Blueprints/MissionSystem/UI/JobBoard/W_MapToolTip.W_MapToolTip_C:WidgetTree.Time.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "FA6F29AC485BA38E8FF953982F421DD3",
+			"source": "-------------",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Terminal/Response/W_TerminalResponse_Loading.W_TerminalResponse_Loading_C:WidgetTree.ProgressBarWidget.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "2E02D1784D2C828A9F08158FC796EEEC",
+			"source": "---",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Terminal/Response/W_TerminalResponse_Loading.W_TerminalResponse_Loading_C:WidgetTree.ProgressBarWidget_Loading.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "BBFD147542FB319164D93F819F0BDB8F",
+			"source": "0",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Terminal/Response/W_TerminalResponse_Loading.W_TerminalResponse_Loading_C:WidgetTree.progress.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "597494994A10F1346C4A11BC8AF7AB59",
+			"source": "%",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Terminal/Response/W_TerminalResponse_Loading.W_TerminalResponse_Loading_C:WidgetTree.progress_1.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "955EC09A415FF63385C0D1ABFDEE91B8",
+			"source": "]",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Terminal/Response/W_TerminalResponse_Loading.W_TerminalResponse_Loading_C:WidgetTree.text.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "094C60914FC1F6A6DBBC74B44C330E10",
+			"source": "[",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Terminal/Response/W_TerminalResponse_Loading.W_TerminalResponse_Loading_C:WidgetTree.text1.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "6032E8984CE1CEDDDBB43E8F5D2EF1CD",
+			"source": "\r\n██╗   ██╗██╗     ███████╗                                        \r\n██║   ██║██║     ██╔════╝                                        \r\n██║   ██║██║     █████╗                                          \r\n╚██╗ ██╔╝██║     ██╔══╝                                          \r\n ╚████╔╝ ███████╗██║                                             \r\n  ╚═══╝  ╚══════╝╚═╝                                             \r\n                                                                 \r\n████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     \r\n╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║     \r\n   ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║     \r\n   ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     \r\n   ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗\r\n   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝\r\n                                                                 \r\n",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Terminal/W_TerminalConsole.W_TerminalConsole_C:WidgetTree.TSystemArt.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "2DCF76624FD0C7A904930DAF5B1B8BBD",
+			"source": ">",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Terminal/W_TerminalInput.W_TerminalInput_C:WidgetTree.symbols_1.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "0AFC514C42CB05DB024FC7B0F3BA4D52",
+			"source": "1",
+			"origin": "/Game/Blueprints/UICore/Widgets/Laptop/W_IRR_ListControls.W_IRR_ListControls_C:WidgetTree.SightIndexText.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "98199EC74F6C06877C7DB5A88346D0D0",
+			"source": "/",
+			"origin": "/Game/Blueprints/UICore/Widgets/Laptop/W_IRR_ListControls.W_IRR_ListControls_C:WidgetTree.SightIndexText_1.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "9AD3B983433C2C3A46490EB32E5F1FB0",
+			"source": "25",
+			"origin": "/Game/Blueprints/UICore/Widgets/Laptop/W_IRR_ListControls.W_IRR_ListControls_C:WidgetTree.TotalSightCountText.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "7F1CCBAE4103D2E0B2F1A8A6EF45C812",
+			"source": "00:00",
+			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_MissionBriefingControl.W_IRR_MissionBriefingControl_C:ExecuteUbergraph_W_IRR_MissionBriefingControl [Script Bytecode]",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "E384B71148B3E83FF34ACE886481CDE8",
+			"source": " / 00:00",
+			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_MissionBriefingControl.W_IRR_MissionBriefingControl_C:ExecuteUbergraph_W_IRR_MissionBriefingControl [Script Bytecode]",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "987248F24C230140AA095AB848362DA9",
+			"source": " / 00:00",
+			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_MissionBriefingControl.W_IRR_MissionBriefingControl_C:WidgetTree.Duration.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "6B34477746DD9B315D53B1BA0F9A08E4",
+			"source": "00:00",
+			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_MissionBriefingControl.W_IRR_MissionBriefingControl_C:WidgetTree.Time.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "28168B19406C57723FF8E8A31C7034FD",
+			"source": "$ 44,028",
+			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_RaidSummary.W_IRR_RaidSummary_C:WidgetTree.LootValue.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "27C691484146CC9A7C5E58A7B0F5D189",
+			"source": "00:00:00",
+			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_RaidSummary.W_IRR_RaidSummary_C:WidgetTree.RaidTime.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "35B0E4284F853407364410B49AFB62CD",
+			"source": "+",
+			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_RaidSummaryFactionItem.W_IRR_RaidSummaryFactionItem_C:ExecuteUbergraph_W_IRR_RaidSummaryFactionItem [Script Bytecode]",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "F51238F041F45FBC710488B19842A080",
+			"source": "-",
+			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_RaidSummaryFactionItem.W_IRR_RaidSummaryFactionItem_C:ExecuteUbergraph_W_IRR_RaidSummaryFactionItem [Script Bytecode]",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "E6CD9E7740D15D6462B12DBF2755D98E",
+			"source": "10",
+			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_RaidSummaryFactionItem.W_IRR_RaidSummaryFactionItem_C:WidgetTree.CurrentValue.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "128B4F674D70DEE91663BBA3C3A2A62E",
+			"source": "+5%",
+			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_RaidSummaryFactionItem.W_IRR_RaidSummaryFactionItem_C:WidgetTree.IRRTextBlock_0.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "99FE8DD34048D6072F91D5AA2EC3DA93",
+			"source": "/100",
+			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_RaidSummaryFactionItem.W_IRR_RaidSummaryFactionItem_C:WidgetTree.IRRTextBlock_12.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "14846C0349040C8FC20E8DA0A6CD7D2E",
+			"source": "0",
+			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_RaidSummaryItem.W_IRR_RaidSummaryItem_C:ExecuteUbergraph_W_IRR_RaidSummaryItem [Script Bytecode]",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "EB84B14C495A579BD9D426821BC2355C",
+			"source": "10",
+			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_RaidSummaryLevel.W_IRR_RaidSummaryLevel_C:WidgetTree.CurrentValue.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "C2A8C524464307924CCB2D9BE5F5449C",
+			"source": "/100",
+			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_RaidSummaryLevel.W_IRR_RaidSummaryLevel_C:WidgetTree.MaxValue.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "36CB390F4A53A308BF13CBA99327E639",
+			"source": "00:00:00",
+			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_RaidTimer.W_IRR_RaidTimer_C:WidgetTree.RaidTime.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "ECFC541E430107B29E4BF490A1400250",
+			"source": "30",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.FPSLimit.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "DA9A112C49E7D7A194CB00930ECC1CC6",
+			"source": "60",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.FPSLimit.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "A414650643D650B6E0438599F99E41F8",
+			"source": "120",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.FPSLimit.SwitcherButtons(2).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "6229E27043E10576E3BD0CA4A2763F06",
+			"source": "30",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.Fire.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "1E1A28E54D1C36F750C7788F21DA2778",
+			"source": "60",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.Fire.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "1F6D75A143ED8CE9C85CDDAC195CC9D0",
+			"source": "120",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.Fire.SwitcherButtons(2).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "B72185844ABCD72B1C4FED9A5E827DF3",
+			"source": "30",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.WB_SingleSettingBar_2.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "A37FE93E461917F8C6363BA231723BAA",
+			"source": "60",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.WB_SingleSettingBar_2.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "3D76EE2C4492547290415B95366AFE3C",
+			"source": "120",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.WB_SingleSettingBar_2.SwitcherButtons(2).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "E1342DA04B848E4614321B95344D9073",
+			"source": "...",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_SingleSettingBar.Default__WB_SingleSettingBar_C.WaitingForInputText",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "1EB05F7B44BF2F8AB1A95493C77A43FF",
+			"source": "1.0",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_SingleSettingBar.WB_SingleSettingBar_C:WidgetTree.ValueTxt.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "2FCF585A483D8CDBCBA24E94CADDB0ED",
+			"source": "000,0",
+			"origin": "/Game/Blueprints/UICore/Widgets/SocialTab/W_IRR_CurrencyText.W_IRR_CurrencyText_C:WidgetTree.LeadingZeros.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "588CA5EA4D3852793456DABB72523B86",
+			"source": "10",
+			"origin": "/Game/Blueprints/UICore/Widgets/SocialTab/W_IRR_PlayerLevel.W_IRR_PlayerLevel_C:WidgetTree.CurrentValue.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "C785D41A46386DA419634CB6C9E1CA48",
+			"source": "/100",
+			"origin": "/Game/Blueprints/UICore/Widgets/SocialTab/W_IRR_PlayerLevel.W_IRR_PlayerLevel_C:WidgetTree.IRRTextBlock_12.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "4841F9DC454C018BA5BF879ED92D6D78",
+			"source": "€",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.AdditionalMission.MissionReward_40_D7D4CDA940E9AC3C17523AA13D265D3A(1).MissionReward_40_D7D4CDA940E9AC3C17523AA13D265D3A.Text_11_5746A83A423C5683D077388C209478A5",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "A05F68AF467455C4EBA7FC8ECD04FB53",
+			"source": "+ 5000",
+			"origin": "/Game/ThirdParty/CMG/Widgets/EmailStyle/WB_SingleEmailReward.WB_SingleEmailReward_C:WidgetTree.EmailSubject.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "D85AEF614EF755B197F3EA8E1ACE7614",
+			"source": "0",
+			"origin": "/Game/ThirdParty/CMG/Widgets/W_PlayerScoreItem.W_PlayerScoreItem_C:WidgetTree.ScoreText.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "DE7CC921493A6C75C3F2ACA13D51D5BF",
+			"source": "+",
+			"origin": "/Game/ThirdParty/CMG/Widgets/W_RewardItem.W_RewardItem_C:WidgetTree.TextBlock_1.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "DBF568594369C4F6FA4615B7944E50B3",
+			"source": "300",
+			"origin": "/Game/ThirdParty/CMG/Widgets/W_RewardItem.W_RewardItem_C:WidgetTree.TextBlock_68.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "3BFD000746C708365A4E76A8F27D2976",
+			"source": "0",
+			"origin": "/Game/ThirdParty/CMG/Widgets/W_SequenceItem.W_SequenceItem_C:WidgetTree.CurrentAmount.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "1F9B1E7F414A40012520D2A5FC955DAB",
+			"source": "2",
+			"origin": "/Game/ThirdParty/CMG/Widgets/W_SequenceItem.W_SequenceItem_C:WidgetTree.MaxAmount.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "108DC3B246C6987186851AA503755121",
+			"source": "/",
+			"origin": "/Game/ThirdParty/CMG/Widgets/W_SequenceItem.W_SequenceItem_C:WidgetTree.Text.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "F67CF8EF4B64926CC92CD988121C08F7",
+			"source": "00:00",
+			"origin": "/Game/ThirdParty/CMG/Widgets/W_Timer.W_Timer_C:WidgetTree.TimerText.Text",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "IRRPatch",
+			"key": "ResetSeparator",
+			"source": ", ",
+			"origin": "Source/IRRPatchSystem/Private/IRRPatchSubsystem.cpp(647)",
+			"by": "Cleanup (no text)",
+			"at": "2026-10-06T13:37:18Z"
 		}
 	]
 }

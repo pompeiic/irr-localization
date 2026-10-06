@@ -28,6 +28,7 @@ request is never overwritten by a stale export.
 | `community/categories.json` | Admin | Editor categories (regex rules) and hidden dev-only text |
 | `community/settings.json` | Admin (via the editor) | Acceptance thresholds, removal votes needed (`excludeThreshold`) |
 | `community/schema.sql` | Admin | Supabase tables and access rules |
+| `community/flagged.json` | Cleanup review + admins (via the editor) | Texts that look like they shouldn't be localized, grouped by reason; admins decide under Not localized |
 
 An entry:
 

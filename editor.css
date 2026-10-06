@@ -178,6 +178,11 @@ button:focus-visible, summary:focus-visible, .sb[tabindex]:focus-visible, .pick:
 .linkbtn.removal { margin-left: auto; }
 .linkbtn.removal.active { color: var(--accent); }
 .requests { margin-bottom: 18px; }
+.flaggroup { margin-top: 8px; border: 1px solid var(--border); background: var(--sidebar); padding: 0 10px; }
+.flaggroup summary { display: flex; gap: 8px; align-items: center; cursor: pointer; padding: 8px 0; font-family: var(--font-ui); font-size: 12px; letter-spacing: 1.2px; text-transform: uppercase; color: var(--text); }
+.flaggroup summary:hover { color: var(--accent); }
+.flaggroup[open] { padding-bottom: 10px; }
+.flaggroup > .hint { margin-bottom: 6px; }
 .entry .form { margin-top: 10px; }
 button.suggest { background: transparent; color: var(--accent); border-color: var(--accent); padding: 6px 14px; }
 button.suggest:hover:not(:disabled) { background: var(--accent); color: var(--accent-text); }
