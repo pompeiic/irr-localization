@@ -2216,13 +2216,6 @@
 		},
 		{
 			"ns": "",
-			"key": "45DED01D4A09EF50DB6683A0BB1C22DB",
-			"source": "https://pompeiic.github.io/irr-localization/editor.html",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GameplaySettings.WB_GameplaySettings_C:WidgetTree.Language.SettingDescriptor.WarningRichText",
-			"group": "literal"
-		},
-		{
-			"ns": "",
 			"key": "2D87F8CF479CD65FAED6408630E3BF49",
 			"source": "Z@unknown.co",
 			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions.DT_ExampleMissions.DemoMission.Email_48_1EF60E214686034DD7C3F3A821AD083A.Author_11_3F8D40714A7213985D5353AF1740D21C",
