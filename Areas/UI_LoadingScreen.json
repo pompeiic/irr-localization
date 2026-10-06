@@ -1,0 +1,806 @@
+{
+	"schemaVersion": 1,
+	"area": "UI/LoadingScreen",
+	"entries": [
+		{
+			"ns": "LoadingScreenHints",
+			"key": "Challenges_Description",
+			"source": "These are secondary missions or objectives. Completion increases reputation. Challenges cannot be failed, and do not have to be completed in a single raid.",
+			"sourceHash": "d4f201b0",
+			"origin": "Config/DefaultGame.ini(471)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "LoadingScreenHints",
+			"key": "Challenges_Headline",
+			"source": "Challenges",
+			"sourceHash": "d1283aec",
+			"origin": "Config/DefaultGame.ini(471)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "LoadingScreenHints",
+			"key": "Contracts_Description",
+			"source": "These are primary missions or objectives. Their completion makes the story evolve, and they affect the reputation you have with factions.",
+			"sourceHash": "8fe286f7",
+			"origin": "Config/DefaultGame.ini(471)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "LoadingScreenHints",
+			"key": "Contracts_Headline",
+			"source": "Contracts",
+			"sourceHash": "282af4c7",
+			"origin": "Config/DefaultGame.ini(471)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "LoadingScreenHints",
+			"key": "CustomizeInput_Description",
+			"source": "Some prefer toggles, some hold down. If you want to switch your input for the likes of aiming/running and more, go to the settings and enable/disable the toggle function. Also many other things can be customize to your needs so its worth it to check out the settings menu!",
+			"sourceHash": "3ff8cc85",
+			"origin": "Config/DefaultGame.ini(471)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "LoadingScreenHints",
+			"key": "CustomizeInput_Headline",
+			"source": "Customize Input",
+			"sourceHash": "1d6849e5",
+			"origin": "Config/DefaultGame.ini(471)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "LoadingScreenHints",
+			"key": "Difficulty_Description",
+			"source": "You think the game is too easy or too difficult? Adjust the difficulty in the settings menu under the tab gameplay at the very bottom!",
+			"sourceHash": "42d07bd7",
+			"origin": "Config/DefaultGame.ini(471)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "LoadingScreenHints",
+			"key": "Difficulty_Headline",
+			"source": "Difficulty",
+			"sourceHash": "76f61b38",
+			"origin": "Config/DefaultGame.ini(471)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "LoadingScreenHints",
+			"key": "FactionReputation_Description",
+			"source": "As more Operations are completed, reputation increases with each faction.Increased reputation allows for better items to be purchased from the vendor. It also unlocks greater rewards, including money and rare items.",
+			"sourceHash": "4c2cc721",
+			"origin": "Config/DefaultGame.ini(471)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "LoadingScreenHints",
+			"key": "FactionReputation_Headline",
+			"source": "Faction Reputation",
+			"sourceHash": "400782ce",
+			"origin": "Config/DefaultGame.ini(471)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "LoadingScreenHints",
+			"key": "GCPS_Description",
+			"source": "This in-raid device shows the map, tracked quest objectives, and a live position of your friends (if you queued with any).",
+			"sourceHash": "7fe4c9b5",
+			"origin": "Config/DefaultGame.ini(471)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "LoadingScreenHints",
+			"key": "GCPS_Headline",
+			"source": "GCPS",
+			"sourceHash": "f45f7350",
+			"origin": "Config/DefaultGame.ini(471)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "LoadingScreenHints",
+			"key": "PrepareForExtractionGearUpStrategizeAndC_Description",
+			"source": "Before embarking on your high-stakes raid, take a moment to ensure you're fully prepared for the mission ahead. Coordinate with your squad, fine-tune your loadout, and get ready to face relentless challenges. Once everyone's ready, the countdown begins – success awaits those who work together and stay vigilant!",
+			"sourceHash": "668ce879",
+			"origin": "Config/DefaultGame.ini(471)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "LoadingScreenHints",
+			"key": "PrepareForExtractionGearUpStrategizeAndC_Headline",
+			"source": "Prepare for Extraction: Gear Up, Strategize, and Conquer",
+			"sourceHash": "8bf0feae",
+			"origin": "Config/DefaultGame.ini(471)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "LoadingScreenHints",
+			"key": "ShootingRange_Description",
+			"source": "Within your hideout, you'll find a shooting range designed for you to test all your firearms. This provides a perfect opportunity to become acquainted with their recoil patterns and handling characteristics. The best part? Ammunition is not depleted here, so feel free to practice your shooting to your heart's content!",
+			"sourceHash": "5eb71be9",
+			"origin": "Config/DefaultGame.ini(471)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "LoadingScreenHints",
+			"key": "ShootingRange_Headline",
+			"source": "Shooting Range",
+			"sourceHash": "3f58fc71",
+			"origin": "Config/DefaultGame.ini(471)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "LoadingScreenHints",
+			"key": "Stash_Description",
+			"source": "Within your hideout, there's also the capability to manage your stash. This feature allows you to organize all your loot, ensuring you're well-equipped for your next raid. Moreover, the stash can be upgraded to accommodate even more loot, enhancing your capacity to store valuable equipment and items!",
+			"sourceHash": "0368e101",
+			"origin": "Config/DefaultGame.ini(471)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "LoadingScreenHints",
+			"key": "Stash_Headline",
+			"source": "Stash",
+			"sourceHash": "11af4b12",
+			"origin": "Config/DefaultGame.ini(471)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "LoadingScreenHints",
+			"key": "Terminal_Description",
+			"source": "The laptop located within your hideout functions as the primary terminal for tracking contracts and challenges, purchasing new items, and embarking on missions. It also serves as the venue for forming groups and inviting your friends to join!",
+			"sourceHash": "4cc21d4b",
+			"origin": "Config/DefaultGame.ini(471)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "LoadingScreenHints",
+			"key": "Terminal_Headline",
+			"source": "Terminal",
+			"sourceHash": "f3f9e2df",
+			"origin": "Config/DefaultGame.ini(471)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		}
+	]
+}
