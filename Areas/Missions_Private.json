@@ -521,6 +521,126 @@
 					"at": "2026-09-24T23:30:59Z"
 				}
 			}
+		},
+		{
+			"ns": "IRRTerminalHackStatus",
+			"key": "Depleted",
+			"source": "Intrusion device {Device}: battery depleted ({Battery}%).",
+			"sourceHash": "c1ccf9e3",
+			"origin": "Source/IRRMissionSystem/Private/Objects/IRRTerminalSequence_HackStatus.cpp(12)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRTerminalHackStatus",
+			"key": "NoDevice",
+			"source": "No intrusion device connected.",
+			"sourceHash": "6c6c350a",
+			"origin": "Source/IRRMissionSystem/Private/Objects/IRRTerminalSequence_HackStatus.cpp(11)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRTerminalHackStatus",
+			"key": "Ready",
+			"source": "Intrusion device {Device} connected. Battery {Battery}%. Estimated cost {Cost}%. Type \"hack\" to start.",
+			"sourceHash": "cf4f54cc",
+			"origin": "Source/IRRMissionSystem/Private/Objects/IRRTerminalSequence_HackStatus.cpp(10)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
 		}
 	]
 }
