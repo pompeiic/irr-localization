@@ -316,58 +316,6 @@
 		},
 		{
 			"ns": "",
-			"key": "108DC3B246C6987186851AA503755121",
-			"source": "/",
-			"sourceHash": "d9156074",
-			"origin": "/Game/ThirdParty/CMG/Widgets/W_SequenceItem.W_SequenceItem_C:WidgetTree.Text.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "/",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"zh-Hans":
-				{
-					"text": "/",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"ru":
-				{
-					"text": "/",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"ko":
-				{
-					"text": "/",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"ja":
-				{
-					"text": "/",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"es-ES":
-				{
-					"text": "/",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "10EECDA04413F2BC97E98E808C1DE60E",
 			"source": "Money",
 			"sourceHash": "74882954",
@@ -831,58 +779,6 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-27T15:41:58Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "1F9B1E7F414A40012520D2A5FC955DAB",
-			"source": "2",
-			"sourceHash": "7b66ef36",
-			"origin": "/Game/ThirdParty/CMG/Widgets/W_SequenceItem.W_SequenceItem_C:WidgetTree.MaxAmount.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "2",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"zh-Hans":
-				{
-					"text": "2",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"ru":
-				{
-					"text": "2",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"ko":
-				{
-					"text": "2",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"ja":
-				{
-					"text": "2",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"es-ES":
-				{
-					"text": "2",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
 				}
 			}
 		},
@@ -1455,58 +1351,6 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-27T15:41:58Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "3BFD000746C708365A4E76A8F27D2976",
-			"source": "0",
-			"sourceHash": "d16f27bd",
-			"origin": "/Game/ThirdParty/CMG/Widgets/W_SequenceItem.W_SequenceItem_C:WidgetTree.CurrentAmount.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"zh-Hans":
-				{
-					"text": "0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"ru":
-				{
-					"text": "0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"ko":
-				{
-					"text": "0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"ja":
-				{
-					"text": "0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"es-ES":
-				{
-					"text": "0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
 				}
 			}
 		},
@@ -2131,58 +1975,6 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-27T15:41:58Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "4841F9DC454C018BA5BF879ED92D6D78",
-			"source": "€",
-			"sourceHash": "1eb43f41",
-			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.AdditionalMission.MissionReward_40_D7D4CDA940E9AC3C17523AA13D265D3A(1).MissionReward_40_D7D4CDA940E9AC3C17523AA13D265D3A.Text_11_5746A83A423C5683D077388C209478A5",
-			"t":
-			{
-				"de":
-				{
-					"text": "€",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"zh-Hans":
-				{
-					"text": "€",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"ru":
-				{
-					"text": "€",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"ko":
-				{
-					"text": "€",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"ja":
-				{
-					"text": "€",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"es-ES":
-				{
-					"text": "€",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
 				}
 			}
 		},
@@ -3847,58 +3639,6 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-27T15:41:58Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "713430F84E7B5633EB75DA98A58EB8B9",
-			"source": "20",
-			"sourceHash": "52e173c8",
-			"origin": "/Game/ThirdParty/CMG/Widgets/W_DeathScreen.W_DeathScreen_C:WidgetTree.RemainingTime.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "20",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"zh-Hans":
-				{
-					"text": "20",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"ru":
-				{
-					"text": "20",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"ko":
-				{
-					"text": "20",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"ja":
-				{
-					"text": "20",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"es-ES":
-				{
-					"text": "20",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
 				}
 			}
 		},
@@ -5724,58 +5464,6 @@
 		},
 		{
 			"ns": "",
-			"key": "A05F68AF467455C4EBA7FC8ECD04FB53",
-			"source": "+ 5000",
-			"sourceHash": "2776f4ea",
-			"origin": "/Game/ThirdParty/CMG/Widgets/EmailStyle/WB_SingleEmailReward.WB_SingleEmailReward_C:WidgetTree.EmailSubject.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "+ 5000",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"zh-Hans":
-				{
-					"text": "+ 5000",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"ru":
-				{
-					"text": "+ 5000",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"ko":
-				{
-					"text": "+ 5000",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"ja":
-				{
-					"text": "+ 5000",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"es-ES":
-				{
-					"text": "+ 5000",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "A094253F4075FF7E5032728520B76C0C",
 			"source": "+ {y}",
 			"sourceHash": "4ff6fc83",
@@ -7284,58 +6972,6 @@
 		},
 		{
 			"ns": "",
-			"key": "D85AEF614EF755B197F3EA8E1ACE7614",
-			"source": "0",
-			"sourceHash": "d16f27bd",
-			"origin": "/Game/ThirdParty/CMG/Widgets/W_PlayerScoreItem.W_PlayerScoreItem_C:WidgetTree.ScoreText.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"zh-Hans":
-				{
-					"text": "0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"ru":
-				{
-					"text": "0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"ko":
-				{
-					"text": "0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"ja":
-				{
-					"text": "0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"es-ES":
-				{
-					"text": "0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "D8CA09E2404C52BF9405A5AF69A33621",
 			"source": "XP",
 			"sourceHash": "28ec38b8",
@@ -7440,58 +7076,6 @@
 		},
 		{
 			"ns": "",
-			"key": "DBF568594369C4F6FA4615B7944E50B3",
-			"source": "300",
-			"sourceHash": "6d848947",
-			"origin": "/Game/ThirdParty/CMG/Widgets/W_RewardItem.W_RewardItem_C:WidgetTree.TextBlock_68.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "300",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"zh-Hans":
-				{
-					"text": "300",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"ru":
-				{
-					"text": "300",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"ko":
-				{
-					"text": "300",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"ja":
-				{
-					"text": "300",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"es-ES":
-				{
-					"text": "300",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "DD801CC7455F11C30E87F5B4B3C5C8A4",
 			"source": "Interact",
 			"sourceHash": "b6933e90",
@@ -7536,58 +7120,6 @@
 				"es-ES":
 				{
 					"text": "Interactuar",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "DE7CC921493A6C75C3F2ACA13D51D5BF",
-			"source": "+",
-			"sourceHash": "5677f723",
-			"origin": "/Game/ThirdParty/CMG/Widgets/W_RewardItem.W_RewardItem_C:WidgetTree.TextBlock_1.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "+",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"zh-Hans":
-				{
-					"text": "+",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"ru":
-				{
-					"text": "+",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"ko":
-				{
-					"text": "+",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"ja":
-				{
-					"text": "+",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"es-ES":
-				{
-					"text": "+",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-27T15:39:42Z"
@@ -8527,58 +8059,6 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-27T15:41:58Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "F67CF8EF4B64926CC92CD988121C08F7",
-			"source": "00:00",
-			"sourceHash": "8f0f50f9",
-			"origin": "/Game/ThirdParty/CMG/Widgets/W_Timer.W_Timer_C:WidgetTree.TimerText.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"zh-Hans":
-				{
-					"text": "00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"ru":
-				{
-					"text": "00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"ko":
-				{
-					"text": "00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"ja":
-				{
-					"text": "00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
-				},
-				"es-ES":
-				{
-					"text": "00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-27T15:39:42Z"
 				}
 			}
 		},
