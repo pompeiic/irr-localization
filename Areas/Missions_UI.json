@@ -56,58 +56,6 @@
 		},
 		{
 			"ns": "",
-			"key": "00D4CD8C42A68626EB5706A67DEF3DAD",
-			"source": "<red>/</>",
-			"sourceHash": "0687a1b9",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction_LEGACY.W_Extraction_LEGACY_C:WidgetTree.RichTextBlock.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "<red>/</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "<red>/</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "<red>/</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "<red>/</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "<red>/</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "<red>/</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "01F80EC34AF6EB0A5E104A9903534DA5",
 			"source": "Extract In",
 			"sourceHash": "0f9d073a",
@@ -420,58 +368,6 @@
 		},
 		{
 			"ns": "",
-			"key": "04D1BDCF45E3B66A6D3DA4A9AB3AB961",
-			"source": "-",
-			"sourceHash": "731ca8ff",
-			"origin": "/Game/Blueprints/MissionSystem/UI/JobBoard/W_LoyaltyProgressItem.W_LoyaltyProgressItem_C:ExecuteUbergraph_W_LoyaltyProgressItem [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": "-",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "-",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "-",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "-",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "-",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "-",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "055853D345F38CFB574E7FAFE4724FCF",
 			"source": "Cancel",
 			"sourceHash": "38947156",
@@ -628,58 +524,6 @@
 		},
 		{
 			"ns": "",
-			"key": "0790846248806F87ED016493C8B63C39",
-			"source": "<red>10</>",
-			"sourceHash": "815af043",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction_LEGACY.W_Extraction_LEGACY_C:WidgetTree.ExtractionCounter.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "<red>10</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "<red>10</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "<red>10</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "<red>10</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "<red>10</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "<red>10</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "08580DFA444F9550F4CAB8976378D07D",
 			"source": "Missing Zone Tag",
 			"sourceHash": "54c6bd3f",
@@ -724,58 +568,6 @@
 				"es-ES":
 				{
 					"text": "Falta la etiqueta de zona",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "094C60914FC1F6A6DBBC74B44C330E10",
-			"source": "[",
-			"sourceHash": "3d4857bf",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Terminal/Response/W_TerminalResponse_Loading.W_TerminalResponse_Loading_C:WidgetTree.text1.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "[",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "[",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "[",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "[",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "[",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "[",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -1304,110 +1096,6 @@
 		},
 		{
 			"ns": "",
-			"key": "1349698B47718673EAA68EA6C8293ECD",
-			"source": "/",
-			"sourceHash": "d9156074",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction_LEGACY.W_Extraction_LEGACY_C:WidgetTree.IRRTextBlock_1.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "/",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "/",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "/",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "/",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "/",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "/",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "146F429A42EA0D37399D00864E771F0C",
-			"source": "{CDATA}: \"{Resource}\"",
-			"sourceHash": "8dfa25e7",
-			"origin": "/Game/Blueprints/MissionSystem/UI/GCPS/W_GCPS_ResourceItem.W_GCPS_ResourceItem_C:ExecuteUbergraph_W_GCPS_ResourceItem [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": "{CDATA}: \"{Resource}\"",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "{CDATA}: \"{Resource}\"",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "{CDATA}: \"{Resource}\"",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "{CDATA}: \"{Resource}\"",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "{CDATA}: \"{Resource}\"",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "{CDATA}: \"{Resource}\"",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "160C298D4A464791C04E2DBCA9D286FC",
 			"source": "FAILED",
 			"sourceHash": "d6d8f823",
@@ -1668,110 +1356,6 @@
 		},
 		{
 			"ns": "",
-			"key": "19C7628343DB4B283D3921A77AB54038",
-			"source": "--- MPH",
-			"sourceHash": "662214a5",
-			"origin": "/Game/Blueprints/MissionSystem/UI/GCPS/W_GCPS_UI.W_GCPS_UI_C:WidgetTree.IRRTextBlock_2.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "--- MPH",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "--- MPH",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "--- MPH",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "--- MPH",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "--- MPH",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "--- MPH",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "1A866D7049851933517B89975B6446C7",
-			"source": "TEST",
-			"sourceHash": "c7d56386",
-			"origin": "/Game/Blueprints/MissionSystem/UI/JobBoard/W_MissionInfo_Section.Default__W_MissionInfo_Section_C.SectionName",
-			"t":
-			{
-				"de":
-				{
-					"text": "TEST",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "TEST",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "TEST",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "TEST",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "TEST",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "TEST",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "1E4F55034DADCC81A0696785B6BDD68A",
 			"source": "Categories",
 			"sourceHash": "d0d9302b",
@@ -1816,110 +1400,6 @@
 				"es-ES":
 				{
 					"text": "Categorías",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "1F6D03D6444D82389397E18862FB62D3",
-			"source": "<red>{text}</>",
-			"sourceHash": "1afbb0f8",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction_LEGACY.W_Extraction_LEGACY_C:ExecuteUbergraph_W_Extraction_LEGACY [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": "<red>{text}</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "<red>{text}</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "<red>{text}</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "<red>{text}</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "<red>{text}</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "<red>{text}</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "2022FFCC4D02447A42335D85BC06B47A",
-			"source": "CDATA_C",
-			"sourceHash": "429da1f1",
-			"origin": "/Game/Blueprints/MissionSystem/UI/GCPS/W_GCPS_TopBar.W_GCPS_TopBar_C:WidgetTree.W_GCPS_ResourceItem_2.CDATA",
-			"t":
-			{
-				"de":
-				{
-					"text": "CDATA_C",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "CDATA_C",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "CDATA_C",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "CDATA_C",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "CDATA_C",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "CDATA_C",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -2708,110 +2188,6 @@
 		},
 		{
 			"ns": "",
-			"key": "2B2942444694503DA3DE398AD905579A",
-			"source": "SEQ_{Index}: ",
-			"sourceHash": "d0149eee",
-			"origin": "/Game/Blueprints/MissionSystem/UI/GCPS/W_GCPS_MissionSequenceItem.W_GCPS_MissionSequenceItem_C:ExecuteUbergraph_W_GCPS_MissionSequenceItem [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": "SEQ_{Index}: ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "SEQ_{Index}: ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "SEQ_{Index}: ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "SEQ_{Index}: ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "SEQ_{Index}: ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "SEQ_{Index}: ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "2B3CE06B482B8BC374DCE3B5F3B8F69C",
-			"source": "01:40",
-			"sourceHash": "a52dcf92",
-			"origin": "/Game/Blueprints/MissionSystem/UI/GCPS/Minimap/W_GCPS_ToolTip_ExtractionZone.W_GCPS_ToolTip_ExtractionZone_C:WidgetTree.OpenTimeText.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "01:40",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "01:40",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "01:40",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "01:40",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "01:40",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "01:40",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "2C4EA21E419151A66D9AC9AC5FA323BD",
 			"source": "Submit",
 			"sourceHash": "65c524fe",
@@ -2856,162 +2232,6 @@
 				"es-ES":
 				{
 					"text": "Entregar",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "2CC856B94C23781EDDC0DE8A8B1A9CDF",
-			"source": "+5%",
-			"sourceHash": "48b7bb8c",
-			"origin": "/Game/Blueprints/MissionSystem/UI/JobBoard/W_LoyaltyProgressItem.W_LoyaltyProgressItem_C:WidgetTree.IRRTextBlock_0.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "+5%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "+5%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "+5%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "+5%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "+5%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "+5%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "2DCF76624FD0C7A904930DAF5B1B8BBD",
-			"source": ">",
-			"sourceHash": "31b0508e",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Terminal/W_TerminalInput.W_TerminalInput_C:WidgetTree.symbols_1.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": ">",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": ">",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": ">",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": ">",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": ">",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": ">",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "2E02D1784D2C828A9F08158FC796EEEC",
-			"source": "---",
-			"sourceHash": "cd601c1d",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Terminal/Response/W_TerminalResponse_Loading.W_TerminalResponse_Loading_C:WidgetTree.ProgressBarWidget_Loading.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "---",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "---",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "---",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "---",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "---",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "---",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -3332,58 +2552,6 @@
 		},
 		{
 			"ns": "",
-			"key": "33A5057140D40C14A5FA4DA8626186DC",
-			"source": "+",
-			"sourceHash": "5677f723",
-			"origin": "/Game/Blueprints/MissionSystem/UI/JobBoard/W_LoyaltyProgressItem.W_LoyaltyProgressItem_C:ExecuteUbergraph_W_LoyaltyProgressItem [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": "+",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "+",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "+",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "+",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "+",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "+",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "34B1FE5A4112F03E67CECF847E892BAF",
 			"source": "RE: Message Headline",
 			"sourceHash": "d7c1bef4",
@@ -3428,110 +2596,6 @@
 				"es-ES":
 				{
 					"text": "RE: Titular del mensaje",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "352347884DFC60148C0981927843A23E",
-			"source": "0",
-			"sourceHash": "d16f27bd",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction_LEGACY.W_Extraction_LEGACY_C:WidgetTree.PlayerInZone_2.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "35A097E942013BE77F3E9AAB2F057667",
-			"source": "3",
-			"sourceHash": "c3da8853",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction_LEGACY.W_Extraction_LEGACY_C:WidgetTree.PlayersAlive_2.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "3",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "3",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "3",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "3",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "3",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "3",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -3792,58 +2856,6 @@
 				"es-ES":
 				{
 					"text": "ESTADO: FALLIDO",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "3A8F25DA440312CE1951F6AF0D131DAA",
-			"source": "CDATA_A",
-			"sourceHash": "e894697a",
-			"origin": "/Game/Blueprints/MissionSystem/UI/GCPS/W_GCPS_TopBar.W_GCPS_TopBar_C:WidgetTree.W_GCPS_ResourceItem.CDATA",
-			"t":
-			{
-				"de":
-				{
-					"text": "CDATA_A",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "CDATA_A",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "CDATA_A",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "CDATA_A",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "CDATA_A",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "CDATA_A",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -4364,58 +3376,6 @@
 				"es-ES":
 				{
 					"text": "EMPAREJAMIENTO CANCELADO",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "422AA0204C92606F4E6CEF95F9321A96",
-			"source": "Textadasdsadsadasdasdadsadsadasdaasdasdasdasd sadsadasdasdadsadasdasdasdadsad",
-			"sourceHash": "0c3ff4fc",
-			"origin": "/Game/Blueprints/MissionSystem/UI/General/W_MissionObjectiveItem.W_MissionObjectiveItem_C:WidgetTree.ObjectiveText.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "Textadasdsadsadasdasdadsadsadasdaasdasdasdasd sadsadasdasdadsadasdasdasdadsad",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "Textadasdsadsadasdasdadsadsadasdaasdasdasdasd sadsadasdasdadsadasdasdasdadsad",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Textadasdsadsadasdasdadsadsadasdaasdasdasdasd sadsadasdasdadsadasdasdasdadsad",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "Textadasdsadsadasdasdadsadsadasdaasdasdasdasd sadsadasdasdadsadasdasdasdadsad",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "Textadasdsadsadasdasdadsadsadasdaasdasdasdasd sadsadasdasdadsadasdasdasdadsad",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Textadasdsadsadasdasdadsadsadasdaasdasdasdasd sadsadasdasdadsadasdasdasdadsad",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -5152,58 +4112,6 @@
 		},
 		{
 			"ns": "",
-			"key": "53AAB75C42FC4E4B7CA09D8E2343F950",
-			"source": "CDATA_A: \"Concrete\"",
-			"sourceHash": "24f5636b",
-			"origin": "/Game/Blueprints/MissionSystem/UI/GCPS/W_GCPS_ResourceItem.W_GCPS_ResourceItem_C:WidgetTree.ResourceTypeText.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "CDATA_A: \"Concrete\"",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "CDATA_A: \"Concrete\"",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "CDATA_A: \"Concrete\"",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "CDATA_A: \"Concrete\"",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "CDATA_A: \"Concrete\"",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "CDATA_A: \"Concrete\"",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "53CD8AC34BB28D5E76ACFFB5A77CED7F",
 			"source": "Not enough cash.",
 			"sourceHash": "f4f43ce3",
@@ -5464,110 +4372,6 @@
 		},
 		{
 			"ns": "",
-			"key": "597494994A10F1346C4A11BC8AF7AB59",
-			"source": "%",
-			"sourceHash": "b6a88010",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Terminal/Response/W_TerminalResponse_Loading.W_TerminalResponse_Loading_C:WidgetTree.progress_1.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "5974B82945AE72F4A52F609D74F432D1",
-			"source": "--:--",
-			"sourceHash": "73382a0e",
-			"origin": "/Game/Blueprints/MissionSystem/UI/GCPS/Minimap/W_GCPS_ToolTip_ExtractionZone.W_GCPS_ToolTip_ExtractionZone_C:ExecuteUbergraph_W_GCPS_ToolTip_ExtractionZone [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": "--:--",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "--:--",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "--:--",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "--:--",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "--:--",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "--:--",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "5A5A61A5481EA1FB5DC4E59220DCD59B",
 			"source": "Submit",
 			"sourceHash": "65c524fe",
@@ -5612,58 +4416,6 @@
 				"es-ES":
 				{
 					"text": "Entregar",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "5A9E617446423F640EC87BA75FAED49E",
-			"source": "3",
-			"sourceHash": "c3da8853",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction.W_Extraction_C:WidgetTree.PlayersAlive.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "3",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "3",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "3",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "3",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "3",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "3",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -5724,110 +4476,6 @@
 		},
 		{
 			"ns": "",
-			"key": "6032E8984CE1CEDDDBB43E8F5D2EF1CD",
-			"source": "\r\n██╗   ██╗██╗     ███████╗                                        \r\n██║   ██║██║     ██╔════╝                                        \r\n██║   ██║██║     █████╗                                          \r\n╚██╗ ██╔╝██║     ██╔══╝                                          \r\n ╚████╔╝ ███████╗██║                                             \r\n  ╚═══╝  ╚══════╝╚═╝                                             \r\n                                                                 \r\n████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     \r\n╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║     \r\n   ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║     \r\n   ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     \r\n   ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗\r\n   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝\r\n                                                                 \r\n",
-			"sourceHash": "87aacc78",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Terminal/W_TerminalConsole.W_TerminalConsole_C:WidgetTree.TSystemArt.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "\r\n██╗   ██╗██╗     ███████╗                                        \r\n██║   ██║██║     ██╔════╝                                        \r\n██║   ██║██║     █████╗                                          \r\n╚██╗ ██╔╝██║     ██╔══╝                                          \r\n ╚████╔╝ ███████╗██║                                             \r\n  ╚═══╝  ╚══════╝╚═╝                                             \r\n                                                                 \r\n████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     \r\n╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║     \r\n   ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║     \r\n   ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     \r\n   ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗\r\n   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝\r\n                                                                 \r\n",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "\r\n██╗   ██╗██╗     ███████╗                                        \r\n██║   ██║██║     ██╔════╝                                        \r\n██║   ██║██║     █████╗                                          \r\n╚██╗ ██╔╝██║     ██╔══╝                                          \r\n ╚████╔╝ ███████╗██║                                             \r\n  ╚═══╝  ╚══════╝╚═╝                                             \r\n                                                                 \r\n████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     \r\n╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║     \r\n   ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║     \r\n   ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     \r\n   ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗\r\n   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝\r\n                                                                 \r\n",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "\r\n██╗   ██╗██╗     ███████╗                                        \r\n██║   ██║██║     ██╔════╝                                        \r\n██║   ██║██║     █████╗                                          \r\n╚██╗ ██╔╝██║     ██╔══╝                                          \r\n ╚████╔╝ ███████╗██║                                             \r\n  ╚═══╝  ╚══════╝╚═╝                                             \r\n                                                                 \r\n████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     \r\n╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║     \r\n   ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║     \r\n   ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     \r\n   ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗\r\n   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝\r\n                                                                 \r\n",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "\r\n██╗   ██╗██╗     ███████╗                                        \r\n██║   ██║██║     ██╔════╝                                        \r\n██║   ██║██║     █████╗                                          \r\n╚██╗ ██╔╝██║     ██╔══╝                                          \r\n ╚████╔╝ ███████╗██║                                             \r\n  ╚═══╝  ╚══════╝╚═╝                                             \r\n                                                                 \r\n████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     \r\n╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║     \r\n   ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║     \r\n   ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     \r\n   ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗\r\n   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝\r\n                                                                 \r\n",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "\r\n██╗   ██╗██╗     ███████╗                                        \r\n██║   ██║██║     ██╔════╝                                        \r\n██║   ██║██║     █████╗                                          \r\n╚██╗ ██╔╝██║     ██╔══╝                                          \r\n ╚████╔╝ ███████╗██║                                             \r\n  ╚═══╝  ╚══════╝╚═╝                                             \r\n                                                                 \r\n████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     \r\n╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║     \r\n   ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║     \r\n   ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     \r\n   ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗\r\n   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝\r\n                                                                 \r\n",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "\r\n██╗   ██╗██╗     ███████╗                                        \r\n██║   ██║██║     ██╔════╝                                        \r\n██║   ██║██║     █████╗                                          \r\n╚██╗ ██╔╝██║     ██╔══╝                                          \r\n ╚████╔╝ ███████╗██║                                             \r\n  ╚═══╝  ╚══════╝╚═╝                                             \r\n                                                                 \r\n████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     \r\n╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║     \r\n   ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║     \r\n   ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     \r\n   ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗\r\n   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝\r\n                                                                 \r\n",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "60D71805419E68733E2E28907911E469",
-			"source": "/",
-			"sourceHash": "d9156074",
-			"origin": "/Game/Blueprints/MissionSystem/UI/GCPS/W_GCPS_ResourceItem.W_GCPS_ResourceItem_C:WidgetTree.Amount_1.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "/",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "/",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "/",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "/",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "/",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "/",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "6179D8874971231050B557B70884387B",
 			"source": "SAFEHOUSE UPGRADE ",
 			"sourceHash": "684b025d",
@@ -5872,58 +4520,6 @@
 				"es-ES":
 				{
 					"text": "MEJORA DE CASA SEGURA ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "61CF64F5440715B59B2A9EB0941BCBDE",
-			"source": "SEQ_1: ",
-			"sourceHash": "f728e258",
-			"origin": "/Game/Blueprints/MissionSystem/UI/GCPS/W_GCPS_MissionSequenceItem.W_GCPS_MissionSequenceItem_C:WidgetTree.SequenceNumber.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "SEQ_1: ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "SEQ_1: ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "SEQ_1: ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "SEQ_1: ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "SEQ_1: ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "SEQ_1: ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -6660,58 +5256,6 @@
 		},
 		{
 			"ns": "",
-			"key": "701D4AD24B6ED08D778C9FBB53C05B88",
-			"source": "Requires UICS faction level 2.",
-			"sourceHash": "cd3e157a",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Hideout/W_IRR_HideoutUpgrade_Overview_Resource.W_IRR_HideoutUpgrade_Overview_Resource_C:WidgetTree.IRRTextBlock.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "Erfordert UICS-Fraktionsstufe 2.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "需要 UICS 派系等级 2。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Требуется уровень фракции UICS 2.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "UICS 세력 레벨 2 필요.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "UICS勢力レベル2が必要。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Requiere nivel de facción UICS 2.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "70E1B6254E01A16DC7364086C6F60308",
 			"source": "[LEADER]",
 			"sourceHash": "dfb12413",
@@ -6816,58 +5360,6 @@
 		},
 		{
 			"ns": "",
-			"key": "73101B464FFC5C47C89F36A8BD5BACBE",
-			"source": "<red>1</>",
-			"sourceHash": "c022698c",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction_LEGACY.W_Extraction_LEGACY_C:WidgetTree.PlayerInZone.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "<red>1</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "<red>1</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "<red>1</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "<red>1</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "<red>1</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "<red>1</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "736740E440703D370577FD974917B931",
 			"source": "Destroy the Fuel Depot",
 			"sourceHash": "0f4934b9",
@@ -6912,58 +5404,6 @@
 				"es-ES":
 				{
 					"text": "Destruye el depósito de combustible",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "74632C3D427C06E4A6A4AC93AA093CB7",
-			"source": "CUSTOM SAT DATA : UNLOADED",
-			"sourceHash": "7f8f305b",
-			"origin": "/Game/Blueprints/MissionSystem/UI/GCPS/W_GCPS_UI.W_GCPS_UI_C:WidgetTree.IRRTextBlock_3.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "CUSTOM SAT DATA : UNLOADED",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "CUSTOM SAT DATA : UNLOADED",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "CUSTOM SAT DATA : UNLOADED",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "CUSTOM SAT DATA : UNLOADED",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "CUSTOM SAT DATA : UNLOADED",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "CUSTOM SAT DATA : UNLOADED",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -7544,53 +5984,41 @@
 		},
 		{
 			"ns": "",
-			"key": "7E492A534EADB5C536573BB8425134BE",
-			"source": "Ver. 1.2.9.4",
-			"sourceHash": "221a94b0",
-			"origin": "/Game/Blueprints/MissionSystem/UI/GCPS/W_GCPS_UI.W_GCPS_UI_C:WidgetTree.IRRTextBlock_100.Text",
+			"key": "7E48D6624D7600C6D8189AB1E7179FAE",
+			"source": "{guid}\r\n\r\n{hack statust}",
+			"sourceHash": "72a1cd06",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Terminal/W_TerminalConsole.W_TerminalConsole_C:ExecuteUbergraph_W_TerminalConsole [Script Bytecode]",
 			"t":
 			{
 				"de":
 				{
-					"text": "Ver. 1.2.9.4",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"zh-Hans":
 				{
-					"text": "Ver. 1.2.9.4",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"ru":
 				{
-					"text": "Ver. 1.2.9.4",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"ko":
 				{
-					"text": "Ver. 1.2.9.4",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"ja":
 				{
-					"text": "Ver. 1.2.9.4",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"es-ES":
 				{
-					"text": "Ver. 1.2.9.4",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -7908,58 +6336,6 @@
 		},
 		{
 			"ns": "",
-			"key": "83CCD6E04E1DA8A5C7FB1789259DAACB",
-			"source": "<red>{text}</>",
-			"sourceHash": "1afbb0f8",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction_LEGACY.W_Extraction_LEGACY_C:ExecuteUbergraph_W_Extraction_LEGACY [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": "<red>{text}</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "<red>{text}</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "<red>{text}</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "<red>{text}</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "<red>{text}</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "<red>{text}</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "86BD7B9247B567806D5CF7B79FC23EF1",
 			"source": "Tracked",
 			"sourceHash": "a1b85653",
@@ -8004,58 +6380,6 @@
 				"es-ES":
 				{
 					"text": "Seguida",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "86D13B324394D6A2653BDDBFB6FD58CD",
-			"source": "1575",
-			"sourceHash": "77bc8cc4",
-			"origin": "/Game/Blueprints/MissionSystem/UI/GCPS/W_GCPS_ResourceItem.W_GCPS_ResourceItem_C:WidgetTree.Amount.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "1575",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "1575",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "1575",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "1575",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "1575",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "1575",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -8792,58 +7116,6 @@
 		},
 		{
 			"ns": "",
-			"key": "955EC09A415FF63385C0D1ABFDEE91B8",
-			"source": "]",
-			"sourceHash": "18230863",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Terminal/Response/W_TerminalResponse_Loading.W_TerminalResponse_Loading_C:WidgetTree.text.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "]",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "]",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "]",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "]",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "]",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "]",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "96EB2FA744FD427A68543F87891C7764",
 			"source": "IGC",
 			"sourceHash": "7ce67729",
@@ -9044,110 +7316,6 @@
 				"es-ES":
 				{
 					"text": "Nivel {x}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "9984268741F79C98BFC2298D9F97A520",
-			"source": "/",
-			"sourceHash": "d9156074",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction.W_Extraction_C:WidgetTree.IRRTextBlock_1.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "/",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "/",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "/",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "/",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "/",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "/",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "9B3ADA0E4CD82307A7A0ECB51BC308E3",
-			"source": "<red>{text}</>",
-			"sourceHash": "1afbb0f8",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction_LEGACY.W_Extraction_LEGACY_C:ExecuteUbergraph_W_Extraction_LEGACY [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": "<red>{text}</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "<red>{text}</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "<red>{text}</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "<red>{text}</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "<red>{text}</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "<red>{text}</>",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -9780,58 +7948,6 @@
 		},
 		{
 			"ns": "",
-			"key": "A994929E43365E0E37200295F1819B22",
-			"source": "Gunsmith - Lv. 2",
-			"sourceHash": "600820c2",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Hideout/W_IRR_HideoutUpgrade_Overview.W_IRR_HideoutUpgrade_Overview_C:WidgetTree.MissionName.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "Büchsenmacher - Lv. 2",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "改枪 - Lv. 2",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Оружейник - Ур. 2",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "총기 개조 - Lv. 2",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "ガンスミス - Lv. 2",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Armero - Nv. 2",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "AA027605476A31F71142968D132E7044",
 			"source": "Quarry",
 			"sourceHash": "3801db2e",
@@ -10084,110 +8200,6 @@
 				"es-ES":
 				{
 					"text": "EMPAREJAMIENTO COMPLETADO",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "AE6796C444167CC460BA2B80D7218DF3",
-			"source": "0",
-			"sourceHash": "d16f27bd",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction.W_Extraction_C:WidgetTree.PlayerInZone.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "AE852D6A406545B229B892BE38E5E197",
-			"source": "2700",
-			"sourceHash": "8f545f82",
-			"origin": "/Game/Blueprints/MissionSystem/UI/GCPS/W_GCPS_ResourceItem.W_GCPS_ResourceItem_C:WidgetTree.Max.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "2700",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "2700",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "2700",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "2700",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "2700",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "2700",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -10664,58 +8676,6 @@
 		},
 		{
 			"ns": "",
-			"key": "B63AEBDB4693070330A485B173C8E7DC",
-			"source": "CDATA_D",
-			"sourceHash": "df4a9948",
-			"origin": "/Game/Blueprints/MissionSystem/UI/GCPS/W_GCPS_TopBar.W_GCPS_TopBar_C:WidgetTree.W_GCPS_ResourceItem_3.CDATA",
-			"t":
-			{
-				"de":
-				{
-					"text": "CDATA_D",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "CDATA_D",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "CDATA_D",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "CDATA_D",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "CDATA_D",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "CDATA_D",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "B643659B4853E11B29D0FFA81EC19F22",
 			"source": "Filter: {x}",
 			"sourceHash": "1db2c8a1",
@@ -10976,58 +8936,6 @@
 		},
 		{
 			"ns": "",
-			"key": "BBFD147542FB319164D93F819F0BDB8F",
-			"source": "0",
-			"sourceHash": "d16f27bd",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Terminal/Response/W_TerminalResponse_Loading.W_TerminalResponse_Loading_C:WidgetTree.progress.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "BBFDBEA445B5B261FB79F19864A2CEE0",
 			"source": "Delete Message",
 			"sourceHash": "15e8f40e",
@@ -11080,58 +8988,6 @@
 		},
 		{
 			"ns": "",
-			"key": "BE552149469FC20619F58A89133877D3",
-			"source": "18.11.2023",
-			"sourceHash": "f025672d",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Inbox/W_InboxMessage.W_InboxMessage_C:WidgetTree.DateText.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "18.11.2023",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "18.11.2023",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "18.11.2023",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "18.11.2023",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "18.11.2023",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "18.11.2023",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "BEAE91E64D9163A708AD9DBE1769B482",
 			"source": "No Signal.",
 			"sourceHash": "c32f7a67",
@@ -11176,58 +9032,6 @@
 				"es-ES":
 				{
 					"text": "Sin señal.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "C014C4C54CC424D09F9FB2A73C5533ED",
-			"source": "{Minutes}:{Seconds}",
-			"sourceHash": "6af9f79e",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Deploy/WB_DeployTab.WB_DeployTab_C:UpdateDisplay [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": "{Minutes}:{Seconds}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "{Minutes}:{Seconds}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "{Minutes}:{Seconds}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "{Minutes}:{Seconds}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "{Minutes}:{Seconds}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "{Minutes}:{Seconds}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -11488,58 +9292,6 @@
 				"es-ES":
 				{
 					"text": "{x} - Nivel {y}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "C777A0184B64D9B49B45638B6B06B712",
-			"source": " / 2",
-			"sourceHash": "327526dd",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Hideout/W_IRR_HideoutUpgrade_MinMaxText.W_IRR_HideoutUpgrade_MinMaxText_C:WidgetTree.Max.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": " / 2",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": " / 2",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": " / 2",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": " / 2",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": " / 2",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": " / 2",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -11860,58 +9612,6 @@
 		},
 		{
 			"ns": "",
-			"key": "D0589FEF4EC7E298E4E2AEA42A92D5E8",
-			"source": "<red>3</>",
-			"sourceHash": "47824cef",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction_LEGACY.W_Extraction_LEGACY_C:WidgetTree.PlayersAlive.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "<red>3</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "<red>3</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "<red>3</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "<red>3</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "<red>3</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "<red>3</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "D30668A24F656E73887375806EE57A32",
 			"source": "Return to combat zone",
 			"sourceHash": "03a8ab75",
@@ -12068,58 +9768,6 @@
 		},
 		{
 			"ns": "",
-			"key": "D6A452FD4F9BB4108C20BB9B09EBBEAD",
-			"source": "16:22",
-			"sourceHash": "51d5cdad",
-			"origin": "/Game/Blueprints/MissionSystem/UI/JobBoard/W_MapToolTip.W_MapToolTip_C:WidgetTree.Time.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "16:22",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "16:22",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "16:22",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "16:22",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "16:22",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "16:22",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "D92B87BB4DEEFBDC37E32D9CC628BC8C",
 			"source": "UICS Satellite",
 			"sourceHash": "244e105b",
@@ -12164,58 +9812,6 @@
 				"es-ES":
 				{
 					"text": "Satélite UICS",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "DBA03DBC47D04CA6CC1CE9BB42D21C82",
-			"source": "0",
-			"sourceHash": "d16f27bd",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Hideout/W_IRR_HideoutUpgrade_MinMaxText.W_IRR_HideoutUpgrade_MinMaxText_C:WidgetTree.Min.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "0",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -12692,58 +10288,6 @@
 		},
 		{
 			"ns": "",
-			"key": "E75782894160BAFD4F65C2A7B7C74CA9",
-			"source": "CDATA_B",
-			"sourceHash": "fa21c694",
-			"origin": "/Game/Blueprints/MissionSystem/UI/GCPS/W_GCPS_TopBar.W_GCPS_TopBar_C:WidgetTree.W_GCPS_ResourceItem_1.CDATA",
-			"t":
-			{
-				"de":
-				{
-					"text": "CDATA_B",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "CDATA_B",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "CDATA_B",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "CDATA_B",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "CDATA_B",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "CDATA_B",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "E80819D94C76E3BEBFB18ABA51DACB7F",
 			"source": "Lake Side",
 			"sourceHash": "ddfb9aae",
@@ -12788,110 +10332,6 @@
 				"es-ES":
 				{
 					"text": "Orilla del lago",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "E9140D61498471142180158E88C7FA92",
-			"source": "test",
-			"sourceHash": "919f0e6b",
-			"origin": "/Game/Blueprints/MissionSystem/UI/JobBoard/W_MissionList_Item.W_MissionList_Item_C:WidgetTree.Button.ToolTipText",
-			"t":
-			{
-				"de":
-				{
-					"text": "Test",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "测试",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "тест",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "테스트",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "テスト",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "prueba",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "EAD7141B4AA677E9FD76BFB604209EB5",
-			"source": "test",
-			"sourceHash": "919f0e6b",
-			"origin": "/Game/Blueprints/MissionSystem/UI/GCPS/W_GCPS_InputAction.W_GCPS_InputAction_C:WidgetTree.ActionText.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "Test",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "测试",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "тест",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "테스트",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "テスト",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "prueba",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -13576,110 +11016,6 @@
 		},
 		{
 			"ns": "",
-			"key": "F64725214AC6894375DB5096CE4A4FD5",
-			"source": "04:45 pm",
-			"sourceHash": "dde6fc50",
-			"origin": "/Game/Blueprints/MissionSystem/UI/GCPS/W_GCPS_TopBar.W_GCPS_TopBar_C:WidgetTree.Time_Text.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "04:45 pm",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "04:45 pm",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "04:45 pm",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "04:45 pm",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "04:45 pm",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "04:45 pm",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "F72A108644AEE4160AA64CA888789F17",
-			"source": "test",
-			"sourceHash": "919f0e6b",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Inbox/W_InboxList_Item.W_InboxList_Item_C:WidgetTree.Button.ToolTipText",
-			"t":
-			{
-				"de":
-				{
-					"text": "Test",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "测试",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "тест",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "테스트",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "テスト",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "prueba",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "F769F96D414B68AD0B6F428ABAED9EC1",
 			"source": "TRACKED MISSIONS",
 			"sourceHash": "71f5c54d",
@@ -13784,58 +11120,6 @@
 		},
 		{
 			"ns": "",
-			"key": "FA6F29AC485BA38E8FF953982F421DD3",
-			"source": "-------------",
-			"sourceHash": "48277ed9",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Terminal/Response/W_TerminalResponse_Loading.W_TerminalResponse_Loading_C:WidgetTree.ProgressBarWidget.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "-------------",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "-------------",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "-------------",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "-------------",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "-------------",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "-------------",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "FAD73B684D241C048106A586803C8463",
 			"source": "Debriefing",
 			"sourceHash": "dcd6a0e9",
@@ -13880,58 +11164,6 @@
 				"es-ES":
 				{
 					"text": "Informe final",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "FE1E7DC9458F3169C8E5DB9DD2AFAA2E",
-			"source": "test",
-			"sourceHash": "919f0e6b",
-			"origin": "/Game/Blueprints/MissionSystem/UI/GCPS/W_GCPS_MissionList_Item.W_GCPS_MissionList_Item_C:WidgetTree.Button.ToolTipText",
-			"t":
-			{
-				"de":
-				{
-					"text": "Test",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "测试",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "тест",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "테스트",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "テスト",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "prueba",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
