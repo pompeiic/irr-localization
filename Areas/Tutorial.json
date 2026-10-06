@@ -265,50 +265,50 @@
 		{
 			"ns": "",
 			"key": "1A45293341F5FC6DB96C78A5EE59D651",
-			"source": "WEAPON BENCH",
-			"sourceHash": "6df88940",
-			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.WeaponBench.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(0).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.HeadlineText_3_DBCC41F24BA2FB2458CCFC862BE8BF58",
+			"source": "GUNSMITH",
+			"sourceHash": "9ef105eb",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.Gunsmith.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(0).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.HeadlineText_3_DBCC41F24BA2FB2458CCFC862BE8BF58",
 			"t":
 			{
 				"de":
 				{
 					"text": "WAFFENWERKBANK",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"zh-Hans":
 				{
 					"text": "武器工作台",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"ru":
 				{
 					"text": "ОРУЖЕЙНЫЙ ВЕРСТАК",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"ko":
 				{
 					"text": "무기 작업대",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"ja":
 				{
 					"text": "武器作業台",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"es-ES":
 				{
 					"text": "BANCO DE ARMAS",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				}
@@ -527,7 +527,7 @@
 			"key": "672A560648AC0B64B57468AFEE8A6150",
 			"source": "You can modify both weapons from your stash and weapons previewed from the Marketplace.\r\n\r\nLocked attachments are clearly marked – unlock them via reputation. Items cannot directly be bought from the black market.",
 			"sourceHash": "d68020db",
-			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.WeaponBench.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(1).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.MessageText_10_3211E6D14AADC8E7D0DE94BDEAFFA414",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.Gunsmith.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(1).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.MessageText_10_3211E6D14AADC8E7D0DE94BDEAFFA414",
 			"t":
 			{
 				"de":
@@ -579,7 +579,7 @@
 			"key": "6DB490724A916BC1FED60CA3DD5C3242",
 			"source": "Welcome to the Weapon Bench – your place to customize weapons, experiment with builds, and create presets tailored to your playstyle.",
 			"sourceHash": "70d5c3ae",
-			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.WeaponBench.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(0).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.MessageText_10_3211E6D14AADC8E7D0DE94BDEAFFA414",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.Gunsmith.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(0).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.MessageText_10_3211E6D14AADC8E7D0DE94BDEAFFA414",
 			"t":
 			{
 				"de":
@@ -631,7 +631,7 @@
 			"key": "6F2E04A44E1354B7E642389B8E36A126",
 			"source": "Once your weapon is set up, you can save it as a preset for later use – or load an existing preset onto any compatible weapon.",
 			"sourceHash": "b47fac13",
-			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.WeaponBench.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(2).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.MessageText_10_3211E6D14AADC8E7D0DE94BDEAFFA414",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.Gunsmith.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(2).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.MessageText_10_3211E6D14AADC8E7D0DE94BDEAFFA414",
 			"t":
 			{
 				"de":
@@ -1307,7 +1307,7 @@
 			"key": "B5A16934468162B99C7E269838581AB9",
 			"source": "PRESETS",
 			"sourceHash": "292b39f1",
-			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.WeaponBench.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(2).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.HeadlineText_3_DBCC41F24BA2FB2458CCFC862BE8BF58",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.Gunsmith.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(2).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.HeadlineText_3_DBCC41F24BA2FB2458CCFC862BE8BF58",
 			"t":
 			{
 				"de":
@@ -1827,7 +1827,7 @@
 			"key": "FD3A6E904559DD1FE448B48912EC9B8E",
 			"source": "MODIFICATION",
 			"sourceHash": "9fc4bc62",
-			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.WeaponBench.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(1).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.HeadlineText_3_DBCC41F24BA2FB2458CCFC862BE8BF58",
+			"origin": "/Game/Blueprints/TutorialSystem/DT_Tutorials.DT_Tutorials.Gunsmith.Info_5_8D7ABBD9490621CA11F4EEB83E17A488(1).Info_5_8D7ABBD9490621CA11F4EEB83E17A488.HeadlineText_3_DBCC41F24BA2FB2458CCFC862BE8BF58",
 			"t":
 			{
 				"de":
