@@ -1,0 +1,86 @@
+{
+	"schemaVersion": 1,
+	"area": "UI/Public",
+	"entries": [
+		{
+			"ns": "IRRCategorySelector",
+			"key": "Any",
+			"source": "Any",
+			"sourceHash": "0345606f",
+			"origin": "Source/IRRCoreUI/Public/Components/IRRCategorySelectorWidget.h(44)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRCategorySelector",
+			"key": "None",
+			"source": "None",
+			"sourceHash": "71180dc5",
+			"origin": "Source/IRRCoreUI/Public/Components/IRRCategorySelectorWidget.h(40)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		}
+	]
+}
