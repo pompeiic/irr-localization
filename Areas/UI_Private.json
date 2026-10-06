@@ -1,0 +1,366 @@
+{
+	"schemaVersion": 1,
+	"area": "UI/Private",
+	"entries": [
+		{
+			"ns": "IRRSettingCondition",
+			"key": "Unsupported",
+			"source": "Not supported on this system.",
+			"sourceHash": "24334012",
+			"origin": "Source/IRRCoreUI/Private/Settings/Collection/IRRSettingCondition.cpp(106)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingKeyBindingLibrary",
+			"key": "NameSeparator",
+			"source": ", ",
+			"sourceHash": "6bc9074e",
+			"origin": "Source/IRRCoreUI/Private/Settings/Collection/IRRSettingKeyBindingLibrary.cpp(93)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingPreset",
+			"key": "Imported",
+			"source": "Added preset \"{0}\".",
+			"sourceHash": "069ef100",
+			"origin": "Source/IRRCoreUI/Private/Settings/Collection/IRRSettingPreset.cpp(271)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingPreset",
+			"key": "ImportedName",
+			"source": "Imported Preset",
+			"sourceHash": "b7dab550",
+			"origin": "Source/IRRCoreUI/Private/Settings/Collection/IRRSettingPreset.cpp(261)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingPreset",
+			"key": "ImportedPartly",
+			"source": "Added preset \"{0}\" ({1} unknown settings skipped).",
+			"sourceHash": "a86af8cc",
+			"origin": "Source/IRRCoreUI/Private/Settings/Collection/IRRSettingPreset.cpp(272)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingPreset",
+			"key": "ImportForeign",
+			"source": "That preset belongs to other settings.",
+			"sourceHash": "63273dcc",
+			"origin": "Source/IRRCoreUI/Private/Settings/Collection/IRRSettingPreset.cpp(256)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingPreset",
+			"key": "ImportInvalid",
+			"source": "That is not a settings preset.",
+			"sourceHash": "b55c531d",
+			"origin": "Source/IRRCoreUI/Private/Settings/Collection/IRRSettingPreset.cpp(239)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingPreset",
+			"key": "ImportWriteFailed",
+			"source": "The preset could not be saved.",
+			"sourceHash": "a2c80f75",
+			"origin": "Source/IRRCoreUI/Private/Settings/Collection/IRRSettingPreset.cpp(265)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingPreset",
+			"key": "NoImport",
+			"source": "This preset list cannot import presets.",
+			"sourceHash": "4be68ce8",
+			"origin": "Source/IRRCoreUI/Private/Settings/Collection/IRRSettingPreset.cpp(39)",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		}
+	]
+}
