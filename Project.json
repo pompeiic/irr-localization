@@ -10,8 +10,8 @@
 		"ja",
 		"es-ES"
 	],
-	"exportedAt": "2026-09-28T12:41:15.321Z",
-	"entries": 3546,
+	"exportedAt": "2026-10-06T23:05:17.281Z",
+	"entries": 3912,
 	"areas": [
 		{
 			"area": "Blueprints/Airdrop",
@@ -58,15 +58,15 @@
 		{
 			"area": "Blueprints/InputSystem",
 			"file": "Areas/Blueprints_InputSystem.json",
-			"entries": 16,
+			"entries": 40,
 			"translated":
 			{
-				"de": 16,
-				"zh-Hans": 16,
-				"ru": 16,
-				"ko": 16,
-				"ja": 16,
-				"es-ES": 16
+				"de": 10,
+				"zh-Hans": 10,
+				"ru": 10,
+				"ko": 10,
+				"ja": 10,
+				"es-ES": 10
 			}
 		},
 		{
@@ -112,17 +112,45 @@
 			}
 		},
 		{
-			"area": "Blueprints/SimpleGameplayAbilitySystem",
-			"file": "Areas/Blueprints_SimpleGameplayAbilitySystem.json",
-			"entries": 15,
+			"area": "Blueprints/Settings",
+			"file": "Areas/Blueprints_Settings.json",
+			"entries": 309,
 			"translated":
 			{
-				"de": 15,
-				"zh-Hans": 15,
-				"ru": 15,
-				"ko": 15,
-				"ja": 15,
-				"es-ES": 15
+				"de": 3,
+				"zh-Hans": 3,
+				"ru": 3,
+				"ko": 3,
+				"ja": 3,
+				"es-ES": 3
+			}
+		},
+		{
+			"area": "Blueprints/SimpleGameplayAbilitySystem",
+			"file": "Areas/Blueprints_SimpleGameplayAbilitySystem.json",
+			"entries": 14,
+			"translated":
+			{
+				"de": 14,
+				"zh-Hans": 14,
+				"ru": 14,
+				"ko": 14,
+				"ja": 14,
+				"es-ES": 14
+			}
+		},
+		{
+			"area": "Config",
+			"file": "Areas/Config.json",
+			"entries": 2,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
 			}
 		},
 		{
@@ -168,20 +196,6 @@
 			}
 		},
 		{
-			"area": "Gameloop/InGame",
-			"file": "Areas/Gameloop_InGame.json",
-			"entries": 1,
-			"translated":
-			{
-				"de": 1,
-				"zh-Hans": 1,
-				"ru": 1,
-				"ko": 1,
-				"ja": 1,
-				"es-ES": 1
-			}
-		},
-		{
 			"area": "Gameloop/Lobby",
 			"file": "Areas/Gameloop_Lobby.json",
 			"entries": 30,
@@ -212,15 +226,15 @@
 		{
 			"area": "Interaction/Actors",
 			"file": "Areas/Interaction_Actors.json",
-			"entries": 61,
+			"entries": 60,
 			"translated":
 			{
-				"de": 61,
-				"zh-Hans": 61,
-				"ru": 61,
-				"ko": 61,
-				"ja": 61,
-				"es-ES": 61
+				"de": 60,
+				"zh-Hans": 60,
+				"ru": 60,
+				"ko": 60,
+				"ja": 60,
+				"es-ES": 60
 			}
 		},
 		{
@@ -271,12 +285,12 @@
 			"entries": 4,
 			"translated":
 			{
-				"de": 4,
-				"zh-Hans": 4,
-				"ru": 4,
-				"ko": 4,
-				"ja": 4,
-				"es-ES": 4
+				"de": 2,
+				"zh-Hans": 2,
+				"ru": 2,
+				"ko": 2,
+				"ja": 2,
+				"es-ES": 2
 			}
 		},
 		{
@@ -310,35 +324,35 @@
 		{
 			"area": "Inventory/Items",
 			"file": "Areas/Inventory_Items.json",
-			"entries": 731,
+			"entries": 798,
 			"translated":
 			{
-				"de": 731,
-				"zh-Hans": 731,
-				"ru": 731,
-				"ko": 731,
-				"ja": 731,
-				"es-ES": 731
+				"de": 725,
+				"zh-Hans": 725,
+				"ru": 725,
+				"ko": 725,
+				"ja": 725,
+				"es-ES": 725
 			}
 		},
 		{
 			"area": "Inventory/Objects",
 			"file": "Areas/Inventory_Objects.json",
-			"entries": 108,
+			"entries": 105,
 			"translated":
 			{
-				"de": 108,
-				"zh-Hans": 108,
-				"ru": 108,
-				"ko": 108,
-				"ja": 108,
-				"es-ES": 108
+				"de": 100,
+				"zh-Hans": 100,
+				"ru": 100,
+				"ko": 100,
+				"ja": 100,
+				"es-ES": 100
 			}
 		},
 		{
 			"area": "Inventory/RaidTrader",
 			"file": "Areas/Inventory_RaidTrader.json",
-			"entries": 16,
+			"entries": 18,
 			"translated":
 			{
 				"de": 16,
@@ -380,15 +394,15 @@
 		{
 			"area": "Inventory/Widgets",
 			"file": "Areas/Inventory_Widgets.json",
-			"entries": 312,
+			"entries": 276,
 			"translated":
 			{
-				"de": 312,
-				"zh-Hans": 312,
-				"ru": 312,
-				"ko": 312,
-				"ja": 312,
-				"es-ES": 312
+				"de": 271,
+				"zh-Hans": 271,
+				"ru": 271,
+				"ko": 271,
+				"ja": 271,
+				"es-ES": 271
 			}
 		},
 		{
@@ -397,26 +411,26 @@
 			"entries": 37,
 			"translated":
 			{
-				"de": 37,
-				"zh-Hans": 37,
-				"ru": 37,
-				"ko": 37,
-				"ja": 37,
-				"es-ES": 37
+				"de": 36,
+				"zh-Hans": 36,
+				"ru": 36,
+				"ko": 36,
+				"ja": 36,
+				"es-ES": 36
 			}
 		},
 		{
 			"area": "Missions/DataAssets",
 			"file": "Areas/Missions_DataAssets.json",
-			"entries": 903,
+			"entries": 900,
 			"translated":
 			{
-				"de": 903,
-				"zh-Hans": 903,
-				"ru": 903,
-				"ko": 903,
-				"ja": 903,
-				"es-ES": 903
+				"de": 897,
+				"zh-Hans": 897,
+				"ru": 897,
+				"ko": 897,
+				"ja": 897,
+				"es-ES": 897
 			}
 		},
 		{
@@ -425,18 +439,18 @@
 			"entries": 39,
 			"translated":
 			{
-				"de": 39,
-				"zh-Hans": 39,
-				"ru": 39,
-				"ko": 39,
-				"ja": 39,
-				"es-ES": 39
+				"de": 38,
+				"zh-Hans": 38,
+				"ru": 38,
+				"ko": 38,
+				"ja": 38,
+				"es-ES": 38
 			}
 		},
 		{
 			"area": "Missions/Private",
 			"file": "Areas/Missions_Private.json",
-			"entries": 10,
+			"entries": 13,
 			"translated":
 			{
 				"de": 10,
@@ -464,15 +478,15 @@
 		{
 			"area": "Missions/UI",
 			"file": "Areas/Missions_UI.json",
-			"entries": 268,
+			"entries": 215,
 			"translated":
 			{
-				"de": 268,
-				"zh-Hans": 268,
-				"ru": 268,
-				"ko": 268,
-				"ja": 268,
-				"es-ES": 268
+				"de": 214,
+				"zh-Hans": 214,
+				"ru": 214,
+				"ko": 214,
+				"ja": 214,
+				"es-ES": 214
 			}
 		},
 		{
@@ -492,7 +506,7 @@
 		{
 			"area": "Test_C/AdvancedAudio",
 			"file": "Areas/Test_C_AdvancedAudio.json",
-			"entries": 1,
+			"entries": 2,
 			"translated":
 			{
 				"de": 1,
@@ -501,6 +515,20 @@
 				"ko": 1,
 				"ja": 1,
 				"es-ES": 1
+			}
+		},
+		{
+			"area": "Test_C/General",
+			"file": "Areas/Test_C_General.json",
+			"entries": 26,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
 			}
 		},
 		{
@@ -534,15 +562,15 @@
 		{
 			"area": "ThirdParty/CMG",
 			"file": "Areas/ThirdParty_CMG.json",
-			"entries": 175,
+			"entries": 165,
 			"translated":
 			{
-				"de": 175,
-				"zh-Hans": 175,
-				"ru": 175,
-				"ko": 175,
-				"ja": 175,
-				"es-ES": 175
+				"de": 165,
+				"zh-Hans": 165,
+				"ru": 165,
+				"ko": 165,
+				"ja": 165,
+				"es-ES": 165
 			}
 		},
 		{
@@ -551,12 +579,12 @@
 			"entries": 36,
 			"translated":
 			{
-				"de": 36,
-				"zh-Hans": 36,
-				"ru": 36,
-				"ko": 36,
-				"ja": 36,
-				"es-ES": 36
+				"de": 35,
+				"zh-Hans": 35,
+				"ru": 35,
+				"ko": 35,
+				"ja": 35,
+				"es-ES": 35
 			}
 		},
 		{
@@ -574,17 +602,59 @@
 			}
 		},
 		{
-			"area": "UI/Widgets",
-			"file": "Areas/UI_Widgets.json",
-			"entries": 574,
+			"area": "UI/LoadingScreen",
+			"file": "Areas/UI_LoadingScreen.json",
+			"entries": 20,
 			"translated":
 			{
-				"de": 572,
-				"zh-Hans": 572,
-				"ru": 572,
-				"ko": 572,
-				"ja": 572,
-				"es-ES": 572
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "UI/Private",
+			"file": "Areas/UI_Private.json",
+			"entries": 9,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "UI/Public",
+			"file": "Areas/UI_Public.json",
+			"entries": 2,
+			"translated":
+			{
+				"de": 0,
+				"zh-Hans": 0,
+				"ru": 0,
+				"ko": 0,
+				"ja": 0,
+				"es-ES": 0
+			}
+		},
+		{
+			"area": "UI/Widgets",
+			"file": "Areas/UI_Widgets.json",
+			"entries": 583,
+			"translated":
+			{
+				"de": 533,
+				"zh-Hans": 533,
+				"ru": 533,
+				"ko": 533,
+				"ja": 533,
+				"es-ES": 533
 			}
 		}
 	]
