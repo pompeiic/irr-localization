@@ -740,33 +740,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Tausche {count} {targetdata} beim Händler ein.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "在商人处交换 {count} 个 {targetdata}。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Обменяй {count} {targetdata} у торговца.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "상인에게 {targetdata} {count}개를 교환하라.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "トレーダーで{targetdata}を{count}個交換しろ。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Entrega {count} {targetdata} al comerciante.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},

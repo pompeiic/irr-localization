@@ -12,33 +12,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Systemstandard",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "系统默认",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Системное По Умолчанию",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "시스템 기본값",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "システムデフォルト",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Predeterminado del Sistema",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},

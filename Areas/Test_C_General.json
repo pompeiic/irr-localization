@@ -12,33 +12,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "NVIDIA DLSS Frame Generation",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "NVIDIA DLSS 帧生成",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Генерация Кадров NVIDIA DLSS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "NVIDIA DLSS 프레임 생성",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "NVIDIA DLSS フレーム生成",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Generación de Fotogramas NVIDIA DLSS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -52,33 +64,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "NVIDIA DLSS Multi Frame Generation 3x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "NVIDIA DLSS 多帧生成 3x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Многокадровая Генерация NVIDIA DLSS 3x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "NVIDIA DLSS 멀티 프레임 생성 3x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "NVIDIA DLSS マルチフレーム生成 3x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Generación Multifotograma NVIDIA DLSS 3x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -92,33 +116,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "NVIDIA DLSS Multi Frame Generation 4x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "NVIDIA DLSS 多帧生成 4x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Многокадровая Генерация NVIDIA DLSS 4x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "NVIDIA DLSS 멀티 프레임 생성 4x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "NVIDIA DLSS マルチフレーム生成 4x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Generación Multifotograma NVIDIA DLSS 4x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -132,33 +168,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AMD FSR Frame Generation",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AMD FSR 帧生成",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Генерация Кадров AMD FSR",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AMD FSR 프레임 생성",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AMD FSR フレーム生成",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Generación de Fotogramas AMD FSR",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -172,33 +220,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Aus",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "关",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Выкл.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "끄기",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "オフ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Desactivado",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -212,33 +272,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Auf diesem System nicht verfügbar (erfordert DirectX 12).",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "此系统不可用（需要 DirectX 12）。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Недоступно в этой системе (требуется DirectX 12).",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "이 시스템에서 사용할 수 없음 (DirectX 12 필요).",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "このシステムでは利用不可 (DirectX 12 が必要)。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "No disponible en este sistema (requiere DirectX 12).",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -252,33 +324,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Intel XeSS Frame Generation",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Intel XeSS 帧生成",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Генерация Кадров Intel XeSS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Intel XeSS 프레임 생성",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Intel XeSS フレーム生成",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Generación de Fotogramas Intel XeSS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -292,33 +376,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Intel XeSS Frame Generation 3x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Intel XeSS 帧生成 3x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Генерация Кадров Intel XeSS 3x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Intel XeSS 프레임 생성 3x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Intel XeSS フレーム生成 3x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Generación de Fotogramas Intel XeSS 3x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -332,33 +428,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Intel XeSS Frame Generation 4x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Intel XeSS 帧生成 4x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Генерация Кадров Intel XeSS 4x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Intel XeSS 프레임 생성 4x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Intel XeSS フレーム生成 4x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Generación de Fotogramas Intel XeSS 4x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -372,33 +480,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "An + Boost",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "开 + Boost",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Вкл. + Boost",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "켜기 + Boost",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "オン + Boost",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Activado + Boost",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -412,33 +532,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Aus",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "关",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Выкл.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "끄기",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "オフ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Desactivado",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -452,33 +584,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "An",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "开",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Вкл.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "켜기",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "オン",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Activado",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -492,33 +636,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Auf dieser GPU nicht verfügbar.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "此 GPU 不可用。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Недоступно на этом GPU.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "이 GPU에서 사용할 수 없음.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "このGPUでは利用不可。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "No disponible en esta GPU.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -532,33 +688,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Ausgewogen",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "平衡",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Баланс",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "균형",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "バランス",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Equilibrado",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -572,33 +740,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Natives AA",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "原生 AA",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Нативное AA",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "네이티브 AA",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "ネイティブAA",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AA Nativo",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -612,33 +792,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Leistung",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "性能",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Производительность",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "성능",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "パフォーマンス",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Rendimiento",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -652,33 +844,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Qualität",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "质量",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Качество",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "품질",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "品質",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Calidad",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -692,33 +896,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Ultra-Leistung",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "超级性能",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Ультрапроизводительность",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "울트라 성능",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "ウルトラパフォーマンス",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Ultra Rendimiento",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -732,33 +948,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Erfordert eine NVIDIA RTX GPU.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "需要 NVIDIA RTX GPU。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Требуется GPU NVIDIA RTX.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "NVIDIA RTX GPU 필요.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "NVIDIA RTX GPUが必要。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Requiere una GPU NVIDIA RTX.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -772,33 +1000,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "NVIDIA DLSS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "NVIDIA DLSS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "NVIDIA DLSS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "NVIDIA DLSS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "NVIDIA DLSS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "NVIDIA DLSS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -812,33 +1052,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AMD FSR",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AMD FSR",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AMD FSR",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AMD FSR",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AMD FSR",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AMD FSR",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -852,33 +1104,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "FXAA",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "FXAA",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "FXAA",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "FXAA",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "FXAA",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "FXAA",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -892,33 +1156,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Aus",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "关",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Выкл.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "끄기",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "オフ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Desactivado",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -932,33 +1208,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "TAA",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "TAA",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "TAA",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "TAA",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "TAA",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "TAA",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -972,33 +1260,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "TSR",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "TSR",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "TSR",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "TSR",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "TSR",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "TSR",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -1012,33 +1312,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Intel XeSS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Intel XeSS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Intel XeSS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Intel XeSS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Intel XeSS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Intel XeSS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		}

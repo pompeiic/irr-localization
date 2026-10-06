@@ -1001,44 +1001,44 @@
 				"de":
 				{
 					"text": "Drücke <Red>F</>, um den Schießstand <Red>aufzurüsten</>.",
-					"status": "stale",
+					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-25T20:56:00Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "按<Red>F</><Red>升级</>射击场。",
-					"status": "stale",
+					"text": "按 <Red>F</> <Red>升级</>靶场。",
+					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-25T20:56:00Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "Нажми <Red>F</>, чтобы <Red>улучшить</> стрельбище.",
-					"status": "stale",
+					"text": "Нажми <Red>F</>, чтобы <Red>улучшить</> тир.",
+					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-25T20:56:00Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "<Red>F</> 눌러 사격장 <Red>업그레이드</>",
-					"status": "stale",
+					"text": "<Red>F</> 키를 눌러 사격장을 <Red>업그레이드</>하라.",
+					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-25T20:56:00Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "<Red>F</>で射撃場を<Red>強化</>",
-					"status": "stale",
+					"text": "<Red>F</>を押して射撃場を<Red>アップグレード</>する。",
+					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-25T20:56:00Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
 					"text": "Pulsa <Red>F</> para <Red>mejorar</> el campo de tiro.",
-					"status": "stale",
+					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-25T20:56:00Z"
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -1898,10 +1898,10 @@
 				},
 				"ru":
 				{
-					"text": "Добавляет первую <strong>деталь антенны</>. Дальше — больше!",
+					"text": "Добавляет первую <strong>часть антенны</>. Дальше больше!",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{

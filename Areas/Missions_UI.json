@@ -3600,24 +3600,24 @@
 			{
 				"de":
 				{
-					"text": "Eine ländliche Region entlang eines Seitenarms des Red River – einst unter VCUP-Kontrolle, inzwischen von UICS-Truppen übernommen. Berghänge bieten OPFOR-Personal viele Aussichtspunkte.",
+					"text": "Eine ländliche Region an einem Seitenarm des Red River- einst unter Kontrolle der VCUP, inzwischen aber von UICS-Kräften übernommen. Berghänge bieten OPFOR-Personal viele Aussichtspunkte.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "沿 Red River 支流的乡村地区——曾由 VCUP 控制，现已被 UICS 部队接管。山坡为 OPFOR 人员提供了众多制高点。",
+					"text": "Red River 一条支流沿岸的乡村地区，曾由 VCUP 控制，后被 UICS 部队占领。山坡为 OPFOR 人员提供了众多制高点。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "Сельский район вдоль ответвления Red River — некогда под контролем VCUP, ныне занят силами UICS. Склоны гор дают персоналу OPFOR множество удобных точек обзора.",
+					"text": "Сельский район вдоль притока Red River - когда-то под контролем VCUP, но с тех пор захвачен силами UICS. Горные склоны дают бойцам OPFOR множество наблюдательных позиций.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -3635,10 +3635,10 @@
 				},
 				"es-ES":
 				{
-					"text": "Una región rural a lo largo de un afluente del Red River —antes bajo control del VCUP, ahora tomada por fuerzas UICS. Las laderas ofrecen muchos puntos de observación al personal OPFOR.",
+					"text": "Una región rural junto a un afluente del Red River, antes bajo control de la VCUP pero tomada desde entonces por fuerzas de la UICS. Las laderas ofrecen muchos puntos de observación al personal de OPFOR.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -5992,33 +5992,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "{guid}\r\n\r\n{hack statust}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "{guid}\r\n\r\n{hack statust}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "{guid}\r\n\r\n{hack statust}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "{guid}\r\n\r\n{hack statust}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "{guid}\r\n\r\n{hack statust}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "{guid}\r\n\r\n{hack statust}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},

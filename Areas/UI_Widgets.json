@@ -324,10 +324,10 @@
 			{
 				"de":
 				{
-					"text": "Bist du an oder nahe dem Ort, an dem ein Bot dich vermutet (hören oder sehen), gewinnt er dich schneller in Sicht — abhängig von der Distanz zu diesem Punkt.",
+					"text": "Wenn du dich an oder nahe der Stelle befindest, an der ein Bot dich vermutet, ob er dich gehört oder gesehen hat, erfasst er dich je nach deiner Entfernung zu dieser Stelle schneller.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
@@ -338,10 +338,10 @@
 				},
 				"ru":
 				{
-					"text": "Если вы в месте или рядом с местом, где бот считает вас (по слуху или зрению), он быстрее набирает зрение — в зависимости от дистанции до этой точки.",
+					"text": "Если ты находишься там, где бот тебя предполагает, или рядом, неважно, услышал он тебя или увидел, то в зависимости от расстояния до этой точки он заметит тебя быстрее.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -1260,10 +1260,10 @@
 			{
 				"de":
 				{
-					"text": "Erhöht oder verringert, wie lange Bots warten, bevor sie beim Zielen die ersten Schüsse abgeben. Linearer Multiplikator — 2,0 verdoppelt die Wartezeit.",
+					"text": "Erhöhe oder verringere, wie lange Bots beim Zielen warten, bevor sie ihre ersten Schüsse abgeben können. Linearer Multiplikator: Ein Wert von 2.0 verdoppelt die Wartezeit.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
@@ -1676,33 +1676,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Abbrechen",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "取消",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Отмена",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "취소",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "キャンセル",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Cancelar",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -1768,33 +1780,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AN",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "开",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "ВКЛ.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "켜기",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "オン",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "ACTIVADO",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -2276,33 +2300,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Erstellt Von: {author}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "创建者：{author}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Автор: {author}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "제작자: {author}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "作成者: {author}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Creado Por: {author}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -2368,33 +2404,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "WARNUNG: Du bist dabei, den Anbieter der Frame Generation zu ändern. Dafür ist ein Neustart des Spiels erforderlich. Möchtest du fortfahren?",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "警告：你即将更改帧生成提供方。此操作需要重启游戏。是否继续？",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "ВНИМАНИЕ: ты собираешься сменить поставщика генерации кадров. Для этого потребуется перезапуск игры. Продолжить?",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "경고: 프레임 생성 제공자를 변경하려고 합니다. 게임을 다시 시작해야 합니다. 계속하시겠습니까?",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "警告: フレーム生成のプロバイダーを変更しようとしている。ゲームの再起動が必要だ。続行するか？",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "ADVERTENCIA: Vas a cambiar el proveedor de generación de fotogramas. Esto requiere reiniciar el juego. ¿Quieres continuar?",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -2460,33 +2508,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Importieren",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "导入",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Импорт",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "가져오기",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "インポート",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Importar",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -3072,33 +3132,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Preset Exportieren?",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "导出预设？",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Экспортировать Пресет?",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "프리셋을 내보내시겠습니까?",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "プリセットをエクスポートする？",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "¿Exportar Preajuste?",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -3424,10 +3496,10 @@
 			{
 				"de":
 				{
-					"text": "Erhöht oder verringert, wie lange Bots zwischen Einzelschüssen oder Salven warten. Linearer Multiplikator — 2,0 verdoppelt die Wartezeit.",
+					"text": "Erhöhe oder verringere, wie lange Bots zwischen Einzelschüssen oder Feuerstößen warten. Linearer Multiplikator: Ein Wert von 2.0 verdoppelt die Wartezeit.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
@@ -3840,10 +3912,10 @@
 			{
 				"de":
 				{
-					"text": "Ermöglicht manuelle Kontrolle, wie flüssig Bots auf Distanz wirken — auf Kosten der Performance.",
+					"text": "Ermöglicht die manuelle Steuerung, wie flüssig Bots auf Distanz wirken, auf Kosten der Leistung.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
@@ -4724,10 +4796,10 @@
 			{
 				"de":
 				{
-					"text": "Niedrige Werte machen Bots zu passiv — sie sitzen nur und warten. Hohe Werte können in manchen Situationen zu Schwärmen führen.",
+					"text": "Niedrige Werte können zu übermäßig passiven Bots führen, die nur herumsitzen und warten. Hohe Werte können in manchen Situationen zu Schwarmverhalten führen.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
@@ -4738,10 +4810,10 @@
 				},
 				"ru":
 				{
-					"text": "Низкие значения делают ботов слишком пассивными — они просто сидят и ждут. Высокие могут вызвать роение в некоторых ситуациях.",
+					"text": "Низкие значения могут сделать ботов слишком пассивными: они просто сидят и ждут. Высокие значения в некоторых ситуациях могут приводить к тому, что боты наваливаются толпой.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -4932,10 +5004,10 @@
 			{
 				"de":
 				{
-					"text": "Prototyp – I",
+					"text": "Prototyp - I",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
@@ -4946,10 +5018,10 @@
 				},
 				"ru":
 				{
-					"text": "Прототип — I",
+					"text": "Прототип - I",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -6180,33 +6252,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Kopieren In Die Zwischenablage Fehlgeschlagen. Prüfe Den Preset-Namen!",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "复制到剪贴板失败。请检查预设名称！",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Не Удалось Скопировать В Буфер Обмена. Проверь Название Пресета!",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "클립보드에 복사하지 못했습니다. 프리셋 이름을 확인하십시오!",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "クリップボードへのコピーに失敗した。プリセット名を確認しろ！",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "No Se Pudo Copiar Al Portapapeles. ¡Comprueba El Nombre Del Preajuste!",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -6220,33 +6304,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Preset Löschen",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "删除预设",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Удалить Пресет",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "프리셋 삭제",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "プリセットを削除",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Eliminar Preajuste",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -6520,10 +6616,10 @@
 			{
 				"de":
 				{
-					"text": "Bist du an oder nahe dem Ort, an dem ein Bot dich vermutet (hören oder sehen), gewinnt er dich schneller in Sicht — abhängig von der Distanz zu diesem Punkt.",
+					"text": "Wenn du dich an oder nahe der Stelle befindest, an der ein Bot dich vermutet, ob er dich gehört oder gesehen hat, erfasst er dich je nach deiner Entfernung zu dieser Stelle schneller.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
@@ -6534,10 +6630,10 @@
 				},
 				"ru":
 				{
-					"text": "Если вы в месте или рядом с местом, где бот считает вас (по слуху или зрению), он быстрее набирает зрение — в зависимости от дистанции до этой точки.",
+					"text": "Если ты находишься там, где бот тебя предполагает, или рядом, неважно, услышал он тебя или увидел, то в зависимости от расстояния до этой точки он заметит тебя быстрее.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -6988,33 +7084,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Gib einen Namen für das Preset ein.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "输入预设名称。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Введи название пресета.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "프리셋 이름을 입력하십시오.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "プリセット名を入力しろ。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Introduce un nombre para el preajuste.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -7080,33 +7188,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Exportieren",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "导出",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Экспорт",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "내보내기",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "エクスポート",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Exportar",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -7224,33 +7344,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Fortfahren",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "继续",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Продолжить",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "계속",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "続行",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Continuar",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -7434,10 +7566,10 @@
 				},
 				"ru":
 				{
-					"text": "С какого расстояния к голосам игроков применяется эффект радио. Ноль означает, что он включён всегда. Измеряется в метрах. Максимальное расстояние — 100 метров.",
+					"text": "С какого расстояния к голосам игроков применяется эффект рации. Ноль означает, что он включён всегда. Измеряется в метрах. Максимальное расстояние - 100 метров.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -7538,10 +7670,10 @@
 				},
 				"ru":
 				{
-					"text": "Твой уровень — {x}.",
+					"text": "Твой уровень: {x}.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -7732,33 +7864,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "https://pompeiic.github.io/irr-localization/editor.html",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "https://pompeiic.github.io/irr-localization/editor.html",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "https://pompeiic.github.io/irr-localization/editor.html",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "https://pompeiic.github.io/irr-localization/editor.html",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "https://pompeiic.github.io/irr-localization/editor.html",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "https://pompeiic.github.io/irr-localization/editor.html",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -7980,10 +8124,10 @@
 			{
 				"de":
 				{
-					"text": "Ermöglicht manuelle Kontrolle, wie flüssig Bots auf Distanz wirken — auf Kosten der Performance.",
+					"text": "Ermöglicht die manuelle Steuerung, wie flüssig Bots auf Distanz wirken, auf Kosten der Leistung.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
@@ -8656,33 +8800,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "XeSS FG",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "XeSS FG",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "XeSS FG",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "XeSS FG",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "XeSS FG",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "XeSS FG",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -8956,33 +9112,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Preset Laden?",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "加载预设？",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Загрузить Пресет?",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "프리셋을 불러오시겠습니까?",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "プリセットを読み込む？",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "¿Cargar Preajuste?",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -8996,33 +9164,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Speichern",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "保存",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Сохранить",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "저장",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "セーブ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Guardar",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -9452,10 +9632,10 @@
 			{
 				"de":
 				{
-					"text": "H – UI ausblenden",
+					"text": "H - UI Ausblenden",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
@@ -9466,10 +9646,10 @@
 				},
 				"ru":
 				{
-					"text": "H — скрыть интерфейс",
+					"text": "H - Скрыть Интерфейс",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -9504,33 +9684,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Anzeige",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "显示",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Экран",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "디스플레이",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "ディスプレイ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Pantalla",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -9960,33 +10152,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Legt fest, ob das GCPS piepen soll, wenn du in der Nähe von Ressourcen bist.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "切换当你靠近资源时 GCPS 是否发出蜂鸣的设置。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Настройка, определяющая, будет ли GCPS издавать сигнал, когда ты рядом с ресурсами.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "자원 근처에 있을 때 GCPS가 경고음을 낼지 전환하는 설정입니다.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "資源の近くにいるときに GCPS がビープ音を鳴らすかを切り替える設定。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Ajuste para activar o desactivar el pitido del GCPS cuando estás cerca de recursos.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -10260,33 +10464,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Übersetzungen werden zunächst mit KI erstellt und können Fehler enthalten. \r\n\r\nHilf mit, sie zu verbessern, indem du in unserem Community-Lokalisierungseditor Übersetzungen vorschlägst und über bestehende abstimmst.\r\n\r\nGemeinsam können wir Übersetzungen erstellen, die von der Community geprüft sind.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "翻译最初由 AI 生成，可能存在错误。 \r\n\r\n欢迎在我们的社区本地化编辑器中提出翻译建议并为现有翻译投票，帮助改进它们。\r\n\r\n让我们一起打造经社区审核的翻译。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Переводы изначально созданы с помощью ИИ и могут содержать ошибки. \r\n\r\nПомоги их улучшить: предлагай переводы и голосуй за существующие в нашем общественном редакторе локализации.\r\n\r\nВместе мы сможем создать переводы, проверенные сообществом.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "번역은 처음에 AI로 생성되며 오류가 있을 수 있습니다. \r\n\r\n커뮤니티 현지화 편집기에서 번역을 제안하고 기존 번역에 투표하여 개선에 힘을 보태 주십시오.\r\n\r\n함께라면 커뮤니티가 검토한 번역을 만들 수 있습니다.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "翻訳は最初に AI で生成されており、誤りが含まれている可能性がある。 \r\n\r\nコミュニティローカライズエディターで翻訳を提案したり、既存の翻訳に投票したりして、改善に協力してほしい。\r\n\r\nみんなで、コミュニティがレビューした翻訳を作り上げよう。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Las traducciones se generan inicialmente con IA y pueden contener errores. \r\n\r\nAyuda a mejorarlas proponiendo traducciones y votando las existentes en nuestro editor de localización de la comunidad.\r\n\r\nJuntos podemos crear traducciones revisadas por la comunidad.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -10820,33 +11036,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Abbrechen",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "取消",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Отмена",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "취소",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "キャンセル",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Cancelar",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -10912,33 +11140,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Abbrechen",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "取消",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Отмена",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "취소",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "キャンセル",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Cancelar",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -11680,33 +11920,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "PRESET-NAME",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "预设名称",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "НАЗВАНИЕ ПРЕСЕТА",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "프리셋 이름",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "プリセット名",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "NOMBRE DEL PREAJUSTE",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -12136,33 +12388,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Preset Speichern?",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "保存预设？",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Сохранить Пресет?",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "프리셋을 저장하시겠습니까?",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "プリセットを保存する？",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "¿Guardar Preajuste?",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -12540,33 +12804,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Speichern",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "保存",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Сохранить",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "저장",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "セーブ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Guardar",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -12684,33 +12960,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Abbrechen",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "取消",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Отмена",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "취소",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "キャンセル",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Cancelar",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -12724,10 +13012,10 @@
 			{
 				"de":
 				{
-					"text": "Prototyp – II",
+					"text": "Prototyp - II",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
@@ -12738,10 +13026,10 @@
 				},
 				"ru":
 				{
-					"text": "Прототип — II",
+					"text": "Прототип - II",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -12880,33 +13168,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Preset Laden?",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "加载预设？",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Загрузить Пресет?",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "프리셋을 불러오시겠습니까?",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "プリセットを読み込む？",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "¿Cargar Preajuste?",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -14480,33 +14780,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Wähle ein beliebiges Preset. Beim Exportieren wird ein Code in deine Zwischenablage kopiert, den du mit deinen Freunden teilen kannst.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "选择任意预设。导出时会将代码复制到剪贴板，你可以与好友分享。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Выбери любой пресет. При экспорте в буфер обмена копируется код, которым можно поделиться с друзьями.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "아무 프리셋이나 선택하십시오. 내보내면 친구와 공유할 수 있는 코드가 클립보드에 복사됩니다.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "任意のプリセットを選択しろ。エクスポートすると、仲間と共有できるコードがクリップボードにコピーされる。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Selecciona cualquier preajuste. Al exportar, se copia en tu portapapeles un código que puedes compartir con tus amigos.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -15508,33 +15820,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "laden",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "加载",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "загрузить",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "불러오기",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "ロード",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "cargar",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -15756,33 +16080,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "speichern",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "保存",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "сохранить",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "저장",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "保存",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "guardar",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -16056,33 +16392,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Fortfahren",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "继续",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Продолжить",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "계속",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "続行",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Continuar",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -16370,10 +16718,10 @@
 				},
 				"ru":
 				{
-					"text": "Если боты дальше этой дистанции от игрока, их тикрейт и движение сильно снижаются для ЦП, а физика движения — максимально простая.",
+					"text": "Когда боты находятся дальше этого расстояния от игрока-человека, их частота обновления и движение сильно снижаются, чтобы уменьшить нагрузку на процессор, а физика их движения становится максимально простой.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -16668,33 +17016,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Preset Importieren?",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "导入预设？",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Импортировать Пресет?",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "프리셋을 가져오시겠습니까?",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "プリセットをインポートする？",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "¿Importar Preajuste?",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -16968,33 +17328,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Test",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "测试",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Тест",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "테스트",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "テスト",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Prueba",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -17008,33 +17380,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "LADEN",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "加载",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "ЗАГРУЗИТЬ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "불러오기",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "ロード",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "CARGAR",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -17100,33 +17484,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Erfordert Neustart Des Spiels",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "需要重启游戏",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Требуется Перезапуск Игры",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "게임 재시작 필요",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "ゲームの再起動が必要",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Requiere Reiniciar El Juego",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -17348,33 +17744,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "PRESET-NAME",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "预设名称",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "НАЗВАНИЕ ПРЕСЕТА",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "프리셋 이름",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "プリセット名",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "NOMBRE DEL PREAJUSTE",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -18494,10 +18902,10 @@
 				},
 				"ru":
 				{
-					"text": "Если бот стреляет дальше этой дистанции (в метрах), переключается на полуавтомат. Иначе — на полный автомат, если доступен.",
+					"text": "Если бот стреляет по цели дальше этого расстояния (в метрах), он переключается на одиночный огонь. Иначе он переключается на автоматический, если тот доступен.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -18532,33 +18940,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "GCPS-Piepen Für Ressourcen Verwenden",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "使用 GCPS 蜂鸣提示资源",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Использовать Сигнал GCPS Для Ресурсов",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "자원 탐지 시 GCPS 경고음 사용",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "資源に GCPS のビープ音を使用",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Usar Pitido Del GCPS Para Recursos",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -18884,33 +19304,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Teile diesen Code mit anderen Spielern.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "与其他玩家分享此代码。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Поделись этим кодом с другими игроками.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "이 코드를 다른 플레이어와 공유하십시오.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "このコードを他のプレイヤーと共有しよう。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Comparte este código con otros jugadores.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -19704,24 +20136,24 @@
 			{
 				"de":
 				{
-					"text": "Aktiviert können Bots deutlich heimlicher sein.\r\nDeaktiviert gibt dir Hinweise, gegen wie viele Feinde du kämpfst — wenn sie reden, weißt du, dass es eine Gruppe ist.",
+					"text": "Aktivieren kann Bots deutlich heimlicher machen.\r\nDeaktivieren kann dir Hinweise geben, gegen wie viele Gegner du kämpfst. Wenn sie also reden, weißt du, dass es eine Gruppe ist.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "启用以使机器人更隐蔽。\r\n禁用则可从对话判断敌人数——若在说话，说明是一群。",
+					"text": "启用后，机器人可能会更加隐蔽。\r\n禁用后，你可以借此判断正在对付多少敌人。所以如果他们在交谈，你就知道那里有一群人。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "Включение делает ботов гораздо скрытнее.\r\nОтключение даёт понять, со сколькими врагами вы сражаетесь: если говорят — значит группа.",
+					"text": "Если включить, боты могут стать гораздо скрытнее.\r\nЕсли выключить, можно понять, со сколькими врагами ты сражаешься. Если они переговариваются, значит, их там группа.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -19860,33 +20292,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "XeSS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "XeSS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "XeSS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "XeSS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "XeSS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "XeSS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -20420,33 +20864,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Preset Speichern?",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "保存预设？",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Сохранить Пресет?",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "프리셋을 저장하시겠습니까?",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "プリセットを保存する？",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "¿Guardar Preajuste?",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -20512,33 +20968,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Importieren",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "导入",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Импорт",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "가져오기",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "インポート",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Importar",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -20656,33 +21124,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Laden",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "加载",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Загрузить",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "불러오기",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "ロード",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Cargar",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -21060,33 +21540,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AUS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "关",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "ВЫКЛ.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "끄기",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "オフ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "DESACTIVADO",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -21724,10 +22216,10 @@
 			{
 				"de":
 				{
-					"text": "Erhöht oder verringert, wie lange Bots zwischen Einzelschüssen oder Salven warten. Linearer Multiplikator — 2,0 verdoppelt die Wartezeit.",
+					"text": "Erhöhe oder verringere, wie lange Bots zwischen Einzelschüssen oder Feuerstößen warten. Linearer Multiplikator: Ein Wert von 2.0 verdoppelt die Wartezeit.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
@@ -22972,33 +23464,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Exportieren",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "导出",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Экспорт",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "내보내기",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "エクスポート",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Exportar",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -23272,33 +23776,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "PRESET-NAME",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "预设名称",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "НАЗВАНИЕ ПРЕСЕТА",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "프리셋 이름",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "プリセット名",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "NOMBRE DEL PREAJUSTE",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -23988,33 +24504,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Wähle ein Preset zum Laden.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "选择要加载的预设。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Выбери пресет для загрузки.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "불러올 프리셋을 선택하십시오.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "読み込むプリセットを選択しろ。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Selecciona un preajuste para cargarlo.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -24444,33 +24972,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Qualität",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "质量",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Качество",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "품질",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "品質",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Calidad",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -24758,10 +25298,10 @@
 				},
 				"ru":
 				{
-					"text": "Если бот стреляет дальше этой дистанции (в метрах), переключается на полуавтомат. Иначе — на полный автомат, если доступен.",
+					"text": "Если бот стреляет по цели дальше этого расстояния (в метрах), он переключается на одиночный огонь. Иначе он переключается на автоматический, если тот доступен.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -25108,33 +25648,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Preset-Code In Die Zwischenablage Kopiert.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "预设代码已复制到剪贴板。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Код Пресета Скопирован В Буфер Обмена.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "프리셋 코드가 클립보드에 복사되었습니다.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "プリセットコードをクリップボードにコピーした。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Código Del Preajuste Copiado Al Portapapeles.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -25200,33 +25752,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "STUFE III",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "等级 III",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "УРОВЕНЬ III",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "티어 III",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "ティア III",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "NIVEL III",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -25240,10 +25804,10 @@
 			{
 				"de":
 				{
-					"text": "T – Kameramodus umschalten",
+					"text": "T - Kameramodus Umschalten",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
@@ -25254,10 +25818,10 @@
 				},
 				"ru":
 				{
-					"text": "T — переключить режим камеры",
+					"text": "T - Переключить Режим Камеры",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -25812,10 +26376,10 @@
 			{
 				"de":
 				{
-					"text": "Erhöht oder verringert, wie lange Bots warten, bevor sie beim Zielen die ersten Schüsse abgeben. Linearer Multiplikator — 2,0 verdoppelt die Wartezeit.",
+					"text": "Erhöhe oder verringere, wie lange Bots beim Zielen warten, bevor sie ihre ersten Schüsse abgeben können. Linearer Multiplikator: Ein Wert von 2.0 verdoppelt die Wartezeit.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
@@ -26554,10 +27118,10 @@
 				},
 				"ru":
 				{
-					"text": "Если боты дальше этой дистанции от игрока, их тикрейт и движение сильно снижаются для ЦП, а физика движения — максимально простая.",
+					"text": "Когда боты находятся дальше этого расстояния от игрока-человека, их частота обновления и движение сильно снижаются, чтобы уменьшить нагрузку на процессор, а физика их движения становится максимально простой.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -28360,33 +28924,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Füge Hier Einen Code Ein, Um Das Preset Zu Importieren.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "在此粘贴代码以导入预设。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Вставь Сюда Код, Чтобы Импортировать Пресет.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "프리셋을 가져오려면 여기에 코드를 붙여 넣으십시오.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "プリセットをインポートするにはここにコードを貼り付けろ。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Pega Aquí Un Código Para Importar El Preajuste.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -28608,33 +29184,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "UICS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "UICS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "UICS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "UICS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "UICS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "UICS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -29064,33 +29652,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Gib einen Namen für das Preset ein.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "输入预设名称。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Введи название пресета.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "프리셋 이름을 입력하십시오.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "プリセット名を入力しろ。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Introduce un nombre para el preajuste.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
