@@ -163,7 +163,7 @@
 			"key": "010D5647473DC0D2DF7619BC8DBE4466",
 			"source": "LOW",
 			"sourceHash": "e8dbdb44",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.TextureQuality.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.TextureQuality.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -215,7 +215,7 @@
 			"key": "0159B7A449ECF1141535ED91C51A6B81",
 			"source": "OFF",
 			"sourceHash": "68af2265",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.WB_SingleSettingBar_2.SwitcherButtons(3).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.WB_SingleSettingBar_2.SwitcherButtons(3).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -475,7 +475,7 @@
 			"key": "02FDC56345147B13E30ACD9830667A1B",
 			"source": "Nvidia Reflex",
 			"sourceHash": "3f694d8b",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.NvidiaReflex.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.NvidiaReflex.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -631,7 +631,7 @@
 			"key": "03C952CB42A81DF50CF592946E430A12",
 			"source": "Secondary",
 			"sourceHash": "e14f9854",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.WB_SingleSettingBar_3.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.WB_SingleSettingBar_3.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -787,7 +787,7 @@
 			"key": "04318CCC4D1EE3E4D52885919657070C",
 			"source": "MEDIUM",
 			"sourceHash": "827ccd04",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.VisualEffects.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.VisualEffects.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -995,7 +995,7 @@
 			"key": "0571EE0A4730BAEE12DFA692D7768E23",
 			"source": "Chat",
 			"sourceHash": "3d4f8445",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.WB_Chat.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.WB_Chat.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -1099,7 +1099,7 @@
 			"key": "05A33F3F45427D9015924CA35AF62333",
 			"source": "Strength Of Color Vision Deficiency",
 			"sourceHash": "ee8d6256",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.ColorVisionDeficiencyStrength.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.ColorVisionDeficiencyStrength.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -1567,7 +1567,7 @@
 			"key": "099F3FD04FE20330DAB7CAB676902F14",
 			"source": "Setting to set view distance. Lower setting means objects are culled earlier.",
 			"sourceHash": "3f651ed7",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.ViewDistance.SettingDescriptor.DescriptionRichText",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.ViewDistance.SettingDescriptor.DescriptionRichText",
 			"t":
 			{
 				"de":
@@ -1619,7 +1619,7 @@
 			"key": "0A8E908A44C03C9D012197812BBCF3C7",
 			"source": "MEDIUM",
 			"sourceHash": "827ccd04",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.ViewDistance.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.ViewDistance.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -1668,53 +1668,41 @@
 		},
 		{
 			"ns": "",
-			"key": "0AFC514C42CB05DB024FC7B0F3BA4D52",
-			"source": "1",
-			"sourceHash": "69d340d8",
-			"origin": "/Game/Blueprints/UICore/Widgets/Laptop/W_IRR_ListControls.W_IRR_ListControls_C:WidgetTree.SightIndexText.Text",
+			"key": "0AAE12034677524B32BB8798D66CEC0E",
+			"source": "Cancel",
+			"sourceHash": "38947156",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_AISettings_NEW.WB_AISettings_NEW_C:ExecuteUbergraph_WB_AISettings_NEW [Script Bytecode]",
 			"t":
 			{
 				"de":
 				{
-					"text": "1",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"zh-Hans":
 				{
-					"text": "1",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"ru":
 				{
-					"text": "1",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"ko":
 				{
-					"text": "1",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"ja":
 				{
-					"text": "1",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"es-ES":
 				{
-					"text": "1",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -1767,6 +1755,46 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "0CD42CA54A26C3AF161AFA9E536092DF",
+			"source": "ON",
+			"sourceHash": "ee542026",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GameplaySettings.WB_GameplaySettings_C:WidgetTree.ToggleGCPS_Beeping.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -1827,7 +1855,7 @@
 			"key": "0CDC491D406263E5D727C8BE79BBECF8",
 			"source": "OFF",
 			"sourceHash": "68af2265",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.Vsync.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.Vsync.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -1983,7 +2011,7 @@
 			"key": "0E6EDC1C4ABB6054108DD3BB2B973B3A",
 			"source": "EPIC",
 			"sourceHash": "3b9414a0",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.PostProcess.SwitcherButtons(3).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.PostProcess.SwitcherButtons(3).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -2240,6 +2268,46 @@
 		},
 		{
 			"ns": "",
+			"key": "10B8BB4D41DB75398924AEACABC47CE9",
+			"source": "Created By: {author}",
+			"sourceHash": "02c84fde",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/AI/WB_AIPresetEntry.WB_AIPresetEntry_C:ExecuteUbergraph_WB_AIPresetEntry [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "1272E76B4E1A3C027F7E6795FCD2793F",
 			"source": "NEVER",
 			"sourceHash": "a4cdaf5c",
@@ -2292,105 +2360,41 @@
 		},
 		{
 			"ns": "",
-			"key": "128B4F674D70DEE91663BBA3C3A2A62E",
-			"source": "+5%",
-			"sourceHash": "48b7bb8c",
-			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_RaidSummaryFactionItem.W_IRR_RaidSummaryFactionItem_C:WidgetTree.IRRTextBlock_0.Text",
+			"key": "141D7A3E4922E831E45E60BED9E03044",
+			"source": "WARNING: You are about to change the frame generation provider. This requires a game restart. Do you want to continue?",
+			"sourceHash": "fb42cef0",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:ExecuteUbergraph_WB_GraphicSettings [Script Bytecode]",
 			"t":
 			{
 				"de":
 				{
-					"text": "+5%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"zh-Hans":
 				{
-					"text": "+5%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"ru":
 				{
-					"text": "+5%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"ko":
 				{
-					"text": "+5%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"ja":
 				{
-					"text": "+5%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"es-ES":
 				{
-					"text": "+5%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "12E35B484096163AE4A2FA82F34883D9",
-			"source": "test",
-			"sourceHash": "919f0e6b",
-			"origin": "/Game/Blueprints/UICore/Widgets/Base/W_IRR_HorizontalTabList.Default__W_IRR_HorizontalTabList_C.PreregisteredTabInfoArray(0).PreregisteredTabInfoArray.TabText",
-			"t":
-			{
-				"de":
-				{
-					"text": "Test",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "测试",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "тест",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "테스트",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "テスト",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "prueba",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -2448,53 +2452,41 @@
 		},
 		{
 			"ns": "",
-			"key": "14846C0349040C8FC20E8DA0A6CD7D2E",
-			"source": "0",
-			"sourceHash": "d16f27bd",
-			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_RaidSummaryItem.W_IRR_RaidSummaryItem_C:ExecuteUbergraph_W_IRR_RaidSummaryItem [Script Bytecode]",
+			"key": "15213B7D4334BB3243A7DB9F2EC63327",
+			"source": "Import",
+			"sourceHash": "c0e87efa",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_Settings.WB_Settings_C:WidgetTree.Import.Text",
 			"t":
 			{
 				"de":
 				{
-					"text": "0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"zh-Hans":
 				{
-					"text": "0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"ru":
 				{
-					"text": "0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"ko":
 				{
-					"text": "0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"ja":
 				{
-					"text": "0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"es-ES":
 				{
-					"text": "0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -2711,7 +2703,7 @@
 			"key": "185EF481422864D49D6697ACF5C7E89B",
 			"source": "HIGH",
 			"sourceHash": "61e414a7",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.UpscalingQuality.SwitcherButtons(2).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.UpscalingQuality.SwitcherButtons(2).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -2867,7 +2859,7 @@
 			"key": "18D574A54935A06D01D67699F89B261B",
 			"source": "AFFECTED",
 			"sourceHash": "30255ad9",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.ADSFOVSettings.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.ADSFOVSettings.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -3067,6 +3059,46 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "1A4642DD468009290A0754B1AE92A0A2",
+			"source": "Export Preset?",
+			"sourceHash": "f367029b",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_AISettings_NEW.WB_AISettings_NEW_C:ExecuteUbergraph_WB_AISettings_NEW [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -3283,7 +3315,7 @@
 			"key": "1CBF76524AED610F8B6C71827D2B9C5B",
 			"source": "Anti-Aliasing Method",
 			"sourceHash": "fffa1131",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.antialiasing_Method.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.antialiasing_Method.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -3491,7 +3523,7 @@
 			"key": "1E1A28E54D1C36F750C7788F21DA2778",
 			"source": "60",
 			"sourceHash": "d6ab7d32",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.Fire.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.Fire.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -3532,58 +3564,6 @@
 				"es-ES":
 				{
 					"text": "60",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "1EB05F7B44BF2F8AB1A95493C77A43FF",
-			"source": "1.0",
-			"sourceHash": "e88e34c1",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_SingleSettingBar.WB_SingleSettingBar_C:WidgetTree.ValueTxt.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "1.0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "1.0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "1.0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "1.0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "1.0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "1.0",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -3647,7 +3627,7 @@
 			"key": "1F1D3D124CEB088DB39DB68B47F80A94",
 			"source": "Upscaling Quality",
 			"sourceHash": "a1890ef1",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.UpscalingQuality.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.UpscalingQuality.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -3699,7 +3679,7 @@
 			"key": "1F6D75A143ED8CE9C85CDDAC195CC9D0",
 			"source": "120",
 			"sourceHash": "c39a10a5",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.Fire.SwitcherButtons(2).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.Fire.SwitcherButtons(2).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -3803,7 +3783,7 @@
 			"key": "211530D944784BCFBC026FBD466A700B",
 			"source": "Setting to adjust foliage quality and densitiy.",
 			"sourceHash": "2443a303",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.Foliage.SettingDescriptor.DescriptionRichText",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.Foliage.SettingDescriptor.DescriptionRichText",
 			"t":
 			{
 				"de":
@@ -3907,7 +3887,7 @@
 			"key": "2182D3174E4E01909737CC9AD2BA843D",
 			"source": "OFF",
 			"sourceHash": "68af2265",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.RayReconstruction.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.RayReconstruction.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -4115,7 +4095,7 @@
 			"key": "231DAB9E43B06259C8E4CC8BE5D9016B",
 			"source": "NEAR",
 			"sourceHash": "ceb48ebe",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.ViewDistance.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.ViewDistance.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -4271,7 +4251,7 @@
 			"key": "2397325441204A8F20770AAA0B146AF6",
 			"source": "Slider to adjust your FOV. ",
 			"sourceHash": "4e8beefd",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.FOV_Slider.SettingDescriptor.DescriptionRichText",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.FOV_Slider.SettingDescriptor.DescriptionRichText",
 			"t":
 			{
 				"de":
@@ -4323,7 +4303,7 @@
 			"key": "23CD63B945FEEE2039CE0D8F827D4A28",
 			"source": "Aim",
 			"sourceHash": "d6fba9be",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.Aim.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.Aim.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -4531,7 +4511,7 @@
 			"key": "269AE9134751DE394DF596A9D7240FA8",
 			"source": "Resolution Scale",
 			"sourceHash": "7efe142b",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.ResolutionScale.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.ResolutionScale.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -4583,7 +4563,7 @@
 			"key": "26E7FA4D49AE581427A6A4A771B08667",
 			"source": "Enabled",
 			"sourceHash": "a5c2df5c",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.NvidiaReflex.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.NvidiaReflex.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -4687,7 +4667,7 @@
 			"key": "276C5E55460EB728924A679751FBF002",
 			"source": "FPS Limit",
 			"sourceHash": "ed758542",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.FPSLimit.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.FPSLimit.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -4840,62 +4820,10 @@
 		},
 		{
 			"ns": "",
-			"key": "27C691484146CC9A7C5E58A7B0F5D189",
-			"source": "00:00:00",
-			"sourceHash": "19502e64",
-			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_RaidSummary.W_IRR_RaidSummary_C:WidgetTree.RaidTime.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "00:00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "00:00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "00:00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "00:00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "00:00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "00:00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "27F2841E4924F5E45F0F99B9FBB99513",
 			"source": "Run",
 			"sourceHash": "94dc1d38",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.WB_SingleSettingBar_12.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.WB_SingleSettingBar_12.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -4936,58 +4864,6 @@
 				"es-ES":
 				{
 					"text": "Correr",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "28168B19406C57723FF8E8A31C7034FD",
-			"source": "$ 44,028",
-			"sourceHash": "6ea22465",
-			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_RaidSummary.W_IRR_RaidSummary_C:WidgetTree.LootValue.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "$ 44,028",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "$ 44,028",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "$ 44,028",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "$ 44,028",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "$ 44,028",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "$ 44,028",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -5259,7 +5135,7 @@
 			"key": "2A398E0F4E1D58507EBFBD8D80EC74D7",
 			"source": "Forward",
 			"sourceHash": "1df981e7",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.W.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.W.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -5311,7 +5187,7 @@
 			"key": "2AB89BB048BFA4D7F53D0883CB3753DE",
 			"source": "Interact",
 			"sourceHash": "b6933e90",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.WB_SingleSettingBar.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.WB_SingleSettingBar.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -5467,7 +5343,7 @@
 			"key": "2C9735704FC985BE494E18BB82700C15",
 			"source": "HIGH",
 			"sourceHash": "61e414a7",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.Foliage.SwitcherButtons(2).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.Foliage.SwitcherButtons(2).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -5675,7 +5551,7 @@
 			"key": "2E9844A04A200B6B3F43BDBD2577EF50",
 			"source": "LOW",
 			"sourceHash": "e8dbdb44",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.UpscalingQuality.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.UpscalingQuality.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -5768,58 +5644,6 @@
 				"es-ES":
 				{
 					"text": "¿Salir al escritorio?",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "2FCF585A483D8CDBCBA24E94CADDB0ED",
-			"source": "000,0",
-			"sourceHash": "4e2c9cfc",
-			"origin": "/Game/Blueprints/UICore/Widgets/SocialTab/W_IRR_CurrencyText.W_IRR_CurrencyText_C:WidgetTree.LeadingZeros.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "000,0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "000,0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "000,0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "000,0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "000,0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "000,0",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -5935,7 +5759,7 @@
 			"key": "3183F43E4F0F850F1348E8A7A46B87A4",
 			"source": "Visual Effects Quality",
 			"sourceHash": "4d6bd32b",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.VisualEffects.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.VisualEffects.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -5987,7 +5811,7 @@
 			"key": "338DA7644C3085AC4A820AB0E41EBABB",
 			"source": "Right",
 			"sourceHash": "4f866c29",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.D.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.D.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -6039,7 +5863,7 @@
 			"key": "3411926E41F478E576EC6F98D3A71B46",
 			"source": "Attachment Wheel",
 			"sourceHash": "c5afb15c",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.WB_SingleSettingBar_7.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.WB_SingleSettingBar_7.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -6244,114 +6068,10 @@
 		},
 		{
 			"ns": "",
-			"key": "35B0E4284F853407364410B49AFB62CD",
-			"source": "+",
-			"sourceHash": "5677f723",
-			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_RaidSummaryFactionItem.W_IRR_RaidSummaryFactionItem_C:ExecuteUbergraph_W_IRR_RaidSummaryFactionItem [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": "+",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "+",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "+",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "+",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "+",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "+",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "36CB390F4A53A308BF13CBA99327E639",
-			"source": "00:00:00",
-			"sourceHash": "19502e64",
-			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_RaidTimer.W_IRR_RaidTimer_C:WidgetTree.RaidTime.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "00:00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "00:00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "00:00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "00:00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "00:00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "00:00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "371E73E04344A76209EDDBBF1283D7D9",
 			"source": "Setting to turn on/off Lumen. Recommended to turn on if hardware is capable of doing so. \r\nEnables Realtime Global Illumination.",
 			"sourceHash": "b3508153",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.Illumination.SettingDescriptor.DescriptionRichText",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.Illumination.SettingDescriptor.DescriptionRichText",
 			"t":
 			{
 				"de":
@@ -6452,53 +6172,81 @@
 		},
 		{
 			"ns": "",
-			"key": "37ED57394CB0289EE6BC40951E97364A",
-			"source": "test",
-			"sourceHash": "919f0e6b",
-			"origin": "/Game/Blueprints/UICore/Widgets/Base/W_IRR_BaseButton.W_IRR_BaseButton_C:WidgetTree.ButtonTextBlock.Text",
+			"key": "3798A4E742B697043DE25987B1311C3A",
+			"source": "Failed To Copy To Clipboard. Check The Preset Name!",
+			"sourceHash": "a0df08ac",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_AISettings_NEW.WB_AISettings_NEW_C:ExecuteUbergraph_WB_AISettings_NEW [Script Bytecode]",
 			"t":
 			{
 				"de":
 				{
-					"text": "Test",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-25T20:54:02Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"zh-Hans":
 				{
-					"text": "测试",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-25T20:54:02Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"ru":
 				{
-					"text": "тест",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-25T20:54:02Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"ko":
 				{
-					"text": "테스트",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-25T20:54:02Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"ja":
 				{
-					"text": "テスト",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-25T20:54:02Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"es-ES":
 				{
-					"text": "prueba",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-25T20:54:02Z"
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "37A8BC6D4B77E66F59C5C796B8A1DC71",
+			"source": "Delete Preset",
+			"sourceHash": "9af71bd4",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/AI/WB_AIPresetEntry.WB_AIPresetEntry_C:WidgetTree.DeleteButton.ButtonTooltip",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -6559,7 +6307,7 @@
 			"key": "389002CB4470A0699BE0D39F3E10CC2E",
 			"source": "DEUTERANOPE",
 			"sourceHash": "d2462154",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.ColorVisionDeficiencyType.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.ColorVisionDeficiencyType.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -6611,7 +6359,7 @@
 			"key": "38920EC74F293AA1241B2A8A6BEB5CA8",
 			"source": "MEDIUM",
 			"sourceHash": "827ccd04",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.PostProcess.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.PostProcess.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -6871,7 +6619,7 @@
 			"key": "3CB231FA44651439512C38BC7FC05DC7",
 			"source": "Method [Experimental]",
 			"sourceHash": "a133fe59",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.Illumination.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.Illumination.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -6975,7 +6723,7 @@
 			"key": "3D76EE2C4492547290415B95366AFE3C",
 			"source": "120",
 			"sourceHash": "c39a10a5",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.WB_SingleSettingBar_2.SwitcherButtons(2).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.WB_SingleSettingBar_2.SwitcherButtons(2).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -7016,58 +6764,6 @@
 				"es-ES":
 				{
 					"text": "120",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "3D9582E14BBEC58A9C912FB28CF01283",
-			"source": "Night Vision",
-			"sourceHash": "071e78cb",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.NightVision.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
-			"t":
-			{
-				"de":
-				{
-					"text": "Nachtsichtgerät",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "夜视仪",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "ПНВ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "야간투시경",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "暗視ゴーグル",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Visor nocturno",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -7079,7 +6775,7 @@
 			"key": "3DA2FBCD482BEEC836CC6DA72F41359B",
 			"source": "Post Process Quality",
 			"sourceHash": "1a279161",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.PostProcess.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.PostProcess.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -7284,6 +6980,46 @@
 		},
 		{
 			"ns": "",
+			"key": "3F2D8C5C414BB1CDB3B6D8AA43925BAA",
+			"source": "Enter a name for the preset.",
+			"sourceHash": "a4d4843d",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/AI/WB_AIPresetSave.WB_AIPresetSave_C:WidgetTree.IRRTextBlock_1.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "3F30BFC04631024F72A08BAAA1EA3514",
 			"source": "POTATO",
 			"sourceHash": "16a455b4",
@@ -7331,6 +7067,46 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "3FD728EE448875B2B282A4AA54D91F6A",
+			"source": "Export",
+			"sourceHash": "b0afa721",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_Settings.WB_Settings_C:WidgetTree.Export.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -7435,6 +7211,46 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "4089A8E649014F828C67DC8EA7993E6B",
+			"source": "Continue",
+			"sourceHash": "01126727",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:ExecuteUbergraph_WB_GraphicSettings [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -7547,7 +7363,7 @@
 			"key": "4188294F42A6E84B3A129BBB03181B61",
 			"source": "Be aware that enabling it can lead to worse performance.",
 			"sourceHash": "08683995",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.RayReconstruction.SettingDescriptor.WarningRichText",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.RayReconstruction.SettingDescriptor.WarningRichText",
 			"t":
 			{
 				"de":
@@ -7755,7 +7571,7 @@
 			"key": "43C1758641B6D1DB060486868CF2DD7B",
 			"source": "ON",
 			"sourceHash": "ee542026",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.Vsync.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.Vsync.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -7807,7 +7623,7 @@
 			"key": "43F9A9004C9CA722F15655B7A3F8A61C",
 			"source": "VSync",
 			"sourceHash": "ea4820fc",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.Vsync.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.Vsync.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -7900,58 +7716,6 @@
 				"es-ES":
 				{
 					"text": "Continuar",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "44B9446C49EBE12D21EE2993FE059C16",
-			"source": "Connecting T o Party asdfadfasfasfddasdfasfdasfdasfdasfdsa",
-			"sourceHash": "e37afe17",
-			"origin": "/Game/Blueprints/UICore/Widgets/Misc/Notifications/W_IRR_Notification_Standard.W_IRR_Notification_Standard_C:WidgetTree.IRRTextBlock_1.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "Verbinde mit Party asdfadfasfasfddasdfasfdasfdasfdasfdsa",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "正在连接小队 asdfadfasfasfddasdfasfdasfdasfdasfdsa",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Подключение к группе asdfadfasfasfddasdfasfdasfdasfdasfdsa",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "파티 연결 중 asdfadfasfasfddasdfasfdasfdasfdasfdsa",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "パーティーに接続中 asdfadfasfasfddasdfasfdasfdasfdasfdsa",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Conectando al grupo asdfadfasfasfddasdfasfdasfdasfdasfdsa",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -8055,7 +7819,7 @@
 			"key": "46399D674CA60B90E96F8498EC1ED345",
 			"source": "Ray Reconstruction",
 			"sourceHash": "d0b19ead",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.RayReconstruction.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.RayReconstruction.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -8159,7 +7923,7 @@
 			"key": "482B4B12466824F66E7771B316CA993E",
 			"source": "LOW",
 			"sourceHash": "e8dbdb44",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.OverallQuality.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.OverallQuality.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -8315,7 +8079,7 @@
 			"key": "487E79FD4E208DA1B65D35BB74B19055",
 			"source": "Laser Range Finder",
 			"sourceHash": "c2100bef",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.WB_SingleSettingBar_18.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.WB_SingleSettingBar_18.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -8419,7 +8183,7 @@
 			"key": "4A1536804592B6BC3E8DD6997E45DE32",
 			"source": "EPIC",
 			"sourceHash": "3b9414a0",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.Foliage.SwitcherButtons(3).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.Foliage.SwitcherButtons(3).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -8679,7 +8443,7 @@
 			"key": "4BC22B8E43DD19EF2FEB23A65805B7E5",
 			"source": "Backwards",
 			"sourceHash": "413ed6eb",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.S.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.S.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -8884,10 +8648,50 @@
 		},
 		{
 			"ns": "",
+			"key": "4C6EF4C04778F92B96693BABE7664B43",
+			"source": "XeSS FG",
+			"sourceHash": "a1d0bc5f",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.FramGenType.SwitcherButtons(3).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "4CFE867B4DAC98501A7CDBAF03F63777",
 			"source": "Push To Talk",
 			"sourceHash": "0deac2c3",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.PushToTalk.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.PushToTalk.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -9043,7 +8847,7 @@
 			"key": "50058605410D90B230078DB92C4FC1F4",
 			"source": "EPIC",
 			"sourceHash": "3b9414a0",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.Shadows.SwitcherButtons(3).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.Shadows.SwitcherButtons(3).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -9139,6 +8943,86 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "50D9A16A4E5BD8E073B594A8F6396A40",
+			"source": "Load Preset?",
+			"sourceHash": "d7a11734",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_AISettings_NEW.WB_AISettings_NEW_C:ExecuteUbergraph_WB_AISettings_NEW [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "50DA79264D072E225237F79E30C1443B",
+			"source": "Save",
+			"sourceHash": "d81a8882",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_Settings.WB_Settings_C:WidgetTree.Save.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -9303,7 +9187,7 @@
 			"key": "53BE09DB442A12FBF8CCB3A6CE4209F1",
 			"source": "LOW",
 			"sourceHash": "e8dbdb44",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.LumenScalibility.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.LumenScalibility.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -9612,6 +9496,46 @@
 		},
 		{
 			"ns": "",
+			"key": "5552A09E47568C5A0B2875A893D8D7FB",
+			"source": "Display",
+			"sourceHash": "f8d952da",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_NEW.WB_GraphicSettings_NEW_C:WidgetTree.W_IRR_HorizontalTabList.PreregisteredTabInfoArray(0).PreregisteredTabInfoArray.TabText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "5563D11C445F45531211AFAB57F3A535",
 			"source": "Enable Sounds",
 			"sourceHash": "cb176089",
@@ -9667,7 +9591,7 @@
 			"key": "557A5AED4E008E7177FBB2A83DA2AF3C",
 			"source": "HIGH",
 			"sourceHash": "61e414a7",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.OverallQuality.SwitcherButtons(2).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.OverallQuality.SwitcherButtons(2).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -9719,7 +9643,7 @@
 			"key": "55B627B0483A6D8A8FDE409E2CF41C52",
 			"source": "AMD FG",
 			"sourceHash": "8cde3962",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.FramGenType.SwitcherButtons(2).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.FramGenType.SwitcherButtons(2).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -9771,7 +9695,7 @@
 			"key": "55E646D0414FFF7159A719AFF991C78F",
 			"source": "FOV",
 			"sourceHash": "ba505440",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.FOV_Slider.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.FOV_Slider.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -10023,6 +9947,46 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "56F3478A4838F908274E21BB390EEBC6",
+			"source": "Setting to toggle if the GCPS should beep when you are close to resources.",
+			"sourceHash": "af6dce6e",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GameplaySettings.WB_GameplaySettings_C:WidgetTree.ToggleGCPS_Beeping.SettingDescriptor.DescriptionRichText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -10331,7 +10295,7 @@
 			"key": "584F39DF401F3786B6F4CA89D53F5DAB",
 			"source": "Quick Slot 4",
 			"sourceHash": "380d80b5",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.WB_SingleSettingBar_17.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.WB_SingleSettingBar_17.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -10372,58 +10336,6 @@
 				"es-ES":
 				{
 					"text": "Acceso rápido 4",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "588CA5EA4D3852793456DABB72523B86",
-			"source": "10",
-			"sourceHash": "dc6e742b",
-			"origin": "/Game/Blueprints/UICore/Widgets/SocialTab/W_IRR_PlayerLevel.W_IRR_PlayerLevel_C:WidgetTree.CurrentValue.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "10",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "10",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "10",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "10",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "10",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "10",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -10539,7 +10451,7 @@
 			"key": "58EA49144BC5504C4F7DBD90DA47F3C9",
 			"source": "HIGH",
 			"sourceHash": "61e414a7",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.VisualEffects.SwitcherButtons(2).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.VisualEffects.SwitcherButtons(2).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -10591,7 +10503,7 @@
 			"key": "5A41BA0043133BACCBC20384F877C305",
 			"source": "Reload",
 			"sourceHash": "4b63cee2",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.Reload.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.Reload.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -10900,10 +10812,50 @@
 		},
 		{
 			"ns": "",
+			"key": "60B185344C9BBBCAD2F1C5B6DD357B57",
+			"source": "Cancel",
+			"sourceHash": "38947156",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:ExecuteUbergraph_WB_GraphicSettings [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "6229E27043E10576E3BD0CA4A2763F06",
 			"source": "30",
 			"sourceHash": "9e4b7356",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.Fire.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.Fire.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -10947,6 +10899,46 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "622B00734E79D1F808C905AEE4F82CD4",
+			"source": "Cancel",
+			"sourceHash": "38947156",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_AISettings.WB_AISettings_C:ExecuteUbergraph_WB_AISettings [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -11059,7 +11051,7 @@
 			"key": "647F08FC49B7C5D99E8573B232DD8C1F",
 			"source": "View Distance Quality",
 			"sourceHash": "cc13dadc",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.ViewDistance.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.ViewDistance.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -11111,7 +11103,7 @@
 			"key": "66714564490A55D6E5D92AA93E006837",
 			"source": "TSR",
 			"sourceHash": "fe059410",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.antialiasing_Method.SwitcherButtons(2).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.antialiasing_Method.SwitcherButtons(3).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -11163,7 +11155,7 @@
 			"key": "6778CEB74AC8EC1195D862AB08A0EE7B",
 			"source": "Jump",
 			"sourceHash": "aa4ee491",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.WB_SingleSettingBar_11.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.WB_SingleSettingBar_11.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -11319,7 +11311,7 @@
 			"key": "693779324A5D832C4FAD2AA7B0BDCA56",
 			"source": "MEDIUM",
 			"sourceHash": "827ccd04",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.Foliage.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.Foliage.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -11371,7 +11363,7 @@
 			"key": "69D74AF34F047DA085B06FA836E9A8AF",
 			"source": "HIGH",
 			"sourceHash": "61e414a7",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.LumenScalibility.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.LumenScalibility.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -11423,7 +11415,7 @@
 			"key": "6A01A5744104CF4388E27D9252A44EF9",
 			"source": "LPVGI",
 			"sourceHash": "3740edbb",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.Illumination.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.Illumination.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -11527,7 +11519,7 @@
 			"key": "6A8D525447DF81A1872A40BF65B64240",
 			"source": "Contrast",
 			"sourceHash": "e1b0d408",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.Contrast.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.Contrast.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -11680,6 +11672,46 @@
 		},
 		{
 			"ns": "",
+			"key": "6B2BFA5E4EE858F270D9F8B171C237BD",
+			"source": "PRESET NAME",
+			"sourceHash": "1629a2b0",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/AI/WB_AIPresetExport.WB_AIPresetExport_C:WidgetTree.NameBox.HintText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "6B2FF4964E05521A78602B9664CCBF84",
 			"source": "OFF",
 			"sourceHash": "68af2265",
@@ -11732,62 +11764,10 @@
 		},
 		{
 			"ns": "",
-			"key": "6B34477746DD9B315D53B1BA0F9A08E4",
-			"source": "00:00",
-			"sourceHash": "8f0f50f9",
-			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_MissionBriefingControl.W_IRR_MissionBriefingControl_C:WidgetTree.Time.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "6B3BCD2A4F36BF355A2428BE170B29DB",
 			"source": "Window Mode",
 			"sourceHash": "c4db1d5a",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.WindowMode.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.WindowMode.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -11891,7 +11871,7 @@
 			"key": "6DB9A70B47DAF2822922F0948D829ABA",
 			"source": "Saturation",
 			"sourceHash": "d1f3d749",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.Saturation.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.Saturation.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -12148,53 +12128,41 @@
 		},
 		{
 			"ns": "",
-			"key": "6F040A1F43931C9DA2357D8B88E80F03",
-			"source": "Toggle Tactical Attachments",
-			"sourceHash": "f93ce532",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.ToggleTacticalAttachments.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"key": "6EE806D8434BEBACEC624EA93BD807D9",
+			"source": "Save Preset?",
+			"sourceHash": "d1dc40e2",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_AISettings.WB_AISettings_C:ExecuteUbergraph_WB_AISettings [Script Bytecode]",
 			"t":
 			{
 				"de":
 				{
-					"text": "Taktische Anbauteile umschalten",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"zh-Hans":
 				{
-					"text": "开关战术配件",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"ru":
 				{
-					"text": "Переключить тактические модули",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"ko":
 				{
-					"text": "전술 부착물 전환",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"ja":
 				{
-					"text": "タクティカルアタッチメント切替",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"es-ES":
 				{
-					"text": "Alternar accesorios tácticos",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -12564,6 +12532,46 @@
 		},
 		{
 			"ns": "",
+			"key": "71EB72A94A4DC217746CF3B6CA0C7842",
+			"source": "Save",
+			"sourceHash": "d81a8882",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_AISettings_NEW.WB_AISettings_NEW_C:ExecuteUbergraph_WB_AISettings_NEW [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "72109B604BD3B3414F137CB72ADB6668",
 			"source": "When a bot goes from being at peace/on patrol to in combat, they receive this as an additional delay ontop of the base sense delay.",
 			"sourceHash": "39aae962",
@@ -12663,6 +12671,46 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "730624CC4E508031C0895095B5D7B318",
+			"source": "Cancel",
+			"sourceHash": "38947156",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_AISettings_NEW.WB_AISettings_NEW_C:ExecuteUbergraph_WB_AISettings_NEW [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -12824,6 +12872,46 @@
 		},
 		{
 			"ns": "",
+			"key": "751D66EA41E0E8D87F610DB40671801E",
+			"source": "Load Preset?",
+			"sourceHash": "d7a11734",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_AISettings.WB_AISettings_C:ExecuteUbergraph_WB_AISettings [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "756515C943E16651600CB99F4CA1EB71",
 			"source": "Title",
 			"sourceHash": "dcccf0f0",
@@ -12923,58 +13011,6 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "7847F467418E5605EE3E2CA28A70F91A",
-			"source": "Melee",
-			"sourceHash": "76cfe5c0",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.WB_SingleSettingBar_14.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
-			"t":
-			{
-				"de":
-				{
-					"text": "Nahkampf",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
-				"es-ES":
-				{
-					"text": "Cuerpo a cuerpo",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
-				"zh-Hans":
-				{
-					"text": "近战",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:57Z"
-				},
-				"ru":
-				{
-					"text": "Ближний бой",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:57Z"
-				},
-				"ko":
-				{
-					"text": "근접 공격",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:57Z"
-				},
-				"ja":
-				{
-					"text": "近接攻撃",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:57Z"
 				}
 			}
 		},
@@ -13087,7 +13123,7 @@
 			"key": "78A6B6B84A749DDA817CD7970D741D53",
 			"source": "Switch Fire Mode",
 			"sourceHash": "d61baaac",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.SwitchFireMode.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.SwitchFireMode.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -13240,62 +13276,10 @@
 		},
 		{
 			"ns": "",
-			"key": "78F2132F4851DE9DF2FF019C12797327",
-			"source": "Hold Breath",
-			"sourceHash": "e2b1b61c",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.WB_SingleSettingBar_8.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
-			"t":
-			{
-				"de":
-				{
-					"text": "Atem anhalten",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "屏息",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Задержка дыхания",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "숨 참기",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "息止め",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Contener la respiración",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "791F326F4AB144AA8174E8B8F33FED3B",
 			"source": "Overall Quality",
 			"sourceHash": "bc4b6979",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.OverallQuality.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.OverallQuality.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -13347,7 +13331,7 @@
 			"key": "794BB43B41DB3E94EDD52581AF7A4BD2",
 			"source": "Default Text",
 			"sourceHash": "f9e57256",
-			"origin": "/Game/Blueprints/UICore/Widgets/Menu/WB_MainMenu.Default__WB_MainMenu_C.RequestBoxButtons(0).RequestBoxButtons.ButtonTextSettings_32_0259C12542FE5FAFB70394A7AD700F2B.Text_2_634ECB774367801585F64289E8499E19",
+			"origin": "/Game/Blueprints/UICore/Widgets/Misc/WB_SpectatorScreen.Default__WB_SpectatorScreen_C.RequestBoxButtons(0).RequestBoxButtons.ButtonTextSettings_32_0259C12542FE5FAFB70394A7AD700F2B.Text_2_634ECB774367801585F64289E8499E19",
 			"t":
 			{
 				"de":
@@ -13399,7 +13383,7 @@
 			"key": "79ADD3D94E385E51C99420916D3CF3DC",
 			"source": "Fix Malfunction",
 			"sourceHash": "bd179f08",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.FixMalfunction.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.FixMalfunction.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -13503,7 +13487,7 @@
 			"key": "7AABC74545FB472C5C720096C7C3EDED",
 			"source": "DLSS FG",
 			"sourceHash": "1c09d6f0",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.FramGenType.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.FramGenType.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -13607,7 +13591,7 @@
 			"key": "7ADB6BF34DF2E5CF8E4BB08C3BBEFFAE",
 			"source": "Toggle Attachment Menu",
 			"sourceHash": "85e9aadf",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.ToggleAttachmentMenu.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.ToggleAttachmentMenu.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -13711,7 +13695,7 @@
 			"key": "7AEECBF8453ECFD3541760B5FF0C6B79",
 			"source": "PROTANOPE",
 			"sourceHash": "59f92246",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.ColorVisionDeficiencyType.SwitcherButtons(2).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.ColorVisionDeficiencyType.SwitcherButtons(2).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -14127,7 +14111,7 @@
 			"key": "7D38AD13468AAAD19120E98F0948A708",
 			"source": "Setting to change your Anti-Aliasing method. Recommended DLSS on most hardware.",
 			"sourceHash": "55603320",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.antialiasing_Method.SettingDescriptor.DescriptionRichText",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.antialiasing_Method.SettingDescriptor.DescriptionRichText",
 			"t":
 			{
 				"de":
@@ -14280,62 +14264,10 @@
 		},
 		{
 			"ns": "",
-			"key": "7F1CCBAE4103D2E0B2F1A8A6EF45C812",
-			"source": "00:00",
-			"sourceHash": "8f0f50f9",
-			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_MissionBriefingControl.W_IRR_MissionBriefingControl_C:ExecuteUbergraph_W_IRR_MissionBriefingControl [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": "00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "7F814E17420F4625B57FB8B2EDFD92D3",
 			"source": "Setting to adjust shadow quality. Uses Virtual Shadow Maps on High and Epic.",
 			"sourceHash": "8a31294d",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.Shadows.SettingDescriptor.DescriptionRichText",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.Shadows.SettingDescriptor.DescriptionRichText",
 			"t":
 			{
 				"de":
@@ -14491,7 +14423,7 @@
 			"key": "81D9C88A4463BB5067E409A1BE46A3A0",
 			"source": "EPIC",
 			"sourceHash": "3b9414a0",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.OverallQuality.SwitcherButtons(3).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.OverallQuality.SwitcherButtons(3).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -14540,10 +14472,50 @@
 		},
 		{
 			"ns": "",
+			"key": "82817BDB4171558C3A4F46B161502653",
+			"source": "Select any preset. On Export it copies a code to your clipboard that you can share with your friends.",
+			"sourceHash": "d456016b",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_AISettings_NEW.WB_AISettings_NEW_C:ExecuteUbergraph_WB_AISettings_NEW [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "8288E13940D7848AB854A8AD45FFA938",
 			"source": "LOW",
 			"sourceHash": "e8dbdb44",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.Shadows.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.Shadows.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -14699,7 +14671,7 @@
 			"key": "84C5C2A14DDACC0B8A1237812E4C6292",
 			"source": "Quick Slot 1",
 			"sourceHash": "0fd37087",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.WB_SingleSettingBar_1.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.WB_SingleSettingBar_1.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -14959,7 +14931,7 @@
 			"key": "87BCD9094730FC0F525C939B7AAFC4C9",
 			"source": "HIGH",
 			"sourceHash": "61e414a7",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.Shadows.SwitcherButtons(2).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.Shadows.SwitcherButtons(2).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -15063,7 +15035,7 @@
 			"key": "884B4CA044D1C58DB079E0A14544F68D",
 			"source": "Independent of weapon FOV.",
 			"sourceHash": "e8123894",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.FOV_Slider.SettingDescriptor.WarningRichText",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.FOV_Slider.SettingDescriptor.WarningRichText",
 			"t":
 			{
 				"de":
@@ -15528,6 +15500,46 @@
 		},
 		{
 			"ns": "",
+			"key": "8D9CEE784852AEB6A619EAB5245DD284",
+			"source": "load",
+			"sourceHash": "801b2612",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_Settings.WB_Settings_C:WidgetTree.Load.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "8E121B794026B19559D0F09A8A2DB36B",
 			"source": "DISCLAIMER: You will fail your current tracked contract and lose all your items if you have chosen custom loadout.",
 			"sourceHash": "add9533a",
@@ -15736,6 +15748,46 @@
 		},
 		{
 			"ns": "",
+			"key": "917DC33749E4E30C85041EA5012A5ECA",
+			"source": "save",
+			"sourceHash": "cf25f3ff",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_AISettings.WB_AISettings_C:WidgetTree.Save.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "91FC877C4B4CACA1F5035B9A527E0EA4",
 			"source": "Yes",
 			"sourceHash": "3b86075f",
@@ -15840,62 +15892,10 @@
 		},
 		{
 			"ns": "",
-			"key": "93A78BD64572C253F61CF19576490C51",
-			"source": "test",
-			"sourceHash": "919f0e6b",
-			"origin": "/Game/Blueprints/UICore/Widgets/Base/W_IRR_BaseButton.Default__W_IRR_BaseButton_C.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "Test",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-25T20:54:02Z"
-				},
-				"zh-Hans":
-				{
-					"text": "测试",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-25T20:54:02Z"
-				},
-				"ru":
-				{
-					"text": "тест",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-25T20:54:02Z"
-				},
-				"ko":
-				{
-					"text": "테스트",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-25T20:54:02Z"
-				},
-				"ja":
-				{
-					"text": "テスト",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-25T20:54:02Z"
-				},
-				"es-ES":
-				{
-					"text": "prueba",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-25T20:54:02Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "940272574FA35F7FD2FB6691C05B488B",
 			"source": "Quick Heal",
 			"sourceHash": "7d8be909",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.QuickHeal.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.QuickHeal.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -16043,6 +16043,46 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "949EE2BD43A953F7BFCBB7AA9651EC61",
+			"source": "Continue",
+			"sourceHash": "01126727",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_AISettings.WB_AISettings_C:ExecuteUbergraph_WB_AISettings [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -16207,7 +16247,7 @@
 			"key": "95DFBF924DCDC955E5281FBBD82281F0",
 			"source": "Primary",
 			"sourceHash": "240cdd2f",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.WB_SingleSettingBar_2.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.WB_SingleSettingBar_2.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -16620,105 +16660,41 @@
 		},
 		{
 			"ns": "",
-			"key": "98199EC74F6C06877C7DB5A88346D0D0",
-			"source": "/",
-			"sourceHash": "d9156074",
-			"origin": "/Game/Blueprints/UICore/Widgets/Laptop/W_IRR_ListControls.W_IRR_ListControls_C:WidgetTree.SightIndexText_1.Text",
+			"key": "98EB8C3E4A5F050F9FAA05844E00438C",
+			"source": "Import Preset?",
+			"sourceHash": "566f0692",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_AISettings_NEW.WB_AISettings_NEW_C:ExecuteUbergraph_WB_AISettings_NEW [Script Bytecode]",
 			"t":
 			{
 				"de":
 				{
-					"text": "/",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"zh-Hans":
 				{
-					"text": "/",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"ru":
 				{
-					"text": "/",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"ko":
 				{
-					"text": "/",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"ja":
 				{
-					"text": "/",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"es-ES":
 				{
-					"text": "/",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "987248F24C230140AA095AB848362DA9",
-			"source": " / 00:00",
-			"sourceHash": "62ad056a",
-			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_MissionBriefingControl.W_IRR_MissionBriefingControl_C:WidgetTree.Duration.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": " / 00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": " / 00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": " / 00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": " / 00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": " / 00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": " / 00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -16779,7 +16755,7 @@
 			"key": "9933421F4B0EAC711FB92C8112D9E7E0",
 			"source": "Gamma",
 			"sourceHash": "32c9c9f4",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.Gamma.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.Gamma.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -16831,7 +16807,7 @@
 			"key": "99812FB24BFB26D538852D9558077CAA",
 			"source": "Quick Slot 3",
 			"sourceHash": "a5dab80c",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.WB_SingleSettingBar_16.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.WB_SingleSettingBar_16.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -16883,7 +16859,7 @@
 			"key": "99E820FF4A4ED01DF8B3CFB0879AF396",
 			"source": "FSR",
 			"sourceHash": "1e26e773",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.antialiasing_Method.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.antialiasing_Method.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -16924,110 +16900,6 @@
 				"es-ES":
 				{
 					"text": "FSR",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "99FE8DD34048D6072F91D5AA2EC3DA93",
-			"source": "/100",
-			"sourceHash": "8f0486a5",
-			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_RaidSummaryFactionItem.W_IRR_RaidSummaryFactionItem_C:WidgetTree.IRRTextBlock_12.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "/100",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "/100",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "/100",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "/100",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "/100",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "/100",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "9AD3B983433C2C3A46490EB32E5F1FB0",
-			"source": "25",
-			"sourceHash": "653f83fa",
-			"origin": "/Game/Blueprints/UICore/Widgets/Laptop/W_IRR_ListControls.W_IRR_ListControls_C:WidgetTree.TotalSightCountText.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "25",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "25",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "25",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "25",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "25",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "25",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -17088,10 +16960,90 @@
 		},
 		{
 			"ns": "",
+			"key": "9C77B0C842E64318052DD8BEA345770F",
+			"source": "Test",
+			"sourceHash": "86a07516",
+			"origin": "/Game/Blueprints/UICore/Widgets/Base/W_IRR_RequestBoxText.W_IRR_RequestBoxText_C:WidgetTree.RichTextBlock_29.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "9D00832F404EF8E40C37DD9D70FEC1FB",
+			"source": "LOAD",
+			"sourceHash": "d6514bff",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_AISettings.WB_AISettings_C:WidgetTree.Load.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "9D081D744486C6029341528F3A0C5576",
 			"source": "LOW",
 			"sourceHash": "e8dbdb44",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.VisualEffects.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.VisualEffects.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -17135,6 +17087,46 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "9D7069134C8999D752D1C78B5E40D7D1",
+			"source": "Require Game Restart",
+			"sourceHash": "ac3270ad",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:ExecuteUbergraph_WB_GraphicSettings [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -17348,10 +17340,50 @@
 		},
 		{
 			"ns": "",
+			"key": "9DBD250644519FDBF364EA991A20D603",
+			"source": "PRESET NAME",
+			"sourceHash": "1629a2b0",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/AI/WB_AIPresetImport.WB_AIPresetImport_C:WidgetTree.NameBox.HintText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "9E3027F04BBD04485FBC7DB3872ADB1F",
 			"source": "TRITANOPE",
 			"sourceHash": "6415749f",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.ColorVisionDeficiencyType.SwitcherButtons(3).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.ColorVisionDeficiencyType.SwitcherButtons(3).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -17507,7 +17539,7 @@
 			"key": "A02180444AFE06F5422DB99DFA75BD2C",
 			"source": "Sneak",
 			"sourceHash": "2c166d67",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.WB_SingleSettingBar_10.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.WB_SingleSettingBar_10.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -17611,7 +17643,7 @@
 			"key": "A13C2CDC470798C9456646B63BE94D69",
 			"source": "Point Shooting",
 			"sourceHash": "3740de85",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.PointShooting.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.PointShooting.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -17715,7 +17747,7 @@
 			"key": "A1DC66C24D080208333707B4F4817B8D",
 			"source": "MEDIUM",
 			"sourceHash": "827ccd04",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.UpscalingQuality.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.UpscalingQuality.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -17923,7 +17955,7 @@
 			"key": "A2AA3B0546545732924C66B5886F2BF7",
 			"source": "Quick Slot 2",
 			"sourceHash": "1d66df69",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.WB_SingleSettingBar_15.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.WB_SingleSettingBar_15.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -18079,7 +18111,7 @@
 			"key": "A37FE93E461917F8C6363BA231723BAA",
 			"source": "60",
 			"sourceHash": "d6ab7d32",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.WB_SingleSettingBar_2.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.WB_SingleSettingBar_2.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -18183,7 +18215,7 @@
 			"key": "A3C776A5401E4E41842844A57830B837",
 			"source": "OFF",
 			"sourceHash": "68af2265",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.MotionBlur.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.MotionBlur.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -18235,7 +18267,7 @@
 			"key": "A414650643D650B6E0438599F99E41F8",
 			"source": "120",
 			"sourceHash": "c39a10a5",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.FPSLimit.SwitcherButtons(2).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.FPSLimit.SwitcherButtons(2).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -18287,7 +18319,7 @@
 			"key": "A4D2EC6A44D7AFC44CFF85AD54AEF317",
 			"source": "HIGH",
 			"sourceHash": "61e414a7",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.TextureQuality.SwitcherButtons(2).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.TextureQuality.SwitcherButtons(2).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -18391,7 +18423,7 @@
 			"key": "A5E343F745CE308B89C400A37878923E",
 			"source": "Equipment Input",
 			"sourceHash": "2ad88a53",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.FreeLook.Title",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.FreeLook.Title",
 			"t":
 			{
 				"de":
@@ -18487,6 +18519,46 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "A6D36CBB461D233E89CA368B25A04CB4",
+			"source": "Use GCPS Beeping For Resources",
+			"sourceHash": "9531ed28",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GameplaySettings.WB_GameplaySettings_C:WidgetTree.ToggleGCPS_Beeping.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -18703,7 +18775,7 @@
 			"key": "A884720E448F2D800ABE42A22C763990",
 			"source": "Toggle Magnifier",
 			"sourceHash": "86516ed4",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.ToggleMagnifier.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.ToggleMagnifier.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -18799,6 +18871,46 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "A8B9B8CC4A18BE8B224A8BBF1C505E1E",
+			"source": "Share this code with other players.",
+			"sourceHash": "5b9b891c",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/AI/WB_AIPresetExport.WB_AIPresetExport_C:WidgetTree.IRRTextBlock_1.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -19275,7 +19387,7 @@
 			"key": "AB92D908457C47C587365F91ABD704B7",
 			"source": "LOW",
 			"sourceHash": "e8dbdb44",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.PostProcess.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.PostProcess.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -19379,7 +19491,7 @@
 			"key": "AD0EE98042DBFD175A39E0B4A7287257",
 			"source": "Texture Quality",
 			"sourceHash": "f483f0e9",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.TextureQuality.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.TextureQuality.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -19431,7 +19543,7 @@
 			"key": "AD100620402E85C99BF0B49491A3308E",
 			"source": "Display",
 			"sourceHash": "f8d952da",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.W_IRR_HorizontalTabList.PreregisteredTabInfoArray(0).PreregisteredTabInfoArray.TabText",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.W_IRR_HorizontalTabList.PreregisteredTabInfoArray(0).PreregisteredTabInfoArray.TabText",
 			"t":
 			{
 				"de":
@@ -19524,58 +19636,6 @@
 				"es-ES":
 				{
 					"text": "NORMAL",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "AD6AC0164FC5F7790AE9379C3285EEA3",
-			"source": "DEFAULT",
-			"sourceHash": "8a6ffdf3",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.Illumination.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
-			"t":
-			{
-				"de":
-				{
-					"text": "STANDARD",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "默认",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "ПО УМОЛЧАНИЮ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "기본",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "デフォルト",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "PREDETERMINADO",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -19743,7 +19803,7 @@
 			"key": "AE57734C48E60D45CA1BFB9D34D470D1",
 			"source": "MEDIUM",
 			"sourceHash": "827ccd04",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.TextureQuality.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.TextureQuality.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -19792,10 +19852,50 @@
 		},
 		{
 			"ns": "",
+			"key": "AE65CC354DD90799BF3BE89DBBF45096",
+			"source": "XeSS",
+			"sourceHash": "e511530f",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.antialiasing_Method.SwitcherButtons(2).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "AF842DE945720B1B2E2AD08F63FDD674",
 			"source": "Visual Fidelity",
 			"sourceHash": "eb26a36b",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.VisualFidelity.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.VisualFidelity.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -19899,7 +19999,7 @@
 			"key": "B1117DC24FD6B77BEDF5B99697153B73",
 			"source": "Crouch",
 			"sourceHash": "73bbd0e4",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.WB_SingleSettingBar_9.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.WB_SingleSettingBar_9.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -20055,7 +20155,7 @@
 			"key": "B1CEAA4D449581587FC6E7865036D89B",
 			"source": "Chack Magazine",
 			"sourceHash": "65413f6d",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.CheckAmmo.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.CheckAmmo.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -20263,7 +20363,7 @@
 			"key": "B2E9EE5046BB5D908C436DBB53F4D35B",
 			"source": "MEDIUM",
 			"sourceHash": "827ccd04",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.OverallQuality.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.OverallQuality.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -20307,6 +20407,46 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "B31D488742759312E87730A15D48C350",
+			"source": "Save Preset?",
+			"sourceHash": "d1dc40e2",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_AISettings_NEW.WB_AISettings_NEW_C:ExecuteUbergraph_WB_AISettings_NEW [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -20359,6 +20499,46 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "B40CD61A4DB2FC6E54D8B9A1F6F34CD6",
+			"source": "Import",
+			"sourceHash": "c0e87efa",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_AISettings_NEW.WB_AISettings_NEW_C:ExecuteUbergraph_WB_AISettings_NEW [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -20468,10 +20648,50 @@
 		},
 		{
 			"ns": "",
+			"key": "B61E1F2F4C50F36B5E6EFBB702113E7C",
+			"source": "Load",
+			"sourceHash": "97245d6f",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_AISettings_NEW.WB_AISettings_NEW_C:ExecuteUbergraph_WB_AISettings_NEW [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "B698FD5B455543EA1E5590AF8FFD80F7",
 			"source": "OFF",
 			"sourceHash": "68af2265",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.FPSLimit.SwitcherButtons(3).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.FPSLimit.SwitcherButtons(3).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -20523,7 +20743,7 @@
 			"key": "B72185844ABCD72B1C4FED9A5E827DF3",
 			"source": "30",
 			"sourceHash": "9e4b7356",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.WB_SingleSettingBar_2.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.WB_SingleSettingBar_2.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -20679,7 +20899,7 @@
 			"key": "B95AE9814AFB7EA467DF278DBE2C4DEE",
 			"source": "OFF",
 			"sourceHash": "68af2265",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.FramGenType.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.FramGenType.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -20827,6 +21047,46 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "BA28152F4C261A56AF2E59A254AA59AF",
+			"source": "OFF",
+			"sourceHash": "68af2265",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GameplaySettings.WB_GameplaySettings_C:WidgetTree.ToggleGCPS_Beeping.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -20991,7 +21251,7 @@
 			"key": "BBAAD63844A9A0879456118C8C5877FC",
 			"source": "FAR",
 			"sourceHash": "20b8d125",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.ViewDistance.SwitcherButtons(2).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.ViewDistance.SwitcherButtons(2).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -21043,7 +21303,7 @@
 			"key": "BBBF50F7486FDAEA46B24BA1EDB445AB",
 			"source": "MEDIUM",
 			"sourceHash": "827ccd04",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.Shadows.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.Shadows.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -21199,7 +21459,7 @@
 			"key": "BC630B0D4EA6DAA269AD06B9927C9ED5",
 			"source": "ON",
 			"sourceHash": "ee542026",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.MotionBlur.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.MotionBlur.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -21240,58 +21500,6 @@
 				"es-ES":
 				{
 					"text": "ACTIVADO",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "BCA8292C426D982D691F1486F0946B10",
-			"source": "LUMEN",
-			"sourceHash": "ef61469b",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.Illumination.SwitcherButtons(2).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
-			"t":
-			{
-				"de":
-				{
-					"text": "LUMEN",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "LUMEN",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "LUMEN",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "LUMEN",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "LUMEN",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "LUMEN",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -21459,7 +21667,7 @@
 			"key": "BE44137C49B7925D15AB9299D6D7EF39",
 			"source": "HIGH",
 			"sourceHash": "61e414a7",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.PostProcess.SwitcherButtons(2).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.PostProcess.SwitcherButtons(2).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -21563,7 +21771,7 @@
 			"key": "BF8243E24AB6B2A35CD17A9AC1FD9DDA",
 			"source": "EPIC",
 			"sourceHash": "3b9414a0",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.ViewDistance.SwitcherButtons(3).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.ViewDistance.SwitcherButtons(3).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -21615,7 +21823,7 @@
 			"key": "BFF4F065474F3CBC14CA7CBB18AA45EE",
 			"source": "Shading Quality",
 			"sourceHash": "fe89590b",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.Shading.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.Shading.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -21719,7 +21927,7 @@
 			"key": "C055CBBB47AEDA6CB63DE28B3206093E",
 			"source": "Sharpness",
 			"sourceHash": "69b970aa",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.Sharpness.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.Sharpness.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -21760,110 +21968,6 @@
 				"es-ES":
 				{
 					"text": "Nitidez",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "C06D8081485FA9CE6A25F2B8B0889EAC",
-			"source": "Inventory",
-			"sourceHash": "b3281d2e",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.WB_Inventory.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
-			"t":
-			{
-				"de":
-				{
-					"text": "Inventar",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "背包",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Инвентарь",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "인벤토리",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "インベントリ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Inventario",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "C07ED1C042109C0E2C2FA3AD69163820",
-			"source": "Motion Blur",
-			"sourceHash": "2b0fdf0c",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.MotionBlur.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
-			"t":
-			{
-				"de":
-				{
-					"text": "Bewegungsunschärfe",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "动态模糊",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Размытие в движении",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "모션 블러",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "モーションブラー",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Desenfoque de movimiento",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -21927,7 +22031,7 @@
 			"key": "C123A9B64B09745F0D2009AEBC529EF7",
 			"source": "Grenade Equip",
 			"sourceHash": "63c342a2",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.QuickGrenade.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.QuickGrenade.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -21979,7 +22083,7 @@
 			"key": "C134625E43E17438462037A42C505B1B",
 			"source": "Setting to adjust visual effects like particles.",
 			"sourceHash": "a0f33144",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.VisualEffects.SettingDescriptor.DescriptionRichText",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.VisualEffects.SettingDescriptor.DescriptionRichText",
 			"t":
 			{
 				"de":
@@ -22176,58 +22280,6 @@
 				"es-ES":
 				{
 					"text": "MENTE COLMENA",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "C2A8C524464307924CCB2D9BE5F5449C",
-			"source": "/100",
-			"sourceHash": "8f0486a5",
-			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_RaidSummaryLevel.W_IRR_RaidSummaryLevel_C:WidgetTree.MaxValue.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "/100",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "/100",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "/100",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "/100",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "/100",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "/100",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -22447,7 +22499,7 @@
 			"key": "C501A08E4F56C7FEB509A78F0B342023",
 			"source": "This enabled NVIDIAs newest technology Ray Reconstruction. It greatly improves image quality by reducing noise and artifacts as well as providing a clearer image.",
 			"sourceHash": "756a5c6f",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.RayReconstruction.SettingDescriptor.DescriptionRichText",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.RayReconstruction.SettingDescriptor.DescriptionRichText",
 			"t":
 			{
 				"de":
@@ -22551,7 +22603,7 @@
 			"key": "C541578748566F8C69AD459C1AE5B1C0",
 			"source": "Free Look",
 			"sourceHash": "badb933a",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.FreeLook.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.FreeLook.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -22603,7 +22655,7 @@
 			"key": "C5E4D4514204CFE31AF0B4A9158A5134",
 			"source": "ADS Field Of View",
 			"sourceHash": "90438711",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.ADSFOVSettings.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.ADSFOVSettings.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -22912,6 +22964,46 @@
 		},
 		{
 			"ns": "",
+			"key": "C72153044BDD7C8E135CD2B102956BD4",
+			"source": "Export",
+			"sourceHash": "b0afa721",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_AISettings_NEW.WB_AISettings_NEW_C:ExecuteUbergraph_WB_AISettings_NEW [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "C75F1BF04003587629BDE188492296B3",
 			"source": "ON",
 			"sourceHash": "ee542026",
@@ -22956,58 +23048,6 @@
 				"es-ES":
 				{
 					"text": "ACTIVADO",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "C785D41A46386DA419634CB6C9E1CA48",
-			"source": "/100",
-			"sourceHash": "8f0486a5",
-			"origin": "/Game/Blueprints/UICore/Widgets/SocialTab/W_IRR_PlayerLevel.W_IRR_PlayerLevel_C:WidgetTree.IRRTextBlock_12.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "/100",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "/100",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "/100",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "/100",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "/100",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "/100",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -23123,7 +23163,7 @@
 			"key": "C7DFA255489884BC8E63DF92EE6BCEB8",
 			"source": "Frame Generation",
 			"sourceHash": "3b2368ce",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.FramGenType.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.FramGenType.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -23175,7 +23215,7 @@
 			"key": "C903E73A4C5A3022CBB0BB81A015405F",
 			"source": "Setting to set overall quality level.",
 			"sourceHash": "807699c4",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.OverallQuality.SettingDescriptor.DescriptionRichText",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.OverallQuality.SettingDescriptor.DescriptionRichText",
 			"t":
 			{
 				"de":
@@ -23224,10 +23264,50 @@
 		},
 		{
 			"ns": "",
+			"key": "CA2B5DFD4B62B779406592B350BD08B0",
+			"source": "PRESET NAME",
+			"sourceHash": "1629a2b0",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/AI/WB_AIPresetSave.WB_AIPresetSave_C:WidgetTree.NameBox.HintText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "CAD2ED4A471C64D0A67B6E85D9C15D37",
 			"source": "Setting to adjust visual fidelity. Changes maximal pixels per mesh for nanite. Lower settings can lead to pixelated foliage.",
 			"sourceHash": "21f85736",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.VisualFidelity.SettingDescriptor.DescriptionRichText",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.VisualFidelity.SettingDescriptor.DescriptionRichText",
 			"t":
 			{
 				"de":
@@ -23279,7 +23359,7 @@
 			"key": "CB86C0C846C952BB709DA1A40A70BD3C",
 			"source": "Low Ready",
 			"sourceHash": "123eea2e",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.LowReady.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.LowReady.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -23383,7 +23463,7 @@
 			"key": "CCEA51DB4E31E33FC6DBB085B082812C",
 			"source": "Fire",
 			"sourceHash": "c622130e",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.Fire.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.Fire.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -23539,7 +23619,7 @@
 			"key": "CE2F95FF44C28B422F95199FB71A2737",
 			"source": "STANDARD",
 			"sourceHash": "11dbe46b",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.ColorVisionDeficiencyType.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.ColorVisionDeficiencyType.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -23799,7 +23879,7 @@
 			"key": "CFCDE8C6412CC8F94113F881E17C6A4F",
 			"source": "Lean Right",
 			"sourceHash": "f20f5fa6",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.WB_LeanRight.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.WB_LeanRight.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -23900,10 +23980,50 @@
 		},
 		{
 			"ns": "",
+			"key": "D03304BA4BFB48DEE47E6FA3D44E7634",
+			"source": "Select any preset to load.",
+			"sourceHash": "3dda948d",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/AI/WB_AIPresetLoad.WB_AIPresetLoad_C:WidgetTree.IRRTextBlock_1.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "D03AAC1B4967CBD8F2C1FF89BB230377",
 			"source": "Shadows Quality",
 			"sourceHash": "fab8e2ca",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.Shadows.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.Shadows.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -24059,7 +24179,7 @@
 			"key": "D12A2EBA4B2C26C910FAF7B317B4EA65",
 			"source": "Quality",
 			"sourceHash": "e7712f1f",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.W_IRR_HorizontalTabList.PreregisteredTabInfoArray(1).PreregisteredTabInfoArray.TabText",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.W_IRR_HorizontalTabList.PreregisteredTabInfoArray(1).PreregisteredTabInfoArray.TabText",
 			"t":
 			{
 				"de":
@@ -24316,6 +24436,46 @@
 		},
 		{
 			"ns": "",
+			"key": "D4132F1244EA9E29BBD3AFADDF6BEF8D",
+			"source": "Quality",
+			"sourceHash": "e7712f1f",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_NEW.WB_GraphicSettings_NEW_C:WidgetTree.W_IRR_HorizontalTabList.PreregisteredTabInfoArray(1).PreregisteredTabInfoArray.TabText",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "D460DE1642B5200AD7A7B99DC1FFE822",
 			"source": "Alpha #1.1.0.0",
 			"sourceHash": "22354f7e",
@@ -24464,58 +24624,6 @@
 				"es-ES":
 				{
 					"text": "Si los bots están más lejos de esta distancia de un jugador humano, su tick-rate y movimiento se reducen moderadamente para mejorar el coste de CPU, y su física de movimiento se simplifica.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "D58391AD4C6A905F4C748A8C615AD757",
-			"source": "test",
-			"sourceHash": "919f0e6b",
-			"origin": "/Game/Blueprints/UICore/Widgets/Base/W_InputAction_Base.W_InputAction_Base_C:WidgetTree.ActionText.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "Test",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "测试",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "тест",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "테스트",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "テスト",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "prueba",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -24735,7 +24843,7 @@
 			"key": "D68C69DE4B8225DF70CA86B6F629A4F2",
 			"source": "Left",
 			"sourceHash": "27cfeb88",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.A.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.A.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -24992,10 +25100,50 @@
 		},
 		{
 			"ns": "",
+			"key": "D8A0FD454D6488D95D4688A72D4852D9",
+			"source": "Preset Code Copied To Clipboard.",
+			"sourceHash": "643a8931",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_AISettings_NEW.WB_AISettings_NEW_C:ExecuteUbergraph_WB_AISettings_NEW [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "D8AFB88E4A6C83300F910AA6E6C9B9DB",
 			"source": "Resolution",
 			"sourceHash": "58999da1",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.Resolution.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.Resolution.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -25039,6 +25187,46 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "D9745B75477B1949AA5FA8BDAE6DD7CD",
+			"source": "TIER III",
+			"sourceHash": "daed8c60",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/AI/WB_AIPresetEntry.WB_AIPresetEntry_C:WidgetTree.TimestampText.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -25099,7 +25287,7 @@
 			"key": "D9ECEB784C20C6768EE91D98CE5530AC",
 			"source": "DLSS",
 			"sourceHash": "218c5f30",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.antialiasing_Method.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.antialiasing_Method.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -25255,7 +25443,7 @@
 			"key": "DA9A112C49E7D7A194CB00930ECC1CC6",
 			"source": "60",
 			"sourceHash": "d6ab7d32",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.FPSLimit.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.FPSLimit.SwitcherButtons(1).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -25359,7 +25547,7 @@
 			"key": "DB025F0D463B4121281BF29D39226085",
 			"source": "Push To Talk",
 			"sourceHash": "0deac2c3",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.PushToTalk.Title",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.PushToTalk.Title",
 			"t":
 			{
 				"de":
@@ -25876,62 +26064,10 @@
 		},
 		{
 			"ns": "",
-			"key": "E1342DA04B848E4614321B95344D9073",
-			"source": "...",
-			"sourceHash": "26c466e0",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_SingleSettingBar.Default__WB_SingleSettingBar_C.WaitingForInputText",
-			"t":
-			{
-				"de":
-				{
-					"text": "...",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "...",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "...",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "...",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "...",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "...",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "E1B6623E4351BAD7041403A7E737D45A",
 			"source": "Setting to adjust shading quality.",
 			"sourceHash": "51c8fab9",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.Shading.SettingDescriptor.DescriptionRichText",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.Shading.SettingDescriptor.DescriptionRichText",
 			"t":
 			{
 				"de":
@@ -25983,7 +26119,7 @@
 			"key": "E1CAFE2A49AF7722C3860080D9452532",
 			"source": "INDEPENDENT",
 			"sourceHash": "a342706e",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.ADSFOVSettings.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.ADSFOVSettings.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -26240,62 +26376,10 @@
 		},
 		{
 			"ns": "",
-			"key": "E384B71148B3E83FF34ACE886481CDE8",
-			"source": " / 00:00",
-			"sourceHash": "62ad056a",
-			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_MissionBriefingControl.W_IRR_MissionBriefingControl_C:ExecuteUbergraph_W_IRR_MissionBriefingControl [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": " / 00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": " / 00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": " / 00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": " / 00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": " / 00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": " / 00:00",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "E3B5CA2F4B57298D0F31959D76DDC386",
 			"source": "Inspect",
 			"sourceHash": "eeea611d",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.WB_SingleSettingBar_4.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.WB_SingleSettingBar_4.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -26399,7 +26483,7 @@
 			"key": "E491A4814021948F2F7073A470F52E90",
 			"source": "EPIC",
 			"sourceHash": "3b9414a0",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.TextureQuality.SwitcherButtons(3).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.TextureQuality.SwitcherButtons(3).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -26503,7 +26587,7 @@
 			"key": "E5623A884DED55B86493518C6465F8E1",
 			"source": "ON",
 			"sourceHash": "ee542026",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.RayReconstruction.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.RayReconstruction.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -26604,62 +26688,10 @@
 		},
 		{
 			"ns": "",
-			"key": "E6CD9E7740D15D6462B12DBF2755D98E",
-			"source": "10",
-			"sourceHash": "dc6e742b",
-			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_RaidSummaryFactionItem.W_IRR_RaidSummaryFactionItem_C:WidgetTree.CurrentValue.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "10",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "10",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "10",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "10",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "10",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "10",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "E6F887AB47A9281F0CD94080A55C8482",
 			"source": "EPIC",
 			"sourceHash": "3b9414a0",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.UpscalingQuality.SwitcherButtons(3).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.UpscalingQuality.SwitcherButtons(3).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -26763,7 +26795,7 @@
 			"key": "E88B02A142EB88C1C58B0888AB77A3B0",
 			"source": "Pause",
 			"sourceHash": "df0ceb0e",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.WB_SingleSettingBar_13.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.WB_SingleSettingBar_13.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -26815,7 +26847,7 @@
 			"key": "E8DA2E2B41F65594E3AA7AB99CECFDE6",
 			"source": "OFF",
 			"sourceHash": "68af2265",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.Fire.SwitcherButtons(3).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.Fire.SwitcherButtons(3).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -27228,62 +27260,10 @@
 		},
 		{
 			"ns": "",
-			"key": "EB84B14C495A579BD9D426821BC2355C",
-			"source": "10",
-			"sourceHash": "dc6e742b",
-			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_RaidSummaryLevel.W_IRR_RaidSummaryLevel_C:WidgetTree.CurrentValue.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "10",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "10",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "10",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "10",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "10",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "10",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "EC610EAB4FF5F5787C5BDA9F78EB1BDD",
 			"source": "Color Vision Deficiency",
 			"sourceHash": "cd734565",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.ColorVisionDeficiencyType.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.ColorVisionDeficiencyType.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -27335,7 +27315,7 @@
 			"key": "ECB2D6BB46C2176495E30AA188E6CA9C",
 			"source": "Lean Left",
 			"sourceHash": "efe12462",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.WB_LeanLeft.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.WB_LeanLeft.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -27439,7 +27419,7 @@
 			"key": "ECFC541E430107B29E4BF490A1400250",
 			"source": "30",
 			"sourceHash": "9e4b7356",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.FPSLimit.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.FPSLimit.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -27543,7 +27523,7 @@
 			"key": "EE048E9B4740EAE3541D3FBA16403E6B",
 			"source": "Setting to adjust Post Processing quality.  Enables volumetric effects like volmetric fog and clouds on High and Epic.",
 			"sourceHash": "f7454998",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.PostProcess.SettingDescriptor.DescriptionRichText",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.PostProcess.SettingDescriptor.DescriptionRichText",
 			"t":
 			{
 				"de":
@@ -27699,7 +27679,7 @@
 			"key": "EF219EF14049F42E11AAAD8FADB8B73E",
 			"source": "Pistol",
 			"sourceHash": "8417158d",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.WB_SingleSettingBar_5.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.WB_SingleSettingBar_5.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -27803,7 +27783,7 @@
 			"key": "EFEC13CD46FE5B1BFBFD50859763854E",
 			"source": "LUMEN Scalabiliy Settings",
 			"sourceHash": "0c972048",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.LumenScalibility.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.LumenScalibility.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -28372,105 +28352,41 @@
 		},
 		{
 			"ns": "",
-			"key": "F4C587E441FDE87F190281B4F1A5567D",
-			"source": "Cycle Tactical Attachments",
-			"sourceHash": "b9561b6f",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.CycleTacticalAttachments.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"key": "F515753448DF9F37543443A92ED54362",
+			"source": "Paste A Code Here To Import The Preset.",
+			"sourceHash": "b26783cc",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_AISettings_NEW.WB_AISettings_NEW_C:ExecuteUbergraph_WB_AISettings_NEW [Script Bytecode]",
 			"t":
 			{
 				"de":
 				{
-					"text": "Taktische Anbauteile durchschalten",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"zh-Hans":
 				{
-					"text": "轮换战术配件",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"ru":
 				{
-					"text": "Сменить режим тактических модулей",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"ko":
 				{
-					"text": "전술 부착물 순환",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"ja":
 				{
-					"text": "タクティカルアタッチメント順送り",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"es-ES":
 				{
-					"text": "Cambiar accesorios tácticos",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "F51238F041F45FBC710488B19842A080",
-			"source": "-",
-			"sourceHash": "731ca8ff",
-			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_RaidSummaryFactionItem.W_IRR_RaidSummaryFactionItem_C:ExecuteUbergraph_W_IRR_RaidSummaryFactionItem [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": "-",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "-",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "-",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "-",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "-",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "-",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -28635,7 +28551,7 @@
 			"key": "F6988B014354CB2405A99CBCE92733EC",
 			"source": "TAA",
 			"sourceHash": "82375a37",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.antialiasing_Method.SwitcherButtons(3).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.antialiasing_Method.SwitcherButtons(4).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -28679,6 +28595,46 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "F729A17745A7AFECB09EC28EF5A90B9A",
+			"source": "UICS",
+			"sourceHash": "8ddbb604",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/AI/WB_AIPresetEntry.WB_AIPresetEntry_C:WidgetTree.Title.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -28739,7 +28695,7 @@
 			"key": "F798DBC14ACE29AFF4A69A849E9C4C97",
 			"source": "LOW",
 			"sourceHash": "e8dbdb44",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.Foliage.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.Foliage.SwitcherButtons(0).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -28895,7 +28851,7 @@
 			"key": "F999B30044D7F1D20940B293B1A6DD6E",
 			"source": "Boost",
 			"sourceHash": "db0cf56b",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.NvidiaReflex.SwitcherButtons(2).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.NvidiaReflex.SwitcherButtons(2).SwitcherButtons.LabelText_9_BBA5648848F65E26AFE3869BF7497603",
 			"t":
 			{
 				"de":
@@ -28988,58 +28944,6 @@
 				"es-ES":
 				{
 					"text": "Más alto = más fluido, más ticks por segundo.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "FA44626349050A7163E5E49AF34A4C5D",
-			"source": "Global Combat Positioning System",
-			"sourceHash": "2a77ecbd",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.WB_SingleSettingBar_6.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
-			"t":
-			{
-				"de":
-				{
-					"text": "Globales Kampf-Positionierungssystem (GCPS)",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "全球战斗定位系统 (GCPS)",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Глобальная система боевого позиционирования (GCPS)",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "전역 전투 측위 시스템 (GCPS)",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "全地球戦闘測位システム (GCPS)",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Sistema global de posicionamiento en combate (GCPS)",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -29152,53 +29056,41 @@
 		},
 		{
 			"ns": "",
-			"key": "FB2EF83D4F020C07CC72B2BDC5D425CA",
-			"source": "Test",
-			"sourceHash": "86a07516",
-			"origin": "/Game/Blueprints/UICore/Widgets/Laptop/W_IRR_Laptop_SearchFilter.Default__W_IRR_Laptop_SearchFilter_C.Text",
+			"key": "FB27AD464293825A122D8E9917BE254D",
+			"source": "Enter a name for the preset.",
+			"sourceHash": "a4d4843d",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/AI/WB_AIPresetImport.WB_AIPresetImport_C:WidgetTree.IRRTextBlock_1.Text",
 			"t":
 			{
 				"de":
 				{
-					"text": "Test",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"zh-Hans":
 				{
-					"text": "测试",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"ru":
 				{
-					"text": "Тест",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"ko":
 				{
-					"text": "테스트",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"ja":
 				{
-					"text": "テスト",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"es-ES":
 				{
-					"text": "Prueba",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -29415,7 +29307,7 @@
 			"key": "FCF2652F487F3912D9E67088BC66AC04",
 			"source": "Foliage Quality",
 			"sourceHash": "5c2aea39",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings_Backup.WB_GraphicSettings_Backup_C:WidgetTree.Foliage.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.WB_GraphicSettings_C:WidgetTree.Foliage.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
@@ -29467,7 +29359,7 @@
 			"key": "FD0DF5064C9AD2A7DEB93CA65BDA181D",
 			"source": "Cycle Sights",
 			"sourceHash": "f3e6dc1f",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeyboardSoldierBindings.WB_KeyboardSoldierBindings_C:WidgetTree.CycleSights.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_KeybindsSettings.WB_KeybindsSettings_C:WidgetTree.CycleSights.SettingBar.LabelSettings_17_C0FB3CF442EE50582D14F7910343E95C.Text_3_4CDF99D140A67A062FBAA99D135648EC",
 			"t":
 			{
 				"de":
