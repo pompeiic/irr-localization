@@ -264,58 +264,6 @@
 		},
 		{
 			"ns": "",
-			"key": "87776DA148E2A88A500B50948651A542",
-			"source": "Bleeding",
-			"sourceHash": "0bae2e7f",
-			"origin": "/Game/Blueprints/SimpleGameplayAbilitySystem/Effects/SGE_NeutralCombat.Default__SGE_NeutralCombat_C.Name",
-			"t":
-			{
-				"de":
-				{
-					"text": "Blutung",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "流血",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "кровотечение",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "출혈",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "出血",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "sangrado",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "8D6890ED4754B654C1240A97A65C2DAE",
 			"source": "Hold Breath",
 			"sourceHash": "e2b1b61c",
