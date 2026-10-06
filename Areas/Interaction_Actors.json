@@ -2708,58 +2708,6 @@
 		},
 		{
 			"ns": "",
-			"key": "D38193124FC9A8A24A61E9BE69487582",
-			"source": "test",
-			"sourceHash": "919f0e6b",
-			"origin": "/Game/Blueprints/InteractionSystem/Actors/BP_AmmoRefill.BP_AmmoRefill_C:BP_InteractionTarget_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "Test",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-25T20:54:02Z"
-				},
-				"zh-Hans":
-				{
-					"text": "测试",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-25T20:54:02Z"
-				},
-				"ru":
-				{
-					"text": "тест",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-25T20:54:02Z"
-				},
-				"ko":
-				{
-					"text": "테스트",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-25T20:54:02Z"
-				},
-				"ja":
-				{
-					"text": "テスト",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-25T20:54:02Z"
-				},
-				"es-ES":
-				{
-					"text": "prueba",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-25T20:54:02Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "D3F12AA241ABC8A998B7F887BE6ED444",
 			"source": "Hold <Red>F</> to <Red>Unlock</> the door.",
 			"sourceHash": "47e149b8",
