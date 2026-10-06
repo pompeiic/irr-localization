@@ -993,50 +993,50 @@
 		{
 			"ns": "",
 			"key": "95E3EA7843C16830F4A39BA98906A3A2",
-			"source": "Press <Red>F</> to <Red>upgrade</> the firing range.",
-			"sourceHash": "36b0407c",
+			"source": "Press <Red>F</> to <Red>upgrade</> the shooting range.",
+			"sourceHash": "dfeb1904",
 			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_Master_ShootingRange.BP_HideoutUnit_Master_ShootingRange_C:BP_InteractionTarget_Upgrade_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
 			"t":
 			{
 				"de":
 				{
 					"text": "Drücke <Red>F</>, um den Schießstand <Red>aufzurüsten</>.",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-25T20:56:00Z"
 				},
 				"zh-Hans":
 				{
 					"text": "按<Red>F</><Red>升级</>射击场。",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-25T20:56:00Z"
 				},
 				"ru":
 				{
 					"text": "Нажми <Red>F</>, чтобы <Red>улучшить</> стрельбище.",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-25T20:56:00Z"
 				},
 				"ko":
 				{
 					"text": "<Red>F</> 눌러 사격장 <Red>업그레이드</>",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-25T20:56:00Z"
 				},
 				"ja":
 				{
 					"text": "<Red>F</>で射撃場を<Red>強化</>",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-25T20:56:00Z"
 				},
 				"es-ES":
 				{
 					"text": "Pulsa <Red>F</> para <Red>mejorar</> el campo de tiro.",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-25T20:56:00Z"
 				}
