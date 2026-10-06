@@ -4749,13 +4749,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Document Title: \"Bunker – Weather Data\"  \r\nClassification: Confidential – Internal Distribution Only\r\n\r\nDocumento descargado correctamente.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "Document Title: \"Bunker – Weather Data\"  \r\nClassification: Confidential – Internal Distribution Only\r\n\r\n文件下载成功。",
@@ -4783,6 +4776,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Document Title: \"Bunker – Weather Data\"  \r\nClassification: Confidential – Internal Distribution Only\r\n\r\nDocumento descargado correctamente.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -13680,6 +13680,46 @@
 		},
 		{
 			"ns": "",
+			"key": "4E06DE54486C01EA579D28AF089EC5BF",
+			"source": "Trade In",
+			"sourceHash": "cd8cfdf3",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/BLUEFOR/ADLER/Contracts/Delta/Airdrop/DA_BLUEFOR_ADLER_Contract_Delta_Airdrop.DA_BLUEFOR_ADLER_Contract_Delta_Airdrop:IRRMissionSequence_1.Headline",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "4E0D986B40763EA3AB33AE923978B936",
 			"source": "Well, that’s all the <strong>VLF</> asked for. Seems like, I don’t know, perfunctory, but hopefully the <strong>VLF</> is appeased.",
 			"sourceHash": "a1ee8002",
@@ -16437,50 +16477,50 @@
 		{
 			"ns": "",
 			"key": "5B6D84D14DD2AA9F0E2605ADC4A36D62",
-			"source": "Available Commands:\r\n\r\n1. help - Display available commands and their descriptions.\r\n2. dir - Display all of the files and folders in the current directory.\r\n3. pop - Switch back to previous directory (e.g. go back).\r\n4. login - Enter new login credentials to change the user & permissions.\r\n5. cd <directory> - Change directory to navigate within the terminal system.\r\n6. run <file_id> - Execute the exe file.\r\n7. download <file_id> - Download content from target file.\r\n8. scan <file_id> - Scan content from file.\r\n9. read <file_id> - Reading content of file.\r\n10. hack - Installs a trojaner and hacks the terminal. Goes through directories one by one and reads/scans all files.\r\n11. shutdown - Shutdown the terminal.\r\n\r\n**Additional help**\r\n\r\n> To find a file, try changing directories via cd <directory> and us the dir command to display all available files at the current level\r\n> Some directories require special access. Use the login command to get Admin access. You may have to take a look at the users file to find the credentials.",
-			"sourceHash": "98e8ec7c",
+			"source": "Available Commands:\r\n\r\n1. help - Display available commands and their descriptions.\r\n2. dir - Display all of the files and folders in the current directory.\r\n3. pop - Switch back to previous directory (e.g. go back).\r\n4. login - Enter new login credentials to change the user & permissions.\r\n5. cd <directory> - Change directory to navigate within the terminal system.\r\n6. run <file_id> - Execute the exe file.\r\n7. download <file_id> - Download content from target file.\r\n8. scan <file_id> - Scan content from file.\r\n9. read <file_id> - Reading content of file.\r\n10. shutdown - Shutdown the terminal.\r\n\r\n**Additional help**\r\n\r\n> To find a file, try changing directories via cd <directory> and us the dir command to display all available files at the current level\r\n> Some directories require special access. Use the login command to get Admin access. You may have to take a look at the users file to find the credentials.",
+			"sourceHash": "0976ca73",
 			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_IGC.DA_Terminal_IGC:BP_TerminalSequence_Text_C_0.Text",
 			"t":
 			{
 				"de":
 				{
 					"text": "Verfügbare Befehle:\r\n\r\n1. help - Verfügbare Befehle und deren Beschreibungen anzeigen.\r\n2. dir - Alle Dateien und Ordner im aktuellen Verzeichnis anzeigen.\r\n3. pop - Zum vorherigen Verzeichnis zurückkehren (z. B. zurückgehen).\r\n4. login - Neue Anmeldedaten eingeben, um Benutzer & Berechtigungen zu ändern.\r\n5. cd <directory> - Verzeichnis wechseln, um im Terminalsystem zu navigieren.\r\n6. run <file_id> - Die EXE-Datei ausführen.\r\n7. download <file_id> - Inhalte aus der Zieldatei herunterladen.\r\n8. scan <file_id> - Dateiinhalt scannen.\r\n9. read <file_id> - Dateiinhalt lesen.\r\n10. hack - Installiert einen Trojaner und hackt das Terminal. Geht Verzeichnisse nacheinander durch und liest/scannt alle Dateien.\r\n11. shutdown - Das Terminal herunterfahren.\r\n\r\n**Zusätzliche Hilfe**\r\n\r\n> Um eine Datei zu finden, wechsle Verzeichnisse mit cd <directory> und nutze den Befehl dir, um alle verfügbaren Dateien auf der aktuellen Ebene anzuzeigen\r\n> Einige Verzeichnisse erfordern speziellen Zugriff. Verwende den Befehl login, um Admin-Zugriff zu erhalten. Sieh eventuell in der users-Datei nach, um die Zugangsdaten zu finden.",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"zh-Hans":
 				{
 					"text": "可用命令：\r\n\r\n1. help - 显示可用命令及其说明。\r\n2. dir - 显示当前目录中的所有文件和文件夹。\r\n3. pop - 返回上一个目录（例如后退）。\r\n4. login - 输入新的登录凭据以更改用户与权限。\r\n5. cd <directory> - 切换目录以在终端系统内导航。\r\n6. run <file_id> - 执行 exe 文件。\r\n7. download <file_id> - 从目标文件下载内容。\r\n8. scan <file_id> - 扫描文件内容。\r\n9. read <file_id> - 读取文件内容。\r\n10. hack - 安装木马并黑入终端。逐一遍历各目录并读取/扫描所有文件。\r\n11. shutdown - 关闭终端。\r\n\r\n**补充帮助**\r\n\r\n> 若要查找文件，请尝试使用 cd <directory> 切换目录，并使用 dir 命令显示当前层级的所有可用文件\r\n> 某些目录需要特殊访问权限。使用 login 命令获取管理员访问权限。你可能需要查看 users 文件以查找凭据。",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"ru":
 				{
 					"text": "Доступные команды:\r\n\r\n1. help - Показать доступные команды и их описания.\r\n2. dir - Показать все файлы и папки в текущем каталоге.\r\n3. pop - Вернуться в предыдущий каталог (назад).\r\n4. login - Ввести новые учетные данные для смены пользователя и прав доступа.\r\n5. cd <directory> - Сменить каталог для навигации по терминалу.\r\n6. run <file_id> - Запустить exe-файл.\r\n7. download <file_id> - Загрузить содержимое из целевого файла.\r\n8. scan <file_id> - Сканировать содержимое файла.\r\n9. read <file_id> - Прочитать содержимое файла.\r\n10. hack - Устанавливает троян и взламывает терминал. Проходит по каталогам по очереди и считывает/сканирует все файлы.\r\n11. shutdown - Выключить терминал.\r\n\r\n**Дополнительная помощь**\r\n\r\n> Чтобы найти файл, попробуй сменить каталог с помощью cd <directory> и используй команду dir для отображения всех доступных файлов на текущем уровне\r\n> Для доступа к некоторым каталогам требуются особые права. Используй команду login, чтобы получить права администратора. Возможно, придется заглянуть в файл users, чтобы найти учетные данные.",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"ko":
 				{
 					"text": "사용 가능한 명령어:\r\n\r\n1. help - 사용 가능한 명령어와 설명을 표시합니다.\r\n2. dir - 현재 디렉터리의 모든 파일과 폴더를 표시합니다.\r\n3. pop - 이전 디렉터리로 돌아갑니다(뒤로 가기).\r\n4. login - 새 로그인 자격 증명을 입력하여 사용자 및 권한을 변경합니다.\r\n5. cd <directory> - 디렉터리를 변경하여 단말기 시스템 내에서 이동합니다.\r\n6. run <file_id> - exe 파일을 실행합니다.\r\n7. download <file_id> - 대상 파일에서 콘텐츠를 다운로드합니다.\r\n8. scan <file_id> - 파일의 콘텐츠를 스캔합니다.\r\n9. read <file_id> - 파일의 콘텐츠를 읽습니다.\r\n10. hack - 트로이 목마를 설치하고 단말기를 해킹합니다. 디렉터리를 하나씩 이동하며 모든 파일을 읽거나 스캔합니다.\r\n11. shutdown - 단말기를 종료합니다.\r\n\r\n**추가 도움말**\r\n\r\n> 파일을 찾으려면 cd <directory> 명령으로 디렉터리를 변경하고 dir 명령을 사용하여 현재 수준에서 사용 가능한 모든 파일을 표시해 보세요\r\n> 일부 디렉터리는 특별한 접근 권한이 필요합니다. 관리자 권한을 얻으려면 login 명령을 사용하세요. 자격 증명을 찾으려면 users 파일을 확인해야 할 수도 있습니다.",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"ja":
 				{
 					"text": "使用可能なコマンド:\r\n\r\n1. help - 使用可能なコマンドとその説明を表示します。\r\n2. dir - 現在のディレクトリ内のすべてのファイルとフォルダを表示します。\r\n3. pop - 前のディレクトリに戻ります（戻る）。\r\n4. login - 新しいログイン認証情報を入力して、ユーザーと権限を変更します。\r\n5. cd <directory> - ディレクトリを変更し、端末システム内を移動します。\r\n6. run <file_id> - exeファイルを実行します。\r\n7. download <file_id> - 対象ファイルからコンテンツをダウンロードします。\r\n8. scan <file_id> - ファイルのコンテンツをスキャンします。\r\n9. read <file_id> - ファイルのコンテンツを読み取ります。\r\n10. hack - トロイの木馬をインストールして端末をハックします。ディレクトリを順に巡回し、すべてのファイルを読み取り/スキャンします。\r\n11. shutdown - 端末をシャットダウンします。\r\n\r\n**追加ヘルプ**\r\n\r\n> ファイルを見つけるには、cd <directory> でディレクトリを変更し、dir コマンドを使用して現在の階層にあるすべての利用可能なファイルを表示してください\r\n> 一部のディレクトリには特別なアクセス権が必要です。login コマンドを使用して管理者アクセス権を取得してください。認証情報を見つけるには users ファイルを確認する必要がある場合があります。",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"es-ES":
 				{
 					"text": "Comandos disponibles:\r\n\r\n1. help - Muestra los comandos disponibles y sus descripciones.\r\n2. dir - Muestra todos los archivos y carpetas del directorio actual.\r\n3. pop - Vuelve al directorio anterior (por ejemplo, retroceder).\r\n4. login - Introduce nuevas credenciales de inicio de sesión para cambiar de usuario y permisos.\r\n5. cd <directory> - Cambia de directorio para navegar por el sistema de la terminal.\r\n6. run <file_id> - Ejecuta el archivo exe.\r\n7. download <file_id> - Descarga contenido del archivo objetivo.\r\n8. scan <file_id> - Escanea el contenido del archivo.\r\n9. read <file_id> - Lee el contenido del archivo.\r\n10. hack - Instala un troyano y hackea la terminal. Recorre los directorios uno a uno y lee/escanea todos los archivos.\r\n11. shutdown - Apaga la terminal.\r\n\r\n**Ayuda adicional**\r\n\r\n> Para buscar un archivo, prueba a cambiar de directorio con cd <directory> y usa el comando dir para mostrar todos los archivos disponibles en el nivel actual\r\n> Algunos directorios requieren acceso especial. Usa el comando login para obtener acceso de administrador. Es posible que tengas que consultar el archivo users para encontrar las credenciales.",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				}
@@ -17841,50 +17881,50 @@
 		{
 			"ns": "",
 			"key": "64F48041482A0C9595FA83A4E4F601A5",
-			"source": "Intercept Airdrop",
-			"sourceHash": "c00f2268",
+			"source": "Intercept",
+			"sourceHash": "c21580f0",
 			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/BLUEFOR/ADLER/Contracts/Delta/Airdrop/DA_BLUEFOR_ADLER_Contract_Delta_Airdrop.DA_BLUEFOR_ADLER_Contract_Delta_Airdrop:IRRMissionSequence_0.Headline",
 			"t":
 			{
 				"de":
 				{
 					"text": "Luftabwurf abfangen",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"zh-Hans":
 				{
 					"text": "拦截空投",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"ru":
 				{
 					"text": "Перехватить аирдроп",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"ko":
 				{
 					"text": "공중 보급 차단",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"ja":
 				{
 					"text": "エアドロップを阻止",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"es-ES":
 				{
 					"text": "Interceptar lanzamiento aéreo",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				}
@@ -33076,58 +33116,6 @@
 		},
 		{
 			"ns": "",
-			"key": "B3D47A9A45C4E13A4B953897D9A74674",
-			"source": "████████╗███████╗██╗      ██████╗  ██████╗██╗  ██╗           \r\n╚══██╔══╝██╔════╝██║     ██╔═══██╗██╔════╝██║ ██╔╝           \r\n   ██║   █████╗  ██║     ██║   ██║██║     █████╔╝            \r\n   ██║   ██╔══╝  ██║     ██║   ██║██║     ██╔═██╗            \r\n   ██║   ███████╗███████╗╚██████╔╝╚██████╗██║  ██╗           \r\n   ╚═╝   ╚══════╝╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝           \r\n                                                             \r\n███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗███████╗\r\n██╔════╝╚██╗ ██╔╝██╔════╝╚══██╔══╝██╔════╝████╗ ████║██╔════╝\r\n███████╗ ╚████╔╝ ███████╗   ██║   █████╗  ██╔████╔██║███████╗\r\n╚════██║  ╚██╔╝  ╚════██║   ██║   ██╔══╝  ██║╚██╔╝██║╚════██║\r\n███████║   ██║   ███████║   ██║   ███████╗██║ ╚═╝ ██║███████║\r\n╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝╚══════╝",
-			"sourceHash": "d69a93cc",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_VLF.DA_Terminal_VLF.SystemArt",
-			"t":
-			{
-				"de":
-				{
-					"text": "████████╗███████╗██╗      ██████╗  ██████╗██╗  ██╗           \r\n╚══██╔══╝██╔════╝██║     ██╔═══██╗██╔════╝██║ ██╔╝           \r\n   ██║   █████╗  ██║     ██║   ██║██║     █████╔╝            \r\n   ██║   ██╔══╝  ██║     ██║   ██║██║     ██╔═██╗            \r\n   ██║   ███████╗███████╗╚██████╔╝╚██████╗██║  ██╗           \r\n   ╚═╝   ╚══════╝╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝           \r\n                                                             \r\n███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗███████╗\r\n██╔════╝╚██╗ ██╔╝██╔════╝╚══██╔══╝██╔════╝████╗ ████║██╔════╝\r\n███████╗ ╚████╔╝ ███████╗   ██║   █████╗  ██╔████╔██║███████╗\r\n╚════██║  ╚██╔╝  ╚════██║   ██║   ██╔══╝  ██║╚██╔╝██║╚════██║\r\n███████║   ██║   ███████║   ██║   ███████╗██║ ╚═╝ ██║███████║\r\n╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝╚══════╝",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "████████╗███████╗██╗      ██████╗  ██████╗██╗  ██╗           \r\n╚══██╔══╝██╔════╝██║     ██╔═══██╗██╔════╝██║ ██╔╝           \r\n   ██║   █████╗  ██║     ██║   ██║██║     █████╔╝            \r\n   ██║   ██╔══╝  ██║     ██║   ██║██║     ██╔═██╗            \r\n   ██║   ███████╗███████╗╚██████╔╝╚██████╗██║  ██╗           \r\n   ╚═╝   ╚══════╝╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝           \r\n                                                             \r\n███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗███████╗\r\n██╔════╝╚██╗ ██╔╝██╔════╝╚══██╔══╝██╔════╝████╗ ████║██╔════╝\r\n███████╗ ╚████╔╝ ███████╗   ██║   █████╗  ██╔████╔██║███████╗\r\n╚════██║  ╚██╔╝  ╚════██║   ██║   ██╔══╝  ██║╚██╔╝██║╚════██║\r\n███████║   ██║   ███████║   ██║   ███████╗██║ ╚═╝ ██║███████║\r\n╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝╚══════╝",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "████████╗███████╗██╗      ██████╗  ██████╗██╗  ██╗           \r\n╚══██╔══╝██╔════╝██║     ██╔═══██╗██╔════╝██║ ██╔╝           \r\n   ██║   █████╗  ██║     ██║   ██║██║     █████╔╝            \r\n   ██║   ██╔══╝  ██║     ██║   ██║██║     ██╔═██╗            \r\n   ██║   ███████╗███████╗╚██████╔╝╚██████╗██║  ██╗           \r\n   ╚═╝   ╚══════╝╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝           \r\n                                                             \r\n███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗███████╗\r\n██╔════╝╚██╗ ██╔╝██╔════╝╚══██╔══╝██╔════╝████╗ ████║██╔════╝\r\n███████╗ ╚████╔╝ ███████╗   ██║   █████╗  ██╔████╔██║███████╗\r\n╚════██║  ╚██╔╝  ╚════██║   ██║   ██╔══╝  ██║╚██╔╝██║╚════██║\r\n███████║   ██║   ███████║   ██║   ███████╗██║ ╚═╝ ██║███████║\r\n╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝╚══════╝",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "████████╗███████╗██╗      ██████╗  ██████╗██╗  ██╗           \r\n╚══██╔══╝██╔════╝██║     ██╔═══██╗██╔════╝██║ ██╔╝           \r\n   ██║   █████╗  ██║     ██║   ██║██║     █████╔╝            \r\n   ██║   ██╔══╝  ██║     ██║   ██║██║     ██╔═██╗            \r\n   ██║   ███████╗███████╗╚██████╔╝╚██████╗██║  ██╗           \r\n   ╚═╝   ╚══════╝╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝           \r\n                                                             \r\n███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗███████╗\r\n██╔════╝╚██╗ ██╔╝██╔════╝╚══██╔══╝██╔════╝████╗ ████║██╔════╝\r\n███████╗ ╚████╔╝ ███████╗   ██║   █████╗  ██╔████╔██║███████╗\r\n╚════██║  ╚██╔╝  ╚════██║   ██║   ██╔══╝  ██║╚██╔╝██║╚════██║\r\n███████║   ██║   ███████║   ██║   ███████╗██║ ╚═╝ ██║███████║\r\n╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝╚══════╝",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "████████╗███████╗██╗      ██████╗  ██████╗██╗  ██╗           \r\n╚══██╔══╝██╔════╝██║     ██╔═══██╗██╔════╝██║ ██╔╝           \r\n   ██║   █████╗  ██║     ██║   ██║██║     █████╔╝            \r\n   ██║   ██╔══╝  ██║     ██║   ██║██║     ██╔═██╗            \r\n   ██║   ███████╗███████╗╚██████╔╝╚██████╗██║  ██╗           \r\n   ╚═╝   ╚══════╝╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝           \r\n                                                             \r\n███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗███████╗\r\n██╔════╝╚██╗ ██╔╝██╔════╝╚══██╔══╝██╔════╝████╗ ████║██╔════╝\r\n███████╗ ╚████╔╝ ███████╗   ██║   █████╗  ██╔████╔██║███████╗\r\n╚════██║  ╚██╔╝  ╚════██║   ██║   ██╔══╝  ██║╚██╔╝██║╚════██║\r\n███████║   ██║   ███████║   ██║   ███████╗██║ ╚═╝ ██║███████║\r\n╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝╚══════╝",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "████████╗███████╗██╗      ██████╗  ██████╗██╗  ██╗           \r\n╚══██╔══╝██╔════╝██║     ██╔═══██╗██╔════╝██║ ██╔╝           \r\n   ██║   █████╗  ██║     ██║   ██║██║     █████╔╝            \r\n   ██║   ██╔══╝  ██║     ██║   ██║██║     ██╔═██╗            \r\n   ██║   ███████╗███████╗╚██████╔╝╚██████╗██║  ██╗           \r\n   ╚═╝   ╚══════╝╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝           \r\n                                                             \r\n███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗███████╗\r\n██╔════╝╚██╗ ██╔╝██╔════╝╚══██╔══╝██╔════╝████╗ ████║██╔════╝\r\n███████╗ ╚████╔╝ ███████╗   ██║   █████╗  ██╔████╔██║███████╗\r\n╚════██║  ╚██╔╝  ╚════██║   ██║   ██╔══╝  ██║╚██╔╝██║╚════██║\r\n███████║   ██║   ███████║   ██║   ███████╗██║ ╚═╝ ██║███████║\r\n╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝╚══════╝",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "B3FCFA2B4B5B82CD3BCE6A84163EC7AD",
 			"source": "Right. Well done. That will surely make the field inedible and will probably further the starvation that the <strong>UICS</> seems here to solve. I'm sure the <strong>IGC</> will be pleased. Just head back to base when you’re ready. You’ve done good.",
 			"sourceHash": "3ee08a02",
@@ -33952,58 +33940,6 @@
 				"es-ES":
 				{
 					"text": "<italic>De: </><strongitalic>SỪNG TRÂU</><italic>. </><strongitalic>VLF</><italic> necesita que encuentres más edificios de Quân Liên Lục Địa [</><strongitalic>UICS</><italic>] en Châu thổ [</><strongitalic>DELTA</><italic>]. Una cosilla mientras estás ahí: echa un vistazo al Market Building por mí. Mata a todos los soldados bọn thiết vệ [</><strongitalic>IGC</><italic>], no deberían estar cerca, se lo he dicho muchas veces. Sigue con discreción.</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "B8EFA1F24C5CFCB21728829AA1C6C0B5",
-			"source": "\r\n██╗   ██╗██╗ ██████╗███████╗                                     \r\n██║   ██║██║██╔════╝██╔════╝                                     \r\n██║   ██║██║██║     ███████╗                                     \r\n██║   ██║██║██║     ╚════██║                                     \r\n╚██████╔╝██║╚██████╗███████║                                     \r\n ╚═════╝ ╚═╝ ╚═════╝╚══════╝                                     \r\n                                                                 \r\n████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     \r\n╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║     \r\n   ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║     \r\n   ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     \r\n   ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗\r\n   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝\r\n                                                                 ",
-			"sourceHash": "2144c06a",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS.DA_Terminal_UICS.SystemArt",
-			"t":
-			{
-				"de":
-				{
-					"text": "\r\n██╗   ██╗██╗ ██████╗███████╗                                     \r\n██║   ██║██║██╔════╝██╔════╝                                     \r\n██║   ██║██║██║     ███████╗                                     \r\n██║   ██║██║██║     ╚════██║                                     \r\n╚██████╔╝██║╚██████╗███████║                                     \r\n ╚═════╝ ╚═╝ ╚═════╝╚══════╝                                     \r\n                                                                 \r\n████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     \r\n╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║     \r\n   ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║     \r\n   ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     \r\n   ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗\r\n   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝\r\n                                                                 ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "\r\n██╗   ██╗██╗ ██████╗███████╗                                     \r\n██║   ██║██║██╔════╝██╔════╝                                     \r\n██║   ██║██║██║     ███████╗                                     \r\n██║   ██║██║██║     ╚════██║                                     \r\n╚██████╔╝██║╚██████╗███████║                                     \r\n ╚═════╝ ╚═╝ ╚═════╝╚══════╝                                     \r\n                                                                 \r\n████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     \r\n╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║     \r\n   ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║     \r\n   ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     \r\n   ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗\r\n   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝\r\n                                                                 ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "\r\n██╗   ██╗██╗ ██████╗███████╗                                     \r\n██║   ██║██║██╔════╝██╔════╝                                     \r\n██║   ██║██║██║     ███████╗                                     \r\n██║   ██║██║██║     ╚════██║                                     \r\n╚██████╔╝██║╚██████╗███████║                                     \r\n ╚═════╝ ╚═╝ ╚═════╝╚══════╝                                     \r\n                                                                 \r\n████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     \r\n╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║     \r\n   ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║     \r\n   ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     \r\n   ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗\r\n   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝\r\n                                                                 ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "\r\n██╗   ██╗██╗ ██████╗███████╗                                     \r\n██║   ██║██║██╔════╝██╔════╝                                     \r\n██║   ██║██║██║     ███████╗                                     \r\n██║   ██║██║██║     ╚════██║                                     \r\n╚██████╔╝██║╚██████╗███████║                                     \r\n ╚═════╝ ╚═╝ ╚═════╝╚══════╝                                     \r\n                                                                 \r\n████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     \r\n╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║     \r\n   ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║     \r\n   ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     \r\n   ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗\r\n   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝\r\n                                                                 ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "\r\n██╗   ██╗██╗ ██████╗███████╗                                     \r\n██║   ██║██║██╔════╝██╔════╝                                     \r\n██║   ██║██║██║     ███████╗                                     \r\n██║   ██║██║██║     ╚════██║                                     \r\n╚██████╔╝██║╚██████╗███████║                                     \r\n ╚═════╝ ╚═╝ ╚═════╝╚══════╝                                     \r\n                                                                 \r\n████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     \r\n╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║     \r\n   ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║     \r\n   ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     \r\n   ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗\r\n   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝\r\n                                                                 ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "\r\n██╗   ██╗██╗ ██████╗███████╗                                     \r\n██║   ██║██║██╔════╝██╔════╝                                     \r\n██║   ██║██║██║     ███████╗                                     \r\n██║   ██║██║██║     ╚════██║                                     \r\n╚██████╔╝██║╚██████╗███████║                                     \r\n ╚═════╝ ╚═╝ ╚═════╝╚══════╝                                     \r\n                                                                 \r\n████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     \r\n╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║     \r\n   ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║     \r\n   ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     \r\n   ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗\r\n   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝\r\n                                                                 ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -35304,58 +35240,6 @@
 				"es-ES":
 				{
 					"text": "¡Me alegra oír que lo tienes! Puede que los camiones sean más puntuales de lo que parecen. Ahora llévalo de vuelta a tu refugio para que <strong>FANG</> empiece a preparar lo que necesitas y los siguientes pasos.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "C0493B5E4BC2FB5C2E855DA02CF7DE8F",
-			"source": "\r\n██╗   ██╗██╗ ██████╗███████╗                                     \r\n██║   ██║██║██╔════╝██╔════╝                                     \r\n██║   ██║██║██║     ███████╗                                     \r\n██║   ██║██║██║     ╚════██║                                     \r\n╚██████╔╝██║╚██████╗███████║                                     \r\n ╚═════╝ ╚═╝ ╚═════╝╚══════╝                                     \r\n                                                                 \r\n████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     \r\n╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║     \r\n   ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║     \r\n   ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     \r\n   ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗\r\n   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝\r\n                                                                 ",
-			"sourceHash": "2144c06a",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY.SystemArt",
-			"t":
-			{
-				"de":
-				{
-					"text": "\r\n██╗   ██╗██╗ ██████╗███████╗                                     \r\n██║   ██║██║██╔════╝██╔════╝                                     \r\n██║   ██║██║██║     ███████╗                                     \r\n██║   ██║██║██║     ╚════██║                                     \r\n╚██████╔╝██║╚██████╗███████║                                     \r\n ╚═════╝ ╚═╝ ╚═════╝╚══════╝                                     \r\n                                                                 \r\n████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     \r\n╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║     \r\n   ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║     \r\n   ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     \r\n   ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗\r\n   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝\r\n                                                                 ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "\r\n██╗   ██╗██╗ ██████╗███████╗                                     \r\n██║   ██║██║██╔════╝██╔════╝                                     \r\n██║   ██║██║██║     ███████╗                                     \r\n██║   ██║██║██║     ╚════██║                                     \r\n╚██████╔╝██║╚██████╗███████║                                     \r\n ╚═════╝ ╚═╝ ╚═════╝╚══════╝                                     \r\n                                                                 \r\n████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     \r\n╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║     \r\n   ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║     \r\n   ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     \r\n   ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗\r\n   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝\r\n                                                                 ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "\r\n██╗   ██╗██╗ ██████╗███████╗                                     \r\n██║   ██║██║██╔════╝██╔════╝                                     \r\n██║   ██║██║██║     ███████╗                                     \r\n██║   ██║██║██║     ╚════██║                                     \r\n╚██████╔╝██║╚██████╗███████║                                     \r\n ╚═════╝ ╚═╝ ╚═════╝╚══════╝                                     \r\n                                                                 \r\n████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     \r\n╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║     \r\n   ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║     \r\n   ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     \r\n   ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗\r\n   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝\r\n                                                                 ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "\r\n██╗   ██╗██╗ ██████╗███████╗                                     \r\n██║   ██║██║██╔════╝██╔════╝                                     \r\n██║   ██║██║██║     ███████╗                                     \r\n██║   ██║██║██║     ╚════██║                                     \r\n╚██████╔╝██║╚██████╗███████║                                     \r\n ╚═════╝ ╚═╝ ╚═════╝╚══════╝                                     \r\n                                                                 \r\n████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     \r\n╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║     \r\n   ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║     \r\n   ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     \r\n   ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗\r\n   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝\r\n                                                                 ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "\r\n██╗   ██╗██╗ ██████╗███████╗                                     \r\n██║   ██║██║██╔════╝██╔════╝                                     \r\n██║   ██║██║██║     ███████╗                                     \r\n██║   ██║██║██║     ╚════██║                                     \r\n╚██████╔╝██║╚██████╗███████║                                     \r\n ╚═════╝ ╚═╝ ╚═════╝╚══════╝                                     \r\n                                                                 \r\n████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     \r\n╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║     \r\n   ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║     \r\n   ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     \r\n   ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗\r\n   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝\r\n                                                                 ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "\r\n██╗   ██╗██╗ ██████╗███████╗                                     \r\n██║   ██║██║██╔════╝██╔════╝                                     \r\n██║   ██║██║██║     ███████╗                                     \r\n██║   ██║██║██║     ╚════██║                                     \r\n╚██████╔╝██║╚██████╗███████║                                     \r\n ╚═════╝ ╚═╝ ╚═════╝╚══════╝                                     \r\n                                                                 \r\n████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     \r\n╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║     \r\n   ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║     \r\n   ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     \r\n   ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗\r\n   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝\r\n                                                                 ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -45808,58 +45692,6 @@
 				"es-ES":
 				{
 					"text": "Ve a la cantera e instala los micrófonos.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "FAE6F9294181A9D1E8FAE79B551CAA49",
-			"source": "██████╗  ██████╗ ███╗   ███╗ ██████╗ ██╗   ██╗ ██████╗ ██╗   ██╗\r\n██╔══██╗██╔═══██╗████╗ ████║██╔═══██╗██║   ██║██╔═══██╗╚██╗ ██╔╝\r\n██║  ██║██║   ██║██╔████╔██║██║   ██║██║   ██║██║   ██║ ╚████╔╝ \r\n██║  ██║██║   ██║██║╚██╔╝██║██║   ██║╚██╗ ██╔╝██║   ██║  ╚██╔╝  \r\n██████╔╝╚██████╔╝██║ ╚═╝ ██║╚██████╔╝ ╚████╔╝ ╚██████╔╝   ██║   \r\n╚═════╝  ╚═════╝ ╚═╝     ╚═╝ ╚═════╝   ╚═══╝   ╚═════╝    ╚═╝   \r\n                                                                ",
-			"sourceHash": "6311f289",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_IGC.DA_Terminal_IGC.SystemArt",
-			"t":
-			{
-				"de":
-				{
-					"text": "██████╗  ██████╗ ███╗   ███╗ ██████╗ ██╗   ██╗ ██████╗ ██╗   ██╗\r\n██╔══██╗██╔═══██╗████╗ ████║██╔═══██╗██║   ██║██╔═══██╗╚██╗ ██╔╝\r\n██║  ██║██║   ██║██╔████╔██║██║   ██║██║   ██║██║   ██║ ╚████╔╝ \r\n██║  ██║██║   ██║██║╚██╔╝██║██║   ██║╚██╗ ██╔╝██║   ██║  ╚██╔╝  \r\n██████╔╝╚██████╔╝██║ ╚═╝ ██║╚██████╔╝ ╚████╔╝ ╚██████╔╝   ██║   \r\n╚═════╝  ╚═════╝ ╚═╝     ╚═╝ ╚═════╝   ╚═══╝   ╚═════╝    ╚═╝   \r\n                                                                ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "██████╗  ██████╗ ███╗   ███╗ ██████╗ ██╗   ██╗ ██████╗ ██╗   ██╗\r\n██╔══██╗██╔═══██╗████╗ ████║██╔═══██╗██║   ██║██╔═══██╗╚██╗ ██╔╝\r\n██║  ██║██║   ██║██╔████╔██║██║   ██║██║   ██║██║   ██║ ╚████╔╝ \r\n██║  ██║██║   ██║██║╚██╔╝██║██║   ██║╚██╗ ██╔╝██║   ██║  ╚██╔╝  \r\n██████╔╝╚██████╔╝██║ ╚═╝ ██║╚██████╔╝ ╚████╔╝ ╚██████╔╝   ██║   \r\n╚═════╝  ╚═════╝ ╚═╝     ╚═╝ ╚═════╝   ╚═══╝   ╚═════╝    ╚═╝   \r\n                                                                ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "██████╗  ██████╗ ███╗   ███╗ ██████╗ ██╗   ██╗ ██████╗ ██╗   ██╗\r\n██╔══██╗██╔═══██╗████╗ ████║██╔═══██╗██║   ██║██╔═══██╗╚██╗ ██╔╝\r\n██║  ██║██║   ██║██╔████╔██║██║   ██║██║   ██║██║   ██║ ╚████╔╝ \r\n██║  ██║██║   ██║██║╚██╔╝██║██║   ██║╚██╗ ██╔╝██║   ██║  ╚██╔╝  \r\n██████╔╝╚██████╔╝██║ ╚═╝ ██║╚██████╔╝ ╚████╔╝ ╚██████╔╝   ██║   \r\n╚═════╝  ╚═════╝ ╚═╝     ╚═╝ ╚═════╝   ╚═══╝   ╚═════╝    ╚═╝   \r\n                                                                ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "██████╗  ██████╗ ███╗   ███╗ ██████╗ ██╗   ██╗ ██████╗ ██╗   ██╗\r\n██╔══██╗██╔═══██╗████╗ ████║██╔═══██╗██║   ██║██╔═══██╗╚██╗ ██╔╝\r\n██║  ██║██║   ██║██╔████╔██║██║   ██║██║   ██║██║   ██║ ╚████╔╝ \r\n██║  ██║██║   ██║██║╚██╔╝██║██║   ██║╚██╗ ██╔╝██║   ██║  ╚██╔╝  \r\n██████╔╝╚██████╔╝██║ ╚═╝ ██║╚██████╔╝ ╚████╔╝ ╚██████╔╝   ██║   \r\n╚═════╝  ╚═════╝ ╚═╝     ╚═╝ ╚═════╝   ╚═══╝   ╚═════╝    ╚═╝   \r\n                                                                ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "██████╗  ██████╗ ███╗   ███╗ ██████╗ ██╗   ██╗ ██████╗ ██╗   ██╗\r\n██╔══██╗██╔═══██╗████╗ ████║██╔═══██╗██║   ██║██╔═══██╗╚██╗ ██╔╝\r\n██║  ██║██║   ██║██╔████╔██║██║   ██║██║   ██║██║   ██║ ╚████╔╝ \r\n██║  ██║██║   ██║██║╚██╔╝██║██║   ██║╚██╗ ██╔╝██║   ██║  ╚██╔╝  \r\n██████╔╝╚██████╔╝██║ ╚═╝ ██║╚██████╔╝ ╚████╔╝ ╚██████╔╝   ██║   \r\n╚═════╝  ╚═════╝ ╚═╝     ╚═╝ ╚═════╝   ╚═══╝   ╚═════╝    ╚═╝   \r\n                                                                ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "██████╗  ██████╗ ███╗   ███╗ ██████╗ ██╗   ██╗ ██████╗ ██╗   ██╗\r\n██╔══██╗██╔═══██╗████╗ ████║██╔═══██╗██║   ██║██╔═══██╗╚██╗ ██╔╝\r\n██║  ██║██║   ██║██╔████╔██║██║   ██║██║   ██║██║   ██║ ╚████╔╝ \r\n██║  ██║██║   ██║██║╚██╔╝██║██║   ██║╚██╗ ██╔╝██║   ██║  ╚██╔╝  \r\n██████╔╝╚██████╔╝██║ ╚═╝ ██║╚██████╔╝ ╚████╔╝ ╚██████╔╝   ██║   \r\n╚═════╝  ╚═════╝ ╚═╝     ╚═╝ ╚═════╝   ╚═══╝   ╚═════╝    ╚═╝   \r\n                                                                ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
