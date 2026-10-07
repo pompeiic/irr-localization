@@ -3962,6 +3962,142 @@
 		},
 		{
 			"ns": "",
+			"key": "E0982A024103C1B010AC81A09679ACEF",
+			"source": "ProgressBar",
+			"origin": "/Game/ThirdParty/CMG/Data/E_CounterType.E_CounterType.DisplayNameMap(0 - Value).DisplayNameMap",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:51:15Z"
+		},
+		{
+			"ns": "",
+			"key": "9FEA60D54100C3BCDDD9C6AF9189675B",
+			"source": "TextCounter",
+			"origin": "/Game/ThirdParty/CMG/Data/E_CounterType.E_CounterType.DisplayNameMap(1 - Value).DisplayNameMap",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:51:15Z"
+		},
+		{
+			"ns": "",
+			"key": "679744804F399E25302FC99D8E5CDA9D",
+			"source": "FailMission",
+			"origin": "/Game/ThirdParty/CMG/Data/E_FailSequenceType.E_FailSequenceType.DisplayNameMap(0 - Value).DisplayNameMap",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:51:15Z"
+		},
+		{
+			"ns": "",
+			"key": "BCFD6D2D41CE8FC0176C8AAD574841B5",
+			"source": "FailGame",
+			"origin": "/Game/ThirdParty/CMG/Data/E_FailSequenceType.E_FailSequenceType.DisplayNameMap(1 - Value).DisplayNameMap",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:51:15Z"
+		},
+		{
+			"ns": "",
+			"key": "7D1EE5E547019AF0DEAAA59556B79428",
+			"source": "InGame",
+			"origin": "/Game/ThirdParty/CMG/Data/E_GameState.E_GameState.DisplayNameMap(0 - Value).DisplayNameMap",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:51:15Z"
+		},
+		{
+			"ns": "",
+			"key": "89AF90AC4F15D2E37AC5B7AECF12FA29",
+			"source": "GameLost",
+			"origin": "/Game/ThirdParty/CMG/Data/E_GameState.E_GameState.DisplayNameMap(2 - Value).DisplayNameMap",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:51:15Z"
+		},
+		{
+			"ns": "",
+			"key": "577886D64748F481C11B4F82A9764DB7",
+			"source": "GameWon",
+			"origin": "/Game/ThirdParty/CMG/Data/E_GameState.E_GameState.DisplayNameMap(3 - Value).DisplayNameMap",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:51:15Z"
+		},
+		{
+			"ns": "",
+			"key": "A9C91195476E979A260F1081DF62F552",
+			"source": "None",
+			"origin": "/Game/ThirdParty/CMG/Data/E_MarkerType.E_MarkerType.DisplayNameMap(2 - Value).DisplayNameMap",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:51:15Z"
+		},
+		{
+			"ns": "",
+			"key": "F80363B94765606F284A60A066A34499",
+			"source": "DailyMission",
+			"origin": "/Game/ThirdParty/CMG/Data/E_MissionType.E_MissionType.DisplayNameMap(0 - Value).DisplayNameMap",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:51:15Z"
+		},
+		{
+			"ns": "",
+			"key": "5FD340AB4C562BB0EE3FF8AB801145C7",
+			"source": "MainMission",
+			"origin": "/Game/ThirdParty/CMG/Data/E_MissionType.E_MissionType.DisplayNameMap(1 - Value).DisplayNameMap",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:51:15Z"
+		},
+		{
+			"ns": "",
+			"key": "88AAEC53421026701EA0B88F122F00BA",
+			"source": "SideMission",
+			"origin": "/Game/ThirdParty/CMG/Data/E_MissionType.E_MissionType.DisplayNameMap(2 - Value).DisplayNameMap",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:51:15Z"
+		},
+		{
+			"ns": "",
+			"key": "8B059FD248B504653C310DBCE79ACB42",
+			"source": "EmailType",
+			"origin": "/Game/ThirdParty/CMG/Data/E_MissionType.E_MissionType.DisplayNameMap(3 - Value).DisplayNameMap",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:51:15Z"
+		},
+		{
+			"ns": "",
+			"key": "3C79140A499E327C833366AA4C500443",
+			"source": "Default",
+			"origin": "/Game/ThirdParty/CMG/Data/E_ProgressType.E_ProgressType.DisplayNameMap(5 - Value).DisplayNameMap",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:51:15Z"
+		},
+		{
+			"ns": "",
+			"key": "1820779B46FF9719C65E1A8A09AEFA41",
+			"source": "RevivedPlayers",
+			"origin": "/Game/ThirdParty/CMG/Data/E_ScoreboardTypes.E_ScoreboardTypes.DisplayNameMap(0 - Value).DisplayNameMap",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:51:15Z"
+		},
+		{
+			"ns": "",
+			"key": "A34C14A341EBA70657984FA6AC5E1599",
+			"source": "FinishedObjectives",
+			"origin": "/Game/ThirdParty/CMG/Data/E_ScoreboardTypes.E_ScoreboardTypes.DisplayNameMap(2 - Value).DisplayNameMap",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:51:15Z"
+		},
+		{
+			"ns": "",
+			"key": "0B0B509C4BEDAD6D5444F9B862781E24",
+			"source": "MissionTrigger",
+			"origin": "/Game/ThirdParty/CMG/Data/E_TargetType.E_TargetType.DisplayNameMap(3 - Value).DisplayNameMap",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:51:15Z"
+		},
+		{
+			"ns": "",
+			"key": "120AE40B42145FBAA45D6C89DD2B68DD",
+			"source": "None",
+			"origin": "/Game/ThirdParty/CMG/Data/E_TimerType.E_TimerType.DisplayNameMap(0 - Value).DisplayNameMap",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:51:15Z"
+		},
+		{
+			"ns": "",
 			"key": "FAB076604411FDBFD9BC48917BE94B98",
 			"source": "toshi.tanaka@government.com",
 			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.AdditionalMission.Email_48_1EF60E214686034DD7C3F3A821AD083A.Author_11_3F8D40714A7213985D5353AF1740D21C",
