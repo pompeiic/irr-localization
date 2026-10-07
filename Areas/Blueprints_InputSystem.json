@@ -12,33 +12,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Pistole",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "手枪",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Пистолет",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "권총",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "ピストル",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Pistola",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -52,33 +64,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Laser-Entfernungsmesser",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "激光测距仪",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Лазерный Дальномер",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "레이저 거리측정기",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "レーザー距離計",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Telémetro Láser",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -144,33 +168,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Schnellplatz 4",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "快捷栏 4",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Быстрый Слот 4",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "퀵슬롯 4",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "クイックスロット 4",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Ranura Rápida 4",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -184,33 +220,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Vergrößerer Umschalten",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "切换放大镜",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Переключить Увеличитель",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "배율기 전환",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "マグニファイア切替",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Alternar Magnificador",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -224,33 +272,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Waffe Gesenkt",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "低姿警戒",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Оружие Вниз",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "로우 레디",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "ローレディ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Arma Baja",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -264,33 +324,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Sekundärwaffe",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "副武器",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Вторичное",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "보조무기",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "セカンダリ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Secundaria",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -304,33 +376,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Visier Wechseln",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "切换瞄具",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Смена Прицела",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "조준경 전환",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "サイト切替",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Cambiar Mira",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -344,33 +428,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Feuern",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "开火",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Огонь",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "사격",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "射撃",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Disparar",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -384,33 +480,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Granate Ausrüsten",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "装备手雷",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Взять Гранату",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "수류탄 장착",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "グレネード装備",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Equipar Granada",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -424,33 +532,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Aufsatzmenü Umschalten",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "切换配件菜单",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Переключить Меню Обвеса",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "부착물 메뉴 전환",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "アタッチメントメニュー切替",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Alternar Menú de Accesorios",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -516,33 +636,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Magazin Prüfen",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "检查弹匣",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Проверить Магазин",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "탄창 확인",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "マガジン確認",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Revisar Cargador",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -556,33 +688,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Springen",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "跳跃",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Прыжок",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "점프",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "ジャンプ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Saltar",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -648,33 +792,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Schnellplatz 1",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "快捷栏 1",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Быстрый Слот 1",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "퀵슬롯 1",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "クイックスロット 1",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Ranura Rápida 1",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -688,33 +844,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Schnellheilung",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "快速治疗",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Быстрое Лечение",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "빠른 치료",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "クイックヒール",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Curación Rápida",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -728,33 +896,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Rennen",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "奔跑",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Бег",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "달리기",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "ダッシュ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Correr",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -768,33 +948,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Freies Umsehen",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "自由视角",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Свободный Обзор",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "자유 시점",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "フリールック",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Vista Libre",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -964,33 +1156,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Zielen",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "瞄准",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Прицеливание",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "조준",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "エイム",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Apuntar",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -1004,33 +1208,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Ducken",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "蹲下",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Присесть",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "앉기",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "しゃがむ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Agacharse",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -1044,33 +1260,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Schnellplatz 2",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "快捷栏 2",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Быстрый Слот 2",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "퀵슬롯 2",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "クイックスロット 2",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Ranura Rápida 2",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -1084,33 +1312,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Störung Beheben",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "排除故障",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Устранить Неисправность",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "고장 해결",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "ジャム解除",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Arreglar Fallo",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -1124,33 +1364,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Interagieren",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "交互",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Взаимодействие",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "상호작용",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "インタラクト",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Interactuar",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -1164,33 +1416,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Push-To-Talk",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "按键通话",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Режим Рации",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "눌러서 말하기",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "プッシュトゥトーク",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Pulsar para Hablar",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -1204,33 +1468,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Chat",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "聊天",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Чат",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "채팅",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "チャット",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Chat",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -1244,33 +1520,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Schnellplatz 3",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "快捷栏 3",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Быстрый Слот 3",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "퀵슬롯 3",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "クイックスロット 3",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Ranura Rápida 3",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -1284,33 +1572,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Primärwaffe",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "主武器",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Основное",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "주무기",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "プライマリ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Principal",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -1376,33 +1676,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Feuermodus Wechseln",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "切换射击模式",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Сменить Режим Огня",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "사격 모드 전환",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "射撃モード切替",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Cambiar Modo de Disparo",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -1416,33 +1728,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Inspizieren",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "检视",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Осмотреть",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "점검",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "インスペクト",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Inspeccionar",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -1456,33 +1780,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Instinktives Schießen",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "指向射击",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Стрельба Навскидку",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "포인트 슈팅",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "ポイントシューティング",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Tiro Instintivo",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -1496,33 +1832,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Pause",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "暂停",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Пауза",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "일시정지",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "ポーズ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Pausa",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -1640,33 +1988,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Nachladen",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "换弹",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Перезарядка",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "재장전",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "リロード",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Recargar",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},

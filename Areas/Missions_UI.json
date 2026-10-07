@@ -9320,33 +9320,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "[RETRACKED] HAUPTGESCHICHTE",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "[RETRACKED] 主线剧情",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "[RETRACKED] ОСНОВНОЙ СЮЖЕТ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "[RETRACKED] 메인 스토리",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "[RETRACKED] メインストーリー",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "[RETRACKED] HISTORIA PRINCIPAL",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},

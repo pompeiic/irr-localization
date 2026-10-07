@@ -12,33 +12,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "{GameName} {RHIName}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "{GameName} {RHIName}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "{GameName} {RHIName}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "{GameName} {RHIName}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "{GameName} {RHIName}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "{GameName} {RHIName}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -52,33 +64,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "{GameName} {BuildConfiguration} {PlatformArchitecture} {RHIName}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "{GameName} {BuildConfiguration} {PlatformArchitecture} {RHIName}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "{GameName} {BuildConfiguration} {PlatformArchitecture} {RHIName}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "{GameName} {BuildConfiguration} {PlatformArchitecture} {RHIName}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "{GameName} {BuildConfiguration} {PlatformArchitecture} {RHIName}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "{GameName} {BuildConfiguration} {PlatformArchitecture} {RHIName}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		}
