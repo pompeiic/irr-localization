@@ -7,7 +7,7 @@
 			"key": "AlreadyOffered",
 			"source": "Already on the table.",
 			"sourceHash": "92ad063c",
-			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(153)",
+			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(155)",
 			"t":
 			{
 				"de":
@@ -51,6 +51,58 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "IRRRaidTrader",
+			"key": "CashOnly",
+			"source": "Nothing to trade for.",
+			"sourceHash": "4a47a27e",
+			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(483)",
+			"t":
+			{
+				"de":
+				{
+					"text": "Nichts zum Eintauschen.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "没有可交易的东西。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Нечего обменивать.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "교환할 것이 없습니다.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "交換できるものがない。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "No hay nada que intercambiar.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -111,7 +163,7 @@
 			"key": "EmptyTable",
 			"source": "Nothing on the table.",
 			"sourceHash": "1e0f8bc2",
-			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(434)",
+			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(472)",
 			"t":
 			{
 				"de":
@@ -163,7 +215,7 @@
 			"key": "ForeignItem",
 			"source": "Only your own items or the trader's stock can be traded.",
 			"sourceHash": "4deb8370",
-			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(165)",
+			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(167)",
 			"t":
 			{
 				"de":
@@ -212,10 +264,62 @@
 		},
 		{
 			"ns": "IRRRaidTrader",
+			"key": "HandInExceedsValue",
+			"source": "Your hand-in is worth $ {0} more than you're taking. No change is given.",
+			"sourceHash": "4e427b14",
+			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(534)",
+			"t":
+			{
+				"de":
+				{
+					"text": "Deine Abgabe ist $ {0} mehr wert als das, was du nimmst. Es gibt kein Wechselgeld.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "你交出的物品比你拿走的多值 $ {0}。不找零。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Отдаваемое тобой стоит на $ {0} больше, чем то, что ты берёшь. Сдачи не будет.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "제출한 물품이 가져가는 것보다 $ {0} 더 가치가 있습니다. 거스름돈은 지급되지 않습니다.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "差し出した品は受け取る品より $ {0} 高い。釣りは出ない。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Lo que entregas vale $ {0} más de lo que te llevas. No se da cambio.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "IRRRaidTrader",
 			"key": "InvalidItem",
 			"source": "Invalid item.",
 			"sourceHash": "071cc4dd",
-			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(145)",
+			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(147)",
 			"t":
 			{
 				"de":
@@ -267,7 +371,7 @@
 			"key": "ItemGone",
 			"source": "An offered item is no longer available.",
 			"sourceHash": "46be6181",
-			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(535)",
+			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(592)",
 			"t":
 			{
 				"de":
@@ -319,7 +423,7 @@
 			"key": "NoInventory",
 			"source": "No inventory.",
 			"sourceHash": "a7827431",
-			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(446)",
+			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(490)",
 			"t":
 			{
 				"de":
@@ -423,7 +527,7 @@
 			"key": "NoSpace",
 			"source": "Not enough space in your inventory.",
 			"sourceHash": "4278aa81",
-			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(475)",
+			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(520)",
 			"t":
 			{
 				"de":
@@ -475,7 +579,7 @@
 			"key": "NoStockSpace",
 			"source": "The trader has no room for that.",
 			"sourceHash": "23b23b61",
-			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(480)",
+			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(525)",
 			"t":
 			{
 				"de":
@@ -579,7 +683,7 @@
 			"key": "NotEnoughCash",
 			"source": "Not enough cash. Missing $ {0}",
 			"sourceHash": "aa06e24b",
-			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(454)",
+			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(498)",
 			"t":
 			{
 				"de":
@@ -631,7 +735,7 @@
 			"key": "NoTraderItem",
 			"source": "Pick something from the trader.",
 			"sourceHash": "a3aef1ca",
-			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(439)",
+			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(477)",
 			"t":
 			{
 				"de":
@@ -683,7 +787,7 @@
 			"key": "NotWanted",
 			"source": "The trader isn't interested in this.",
 			"sourceHash": "86d059c0",
-			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(176)",
+			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(178)",
 			"t":
 			{
 				"de":
@@ -735,7 +839,7 @@
 			"key": "TradeBalance",
 			"source": "Balance $ {0}",
 			"sourceHash": "94d0c235",
-			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(485)",
+			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTraderSession.cpp(530)",
 			"t":
 			{
 				"de":

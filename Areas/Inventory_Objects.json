@@ -316,58 +316,6 @@
 		},
 		{
 			"ns": "",
-			"key": "15936F28458DF6E533CF2BA17A7D42F3",
-			"source": "%",
-			"sourceHash": "b6a88010",
-			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Heat.Default__U_Heat_C.Unit",
-			"t":
-			{
-				"de":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "17A0FC7D4D0DD1906A3E1C855589CFCE",
 			"source": "Unequip",
 			"sourceHash": "26fa6d53",
@@ -836,58 +784,6 @@
 		},
 		{
 			"ns": "",
-			"key": "350491A34F9F56FF2DA4DB94CEFA5529",
-			"source": "%",
-			"sourceHash": "b6a88010",
-			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_StaminaBoost.Default__U_StaminaBoost_C.Unit",
-			"t":
-			{
-				"de":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "366401314541AEAA426BDCACA291B283",
 			"source": "MRAD",
 			"sourceHash": "ea8e367c",
@@ -1304,6 +1200,58 @@
 		},
 		{
 			"ns": "",
+			"key": "47F0FA5540FB6C6FEE05DA8904DD3B7B",
+			"source": "Split",
+			"sourceHash": "ac85c3bf",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_SplitItem.U_SplitItem_C:ExecuteUbergraph_U_SplitItem [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "Teilen",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "拆分",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Разделить",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "분할",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "分割",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Dividir",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "49B89A4D4132F0B7F11742B20CC0D8AF",
 			"source": "Handguard",
 			"sourceHash": "f79a935c",
@@ -1403,6 +1351,58 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "4EDFF87F49B7E95C4FAE3D99E992F094",
+			"source": "%",
+			"sourceHash": "b6a88010",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Battery.Default__U_Battery_C.Unit",
+			"t":
+			{
+				"de":
+				{
+					"text": "%",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "%",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "%",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "%",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "%",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "%",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -2443,58 +2443,6 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-25T20:54:02Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "7A6B3CF149F6230DDD092D8A1457DBFB",
-			"source": "%",
-			"sourceHash": "b6a88010",
-			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_ShrapnelChance.Default__U_ShrapnelChance_C.Unit",
-			"t":
-			{
-				"de":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -3644,58 +3592,6 @@
 		},
 		{
 			"ns": "",
-			"key": "AF4D9369456052124366C090534EFA1C",
-			"source": "%",
-			"sourceHash": "b6a88010",
-			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_StaminaDrain.Default__U_StaminaDrain_C.Unit",
-			"t":
-			{
-				"de":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "AFF3339E46C7E1F8736071AA157B317C",
 			"source": "Muzzle",
 			"sourceHash": "356fae11",
@@ -3956,6 +3852,58 @@
 		},
 		{
 			"ns": "",
+			"key": "BA79DAAF4C641A76371736BEF584C347",
+			"source": "Battery",
+			"sourceHash": "75808667",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Battery.Default__U_Battery_C.StatDisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "Batterie",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "电量",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Заряд",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "배터리",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "バッテリー",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Batería",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "BB1DFC1340314EF0B3859DA08D36844E",
 			"source": "Headphones",
 			"sourceHash": "1038ae2e",
@@ -4156,58 +4104,6 @@
 				"es-ES":
 				{
 					"text": "ergonomía",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "BD6F784C4AEB43A5F68DFFA0476FF0FE",
-			"source": "%",
-			"sourceHash": "b6a88010",
-			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Durability.Default__U_Durability_C.Unit",
-			"t":
-			{
-				"de":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -4424,53 +4320,53 @@
 		},
 		{
 			"ns": "",
-			"key": "C7F140064C37AB7E301533B2D2BC4183",
-			"source": "%",
-			"sourceHash": "b6a88010",
-			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_ChanceToWound.Default__U_ChanceToWound_C.Unit",
+			"key": "CC6AE0744D116E2844BE72BF486CA238",
+			"source": "Split Item?",
+			"sourceHash": "09edae93",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_SplitItem.U_SplitItem_C:ExecuteUbergraph_U_SplitItem [Script Bytecode]",
 			"t":
 			{
 				"de":
 				{
-					"text": "%",
+					"text": "Gegenstand teilen?",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "%",
+					"text": "拆分物品？",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "%",
+					"text": "Разделить предмет?",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "%",
+					"text": "아이템을 분할하겠습니까?",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "%",
+					"text": "アイテムを分割しますか？",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "%",
+					"text": "¿Dividir objeto?",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -4520,58 +4416,6 @@
 				"es-ES":
 				{
 					"text": "Calibre",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "D24987CE45E3D1A49FD733ABAD8C80F1",
-			"source": "%",
-			"sourceHash": "b6a88010",
-			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_DurabilityBurn.Default__U_DurabilityBurn_C.Unit",
-			"t":
-			{
-				"de":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "%",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -4939,58 +4783,6 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-25T20:56:00Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "E246D58C41477DC852F1FBB57035BC35",
-			"source": "%",
-			"sourceHash": "b6a88010",
-			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Cooldown.Default__U_Cooldown_C.Unit",
-			"t":
-			{
-				"de":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "%",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -5615,6 +5407,58 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-25T20:56:00Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "FCDFB2E240AE746C8035CF8095E78499",
+			"source": "Cancel",
+			"sourceHash": "38947156",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/ItemContexts/U_SplitItem.U_SplitItem_C:ExecuteUbergraph_U_SplitItem [Script Bytecode]",
+			"t":
+			{
+				"de":
+				{
+					"text": "Abbrechen",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "取消",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Отмена",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "취소",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "キャンセル",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Cancelar",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		}

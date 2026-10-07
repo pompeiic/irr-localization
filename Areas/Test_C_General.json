@@ -1,0 +1,1358 @@
+{
+	"schemaVersion": 1,
+	"area": "Test_C/General",
+	"entries": [
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "FrameGeneration_DLSS",
+			"source": "NVIDIA DLSS Frame Generation",
+			"sourceHash": "e6b8b345",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(825)",
+			"t":
+			{
+				"de":
+				{
+					"text": "NVIDIA DLSS Frame Generation",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "NVIDIA DLSS 帧生成",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Генерация Кадров NVIDIA DLSS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "NVIDIA DLSS 프레임 생성",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "NVIDIA DLSS フレーム生成",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Generación de Fotogramas NVIDIA DLSS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "FrameGeneration_DLSS3X",
+			"source": "NVIDIA DLSS Multi Frame Generation 3x",
+			"sourceHash": "e73fc349",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(829)",
+			"t":
+			{
+				"de":
+				{
+					"text": "NVIDIA DLSS Multi Frame Generation 3x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "NVIDIA DLSS 多帧生成 3x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Многокадровая Генерация NVIDIA DLSS 3x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "NVIDIA DLSS 멀티 프레임 생성 3x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "NVIDIA DLSS マルチフレーム生成 3x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Generación Multifotograma NVIDIA DLSS 3x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "FrameGeneration_DLSS4X",
+			"source": "NVIDIA DLSS Multi Frame Generation 4x",
+			"sourceHash": "edfaca50",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(831)",
+			"t":
+			{
+				"de":
+				{
+					"text": "NVIDIA DLSS Multi Frame Generation 4x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "NVIDIA DLSS 多帧生成 4x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Многокадровая Генерация NVIDIA DLSS 4x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "NVIDIA DLSS 멀티 프레임 생성 4x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "NVIDIA DLSS マルチフレーム生成 4x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Generación Multifotograma NVIDIA DLSS 4x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "FrameGeneration_FSR",
+			"source": "AMD FSR Frame Generation",
+			"sourceHash": "eebbfe26",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(835)",
+			"t":
+			{
+				"de":
+				{
+					"text": "AMD FSR Frame Generation",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "AMD FSR 帧生成",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Генерация Кадров AMD FSR",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "AMD FSR 프레임 생성",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "AMD FSR フレーム生成",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Generación de Fotogramas AMD FSR",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "FrameGeneration_Off",
+			"source": "Off",
+			"sourceHash": "31ebef0d",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(823)",
+			"t":
+			{
+				"de":
+				{
+					"text": "Aus",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "关",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Выкл.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "끄기",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "オフ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Desactivado",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "FrameGeneration_Unsupported",
+			"source": "Not available on this system (requires DirectX 12).",
+			"sourceHash": "64e258d5",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(870)",
+			"t":
+			{
+				"de":
+				{
+					"text": "Auf diesem System nicht verfügbar (erfordert DirectX 12).",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "此系统不可用（需要 DirectX 12）。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Недоступно в этой системе (требуется DirectX 12).",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "이 시스템에서 사용할 수 없음 (DirectX 12 필요).",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "このシステムでは利用不可 (DirectX 12 が必要)。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "No disponible en este sistema (requiere DirectX 12).",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "FrameGeneration_XeSS",
+			"source": "Intel XeSS Frame Generation",
+			"sourceHash": "2fc8c83a",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(838)",
+			"t":
+			{
+				"de":
+				{
+					"text": "Intel XeSS Frame Generation",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "Intel XeSS 帧生成",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Генерация Кадров Intel XeSS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "Intel XeSS 프레임 생성",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "Intel XeSS フレーム生成",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Generación de Fotogramas Intel XeSS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "FrameGeneration_XeSS3X",
+			"source": "Intel XeSS Frame Generation 3x",
+			"sourceHash": "1579d10d",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(842)",
+			"t":
+			{
+				"de":
+				{
+					"text": "Intel XeSS Frame Generation 3x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "Intel XeSS 帧生成 3x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Генерация Кадров Intel XeSS 3x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "Intel XeSS 프레임 생성 3x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "Intel XeSS フレーム生成 3x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Generación de Fotogramas Intel XeSS 3x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "FrameGeneration_XeSS4X",
+			"source": "Intel XeSS Frame Generation 4x",
+			"sourceHash": "1fbcd814",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(844)",
+			"t":
+			{
+				"de":
+				{
+					"text": "Intel XeSS Frame Generation 4x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "Intel XeSS 帧生成 4x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Генерация Кадров Intel XeSS 4x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "Intel XeSS 프레임 생성 4x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "Intel XeSS フレーム生成 4x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Generación de Fotogramas Intel XeSS 4x",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "LowLatency_Boost",
+			"source": "On + Boost",
+			"sourceHash": "b6db4c9b",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(888)",
+			"t":
+			{
+				"de":
+				{
+					"text": "An + Boost",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "开 + Boost",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Вкл. + Boost",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "켜기 + Boost",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "オン + Boost",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Activado + Boost",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "LowLatency_Off",
+			"source": "Off",
+			"sourceHash": "31ebef0d",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(886)",
+			"t":
+			{
+				"de":
+				{
+					"text": "Aus",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "关",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Выкл.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "끄기",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "オフ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Desactivado",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "LowLatency_On",
+			"source": "On",
+			"sourceHash": "4e668f18",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(887)",
+			"t":
+			{
+				"de":
+				{
+					"text": "An",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "开",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Вкл.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "켜기",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "オン",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Activado",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "LowLatency_Unsupported",
+			"source": "Not available on this GPU.",
+			"sourceHash": "51c05981",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(901)",
+			"t":
+			{
+				"de":
+				{
+					"text": "Auf dieser GPU nicht verfügbar.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "此 GPU 不可用。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Недоступно на этом GPU.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "이 GPU에서 사용할 수 없음.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "このGPUでは利用不可。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "No disponible en esta GPU.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "Quality_Balanced",
+			"source": "Balanced",
+			"sourceHash": "4dfd9ccb",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(741)",
+			"t":
+			{
+				"de":
+				{
+					"text": "Ausgewogen",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "平衡",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Баланс",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "균형",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "バランス",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Equilibrado",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "Quality_NativeAA",
+			"source": "Native AA",
+			"sourceHash": "45013e94",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(739)",
+			"t":
+			{
+				"de":
+				{
+					"text": "Natives AA",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "原生 AA",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Нативное AA",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "네이티브 AA",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "ネイティブAA",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "AA Nativo",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "Quality_Performance",
+			"source": "Performance",
+			"sourceHash": "637240a4",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(742)",
+			"t":
+			{
+				"de":
+				{
+					"text": "Leistung",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "性能",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Производительность",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "성능",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "パフォーマンス",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Rendimiento",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "Quality_Quality",
+			"source": "Quality",
+			"sourceHash": "e7712f1f",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(740)",
+			"t":
+			{
+				"de":
+				{
+					"text": "Qualität",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "质量",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Качество",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "품질",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "品質",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Calidad",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "Quality_UltraPerformance",
+			"source": "Ultra Performance",
+			"sourceHash": "baeb9c29",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(743)",
+			"t":
+			{
+				"de":
+				{
+					"text": "Ultra-Leistung",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "超级性能",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Ультрапроизводительность",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "울트라 성능",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "ウルトラパフォーマンス",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Ultra Rendimiento",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "RayReconstruction_Unsupported",
+			"source": "Requires an NVIDIA RTX GPU.",
+			"sourceHash": "0759d408",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(787)",
+			"t":
+			{
+				"de":
+				{
+					"text": "Erfordert eine NVIDIA RTX GPU.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "需要 NVIDIA RTX GPU。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Требуется GPU NVIDIA RTX.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "NVIDIA RTX GPU 필요.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "NVIDIA RTX GPUが必要。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Requiere una GPU NVIDIA RTX.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "Upscaler_DLSS",
+			"source": "NVIDIA DLSS",
+			"sourceHash": "782ba415",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(695)",
+			"t":
+			{
+				"de":
+				{
+					"text": "NVIDIA DLSS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "NVIDIA DLSS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "NVIDIA DLSS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "NVIDIA DLSS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "NVIDIA DLSS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "NVIDIA DLSS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "Upscaler_FSR",
+			"source": "AMD FSR",
+			"sourceHash": "f991e1e9",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(696)",
+			"t":
+			{
+				"de":
+				{
+					"text": "AMD FSR",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "AMD FSR",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "AMD FSR",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "AMD FSR",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "AMD FSR",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "AMD FSR",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "Upscaler_FXAA",
+			"source": "FXAA",
+			"sourceHash": "6dbc0592",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(692)",
+			"t":
+			{
+				"de":
+				{
+					"text": "FXAA",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "FXAA",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "FXAA",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "FXAA",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "FXAA",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "FXAA",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "Upscaler_None",
+			"source": "Off",
+			"sourceHash": "31ebef0d",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(691)",
+			"t":
+			{
+				"de":
+				{
+					"text": "Aus",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "关",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Выкл.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "끄기",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "オフ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Desactivado",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "Upscaler_TAA",
+			"source": "TAA",
+			"sourceHash": "82375a37",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(693)",
+			"t":
+			{
+				"de":
+				{
+					"text": "TAA",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "TAA",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "TAA",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "TAA",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "TAA",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "TAA",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "Upscaler_TSR",
+			"source": "TSR",
+			"sourceHash": "fe059410",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(694)",
+			"t":
+			{
+				"de":
+				{
+					"text": "TSR",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "TSR",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "TSR",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "TSR",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "TSR",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "TSR",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "IRRSettingHandler_Upscaling",
+			"key": "Upscaler_XeSS",
+			"source": "Intel XeSS",
+			"sourceHash": "c5203de9",
+			"origin": "Source/Test_C/General/IRRSettingHandler_Upscaling.cpp(697)",
+			"t":
+			{
+				"de":
+				{
+					"text": "Intel XeSS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "Intel XeSS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Intel XeSS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "Intel XeSS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "Intel XeSS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Intel XeSS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		}
+	]
+}

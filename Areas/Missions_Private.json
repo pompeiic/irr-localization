@@ -12,24 +12,24 @@
 			{
 				"de":
 				{
-					"text": "Einsatz abgeschlossen, Operator. Saubere Durchführung im Feld - dein Kontaktmann ist mehr als zufrieden mit dem Ergebnis. Deine Vergütung wurde freigegeben; hole sie ab, sobald du bereit bist.",
+					"text": "Operation abgeschlossen, Operator. Saubere Ausführung im Feld - dein Führungsoffizier ist mit dem Ergebnis mehr als zufrieden. Deine Vergütung wurde freigegeben; hol sie ab, wann immer du bereit bist.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "行动完成，干员。战场行动干净利落 - 你的联络人对结果非常满意。报酬已发放完毕，随时可以领取。",
+					"text": "行动完成，行动员。外勤执行干净利落 - 你的联络人对结果非常满意。你的报酬已结算，准备好后随时领取。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "Операция завершена, оперативник. Чистая работа в поле - куратор более чем доволен результатом. Твоя награда переведена, забирай в любое время.",
+					"text": "Операция завершена, оператор. Чистая работа в поле - твой куратор более чем доволен результатом. Вознаграждение одобрено; забери его, когда будет удобно.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -64,10 +64,10 @@
 			{
 				"de":
 				{
-					"text": "Gute Arbeit da draußen. Ziel gesichert, ohne Chaos zu hinterlassen - das verschafft dir echtes Ansehen bei uns. Deine Belohnung wartet - lass sie nicht liegen.",
+					"text": "Gute Arbeit da draußen. Ziel gesichert, ohne Chaos zu hinterlassen, und das bringt dir echtes Wohlwollen bei uns. Deine Belohnung wartet - lass sie nicht liegen.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
@@ -78,10 +78,10 @@
 				},
 				"ru":
 				{
-					"text": "Отличная работа. Цель взята без лишнего шума и грязи, а это дорогого стоит. Награда ждёт - не тяни с получением.",
+					"text": "Хорошая работа. Задача выполнена без лишнего бардака, и это реально поднимает тебя в наших глазах. Награда ждёт - не тяни с ней.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -168,24 +168,24 @@
 			{
 				"de":
 				{
-					"text": "Das war's. Die Fraktion ist zufrieden mit deinem Einsatz - genau so wollen wir das sehen. Deine Bezahlung wurde zur Abholung freigegeben.",
+					"text": "Das war's. Die Fraktion ist mit deiner Ausführung bei diesem Auftrag zufrieden - genau die Art Arbeit, die wir sehen wollen. Deine Bezahlung wurde zur Abholung freigegeben.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "收工。阵营对你这次的执行非常满意 - 这正是我们希望看到的利落手笔。报酬已发放，随时可以领取。",
+					"text": "收工。派系对你这次的执行很满意 - 正是我们想看到的那种工作。你的报酬已发放，可以领取。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "Дело сделано. Фракция довольна тем, как ты всё исполнил - именно такой работы мы и ждём. Оплата выдана и готова к получению.",
+					"text": "На этом всё. Фракция довольна твоей работой на этом задании - именно такую работу мы и хотим видеть. Оплата выдана, можешь забрать.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -272,24 +272,24 @@
 			{
 				"de":
 				{
-					"text": "Operation auf {Level} abgeschlossen, Operator. Gegenstands- und Bargeldbelohnungen sind in deinem Posteingang - hol sie ab, sobald du bereit bist.",
+					"text": "Operation auf {Level} abgeschlossen, Operator. Gegenstands- und Geldbelohnungen liegen in deinem Posteingang - hol sie ab, wenn du bereit bist.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "{Level}的行动已完成，干员。物品和现金奖励已发送至你的收件箱 - 准备好后即可领取。",
+					"text": "{Level} 的行动已完成，行动员。物品和现金奖励已发送到你的收件箱 - 准备好后领取。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "Операция на {Level} завершена, оперативник. Награды в виде предметов и наличных уже во входящих - забирай, когда будешь готов.",
+					"text": "Операция на {Level} завершена, оператор. Награды предметами и деньгами в твоих входящих - забери их, когда будет удобно.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -519,6 +519,162 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "IRRTerminalHackStatus",
+			"key": "Depleted",
+			"source": "Intrusion device {Device}: battery depleted ({Battery}%).",
+			"sourceHash": "c1ccf9e3",
+			"origin": "Source/IRRMissionSystem/Private/Objects/IRRTerminalSequence_HackStatus.cpp(12)",
+			"t":
+			{
+				"de":
+				{
+					"text": "Einbruchsgerät {Device}: Akku leer ({Battery}%).",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "入侵设备 {Device}：电池耗尽（{Battery}%）。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Устройство взлома {Device}: батарея разряжена ({Battery}%).",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "침입 장치 {Device}: 배터리 방전 ({Battery}%).",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "侵入デバイス {Device}: バッテリー切れ ({Battery}%)。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Dispositivo de intrusión {Device}: batería agotada ({Battery}%).",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "IRRTerminalHackStatus",
+			"key": "NoDevice",
+			"source": "No intrusion device connected.",
+			"sourceHash": "6c6c350a",
+			"origin": "Source/IRRMissionSystem/Private/Objects/IRRTerminalSequence_HackStatus.cpp(11)",
+			"t":
+			{
+				"de":
+				{
+					"text": "Kein Einbruchsgerät verbunden.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "未连接入侵设备。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Устройство взлома не подключено.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "연결된 침입 장치 없음.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "侵入デバイス未接続。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Ningún dispositivo de intrusión conectado.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "IRRTerminalHackStatus",
+			"key": "Ready",
+			"source": "Intrusion device {Device} connected. Battery {Battery}%. Estimated cost {Cost}%. Type \"hack\" to start.",
+			"sourceHash": "cf4f54cc",
+			"origin": "Source/IRRMissionSystem/Private/Objects/IRRTerminalSequence_HackStatus.cpp(10)",
+			"t":
+			{
+				"de":
+				{
+					"text": "Einbruchsgerät {Device} verbunden. Akku {Battery}%. Geschätzte Kosten {Cost}%. Gib „hack“ ein, um zu starten.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "入侵设备 {Device} 已连接。电池 {Battery}%。预计消耗 {Cost}%。输入“hack”开始。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Устройство взлома {Device} подключено. Батарея {Battery}%. Расчётный расход {Cost}%. Введи «hack», чтобы начать.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "침입 장치 {Device} 연결됨. 배터리 {Battery}%. 예상 소모 {Cost}%. 시작하려면 “hack”을 입력하라.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "侵入デバイス {Device} 接続済み。バッテリー {Battery}%。推定消費 {Cost}%。開始するには「hack」と入力しろ。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Dispositivo de intrusión {Device} conectado. Batería {Battery}%. Coste estimado {Cost}%. Escribe «hack» para empezar.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		}

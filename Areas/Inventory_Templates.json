@@ -26,10 +26,10 @@
 				},
 				"ru":
 				{
-					"text": "Картечь 12/70mm - ружейный патрон, разработанный для ближнего боя и охоты. Он представляет собой гильзу 12-го калибра длиной 70 миллиметров. Внутри патрона находится множество сферических свинцовых дробин, называемых крупной картечью (buckshot). При выстреле картечь летит с определённым разбросом, что обеспечивает высокую эффективность на коротких дистанциях и при охоте на крупную дичь. Патрон 12/70mm Buckshot популярен среди охотников и правоохранительных органов благодаря мощному останавливающему действию по цели и служит надёжным выбором в самых разных ситуациях.",
+					"text": "Картечь 12/70 мм - патрон для дробовика, предназначенный для ближнего боя и охоты. Это патрон 12-го калибра длиной 70 миллиметров. Внутри гильзы находится несколько сферических свинцовых дробин, обычно называемых «картечью». При выстреле патрон выпускает эти дробины веером, что делает его крайне эффективным на коротких дистанциях и при охоте на крупную дичь. Картечь 12/70 мм ценят охотники и правоохранительные органы за способность наносить широкий и мощный удар по цели, что делает её надёжным выбором в различных ситуациях.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -69,13 +69,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Plantilla",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "模板",
@@ -103,6 +96,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Plantilla",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -173,13 +173,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Plantilla",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "模板",
@@ -207,6 +200,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Plantilla",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -225,13 +225,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Plantilla",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "模板",
@@ -259,6 +252,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Plantilla",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -272,10 +272,10 @@
 			{
 				"de":
 				{
-					"text": "Eine 7.62x39mm PS gzh (GAU-Index - 57-N-231) Patrone mit einem 7,9-Gramm-Geschoss mit wärmegehärtetem Stahlkern, Bleiummantelung an der Spitze und bimetallischem Mantel in einer bimetallischen Hülse. Die PS-Patrone (Púlya so Stal'ným serdéchnikom - „Geschoss mit Stahlkern“) wurde 1949 für sowjetische Waffen im Kaliber 7.62x39mm eingeführt und hat im Laufe der Jahre zahlreiche Änderungen bei den verwendeten Materialien erfahren. Dank des gehärteten Stahlkerns dieses Modells kann sie grundlegende ballistische Körperschutzsysteme sowie einige mittlere Modelle durchschlagen und zudem eine erhebliche Stoppwirkung entfalten; sie hat jedoch eine hohe Abprallwahrscheinlichkeit an verschiedenen Oberflächen.",
+					"text": "Eine 7.62x39mm PS gzh (GAU-Index - 57-N-231) Patrone mit einem 7,9-Gramm-Geschoss mit wärmegehärtetem Stahlkern, Bleiummantelung an der Spitze und einem Bimetallmantel, in einer Bimetallhülse. Die PS-Patrone (Púlya so Stal'ným serdéchnikom - „Geschoss mit Stahlkern“) wurde 1949 für sowjetische Waffen im Kaliber 7.62x39mm eingeführt und hat im Laufe der Jahre zahlreiche Änderungen an den verwendeten Materialien erfahren. Dank des gehärteten Stahlkerns dieses Modells kann sie einfache ballistische Körperschutzausrüstung sowie einige mittlere Modelle durchschlagen und bietet zudem eine deutliche Mannstoppwirkung, hat jedoch eine hohe Abprallwahrscheinlichkeit an verschiedenen Oberflächen.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
@@ -286,10 +286,10 @@
 				},
 				"ru":
 				{
-					"text": "Патрон 7.62x39mm PS gzh (индекс ГАУ - 57-N-231) с пулей массой 7,9 г с термоупрочнённым стальным сердечником, свинцовой облицовкой носика и биметаллической оболочкой в биметаллической гильзе. Патрон ПС (Púlya so Stal'ným serdéchnikom - «пуля со стальным сердечником») принят на вооружение в 1949 году для советского оружия калибра 7.62x39mm и за годы претерпел множество изменений в материалах. Благодаря закалённому стальному сердечнику этой модели он способен пробивать базовую баллистическую защиту тела, а также некоторые промежуточные модели, и при этом даёт заметный останавливающий эффект; однако высока вероятность рикошета от различных поверхностей.",
+					"text": "Патрон 7.62x39mm PS gzh (индекс ГРАУ - 57-N-231) с пулей массой 7,9 грамма с термоупрочнённым стальным сердечником, свинцовой рубашкой у носика и биметаллической оболочкой, в биметаллической гильзе. Патрон PS (Púlya so Stal'ným serdéchnikom - «Пуля со стальным сердечником») был принят на вооружение в 1949 году для советского оружия калибра 7.62x39mm и за годы претерпел многочисленные изменения в используемых материалах. Благодаря закалённому стальному сердечнику этой модели он способен пробивать базовые бронежилеты, а также некоторые модели среднего класса и обеспечивает значительное останавливающее действие, однако у него высокая вероятность рикошета от различных поверхностей.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -381,13 +381,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Plantilla",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "模板",
@@ -415,6 +408,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Plantilla",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -485,13 +485,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Plantilla",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "模板",
@@ -519,6 +512,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Plantilla",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -797,13 +797,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Plantilla",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "模板",
@@ -831,6 +824,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Plantilla",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -849,13 +849,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Plantilla",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "模板",
@@ -883,6 +876,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Plantilla",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -901,13 +901,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Plantilla",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "模板",
@@ -935,6 +928,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Plantilla",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -1057,13 +1057,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Plantilla",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "模板",
@@ -1091,6 +1084,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Plantilla",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -1109,13 +1109,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Plantilla",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "模板",
@@ -1143,6 +1136,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Plantilla",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -1265,13 +1265,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Plantilla",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "模板",
@@ -1299,6 +1292,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Plantilla",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -1369,13 +1369,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Plantilla",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "模板",
@@ -1403,6 +1396,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Plantilla",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -1421,13 +1421,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Plantilla",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "模板",
@@ -1455,6 +1448,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Plantilla",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -1572,24 +1572,24 @@
 			{
 				"de":
 				{
-					"text": "Das AK-74M (Avtomat Kalashnikova 74 Modernizirovanny - „Kalaschnikows Automatikgewehr 74 modernisiert“) Sturmgewehr im Kaliber 5.45x39mm ist eine großseriengefertigte modernisierte Version der AK-74, die gegenüber dem Vorgänger mehr Vielseitigkeit bietet. Neben mehreren kleineren Verbesserungen wie einem erleichterten Verschluss und Verschlussträger zur Reduzierung des Impulses von Gaskolben und Verschlussträger beim Schießen verfügt das Gewehr über einen neuen glasfaserverstärkten Polyamidschaft, der die Form des originalen festen SchichtHolzschafts der AK-74 beibehält, sich aber wie der skelettierte AKS-74-Schaft nach links klappen lässt, sowie eine Schwalbenschwanz-Seitenschiene zur Montage verschiedener Zielfernrohre. Die AK-74M ist ein Hauptdienstgewehr der Russischen Föderation.",
+					"text": "Das AK-74M (Avtomat Kalashnikova 74 Modernizirovanny - „Kalaschnikows Automatgewehr 74 modernisiert“) Sturmgewehr im Kaliber 5.45x39mm ist eine in Großserie gefertigte, modernisierte Version des AK-74, die im Vergleich zu ihrem Vorgänger mehr Vielseitigkeit bietet. Neben mehreren kleineren Verbesserungen, wie einer erleichterten Verschluss- und Verschlussträgergruppe zur Verringerung des Impulses von Gaskolben und Verschlussträger beim Schießen, verfügt das Gewehr über einen neuen Schaft aus glasfaserverstärktem Polyamid, der die Form des ursprünglichen festen Schichtholzschafts des AK-74 beibehält, sich aber wie der skelettierte Schaft des AKS-74 seitlich nach links klappen lässt, sowie über eine Schwalbenschwanz-Seitenmontage zur Installation verschiedener Zielfernrohre. Das AK-74M ist das Hauptdienstgewehr der Russischen Föderation.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "AK-74M（Avtomat Kalashnikova 74 Modernizirovanny - “卡拉什尼科夫自动步枪74现代化型”）5.45x39mm突击步枪是AK-74的量产现代化版本，比前代更具通用性。除若干小改进外 - 如减轻枪机与机框以降低射击时活塞与机框的冲量 - 该枪采用新型玻纤增强聚酰胺枪托，外形保留原AK-74固定层压木托，但可像骨架式AKS-74枪托一样向左侧折叠，并带有燕尾侧轨用于安装各种瞄准镜。AK-74M是俄罗斯联邦的主力制式步枪。",
+					"text": "AK-74M（Avtomat Kalashnikova 74 Modernizirovanny，“卡拉什尼科夫自动步枪 74 现代化型”）5.45x39mm 突击步枪是 AK-74 的全面量产现代化版本，与前代相比用途更加广泛。除了若干细小改进，例如减轻枪机和枪机框组件以降低射击时活塞和枪机框的冲量之外，该步枪还采用了新的玻璃纤维增强聚酰胺枪托，保留了原版 AK-74 固定层压木枪托的外形，但可像 AKS-74 镂空枪托一样向左侧折叠，并配有燕尾槽侧导轨，用于安装各种瞄准镜。AK-74M 是俄罗斯联邦的主力制式步枪。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "Автомат АК-74М (Avtomat Kalashnikova 74 Modernizirovanny - «Автомат Калашникова 74 модернизированный») калибра 5.45x39mm - серийная модернизированная версия АК-74 с большей универсальностью по сравнению с предшественником. Помимо ряда мелких улучшений, таких как облегчённый затвор и рама для снижения импульса газового поршня и рамы при стрельбе, винтовка получила новый приклад из стеклонаполненного полиамида, сохраняющий форму оригинального нескладного ламинированного деревянного приклада АК-74, но складывающийся влево, как скелетный приклад АКС-74, а также боковой ластохвост для установки различных прицелов. АК-74М - основное служебное оружие Российской Федерации.",
+					"text": "AK-74M (Avtomat Kalashnikova 74 Modernizirovanny - «Автомат Калашникова 74 модернизированный») - штурмовая винтовка калибра 5.45x39mm, серийно выпускаемая модернизированная версия AK-74, более универсальная по сравнению с предшественником. Помимо ряда мелких улучшений, таких как облегчённая группа затвора и затворной рамы для снижения импульса газового поршня и затворной рамы при стрельбе, винтовка получила новый приклад из стеклонаполненного полиамида, сохраняющий форму оригинального фиксированного приклада AK-74 из ламинированной древесины, но складывающийся влево, как скелетный приклад AKS-74, а также боковое крепление типа «ласточкин хвост» для установки различных прицелов. AK-74M - основная служебная винтовка Российской Федерации.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -1681,13 +1681,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Plantilla",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "模板",
@@ -1715,6 +1708,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Plantilla",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -1837,13 +1837,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Plantilla",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "模板",
@@ -1871,6 +1864,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Plantilla",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -1889,13 +1889,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Plantilla",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "模板",
@@ -1923,6 +1916,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Plantilla",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -1941,13 +1941,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Plantilla",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "模板",
@@ -1975,6 +1968,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Plantilla",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -1993,13 +1993,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Plantilla",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "模板",
@@ -2027,6 +2020,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Plantilla",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -2045,13 +2045,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Plantilla",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "模板",
@@ -2079,6 +2072,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Plantilla",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -2097,13 +2097,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Plantilla",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "模板",
@@ -2131,6 +2124,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Plantilla",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -2149,13 +2149,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Plantilla",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "模板",
@@ -2183,6 +2176,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Plantilla",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -2305,13 +2305,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Cuerpo a cuerpo",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "近战",
@@ -2339,6 +2332,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Cuerpo a cuerpo",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -2357,13 +2357,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Plantilla",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "模板",
@@ -2391,6 +2384,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Plantilla",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -2409,13 +2409,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Plantilla",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "模板",
@@ -2443,6 +2436,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Plantilla",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -2461,13 +2461,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Plantilla",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "模板",
@@ -2495,6 +2488,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Plantilla",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -2617,13 +2617,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Plantilla",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "模板",
@@ -2651,6 +2644,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Plantilla",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -2669,13 +2669,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Plantilla",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "模板",
@@ -2703,6 +2696,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Plantilla",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -2721,13 +2721,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Plantilla",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "模板",
@@ -2755,6 +2748,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Plantilla",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -2773,13 +2773,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Plantilla",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "模板",
@@ -2807,6 +2800,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Plantilla",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -2981,13 +2981,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Plantilla",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "模板",
@@ -3015,6 +3008,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Plantilla",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -3094,10 +3094,10 @@
 				},
 				"ru":
 				{
-					"text": "Патрон .338 300gr AP (бронебойный) - грозный выбор боеприпаса. В нём пуля калибра .338 массой 300 гран, рассчитанная на пробитие бронированных целей. Этот патрон известен исключительными бронебойными свойствами и идеален для военных и правоохранительных задач, где нужно поражать бронированные или сильно защищённые цели. Конструкция обеспечивает глубокое пробитие и надёжную работу, делая его надёжным выбором для спецзаданий с повышенным останавливающим действием.",
+					"text": "Патрон .338 300gr AP (бронебойный) - грозный выбор боеприпаса. Он оснащён пулей калибра .338 массой 300 гран, предназначенной для поражения бронированных целей. Этот патрон известен исключительной бронебойностью, что делает его идеальным для военного и правоохранительного применения, где необходимо поражать бронированные или хорошо защищённые цели. Его конструкция обеспечивает глубокое пробитие и надёжную работу, что делает его надёжным выбором для специальных задач, требующих повышенного останавливающего действия.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{

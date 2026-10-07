@@ -7,6 +7,7 @@ const PAGE = 40;
 const LS = { culture: "irrLoc.culture", token: "irrLoc.githubToken", guide: "irrLoc.guide" };
 // Web-owned, like Glossary.json: Unreal's Full Sync makes each listed text culture-invariant so the gather drops it.
 const EXCLUDED_FILE = "Excluded.json";
+const FLAGGED_FILE = "community/flagged.json";
 
 const VIEWS = [
   { id: "all", name: "All strings" },
@@ -33,6 +34,7 @@ const state = {
   drafts: new Map(), contextDrafts: new Map(),
   suggestions: new Map(), currentScores: new Map(), myVotes: new Map(), myCurrentVotes: new Map(),
   removalAvailable: false, removalScores: new Map(), myRemovalVotes: new Set(),
+  flagged: new Map(), flagGroups: {}, openFlagGroups: new Set(),
   queueRows: [], queueSelected: new Set(), queueShowAll: false,
 };
 
@@ -656,7 +658,7 @@ function renderSidebar() {
   $("categoryList").replaceChildren(
     item("All categories", inView.length, !state.category && !state.view.startsWith("admin"), toList(() => (state.category = ""))),
     ...state.categories.map((t) => item(t, inView.filter((e) => e.category === t).length, state.category === t && !state.view.startsWith("admin"), toList(() => (state.category = t)))));
-  const pending = [...state.excluded.keys()].filter((id) => state.bySlot.has(id)).length + removalRequests().filter((x) => x.ready).length;
+  const pending = [...state.excluded.keys()].filter((id) => state.bySlot.has(id)).length + removalRequests().filter((x) => x.ready).length + liveFlags().length;
   $("adminViews").replaceChildren(...ADMIN_VIEWS.map((v) =>
     item(v.name, v.id === "admin-queue" ? state.queueRows.filter((r) => r.pass).length || null : v.id === "admin-excluded" ? pending || null : null, state.view === v.id, guarded(async () => {
       state.view = v.id;
@@ -781,6 +783,8 @@ function renderEntry(e) {
       e.category ? h("span", { class: "cat" }, e.category) : null,
       usage ? h("span", { class: "ctx", title: "Where this text is used, read from the game data" }, usage) : null,
       e.maxLength > 0 ? h("span", { class: "ctx limit", title: "Longer text will not fit where the game shows it" }, `Max ${e.maxLength} chars`) : null,
+      state.isAdmin && state.flagged.has(id) ? h("span", { class: "sb outdated", title: `${state.flagGroups[state.flagged.get(id).group] || ""} Decide under Admin → Not localized.` },
+        `Flagged: ${flagGroupTitle(state.flagged.get(id).group)}`) : null,
       state.isAdmin && e.origin ? h("span", { class: "origin", title: joinMeta(adminWhere, e.origin) }, e.origin) : null),
     h("div", { class: "pair" },
       h("section", { class: "src", "aria-label": "English source" },
@@ -1184,16 +1188,43 @@ async function setExcluded(records, exclude) {
     }
     const entries = [...index.values()].sort((a, b) => a.origin.localeCompare(b.origin) || a.key.localeCompare(b.key));
     const content = `${ueJson({ entries }, "\r\n")}\r\n`;
-    return content === raw ? [] : [{ path: EXCLUDED_FILE, content }];
+    const files = content === raw ? [] : [{ path: EXCLUDED_FILE, content }];
+    const unflag = exclude ? await flaggedFileChange(readFile, records) : null;
+    return unflag ? [...files, unflag] : files;
   }, exclude ? `Don't localize ${records.length} text(s) (web editor)` : `Localize ${records.length} text(s) again (web editor)`);
   for (const r of records) {
     if (exclude) state.excluded.set(slotOf(r), state.excluded.get(slotOf(r)) || { ns: r.ns, key: r.key, source: r.source, origin: r.origin, by, at });
     else state.excluded.delete(slotOf(r));
+    if (exclude) state.flagged.delete(slotOf(r));
   }
   notice(!changed ? "Nothing changed." : exclude
     ? `${records.length} text(s) marked "don't localize". Unreal makes them not localizable on its next Full Sync.`
     : `${records.length} text(s) are localized again.`, "ok");
 }
+
+// Drops records from the cleanup flag list; null when none of them is on it.
+async function flaggedFileChange(readFile, records) {
+  const raw = await readFile(FLAGGED_FILE);
+  if (!raw) return null;
+  const doc = JSON.parse(raw);
+  const drop = new Set(records.map(slotOf));
+  const entries = (doc.entries || []).filter((x) => !drop.has(slotOf(x)));
+  if (entries.length === (doc.entries || []).length) return null;
+  return { path: FLAGGED_FILE, content: `${JSON.stringify({ ...doc, entries }, null, "\t")}\n` };
+}
+
+async function keepFlagged(records) {
+  if (!state.isAdmin) throw new Error("Admin only.");
+  await commitFiles(async (readFile) => {
+    const change = await flaggedFileChange(readFile, records);
+    return change ? [change] : [];
+  }, `Keep localizing ${records.length} flagged text(s) (web editor)`);
+  for (const r of records) state.flagged.delete(slotOf(r));
+  notice(`${records.length} text(s) stay localized and are no longer flagged.`, "ok");
+}
+
+// Cleanup flags still waiting for an admin: text is live and not already excluded.
+const liveFlags = () => [...state.flagged.values()].filter((x) => state.bySlot.has(slotOf(x)) && !state.excluded.has(slotOf(x)));
 
 // Shared header for the admin views, styled like the list toolbar.
 function adminHeader(title, count, description, ...actions) {
@@ -1228,7 +1259,7 @@ function renderExcludedView() {
       try { await setExcluded(records, false); picked.clear(); } finally { ev.target.disabled = false; }
       renderAll();
     }) }, `Localize again (${picked.size})`));
-  const requests = renderRemovalRequests();
+  const requests = h("div", {}, renderRemovalRequests(), renderFlaggedSection());
   if (!rows.length) return h("div", {}, requests, header, h("div", { class: "empty-state" }, "Nothing excluded. Tick texts in the list and use \"Don't localize\"."));
   const cards = rows.sort((a, b) => !!b.entry - !!a.entry || (a.r.origin || "").localeCompare(b.r.origin || "")).map(({ r, entry }) => {
     const id = slotOf(r);
@@ -1246,6 +1277,53 @@ function renderExcludedView() {
   });
   return h("div", {}, requests, header, ...cards);
 }
+
+// Cleanup flags grouped by reason, each group collapsible with bulk actions.
+function renderFlaggedSection() {
+  const flags = liveFlags();
+  if (!flags.length) return null;
+  const header = adminHeader("Flagged in cleanup", `${flags.length.toLocaleString()} text(s)`,
+    "Texts that look like they should not be localized, found by a review of the English. Don't localize adds them to the list below; Keep translating removes the flag. Nothing changes until you decide.");
+  const act = (records, exclude) => guarded(async (ev) => {
+    ev.preventDefault();
+    ev.target.disabled = true;
+    try { exclude ? await setExcluded(records, true) : await keepFlagged(records); } finally { ev.target.disabled = false; }
+    renderAll();
+  });
+  const order = Object.keys(state.flagGroups);
+  const groups = new Map();
+  for (const f of flags) {
+    if (!groups.has(f.group)) groups.set(f.group, []);
+    groups.get(f.group).push(f);
+  }
+  const blocks = [...groups].sort(([a], [b]) => order.indexOf(a) - order.indexOf(b)).map(([group, list]) => {
+    const records = list.map((f) => state.bySlot.get(slotOf(f)));
+    const lockable = group !== "unwritten";
+    const block = h("details", { class: "flaggroup", open: state.openFlagGroups.has(group) },
+      h("summary", {}, h("span", { class: "grow" }, `${flagGroupTitle(group)} · ${list.length}`),
+        lockable ? h("button", { type: "button", class: "danger small", onclick: act(records, true) }, `Don't localize all (${list.length})`) : null,
+        h("button", { type: "button", class: "ghost small", onclick: act(records, false) }, lockable ? `Keep all (${list.length})` : `Dismiss all (${list.length})`)),
+      h("div", { class: "hint" }, state.flagGroups[group] || ""),
+      ...records.map((entry) => h("article", { class: "entry compact" },
+        h("div", { class: "head" },
+          entry.category ? h("span", { class: "cat" }, entry.category) : null,
+          usageOf(entry) ? h("span", { class: "ctx" }, usageOf(entry)) : null,
+          entry.origin ? h("span", { class: "origin", title: joinMeta(entry.ns ? `${entry.ns},${entry.key}` : entry.key, entry.origin) }, entry.origin) : null),
+        h("div", { class: "source", lang: "en" }, richBlock(entry.source)),
+        h("div", { class: "rowline" }, h("span", { class: "grow" }),
+          h("button", { type: "button", class: "ghost small", onclick: act([entry], false) }, lockable ? "Keep translating" : "Dismiss"),
+          lockable ? h("button", { type: "button", class: "danger small", onclick: act([entry], true) }, "Don't localize") : null))));
+    block.addEventListener("toggle", () => (block.open ? state.openFlagGroups.add(group) : state.openFlagGroups.delete(group)));
+    return block;
+  });
+  return h("div", { class: "requests" }, header, ...blocks);
+}
+
+const FLAG_TITLES = {
+  format: "Formats without words", unwritten: "English not written yet", placeholder: "Placeholders",
+  plugin: "Plugin internals", debug: "Debug and test", legacy: "Legacy and demo content", literal: "Addresses, links and commands",
+};
+const flagGroupTitle = (group) => FLAG_TITLES[group] || group;
 
 // Texts players voted "shouldn't be translated", most votes first; only still-localized texts.
 function removalRequests() {
@@ -1590,13 +1668,16 @@ async function fetchJson(path) {
 }
 
 async function boot() {
-  const [config, settings, categories, excluded, project] = await Promise.all([
+  const [config, settings, categories, excluded, flagged, project] = await Promise.all([
     fetchJson("community/config.json").catch(() => ({})),
     fetchJson("community/settings.json").catch(() => ({})),
     fetchJson("community/categories.json").catch(() => ({})),
     fetchJson(EXCLUDED_FILE).catch(() => ({})),
+    fetchJson(FLAGGED_FILE).catch(() => ({})),
     fetchJson("Project.json"),
   ]);
+  state.flagGroups = flagged.groups || {};
+  state.flagged = new Map((flagged.entries || []).map((x) => [slotOf(x), x]));
   state.config = config;
   state.settings = { ...state.settings, ...settings };
   state.project = project;

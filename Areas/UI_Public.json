@@ -1,53 +1,53 @@
 {
 	"schemaVersion": 1,
-	"area": "Test_C/AdvancedAudio",
+	"area": "UI/Public",
 	"entries": [
 		{
-			"ns": "IRRVoiceChat",
-			"key": "DefaultDevice",
-			"source": "System Default",
-			"sourceHash": "d0b24dec",
-			"origin": "Source/Test_C/AdvancedAudio/IRRSettingHandler_VoiceChat.cpp(83)",
+			"ns": "IRRCategorySelector",
+			"key": "Any",
+			"source": "Any",
+			"sourceHash": "0345606f",
+			"origin": "Source/IRRCoreUI/Public/Components/IRRCategorySelectorWidget.h(44)",
 			"t":
 			{
 				"de":
 				{
-					"text": "Systemstandard",
+					"text": "Beliebig",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "系统默认",
+					"text": "任意",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "Системное По Умолчанию",
+					"text": "Любой",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "시스템 기본값",
+					"text": "모두",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "システムデフォルト",
+					"text": "すべて",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "Predeterminado del Sistema",
+					"text": "Cualquiera",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-10-06T23:14:59Z"
@@ -55,54 +55,54 @@
 			}
 		},
 		{
-			"ns": "IRRVoiceChat",
-			"key": "PanelTitle",
-			"source": "Voice Chat",
-			"sourceHash": "d42e5d8a",
-			"origin": "Source/Test_C/AdvancedAudio/IRRVoiceChatSubsystem.cpp(587)",
+			"ns": "IRRCategorySelector",
+			"key": "None",
+			"source": "None",
+			"sourceHash": "71180dc5",
+			"origin": "Source/IRRCoreUI/Public/Components/IRRCategorySelectorWidget.h(40)",
 			"t":
 			{
 				"de":
 				{
-					"text": "Voice-Chat",
+					"text": "Keine",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "语音聊天",
+					"text": "无",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "Голосовой чат",
+					"text": "Нет",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "보이스 채팅",
+					"text": "없음",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "ボイスチャット",
+					"text": "なし",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "Chat de voz",
+					"text": "Ninguno",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		}

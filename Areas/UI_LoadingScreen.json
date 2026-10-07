@@ -1,0 +1,1046 @@
+{
+	"schemaVersion": 1,
+	"area": "UI/LoadingScreen",
+	"entries": [
+		{
+			"ns": "LoadingScreenHints",
+			"key": "Challenges_Description",
+			"source": "These are secondary missions or objectives. Completion increases reputation. Challenges cannot be failed, and do not have to be completed in a single raid.",
+			"sourceHash": "d4f201b0",
+			"origin": "Config/DefaultGame.ini(471)",
+			"t":
+			{
+				"de":
+				{
+					"text": "Dies sind sekundäre Missionen oder Ziele. Ihr Abschluss erhöht den Ruf. Herausforderungen können nicht fehlschlagen und müssen nicht in einem einzigen Raid abgeschlossen werden.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "这些是次要任务或目标。完成后可提升声望。挑战不会失败，也不必在单次突袭中完成。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Это второстепенные миссии или задачи. Их выполнение повышает репутацию. Испытания нельзя провалить, и их не обязательно выполнять за один рейд.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "보조 임무 또는 목표입니다. 완료하면 평판이 오릅니다. 도전 과제는 실패할 수 없으며, 한 번의 레이드에서 완료하지 않아도 됩니다.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "これらはサブミッションまたはサブ目標だ。達成すると評判が上がる。チャレンジは失敗することがなく、1回のレイドで達成する必要もない。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Son misiones u objetivos secundarios. Completarlos aumenta la reputación. Los desafíos no se pueden fallar y no tienen que completarse en una sola incursión.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "LoadingScreenHints",
+			"key": "Challenges_Headline",
+			"source": "Challenges",
+			"sourceHash": "d1283aec",
+			"origin": "Config/DefaultGame.ini(471)",
+			"t":
+			{
+				"de":
+				{
+					"text": "Herausforderungen",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "挑战",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Испытания",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "도전 과제",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "チャレンジ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Desafíos",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "LoadingScreenHints",
+			"key": "Contracts_Description",
+			"source": "These are primary missions or objectives. Their completion makes the story evolve, and they affect the reputation you have with factions.",
+			"sourceHash": "8fe286f7",
+			"origin": "Config/DefaultGame.ini(471)",
+			"t":
+			{
+				"de":
+				{
+					"text": "Dies sind primäre Missionen oder Ziele. Ihr Abschluss treibt die Geschichte voran und beeinflusst deinen Ruf bei den Fraktionen.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "这些是主要任务或目标。完成它们会推动剧情发展，并影响你在各派系中的声望。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Это основные миссии или задачи. Их выполнение продвигает сюжет и влияет на твою репутацию у фракций.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "주요 임무 또는 목표입니다. 완료하면 스토리가 진행되며, 각 세력과의 평판에 영향을 줍니다.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "これらはメインミッションまたはメイン目標だ。達成するとストーリーが進み、各勢力との評判に影響する。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Son misiones u objetivos principales. Completarlos hace avanzar la historia y afecta a tu reputación con las facciones.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "LoadingScreenHints",
+			"key": "Contracts_Headline",
+			"source": "Contracts",
+			"sourceHash": "282af4c7",
+			"origin": "Config/DefaultGame.ini(471)",
+			"t":
+			{
+				"de":
+				{
+					"text": "Aufträge",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "合同",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Контракты",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "계약",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "契約",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Contratos",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "LoadingScreenHints",
+			"key": "CustomizeInput_Description",
+			"source": "Some prefer toggles, some hold down. If you want to switch your input for the likes of aiming/running and more, go to the settings and enable/disable the toggle function. Also many other things can be customize to your needs so its worth it to check out the settings menu!",
+			"sourceHash": "3ff8cc85",
+			"origin": "Config/DefaultGame.ini(471)",
+			"t":
+			{
+				"de":
+				{
+					"text": "Manche bevorzugen Umschalten, manche Gedrückthalten. Wenn du die Eingabe für Zielen/Rennen und mehr ändern willst, geh in die Einstellungen und aktiviere/deaktiviere die Umschaltfunktion. Auch viele andere Dinge lassen sich an deine Bedürfnisse anpassen, also lohnt sich ein Blick ins Einstellungsmenü!",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "有人喜欢切换，有人喜欢按住。如果你想更改瞄准/奔跑等操作的输入方式，请前往设置并启用/禁用切换功能。还有许多其他内容也可以按你的需要自定义，所以值得去看看设置菜单！",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Кто-то предпочитает переключение, кто-то удержание. Если хочешь изменить управление для прицеливания/бега и не только, зайди в настройки и включи/выключи функцию переключения. Под себя можно настроить и многое другое, так что загляни в меню настроек!",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "토글을 선호하는 사람도, 누르고 있기를 선호하는 사람도 있습니다. 조준/달리기 등의 입력 방식을 바꾸고 싶다면 설정에서 토글 기능을 켜거나 끄십시오. 그 밖에도 많은 항목을 원하는 대로 설정할 수 있으니 설정 메뉴를 확인해 볼 만합니다!",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "トグル派もいれば、長押し派もいる。エイム/ダッシュなどの入力を切り替えたいなら、設定でトグル機能を有効/無効にしよう。他にも多くの項目を好みに合わせて変更できるので、設定メニューを確認する価値はある！",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Algunos prefieren alternar, otros mantener pulsado. Si quieres cambiar el control de apuntar/correr y más, ve a los ajustes y activa/desactiva la función de alternar. ¡Además, muchas otras cosas se pueden personalizar a tu gusto, así que merece la pena echar un vistazo al menú de ajustes!",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "LoadingScreenHints",
+			"key": "CustomizeInput_Headline",
+			"source": "Customize Input",
+			"sourceHash": "1d6849e5",
+			"origin": "Config/DefaultGame.ini(471)",
+			"t":
+			{
+				"de":
+				{
+					"text": "Eingabe Anpassen",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "自定义输入",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Настройка Управления",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "입력 사용자 지정",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "入力のカスタマイズ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Personalizar Controles",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "LoadingScreenHints",
+			"key": "Difficulty_Description",
+			"source": "You think the game is too easy or too difficult? Adjust the difficulty in the settings menu under the tab gameplay at the very bottom!",
+			"sourceHash": "42d07bd7",
+			"origin": "Config/DefaultGame.ini(471)",
+			"t":
+			{
+				"de":
+				{
+					"text": "Du findest das Spiel zu leicht oder zu schwer? Passe den Schwierigkeitsgrad im Einstellungsmenü ganz unten im Tab Gameplay an!",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "觉得游戏太简单或太难？在设置菜单的游戏玩法选项卡最底部调整难度！",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Игра кажется слишком лёгкой или слишком сложной? Измени сложность в меню настроек, на вкладке «Геймплей» в самом низу!",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "게임이 너무 쉽거나 어렵다고 생각하십니까? 설정 메뉴의 게임플레이 탭 맨 아래에서 난이도를 조절하십시오!",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "ゲームが簡単すぎる、または難しすぎると思うか？ 設定メニューのゲームプレイタブの一番下で難易度を調整しよう！",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "¿Crees que el juego es demasiado fácil o demasiado difícil? ¡Ajusta la dificultad en el menú de ajustes, en la pestaña Jugabilidad, abajo del todo!",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "LoadingScreenHints",
+			"key": "Difficulty_Headline",
+			"source": "Difficulty",
+			"sourceHash": "76f61b38",
+			"origin": "Config/DefaultGame.ini(471)",
+			"t":
+			{
+				"de":
+				{
+					"text": "Schwierigkeit",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "难度",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Сложность",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "난이도",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "難易度",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Dificultad",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "LoadingScreenHints",
+			"key": "FactionReputation_Description",
+			"source": "As more Operations are completed, reputation increases with each faction.Increased reputation allows for better items to be purchased from the vendor. It also unlocks greater rewards, including money and rare items.",
+			"sourceHash": "4c2cc721",
+			"origin": "Config/DefaultGame.ini(471)",
+			"t":
+			{
+				"de":
+				{
+					"text": "Je mehr Operationen abgeschlossen werden, desto mehr steigt der Ruf bei jeder Fraktion. Höherer Ruf ermöglicht den Kauf besserer Gegenstände beim Händler. Außerdem schaltet er größere Belohnungen frei, darunter Geld und seltene Gegenstände.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "随着完成的行动越来越多，你在各派系的声望也会提升。更高的声望可以让你从商人处购买更好的物品，还会解锁更丰厚的奖励，包括金钱和稀有物品。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "С каждой выполненной операцией растёт репутация у каждой фракции. Повышенная репутация позволяет покупать у торговца более качественные предметы. Она также открывает более ценные награды, включая деньги и редкие предметы.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "더 많은 작전을 완료할수록 각 세력과의 평판이 오릅니다. 평판이 높아지면 상인에게서 더 좋은 아이템을 구매할 수 있습니다. 또한 돈과 희귀 아이템을 포함한 더 큰 보상이 해금됩니다.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "オペレーションを達成するほど、各勢力との評判が上がる。評判が上がると、商人からより良いアイテムを購入できる。さらに、金や希少アイテムを含むより大きな報酬も解放される。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "A medida que se completan más operaciones, aumenta la reputación con cada facción. Una mayor reputación permite comprar mejores objetos al comerciante. También desbloquea mejores recompensas, como dinero y objetos raros.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "LoadingScreenHints",
+			"key": "FactionReputation_Headline",
+			"source": "Faction Reputation",
+			"sourceHash": "400782ce",
+			"origin": "Config/DefaultGame.ini(471)",
+			"t":
+			{
+				"de":
+				{
+					"text": "Fraktionsruf",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "派系声望",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Репутация Фракций",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "세력 평판",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "勢力の評判",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Reputación de Facción",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "LoadingScreenHints",
+			"key": "GCPS_Description",
+			"source": "This in-raid device shows the map, tracked quest objectives, and a live position of your friends (if you queued with any).",
+			"sourceHash": "7fe4c9b5",
+			"origin": "Config/DefaultGame.ini(471)",
+			"t":
+			{
+				"de":
+				{
+					"text": "Dieses Gerät für den Raid zeigt die Karte, verfolgte Questziele und die Live-Position deiner Freunde (falls du mit welchen in die Warteschlange gegangen bist).",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "这款突袭中使用的设备会显示地图、追踪的任务目标，以及好友的实时位置（如果你与好友组队排队）。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Это устройство для рейда показывает карту, отслеживаемые цели заданий и текущее положение твоих друзей (если ты в очереди с ними).",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "레이드 중 사용하는 이 장치는 지도, 추적 중인 퀘스트 목표, 그리고 친구들의 실시간 위치(함께 대기열에 들어간 경우)를 보여 줍니다.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "このレイド用デバイスは、マップ、追跡中のクエスト目標、そして仲間のリアルタイム位置 (一緒にマッチングした場合) を表示する。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Este dispositivo de incursión muestra el mapa, los objetivos de misión seguidos y la posición en directo de tus amigos (si has entrado en cola con alguno).",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "LoadingScreenHints",
+			"key": "GCPS_Headline",
+			"source": "GCPS",
+			"sourceHash": "f45f7350",
+			"origin": "Config/DefaultGame.ini(471)",
+			"t":
+			{
+				"de":
+				{
+					"text": "GCPS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "GCPS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "GCPS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "GCPS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "GCPS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "GCPS",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "LoadingScreenHints",
+			"key": "PrepareForExtractionGearUpStrategizeAndC_Description",
+			"source": "Before embarking on your high-stakes raid, take a moment to ensure you're fully prepared for the mission ahead. Coordinate with your squad, fine-tune your loadout, and get ready to face relentless challenges. Once everyone's ready, the countdown begins – success awaits those who work together and stay vigilant!",
+			"sourceHash": "668ce879",
+			"origin": "Config/DefaultGame.ini(471)",
+			"t":
+			{
+				"de":
+				{
+					"text": "Bevor du zu deinem riskanten Raid aufbrichst, nimm dir einen Moment, um sicherzustellen, dass du voll auf die bevorstehende Mission vorbereitet bist. Stimm dich mit deinem Trupp ab, optimiere deine Ausrüstung und mach dich bereit für gnadenlose Herausforderungen. Sobald alle bereit sind, beginnt der Countdown: Erfolg erwartet die, die zusammenarbeiten und wachsam bleiben!",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "在踏上高风险突袭之前，花点时间确保你已为接下来的任务做好充分准备。与小队协同，微调你的装备配置，准备迎接无情的挑战。所有人准备就绪后，倒计时开始：成功属于那些团结协作、保持警惕的人！",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Прежде чем отправиться в рискованный рейд, убедись, что всё готово к предстоящей миссии. Согласуй действия с отрядом, доведи снаряжение до ума и приготовься к беспощадным испытаниям. Когда все будут готовы, начнётся обратный отсчёт: успех ждёт тех, кто действует сообща и не теряет бдительности!",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "위험천만한 레이드에 나서기 전에, 잠시 시간을 내어 앞으로의 임무에 완벽히 준비되었는지 확인하십시오. 분대와 협조하고, 장비 구성을 다듬고, 가혹한 도전에 맞설 준비를 하십시오. 모두 준비되면 카운트다운이 시작됩니다. 협력하고 경계를 늦추지 않는 자에게 성공이 기다립니다!",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "危険度の高いレイドに出る前に、少し時間を取って、これからのミッションへの準備が万全か確認しよう。分隊と連携し、装備を微調整し、容赦ない試練に立ち向かう準備をしろ。全員の準備が整えばカウントダウンが始まる。協力し、警戒を怠らない者に成功が待っている！",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Antes de lanzarte a tu arriesgada incursión, tómate un momento para asegurarte de que lo tienes todo listo para la misión que te espera. Coordínate con tu escuadra, ajusta tu equipamiento y prepárate para afrontar desafíos implacables. Cuando todos estén listos, empieza la cuenta atrás: ¡el éxito espera a quienes trabajan juntos y se mantienen alerta!",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "LoadingScreenHints",
+			"key": "PrepareForExtractionGearUpStrategizeAndC_Headline",
+			"source": "Prepare for Extraction: Gear Up, Strategize, and Conquer",
+			"sourceHash": "8bf0feae",
+			"origin": "Config/DefaultGame.ini(471)",
+			"t":
+			{
+				"de":
+				{
+					"text": "Vorbereitung auf die Extraktion: Ausrüsten, Planen und Erobern",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "准备撤离：整备、谋划、征服",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Подготовка к Эвакуации: Снаряжайся, Планируй и Побеждай",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "탈출 준비: 장비를 갖추고, 전략을 세우고, 정복하라",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "脱出に備えろ: 装備、戦略、制圧",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Prepárate para la Extracción: Equípate, Planifica y Conquista",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "LoadingScreenHints",
+			"key": "ShootingRange_Description",
+			"source": "Within your hideout, you'll find a shooting range designed for you to test all your firearms. This provides a perfect opportunity to become acquainted with their recoil patterns and handling characteristics. The best part? Ammunition is not depleted here, so feel free to practice your shooting to your heart's content!",
+			"sourceHash": "5eb71be9",
+			"origin": "Config/DefaultGame.ini(471)",
+			"t":
+			{
+				"de":
+				{
+					"text": "In deinem Versteck findest du einen Schießstand, auf dem du all deine Schusswaffen testen kannst. Das ist die perfekte Gelegenheit, dich mit ihren Rückstoßmustern und ihrem Handling vertraut zu machen. Das Beste daran? Munition wird hier nicht verbraucht, also übe nach Herzenslust!",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "在你的藏身处中，有一个专为测试所有枪械而设计的射击场。这是熟悉它们后坐力模式和操控特性的绝佳机会。最棒的是？这里不消耗弹药，尽情练习射击吧！",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "В твоём убежище есть стрелковый тир, где можно испытать всё твоё оружие. Это отличная возможность освоиться с его отдачей и управляемостью. А самое приятное? Патроны здесь не расходуются, так что стреляй сколько душе угодно!",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "은신처에는 모든 화기를 시험해 볼 수 있는 사격장이 있습니다. 반동 패턴과 조작 특성을 익힐 수 있는 완벽한 기회입니다. 가장 좋은 점은? 이곳에서는 탄약이 소모되지 않으니 마음껏 사격 연습을 하십시오!",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "隠れ家には、すべての銃器を試せる射撃場がある。リコイルパターンや操作特性に慣れる絶好の機会だ。一番の利点は？ ここでは弾薬が減らないので、好きなだけ射撃を練習できる！",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "En tu refugio encontrarás un campo de tiro pensado para que pruebes todas tus armas de fuego. Es la oportunidad perfecta para familiarizarte con sus patrones de retroceso y su manejo. ¿Lo mejor? Aquí la munición no se agota, ¡así que practica tu puntería todo lo que quieras!",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "LoadingScreenHints",
+			"key": "ShootingRange_Headline",
+			"source": "Shooting Range",
+			"sourceHash": "3f58fc71",
+			"origin": "Config/DefaultGame.ini(471)",
+			"t":
+			{
+				"de":
+				{
+					"text": "Schießstand",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "射击场",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Стрелковый Тир",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "사격장",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "射撃場",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Campo de Tiro",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "LoadingScreenHints",
+			"key": "Stash_Description",
+			"source": "Within your hideout, there's also the capability to manage your stash. This feature allows you to organize all your loot, ensuring you're well-equipped for your next raid. Moreover, the stash can be upgraded to accommodate even more loot, enhancing your capacity to store valuable equipment and items!",
+			"sourceHash": "0368e101",
+			"origin": "Config/DefaultGame.ini(471)",
+			"t":
+			{
+				"de":
+				{
+					"text": "In deinem Versteck kannst du außerdem dein Lager verwalten. Mit dieser Funktion organisierst du deine gesamte Beute, damit du für deinen nächsten Raid gut ausgerüstet bist. Außerdem lässt sich das Lager ausbauen, um noch mehr Beute aufzunehmen und mehr wertvolle Ausrüstung und Gegenstände zu verstauen!",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "在你的藏身处中，你还可以管理仓库。此功能让你整理所有战利品，确保为下一次突袭做好充分装备。此外，仓库还可以升级以容纳更多战利品，提升你存放贵重装备和物品的容量！",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "В убежище также можно управлять своим схроном. Здесь ты упорядочиваешь всю добычу, чтобы как следует снарядиться к следующему рейду. Кроме того, схрон можно улучшить, чтобы вместить ещё больше добычи и хранить больше ценного снаряжения и предметов!",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "은신처에서는 창고도 관리할 수 있습니다. 이 기능으로 모든 전리품을 정리하여 다음 레이드에 맞춰 장비를 잘 갖출 수 있습니다. 또한 창고를 업그레이드하여 더 많은 전리품을 보관하고, 귀중한 장비와 아이템의 보관 용량을 늘릴 수 있습니다!",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "隠れ家では倉庫の管理もできる。この機能で戦利品をすべて整理し、次のレイドに向けて万全の装備を整えられる。さらに倉庫はアップグレードして、より多くの戦利品を収納でき、貴重な装備やアイテムの保管容量を増やせる！",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "En tu refugio también puedes gestionar tu alijo. Esta función te permite organizar todo tu botín para tenerlo todo listo para tu próxima incursión. Además, ¡el alijo se puede mejorar para guardar aún más botín y ampliar tu capacidad de almacenar equipamiento y objetos valiosos!",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "LoadingScreenHints",
+			"key": "Stash_Headline",
+			"source": "Stash",
+			"sourceHash": "11af4b12",
+			"origin": "Config/DefaultGame.ini(471)",
+			"t":
+			{
+				"de":
+				{
+					"text": "Lager",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "仓库",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Схрон",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "창고",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "倉庫",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Alijo",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "LoadingScreenHints",
+			"key": "Terminal_Description",
+			"source": "The laptop located within your hideout functions as the primary terminal for tracking contracts and challenges, purchasing new items, and embarking on missions. It also serves as the venue for forming groups and inviting your friends to join!",
+			"sourceHash": "4cc21d4b",
+			"origin": "Config/DefaultGame.ini(471)",
+			"t":
+			{
+				"de":
+				{
+					"text": "Der Laptop in deinem Versteck dient als zentrales Terminal, um Aufträge und Herausforderungen zu verfolgen, neue Gegenstände zu kaufen und zu Missionen aufzubrechen. Außerdem kannst du hier Gruppen bilden und deine Freunde einladen!",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "藏身处中的笔记本电脑是你的主终端，可用于追踪合同和挑战、购买新物品以及出发执行任务。它也是组建小队和邀请好友加入的地方！",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Ноутбук в твоём убежище служит основным терминалом для отслеживания контрактов и испытаний, покупки новых предметов и выхода на миссии. Здесь же можно собирать группы и приглашать друзей!",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "은신처에 있는 노트북은 계약과 도전 과제를 추적하고, 새 아이템을 구매하고, 임무에 나서는 주 터미널 역할을 합니다. 그룹을 만들고 친구를 초대하는 곳이기도 합니다!",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "隠れ家にあるノートPCは、契約やチャレンジの確認、新しいアイテムの購入、ミッションへの出撃を行うメイン端末だ。グループを組んで仲間を招待する場所でもある！",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "El portátil de tu refugio funciona como terminal principal para seguir contratos y desafíos, comprar objetos nuevos y partir a misiones. ¡También es donde puedes formar grupos e invitar a tus amigos!",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "LoadingScreenHints",
+			"key": "Terminal_Headline",
+			"source": "Terminal",
+			"sourceHash": "f3f9e2df",
+			"origin": "Config/DefaultGame.ini(471)",
+			"t":
+			{
+				"de":
+				{
+					"text": "Terminal",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "终端",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Терминал",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "터미널",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "端末",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Terminal",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		}
+	]
+}

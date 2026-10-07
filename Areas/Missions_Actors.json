@@ -993,8 +993,8 @@
 		{
 			"ns": "",
 			"key": "95E3EA7843C16830F4A39BA98906A3A2",
-			"source": "Press <Red>F</> to <Red>upgrade</> the firing range.",
-			"sourceHash": "36b0407c",
+			"source": "Press <Red>F</> to <Red>upgrade</> the shooting range.",
+			"sourceHash": "dfeb1904",
 			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_Master_ShootingRange.BP_HideoutUnit_Master_ShootingRange_C:BP_InteractionTarget_Upgrade_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
 			"t":
 			{
@@ -1003,42 +1003,42 @@
 					"text": "Drücke <Red>F</>, um den Schießstand <Red>aufzurüsten</>.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-25T20:56:00Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "按<Red>F</><Red>升级</>射击场。",
+					"text": "按 <Red>F</> <Red>升级</>靶场。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-25T20:56:00Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "Нажми <Red>F</>, чтобы <Red>улучшить</> стрельбище.",
+					"text": "Нажми <Red>F</>, чтобы <Red>улучшить</> тир.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-25T20:56:00Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "<Red>F</> 눌러 사격장 <Red>업그레이드</>",
+					"text": "<Red>F</> 키를 눌러 사격장을 <Red>업그레이드</>하라.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-25T20:56:00Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "<Red>F</>で射撃場を<Red>強化</>",
+					"text": "<Red>F</>を押して射撃場を<Red>アップグレード</>する。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-25T20:56:00Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
 					"text": "Pulsa <Red>F</> para <Red>mejorar</> el campo de tiro.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-25T20:56:00Z"
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -1898,10 +1898,10 @@
 				},
 				"ru":
 				{
-					"text": "Добавляет первую <strong>деталь антенны</>. Дальше - больше!",
+					"text": "Добавляет первую <strong>часть антенны</>. Дальше больше!",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{

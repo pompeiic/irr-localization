@@ -4,53 +4,105 @@
 	"entries": [
 		{
 			"ns": "",
-			"key": "151D06C34793D208E96B5482478D115F",
-			"source": "IA_Run",
-			"sourceHash": "2f108655",
-			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_Run.IA_Run:PlayerMappableKeySettings_0.DisplayName",
+			"key": "0A9D6AD0488592186511CB91592F426F",
+			"source": "Pistol",
+			"sourceHash": "8417158d",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_EquipHolster.IA_EquipHolster:PlayerMappableKeySettings_0.DisplayName",
 			"t":
 			{
 				"de":
 				{
-					"text": "IA_Run",
+					"text": "Pistole",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "IA_Run",
+					"text": "手枪",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "IA_Run",
+					"text": "Пистолет",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "IA_Run",
+					"text": "권총",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "IA_Run",
+					"text": "ピストル",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "IA_Run",
+					"text": "Pistola",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "21D1C8FA47466C20FEEEE197FAFDD39E",
+			"source": "Laser Range Finder",
+			"sourceHash": "c2100bef",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_EquipSpecialEquipment.IA_EquipSpecialEquipment:PlayerMappableKeySettings_30.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "Laser-Entfernungsmesser",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "激光测距仪",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Лазерный дальномер",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "레이저 거리측정기",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "レーザー距離計",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Telémetro láser",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -59,7 +111,7 @@
 			"key": "239867F147D32907F15555BE9E20AA9B",
 			"source": "IA_Pause",
 			"sourceHash": "78109b68",
-			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_Pause.IA_Pause:PlayerMappableKeySettings_28.DisplayName",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_Modifier_Alt.IA_Modifier_Alt:PlayerMappableKeySettings_28.DisplayName",
 			"t":
 			{
 				"de":
@@ -108,53 +160,573 @@
 		},
 		{
 			"ns": "",
-			"key": "4B07991D42182CE31BB5FA8A2D410B0B",
-			"source": "IA_AttachmentMenu",
-			"sourceHash": "c98262a9",
-			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_ToggleAttachmentMenu.IA_ToggleAttachmentMenu:PlayerMappableKeySettings_0.DisplayName",
+			"key": "26ADB44C4B2CA99E4612B089F0B6D99F",
+			"source": "Quick Slot 4",
+			"sourceHash": "380d80b5",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_EquipQuickSlot_3.IA_EquipQuickSlot_3:PlayerMappableKeySettings_4.DisplayName",
 			"t":
 			{
 				"de":
 				{
-					"text": "IA_AttachmentMenu",
+					"text": "Schnellzugriff 4",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "快捷栏 4",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Быстрый слот 4",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "퀵 슬롯 4",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "クイックスロット4",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Acceso rápido 4",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "2894DE954764FC1E14CDD99FA0F19BA5",
+			"source": "Toggle Magnifier",
+			"sourceHash": "86516ed4",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_ToggleMagnifier.IA_ToggleMagnifier:PlayerMappableKeySettings_0.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "Vergrößerung umschalten",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "切换增倍镜",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Переключить увеличитель",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "배율경 전환",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "マグニファイア切替",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Alternar aumentador",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "2B850A464A8637519F485CAAAD7CB1BC",
+			"source": "Low Ready",
+			"sourceHash": "123eea2e",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_LowReady.IA_LowReady:PlayerMappableKeySettings_13.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "Waffe senken",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "低姿持枪",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Опустить оружие",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "총기 내리기",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "ローレディ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Bajar arma",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "2BD66DFB4C42076A374797AC3F09132F",
+			"source": "Secondary",
+			"sourceHash": "e14f9854",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_EquipSecondary.IA_EquipSecondary:PlayerMappableKeySettings_17.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "Sekundärwaffe",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "副武器",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Вторичное оружие",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "보조 무기",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "セカンダリ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Arma secundaria",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "32A75F9A48C33D247C2C2993B65E93B8",
+			"source": "Cycle Sights",
+			"sourceHash": "f3e6dc1f",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_CycleSights.IA_CycleSights:PlayerMappableKeySettings_1.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "Visiere durchschalten",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "切换瞄具",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Переключить прицел",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "조준경 순환",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "サイト切替",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Cambiar mira",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "33E155C649330C53E60B99A8EFA5B1F5",
+			"source": "Fire",
+			"sourceHash": "c622130e",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_Fire.IA_Fire:PlayerMappableKeySettings_16.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "Feuern",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "开火",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Огонь",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "발사",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "射撃",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Disparar",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "349C40E347D596489F6EF88E3B0D75E8",
+			"source": "Grenade Equip",
+			"sourceHash": "63c342a2",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_QuickGrenade.IA_QuickGrenade:PlayerMappableKeySettings_0.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "Granate ausrüsten",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "装备手榴弹",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Взять гранату",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "수류탄 장착",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "グレネード装備",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Equipar granada",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "393A88684C8DA6719B8ABBA7DD3725A4",
+			"source": "Toggle Attachment Menu",
+			"sourceHash": "85e9aadf",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_ToggleAttachmentMenu.IA_ToggleAttachmentMenu:PlayerMappableKeySettings_2.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "Anbauteil-Menü umschalten",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "切换配件菜单",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Переключить меню модулей",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "부착물 메뉴 전환",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "アタッチメントメニュー切替",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Alternar menú de accesorios",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "3D9582E14BBEC58A9C912FB28CF01283",
+			"source": "Night Vision",
+			"sourceHash": "071e78cb",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_ToggleNightVision.IA_ToggleNightVision:PlayerMappableKeySettings_0.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "Nachtsichtgerät",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "IA_AttachmentMenu",
+					"text": "夜视仪",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"ru":
 				{
-					"text": "IA_AttachmentMenu",
+					"text": "ПНВ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"ko":
 				{
-					"text": "IA_AttachmentMenu",
+					"text": "야간투시경",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"ja":
 				{
-					"text": "IA_AttachmentMenu",
+					"text": "暗視ゴーグル",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"es-ES":
 				{
-					"text": "IA_AttachmentMenu",
+					"text": "Visor nocturno",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "4132B00C4180887FD814909F6EECE713",
+			"source": "Chack Magazine",
+			"sourceHash": "65413f6d",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_CheckAmmo.IA_CheckAmmo:PlayerMappableKeySettings_0.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "Magazin prüfen",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "检查弹匣",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Проверить магазин",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "탄창 확인",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "マガジン確認",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Comprobar cargador",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "4C752EFD4129AE8CE3907898C2DE03B7",
+			"source": "Jump",
+			"sourceHash": "aa4ee491",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_Jump.IA_Jump:PlayerMappableKeySettings_21.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "Springen",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "跳跃",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Прыжок",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "점프",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "ジャンプ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Saltar",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -212,50 +784,258 @@
 		},
 		{
 			"ns": "",
-			"key": "5B37287247E5C460CB6D5199BF2EFB75",
-			"source": "IA_EquipSlot_2",
-			"sourceHash": "a926bc52",
-			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_EquipSecondary.IA_EquipSecondary:PlayerMappableKeySettings_17.DisplayName",
+			"key": "5503F19F49CBEAAB81D02CACFD643E44",
+			"source": "Quick Slot 1",
+			"sourceHash": "0fd37087",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_EquipQuickSlot_0.IA_EquipQuickSlot_0:PlayerMappableKeySettings_0.DisplayName",
 			"t":
 			{
 				"de":
 				{
-					"text": "IA_EquipSlot_2",
+					"text": "Schnellzugriff 1",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "快捷栏 1",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Быстрый слот 1",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "퀵 슬롯 1",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "クイックスロット1",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Acceso rápido 1",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "5E891AE340C79E3D828771BDD48A9A67",
+			"source": "Quick Heal",
+			"sourceHash": "7d8be909",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_QuickHeal.IA_QuickHeal:PlayerMappableKeySettings_0.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "Schnellheilung",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "快速治疗",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Быстрое лечение",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "빠른 치료",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "クイックヒール",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Curación rápida",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "6AED1AA54E385DBF5386BAB1C41BD464",
+			"source": "Run",
+			"sourceHash": "94dc1d38",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_Run.IA_Run:PlayerMappableKeySettings_0.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "Sprinten",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "奔跑",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Бег",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "달리기",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "走る",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Correr",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "6DA3657844FBEECA396A4395E7D7892F",
+			"source": "Free Look",
+			"sourceHash": "badb933a",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_FreeLook.IA_FreeLook:PlayerMappableKeySettings_27.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "Freies Umsehen",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "自由视角",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Свободный обзор",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "자유 시점",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "フリールック",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Vista libre",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "6F040A1F43931C9DA2357D8B88E80F03",
+			"source": "Toggle Tactical Attachments",
+			"sourceHash": "f93ce532",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_ToggleTacticalAttachments.IA_ToggleTacticalAttachments:PlayerMappableKeySettings_0.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "Taktische Anbauteile umschalten",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "IA_EquipSlot_2",
+					"text": "开关战术配件",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"ru":
 				{
-					"text": "IA_EquipSlot_2",
+					"text": "Переключить тактические модули",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"ko":
 				{
-					"text": "IA_EquipSlot_2",
+					"text": "전술 부착물 전환",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"ja":
 				{
-					"text": "IA_EquipSlot_2",
+					"text": "タクティカルアタッチメント切替",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"es-ES":
 				{
-					"text": "IA_EquipSlot_2",
+					"text": "Alternar accesorios tácticos",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -264,310 +1044,622 @@
 		},
 		{
 			"ns": "",
-			"key": "6C45DCA14AC2480CF52C56A49DB9124B",
-			"source": "IA_Aim",
-			"sourceHash": "6d3732d3",
+			"key": "7847F467418E5605EE3E2CA28A70F91A",
+			"source": "Melee",
+			"sourceHash": "76cfe5c0",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_EquipMelee.IA_EquipMelee:PlayerMappableKeySettings_31.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "Nahkampf",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
+				},
+				"zh-Hans":
+				{
+					"text": "近战",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ru":
+				{
+					"text": "Ближний бой",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ko":
+				{
+					"text": "근접 공격",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"ja":
+				{
+					"text": "近接攻撃",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Cuerpo a cuerpo",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "78F2132F4851DE9DF2FF019C12797327",
+			"source": "Hold Breath",
+			"sourceHash": "e2b1b61c",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_HoldBreath.IA_HoldBreath:PlayerMappableKeySettings_0.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "Atem anhalten",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "屏息",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
+				},
+				"ru":
+				{
+					"text": "Задержка дыхания",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
+				},
+				"ko":
+				{
+					"text": "숨 참기",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
+				},
+				"ja":
+				{
+					"text": "息止め",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Contener la respiración",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "79E6471A4428E5AF4EF110BE683F691D",
+			"source": "Aim",
+			"sourceHash": "d6fba9be",
 			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_Aim.IA_Aim:PlayerMappableKeySettings_13.DisplayName",
 			"t":
 			{
 				"de":
 				{
-					"text": "IA_Aim",
+					"text": "Zielen",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "IA_Aim",
+					"text": "瞄准",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "IA_Aim",
+					"text": "Прицеливание",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "IA_Aim",
+					"text": "조준",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "IA_Aim",
+					"text": "照準",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "IA_Aim",
+					"text": "Apuntar",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
 		{
 			"ns": "",
-			"key": "80CF448F41553EE56053E3BD1DA7B5BF",
-			"source": "IA_Inspect",
-			"sourceHash": "a215996c",
-			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_Inspect.IA_Inspect:PlayerMappableKeySettings_12.DisplayName",
-			"t":
-			{
-				"de":
-				{
-					"text": "IA_Inspect",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "IA_Inspect",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "IA_Inspect",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "IA_Inspect",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "IA_Inspect",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "IA_Inspect",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "BD45534548106FDCEE4B76A772DAC9F1",
-			"source": "IA_Reload",
-			"sourceHash": "af1a657b",
-			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_Reload.IA_Reload:PlayerMappableKeySettings_9.DisplayName",
-			"t":
-			{
-				"de":
-				{
-					"text": "IA_Reload",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "IA_Reload",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "IA_Reload",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "IA_Reload",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "IA_Reload",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "IA_Reload",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "BDCD83D34D3426B4ABDF76A48AE8D935",
-			"source": "IA_Crouch",
-			"sourceHash": "97c27b7d",
+			"key": "7A1B429144543A0591CBD0BE49A8EBDC",
+			"source": "Crouch",
+			"sourceHash": "73bbd0e4",
 			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_Crouch.IA_Crouch:PlayerMappableKeySettings_11.DisplayName",
 			"t":
 			{
 				"de":
 				{
-					"text": "IA_Crouch",
+					"text": "Ducken",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "IA_Crouch",
+					"text": "蹲下",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "IA_Crouch",
+					"text": "Присесть",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "IA_Crouch",
+					"text": "앉기",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "IA_Crouch",
+					"text": "しゃがむ",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "IA_Crouch",
+					"text": "Agacharse",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
 		{
 			"ns": "",
-			"key": "CD2D9E454A9B0374F0A42CAD2FF5D55B",
-			"source": "IA_Fire",
-			"sourceHash": "c5d49987",
-			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_Fire.IA_Fire:PlayerMappableKeySettings_16.DisplayName",
+			"key": "7A26D9D64F502552A32F0981438895DC",
+			"source": "Quick Slot 2",
+			"sourceHash": "1d66df69",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_EquipQuickSlot_1.IA_EquipQuickSlot_1:PlayerMappableKeySettings_0.DisplayName",
 			"t":
 			{
 				"de":
 				{
-					"text": "IA_Fire",
+					"text": "Schnellzugriff 2",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "IA_Fire",
+					"text": "快捷栏 2",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "IA_Fire",
+					"text": "Быстрый слот 2",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "IA_Fire",
+					"text": "퀵 슬롯 2",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "IA_Fire",
+					"text": "クイックスロット2",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "IA_Fire",
+					"text": "Acceso rápido 2",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
 		{
 			"ns": "",
-			"key": "CF5A819546F352A48172DA941A1A5CB3",
-			"source": "IA_Interact",
-			"sourceHash": "32892bc8",
+			"key": "7A77CC27437D6C23C7D166B537010FD5",
+			"source": "Fix Malfunction",
+			"sourceHash": "bd179f08",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_FixMalfunction.IA_FixMalfunction:PlayerMappableKeySettings_0.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "Fehlfunktion beheben",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "排除故障",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Устранить неполадку",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "기능고장 해결",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "作動不良解消",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Solucionar fallo",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "7E8646984B20AA11D09B139EEE042D67",
+			"source": "Interact",
+			"sourceHash": "b6933e90",
 			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_Interact.IA_Interact:PlayerMappableKeySettings_1.DisplayName",
 			"t":
 			{
 				"de":
 				{
-					"text": "IA_Interact",
+					"text": "Interagieren",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "互动",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Взаимодействие",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "상호작용",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "インタラクト",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Interactuar",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "8515DFB744B12CB21FCC439FB06E7429",
+			"source": "Push To Talk",
+			"sourceHash": "0deac2c3",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_PushToTalk.IA_PushToTalk:PlayerMappableKeySettings_0.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "Push-to-Talk",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "按键说话",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Нажми, чтобы говорить",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "눌러서 말하기",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "プッシュトゥトーク",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Pulsar para hablar",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "8D0ACDD247F9BE2ABA82078E819FC239",
+			"source": "Chat",
+			"sourceHash": "3d4f8445",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_Chat.IA_Chat:PlayerMappableKeySettings_0.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "Chat",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "聊天",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Чат",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "채팅",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "チャット",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Chat",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "9BACBFB54DCD8705618B41832D92C4F6",
+			"source": "Quick Slot 3",
+			"sourceHash": "a5dab80c",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_EquipQuickSlot_2.IA_EquipQuickSlot_2:PlayerMappableKeySettings_0.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "Schnellzugriff 3",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "快捷栏 3",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Быстрый слот 3",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "퀵 슬롯 3",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "クイックスロット3",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Acceso rápido 3",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "A48580064E64826F7E098DBC62DC2854",
+			"source": "Primary",
+			"sourceHash": "240cdd2f",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_EquipPrimary.IA_EquipPrimary:PlayerMappableKeySettings_3.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "Primärwaffe",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "主武器",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Основное оружие",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "주 무기",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "プライマリ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Arma principal",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "C06D8081485FA9CE6A25F2B8B0889EAC",
+			"source": "Inventory",
+			"sourceHash": "b3281d2e",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_Inventory.IA_Inventory:PlayerMappableKeySettings_0.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "Inventar",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "IA_Interact",
+					"text": "背包",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"ru":
 				{
-					"text": "IA_Interact",
+					"text": "Инвентарь",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"ko":
 				{
-					"text": "IA_Interact",
+					"text": "인벤토리",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"ja":
 				{
-					"text": "IA_Interact",
+					"text": "インベントリ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"es-ES":
 				{
-					"text": "IA_Interact",
+					"text": "Inventario",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -576,53 +1668,209 @@
 		},
 		{
 			"ns": "",
-			"key": "D3606CF248418FFAA494ABA617D21FAA",
-			"source": "IA_ToggleAttachmentMenu",
-			"sourceHash": "7d3763e1",
-			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_ToggleAttachmentMenu.IA_ToggleAttachmentMenu:PlayerMappableKeySettings_2.DisplayName",
+			"key": "C2FB628E4D0608D53E16B59EABAC4C2D",
+			"source": "Switch Fire Mode",
+			"sourceHash": "d61baaac",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_SwitchFireMode.IA_SwitchFireMode:PlayerMappableKeySettings_22.DisplayName",
 			"t":
 			{
 				"de":
 				{
-					"text": "IA_ToggleAttachmentMenu",
+					"text": "Feuermodus wechseln",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "IA_ToggleAttachmentMenu",
+					"text": "切换射击模式",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "IA_ToggleAttachmentMenu",
+					"text": "Сменить режим огня",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "IA_ToggleAttachmentMenu",
+					"text": "사격 모드 전환",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "IA_ToggleAttachmentMenu",
+					"text": "射撃モード切替",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "IA_ToggleAttachmentMenu",
+					"text": "Cambiar modo de disparo",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "C337D0014F6CE1EC338D8B8E3B807D78",
+			"source": "Inspect",
+			"sourceHash": "eeea611d",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_Inspect.IA_Inspect:PlayerMappableKeySettings_12.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "Inspizieren",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "检视",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Осмотреть",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "살펴보기",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "確認",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Inspeccionar",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "C480F574427A693E6B872C82628F85EA",
+			"source": "Point Shooting",
+			"sourceHash": "3740de85",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_PointSight.IA_PointSight:PlayerMappableKeySettings_23.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "Point Shooting",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "指向射击",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Стрельба навскидку",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "지향 사격",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "ポイントシューティング",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Tiro instintivo",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "D3991E3147F8D34FE19F8785CDBE71EB",
+			"source": "Pause",
+			"sourceHash": "df0ceb0e",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_Pause.IA_Pause:PlayerMappableKeySettings_28.DisplayName",
+			"t":
+			{
+				"de":
+				{
+					"text": "Pause",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "暂停",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Пауза",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "일시정지",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "ポーズ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Pausa",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -680,50 +1928,50 @@
 		},
 		{
 			"ns": "",
-			"key": "EAADC43341C8312E6EC866BDEBED2E05",
-			"source": "IA_EquipSlot_3",
-			"sourceHash": "119adb37",
-			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_EquipQuickSlot_3.IA_EquipQuickSlot_3:PlayerMappableKeySettings_4.DisplayName",
+			"key": "F4C587E441FDE87F190281B4F1A5567D",
+			"source": "Cycle Tactical Attachments",
+			"sourceHash": "b9561b6f",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_CycleTacticalAttachments.IA_CycleTacticalAttachments:PlayerMappableKeySettings_0.DisplayName",
 			"t":
 			{
 				"de":
 				{
-					"text": "IA_EquipSlot_3",
+					"text": "Taktische Anbauteile durchschalten",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "IA_EquipSlot_3",
+					"text": "轮换战术配件",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"ru":
 				{
-					"text": "IA_EquipSlot_3",
+					"text": "Сменить режим тактических модулей",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"ko":
 				{
-					"text": "IA_EquipSlot_3",
+					"text": "전술 부착물 순환",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"ja":
 				{
-					"text": "IA_EquipSlot_3",
+					"text": "タクティカルアタッチメント順送り",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"es-ES":
 				{
-					"text": "IA_EquipSlot_3",
+					"text": "Cambiar accesorios tácticos",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -732,102 +1980,102 @@
 		},
 		{
 			"ns": "",
-			"key": "EB38882342DA304933DDE3A448F8F57E",
-			"source": "IA_Jump",
-			"sourceHash": "a9b86e18",
-			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_Jump.IA_Jump:PlayerMappableKeySettings_21.DisplayName",
+			"key": "F67A6EAE48F5ED74B5308D8260B495BC",
+			"source": "Reload",
+			"sourceHash": "4b63cee2",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_Reload.IA_Reload:PlayerMappableKeySettings_9.DisplayName",
 			"t":
 			{
 				"de":
 				{
-					"text": "IA_Jump",
+					"text": "Nachladen",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "IA_Jump",
+					"text": "换弹",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "IA_Jump",
+					"text": "Перезарядка",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "IA_Jump",
+					"text": "재장전",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "IA_Jump",
+					"text": "リロード",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "IA_Jump",
+					"text": "Recargar",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
 		{
 			"ns": "",
-			"key": "EE889EB9446C9C3B7FF9A08EA7BF964D",
-			"source": "IA_EquipQuickSlot_3",
-			"sourceHash": "90413d6a",
-			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_EquipQuickSlot_3.IA_EquipQuickSlot_3:PlayerMappableKeySettings_0.DisplayName",
+			"key": "FA44626349050A7163E5E49AF34A4C5D",
+			"source": "Global Combat Positioning System",
+			"sourceHash": "2a77ecbd",
+			"origin": "/Game/Blueprints/InputSystem/InputActions/IA_EquipGCPS.IA_EquipGCPS:PlayerMappableKeySettings_30.DisplayName",
 			"t":
 			{
 				"de":
 				{
-					"text": "IA_EquipQuickSlot_3",
+					"text": "Globales Kampf-Positionierungssystem (GCPS)",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "IA_EquipQuickSlot_3",
+					"text": "全球战斗定位系统 (GCPS)",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"ru":
 				{
-					"text": "IA_EquipQuickSlot_3",
+					"text": "Глобальная система боевого позиционирования (GCPS)",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"ko":
 				{
-					"text": "IA_EquipQuickSlot_3",
+					"text": "전역 전투 측위 시스템 (GCPS)",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"ja":
 				{
-					"text": "IA_EquipQuickSlot_3",
+					"text": "全地球戦闘測位システム (GCPS)",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"es-ES":
 				{
-					"text": "IA_EquipQuickSlot_3",
+					"text": "Sistema global de posicionamiento en combate (GCPS)",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"

@@ -182,10 +182,10 @@
 				},
 				"ru":
 				{
-					"text": "Zenitco Klesch 2IKS3 - компактный ЛЦУ, подходящий также для пистолетных планок.",
+					"text": "Zenitco Klesch 2IKS3 - компактный лазер, подходящий также для пистолетных планок.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -732,6 +732,58 @@
 		},
 		{
 			"ns": "",
+			"key": "0404F2E14178966DFE3B61BBD7CF25D8",
+			"source": "RFB Sight",
+			"sourceHash": "c05cd969",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Sight/RFB_Front_Sight/ID_RFB_Front_Sight.ID_RFB_Front_Sight.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "RFB-Visier",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "RFB 瞄具",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Прицел RFB",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "RFB 조준경",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "RFB サイト",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Mira RFB",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "046C267041AC191F190940BCF0D57582",
 			"source": "Hi team :D",
 			"sourceHash": "17d42107",
@@ -1044,6 +1096,58 @@
 		},
 		{
 			"ns": "",
+			"key": "05BBABA54F980CE75D25C2A141E91C08",
+			"source": "Service rifle primarly knowm from a Vietnam war... hmm..",
+			"sourceHash": "845aabd3",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Weapons/DMR/M14/ID_M14.ID_M14.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "Dienstgewehr, vor allem bekannt aus einem Vietnamkrieg... hmm..",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "一把主要因一场越南战争为人知晓的制式步枪... 嗯..",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Штатная винтовка, известная в основном по одной вьетнамской войне... хм..",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "베트남 전쟁으로 주로 알려진 제식 소총... 흠..",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "ベトナム戦争で主に知られる制式ライフル... ふむ..",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Fusil de servicio conocido sobre todo por una guerra de Vietnam... hmm..",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "06A4EB654E51A102DD90D0BFC5ED99E3",
 			"source": "30 round .45 ACP magazine for Glock pistols and other compatibile weapons.",
 			"sourceHash": "662f09f7",
@@ -1252,58 +1356,6 @@
 		},
 		{
 			"ns": "",
-			"key": "074BBA7D4B89965AB10A11AF74D69811",
-			"source": "--",
-			"sourceHash": "5509df0d",
-			"origin": "/Game/Blueprints/InventorySystem/Items/Gadgets/Binoculars/M1050_LRF_Binoculars/Materials/W_IRR_LRF_Reticle.W_IRR_LRF_Reticle_C:WidgetTree.InclinationText.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "--",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "--",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "--",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "--",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "--",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "--",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "0788197942CC224FB6AB5B88A883123A",
 			"source": "8 round magazine is a dedicated magazine designed for the Desert Tech SRS A2 rifle chambered in .338 Lapua Magnum.",
 			"sourceHash": "45e82150",
@@ -1482,10 +1534,10 @@
 				},
 				"ru":
 				{
-					"text": "Полимерная пистолетная рукоятка AK Izhmash - эргономичный аксессуар для автоматов на платформе AK. ",
+					"text": "Полимерная пистолетная рукоятка AK Izhmash - эргономичный аксессуар для винтовок на платформе AK. ",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -1663,6 +1715,58 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:40:14Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "0B4F826648A681D4759ED3B6DDB9C5E1",
+			"source": "M14 Sight",
+			"sourceHash": "a2350806",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Sight/M14_Rear_Iron_Sight/ID_M14_Rear_Iron_Sight.ID_M14_Rear_Iron_Sight.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "M14-Visier",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "M14 瞄具",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Прицел M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "M14 조준경",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "M14 サイト",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Mira M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -2084,6 +2188,58 @@
 		},
 		{
 			"ns": "",
+			"key": "0D5AF7A246CE359585615FB91D683165",
+			"source": "Rail attachment for your M14.",
+			"sourceHash": "4c0171cf",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Rail/M14_SAGE_International_Sight_Mount/ID_M14_SAGE_International_Sight_Mount.ID_M14_SAGE_International_Sight_Mount.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "Schienenaufsatz für deine M14.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "适用于你的 M14 的导轨配件。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Рельсовое крепление для твоей M14.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "내 M14용 레일 부착물입니다.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "あなたのM14用レールアタッチメント。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Accesorio de riel para tu M14.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "0E1F734D49F46814EB80D6B02C18B26B",
 			"source": "Interesting book about warfare strategies.",
 			"sourceHash": "707579ec",
@@ -2262,10 +2418,10 @@
 				},
 				"ru":
 				{
-					"text": "Inforce APLc - компактный тактический фонарь, подходящий также для пистолетных планок.",
+					"text": "Inforce APLc - компактный фонарь, подходящий также для пистолетных планок.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -2470,10 +2626,10 @@
 				},
 				"ru":
 				{
-					"text": "PEQ-15 - передовой тактический блок, оснащенный ИК-фонарем, ИК-лазером и стандартным ЛЦУ.",
+					"text": "PEQ-15 - продвинутое тактическое устройство с ИК-фонарём и ИК-лазером, а также обычным лазером.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -2547,6 +2703,110 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:40:14Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "0F0E643A4D96CA81866545BE9E4428FA",
+			"source": "4 rails that provide space for attachments.",
+			"sourceHash": "6e41575c",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Rail/RFB_Quad_Rail_Mount/ID_RFB_Quad_Rail_Mount.ID_RFB_Quad_Rail_Mount.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "4 Schienen, die Platz für Aufsätze bieten.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "4 条导轨，为配件提供安装空间。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "4 планки, которые дают место для навесного оборудования.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "부착물을 달 공간을 제공하는 레일 4개입니다.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "アタッチメント用のスペースを提供する4本のレール。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "4 rieles que dan espacio para accesorios.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "0F2ABFCA42580FC6CA6DF8B9776D28D7",
+			"source": "Semi auto only rifle based on a popular american rifle.",
+			"sourceHash": "a0dbb069",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Weapons/DMR/Norinco_M305/ID_Norinco_M305.ID_Norinco_M305.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "Nur halbautomatisches Gewehr, basierend auf einem beliebten amerikanischen Gewehr.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "基于一款流行的美国步枪、仅能半自动射击的步枪。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Только полуавтоматическая винтовка на базе популярной американской винтовки.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "인기 있는 미국 소총을 기반으로 한 반자동 전용 소총.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "人気のあるアメリカ製ライフルを基にしたセミオート専用ライフル。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Fusil solo semiautomático basado en un fusil americano popular.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -2859,58 +3119,6 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:40:14Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "131BFAC14935ECCB40888F975D62CD5C",
-			"source": "°",
-			"sourceHash": "3c369186",
-			"origin": "/Game/Blueprints/InventorySystem/Items/Gadgets/Binoculars/M1050_LRF_Binoculars/Materials/W_IRR_LRF_Reticle.W_IRR_LRF_Reticle_C:WidgetTree.TextBlock_2.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "°",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "°",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "°",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "°",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "°",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "°",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -4021,13 +4229,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Pistola de 5.7x28mm de FN Herstal.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "FN Herstal 生产的 5.7x28mm 手枪。",
@@ -4055,6 +4256,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Pistola de 5.7x28mm de FN Herstal.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -4159,6 +4367,58 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-25T20:56:00Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "1AA2AB8B46501C97414C058345AF1392",
+			"source": "M14 Top",
+			"sourceHash": "193b2dba",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Handguard/M14_Springfield_Armory_Brown_Top/ID_M14_Springfield_Armory_Brown_Top.ID_M14_Springfield_Armory_Brown_Top.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "M14-Oberteil",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "M14 上盖",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Верх M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "M14 상부",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "M14 トップ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Tapa M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -4290,10 +4550,10 @@
 				},
 				"ru":
 				{
-					"text": "Планка Zenitco B-13 - специализированный оружейный аксессуар, предоставляющий интерфейс Пикатинни для установки модулей на различные автоматы на платформе AK. ",
+					"text": "Планка Zenitco B-13 - специализированный аксессуар, дающий интерфейс планки Picatinny для установки аксессуаров на различные винтовки на платформе AK. ",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -4333,13 +4593,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Pistola de 9x19mm fabricada por SIG Sauer.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "SIG Sauer 生产的 9x19mm 手枪。",
@@ -4367,6 +4620,65 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Pistola de 9x19mm fabricada por SIG Sauer.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "1B8CCBC64DB92363BF9FA0A1F1AE57FF",
+			"source": "It surely goes on a 22 inch barrel!",
+			"sourceHash": "19650de5",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Muzzle/M14_22_Inch_762x51_Muzzle_Adapter/ID_M14_22_Inch_762x51_Muzzle_Adapter.ID_M14_22_Inch_762x51_Muzzle_Adapter.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "Das passt ganz sicher auf einen 22-Zoll-Lauf!",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "它肯定是装在 22 英寸枪管上的！",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Оно точно ставится на 22-дюймовый ствол!",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "이건 분명 22인치 총열에 맞습니다!",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "これは間違いなく22インチバレルに付きます！",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "¡Seguro que va en un cañón de 22 pulgadas!",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -4550,10 +4862,10 @@
 				},
 				"ru":
 				{
-					"text": "Полимерный приклад AK Izhmash - современная и надежная модификация для автоматов на базе AK. ",
+					"text": "Полимерный приклад AK Izhmash - современная и прочная замена для винтовок на платформе AK. ",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -5056,10 +5368,10 @@
 			{
 				"de":
 				{
-					"text": "Destillierte Weisheit in einer Flasche - oder zumindest redest du dir das nach einem Glas ein.",
+					"text": "Destillierte Weisheit in einer Flasche, oder zumindest redest du dir das nach einem Glas ein.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
@@ -5070,10 +5382,10 @@
 				},
 				"ru":
 				{
-					"text": "Дистиллированная мудрость в бутылке - или, по крайней мере, так кажется после первого стакана.",
+					"text": "Мудрость, перегнанная в бутылку, по крайней мере так ты будешь говорить себе после бокала.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -5147,6 +5459,58 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:40:14Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "1F05C41F430A76D24AF0868776AA17A0",
+			"source": "20 round 7.62x51mm magazine for the M14.",
+			"sourceHash": "4b7adf8d",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Mag/M14_Standard_762x51_20Rnd/ID_M14_Standard_762x51_20Rnd.ID_M14_Standard_762x51_20Rnd.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "20-Schuss-Magazin im Kaliber 7.62x51mm für die M14.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "适用于 M14 的 7.62x51mm 20 发弹匣。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Магазин на 20 патронов калибра 7.62x51mm для M14.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "M14용 7.62x51mm 20발 탄창.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "M14用7.62x51mm弾20連マガジン。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Cargador de 20 proyectiles de 7.62x51mm para la M14.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -5278,10 +5642,10 @@
 				},
 				"ru":
 				{
-					"text": "Рюкзак AVS Delta - это прочный и универсальный рюкзак, созданный для военного и тактического применения. Рассчитанный на высокую прочность, он предлагает вместительное пространство и модульные точки крепления модулей для снаряжения. Этот рюкзак высоко ценится военными и правоохранителями за свою универсальность и вместимость при выполнении заданий и операций, обеспечивая необходимую функциональность в полевых условиях.",
+					"text": "Рюкзак AVS Delta - прочный и адаптируемый рюкзак для военного и тактического применения. Созданный с расчётом на долговечность, он предлагает вместительное пространство для хранения и модульные точки крепления снаряжения и оборудования. Этот рюкзак ценят военные и сотрудники правоохранительных органов за универсальность и возможность нести всё необходимое во время миссий и операций. Он даёт гибкость и функциональность, необходимые личному составу в поле.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -5945,13 +6309,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Plantilla",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "模板",
@@ -5979,6 +6336,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Plantilla",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -6296,6 +6660,58 @@
 		},
 		{
 			"ns": "",
+			"key": "254A35164CF2BAE06B33368F06692936",
+			"source": "7.62x39mm 75 round capacity drum magazine.",
+			"sourceHash": "a9f0caee",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Mag/AK_Molot_Arms_762x39_75Rnd/ID_AK_Molot_Arms_762x39_75Rnd.ID_AK_Molot_Arms_762x39_75Rnd.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "Trommelmagazin mit 75 Schuss Kapazität im Kaliber 7.62x39mm.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "7.62x39mm 75 发容量弹鼓。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Барабанный магазин на 75 патронов калибра 7.62x39mm.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "7.62x39mm 75발 용량 드럼 탄창.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "7.62x39mm弾用75連ドラムマガジン。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Cargador de tambor de 75 proyectiles de 7.62x39mm.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "254CAC2D4640E42F2760EFA4022190E8",
 			"source": "It needs a scanner.",
 			"sourceHash": "3b787c30",
@@ -6510,13 +6926,6 @@
 			"origin": "/Game/Blueprints/InventorySystem/Items/Provisions/Food/Canned_Soup/ID_Canned_Soup.ID_Canned_Soup.ItemAppearance.Description",
 			"t":
 			{
-				"es-ES":
-				{
-					"text": "?Hora de la sopa!",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"de":
 				{
 					"text": "Zeit für Suppe!",
@@ -6551,6 +6960,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "?Hora de la sopa!",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -6816,6 +7232,58 @@
 		},
 		{
 			"ns": "",
+			"key": "2681EBD6430CEA71E99C8392EFFD3FC6",
+			"source": "Looks like a mutant made from AK and AR-15.",
+			"sourceHash": "2b70d238",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Weapons/Rifle/MK-47/ID_MK-47.ID_MK-47.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "Sieht aus wie eine Mutante aus AK und AR-15.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "看起来像是 AK 和 AR-15 拼出来的变种。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Выглядит как мутант из AK и AR-15.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "AK와 AR-15로 만든 돌연변이처럼 보입니다.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "AKとAR-15から作った変異体のように見える。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Parece un mutante hecho de AK y AR-15.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "26DCE0974751F252DA47BDA0A846B747",
 			"source": "17 round 9x19mm magazine for the SIG Sauer P320 pistol.",
 			"sourceHash": "d9e246a5",
@@ -6920,6 +7388,58 @@
 		},
 		{
 			"ns": "",
+			"key": "275F0E6240A6BE322FA11487421E6CE9",
+			"source": "Kel-Tec 7.62x51mm semi automatic rifle.",
+			"sourceHash": "c27dd903",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Weapons/DMR/Kel_Tec_RFB/ID_Kel_Tec_RFB.ID_Kel_Tec_RFB.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "Halbautomatisches Gewehr von Kel-Tec im Kaliber 7.62x51mm.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "Kel-Tec 7.62x51mm 半自动步枪。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Полуавтоматическая винтовка Kel-Tec калибра 7.62x51mm.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "Kel-Tec 7.62x51mm 반자동 소총.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "Kel-Tec製7.62x51mmセミオートライフル。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Fusil semiautomático Kel-Tec de 7.62x51mm.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "276D96434F1E443ED6238393509B0233",
 			"source": "LASER ON",
 			"sourceHash": "515eef33",
@@ -6967,6 +7487,58 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "27C16AD344A16F62752236B9A1463DEE",
+			"source": "Provides enchanced battle rifle experience.",
+			"sourceHash": "e42a783a",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Stock/M14_SAGE_International_Chassis/ID_M14_SAGE_International_Chassis.ID_M14_SAGE_International_Chassis.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "Bietet ein verbessertes Gefechtsgewehr-Erlebnis.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "提供增强的战斗步枪体验。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Даёт улучшенные ощущения от боевой винтовки.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "향상된 전투소총 경험을 제공합니다.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "強化されたバトルライフル体験を提供します。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Ofrece una experiencia de fusil de combate mejorada.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -7037,13 +7609,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Plantilla",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "模板",
@@ -7071,6 +7636,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Plantilla",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -7175,6 +7747,110 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:40:14Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "28D6CC83460932DCF8BFC58CFA507344",
+			"source": "M14 Mount",
+			"sourceHash": "2ed6fb44",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Rail/M14_Leapers_UTG_Sight_Mount/ID_M14_Leapers_UTG_Sight_Mount.ID_M14_Leapers_UTG_Sight_Mount.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "M14-Montage",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "M14 支架",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Крепление M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "M14 마운트",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "M14 マウント",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Montura M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "28FD10AE4651343C27321BA0FB03DF45",
+			"source": "M14 Chassis",
+			"sourceHash": "aee1a30d",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Stock/M14_Springfield_Armory_Wooden_Chassis/ID_M14_Springfield_Armory_Wooden_Chassis.ID_M14_Springfield_Armory_Wooden_Chassis.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "M14-Chassis",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "M14 底盘",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Ложа M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "M14 섀시",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "M14 シャーシ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Chasis M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -7306,10 +7982,10 @@
 				},
 				"ru":
 				{
-					"text": "Лазерный целеуказатель Steiner CQBL-1 - компактное и современное прицельное приспособление для оружия. Имеет ИК- и обычный лазер.",
+					"text": "Лазер Steiner CQBL-1 - компактное и продвинутое устройство прицеливания для оружия. Даёт ИК и обычный лазер.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -7383,6 +8059,58 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:40:14Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "2A88A7A04FF2DABEC040228847710B9A",
+			"source": "M14 Chassis",
+			"sourceHash": "aee1a30d",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Stock/M14_Troy_SASS_Chassis/ID_M14_Troy_SASS_Chassis.ID_M14_Troy_SASS_Chassis.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "M14-Chassis",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "M14 底盘",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Ложа M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "M14 섀시",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "M14 シャーシ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Chasis M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -7514,10 +8242,10 @@
 				},
 				"ru":
 				{
-					"text": "Пистолетная рукоятка для автоматов семейства AK. Производитель - Magpul.",
+					"text": "Пистолетная рукоятка для винтовок семейства AK. Производитель: Magpul.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -7596,6 +8324,58 @@
 		},
 		{
 			"ns": "",
+			"key": "2C610614487DB726CF0858AA02801000",
+			"source": "Smith Enterprise muzzle device for the M14 rifle.",
+			"sourceHash": "31cce3b8",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Muzzle/M14_Smith_Enterprise_SOCOM_16_762x51_Muzzle_Brake/ID_M14_Smith_Enterprise_SOCOM_16_762x51_Muzzle_Brake.ID_M14_Smith_Enterprise_SOCOM_16_762x51_Muzzle_Brake.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "Smith Enterprise-Mündungsgerät für das M14-Gewehr.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "适用于 M14 步枪的 Smith Enterprise 枪口装置。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Дульное устройство Smith Enterprise для винтовки M14.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "M14 소총용 Smith Enterprise 총구 장치.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "M14ライフル用Smith Enterpriseマズルデバイス。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Dispositivo de boca Smith Enterprise para el fusil M14.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "2C68D4F34B060D71AC11C4A1C27943B6",
 			"source": "The MP5 Picatinny Rail is a tactical accessory designed for Heckler & Koch MP5 and similar submachine guns. It provides a Picatinny rail platform for attaching various accessories such as optics, lights, lasers, and more.",
 			"sourceHash": "0099fb01",
@@ -7618,10 +8398,10 @@
 				},
 				"ru":
 				{
-					"text": "Планка Пикатинни для MP5 - тактический аксессуар, разработанный для Heckler & Koch MP5 и аналогичных пистолетов-пулеметов. Она предоставляет базу Пикатинни для установки различных аксессуаров: оптики, фонарей, ЛЦУ и многого другого.",
+					"text": "Планка Picatinny для MP5 - тактический аксессуар для Heckler & Koch MP5 и подобных пистолетов-пулемётов. Она даёт платформу Picatinny для установки различных аксессуаров: прицелов, фонарей, лазеров и многого другого.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -7752,6 +8532,58 @@
 		},
 		{
 			"ns": "",
+			"key": "2DA315014A8A2AA8B60911B626D614A5",
+			"source": "MK-47",
+			"sourceHash": "123ca7f8",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Weapons/Rifle/MK-47/ID_MK-47.ID_MK-47.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "MK-47",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "MK-47",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "MK-47",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "MK-47",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "MK-47",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "MK-47",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "2E0FB1744AEF5118F74F6EA21DDC3D1A",
 			"source": "15 round 9x19 magazine for Glock pistols and other compatibile weapons.",
 			"sourceHash": "491847fe",
@@ -7862,13 +8694,6 @@
 			"origin": "/Game/Blueprints/InventorySystem/Items/Weapons/SMG/MP5SD/ID_MP5SD.ID_MP5SD.ItemAppearance.Description",
 			"t":
 			{
-				"es-ES":
-				{
-					"text": "Variante de 9x19mm del MP5 con supresor integrado.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"de":
 				{
 					"text": "9x19mm-Variante der MP5 mit integriertem Schalldämpfer.",
@@ -7903,6 +8728,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Variante de 9x19mm del MP5 con supresor integrado.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -8948,6 +9780,58 @@
 		},
 		{
 			"ns": "",
+			"key": "360D7F6E4F9F7EC393044394D4E1D29C",
+			"source": "Black polymer top cover for the M14 rifle.",
+			"sourceHash": "9a66b519",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Handguard/M14_Norinco_Black_Top/ID_M14_Norinco_Black_Top.ID_M14_Norinco_Black_Top.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "Schwarze Polymer-Oberabdeckung für das M14-Gewehr.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "适用于 M14 步枪的黑色聚合物上盖。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Чёрная полимерная верхняя крышка для винтовки M14.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "M14 소총용 검은색 폴리머 상부 커버.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "M14ライフル用の黒いポリマー製トップカバー。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Cubierta superior de polímero negro para el fusil M14.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "36E82D414639DBE0A96BCFBF0F2ABFC8",
 			"source": "Skeleton folding stock for SVDS marksman rifle.",
 			"sourceHash": "1c12bd06",
@@ -9022,10 +9906,10 @@
 				},
 				"ru":
 				{
-					"text": "Цевьё M2 Agency Arms Benelli M-LOK - универсальный современный аксессуар для ружей Benelli M2. Оснащено системой креплений M-LOK.",
+					"text": "Цевьё M2 Agency Arms Benelli M-LOK - универсальный и современный аксессуар для дробовиков Benelli M2. Это цевьё оснащено системой крепления M-LOK.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -9104,6 +9988,58 @@
 		},
 		{
 			"ns": "",
+			"key": "37007AB64F18605BB57CC791EAA448A6",
+			"source": "Front iron sight of the RFB rifle.",
+			"sourceHash": "ef253120",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Sight/RFB_Front_Sight/ID_RFB_Front_Sight.ID_RFB_Front_Sight.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "Vorderes Eisenvisier des RFB-Gewehrs.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "RFB 步枪的前机械瞄具。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Мушка винтовки RFB.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "RFB 소총의 전방 아이언사이트.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "RFBライフルのフロントアイアンサイト。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Punto de mira delantero del fusil RFB.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "374734C44FA04F3E34B8FD8ADA7115B3",
 			"source": "12/ga buckshot.",
 			"sourceHash": "7ed49fdf",
@@ -9156,6 +10092,58 @@
 		},
 		{
 			"ns": "",
+			"key": "3748843A47D6387595F974A17CBDF035",
+			"source": "M14 10rnd",
+			"sourceHash": "50108cd9",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Mag/M14_Standard_762x51_10Rnd/ID_M14_Standard_762x51_10Rnd.ID_M14_Standard_762x51_10Rnd.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "M14 10 Schuss",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "M14 10发",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "M14 10 патр.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "M14 10발",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "M14 10連",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "M14 10 cart.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "377ED9D149F8FEFF865F5FA817AB50D5",
 			"source": "Holds 5 additional 12-gauge shotgun shells.",
 			"sourceHash": "0d157391",
@@ -9203,6 +10191,58 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:40:14Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "3780C95A474EAFE1350D90B22FBFEE7B",
+			"source": "Lancer LCH7 handguard for AR-10 rifles.",
+			"sourceHash": "c6baaf3e",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Handguard/AR-10_Lancer_LCH7_M-LOK_Handguard/ID_AR-10_Lancer_LCH7_M-LOK_Handguard.ID_AR-10_Lancer_LCH7_M-LOK_Handguard.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "Lancer LCH7-Handschutz für AR-10-Gewehre.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "适用于 AR-10 步枪的 Lancer LCH7 护木。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Цевьё Lancer LCH7 для винтовок AR-10.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "AR-10 소총용 Lancer LCH7 핸드가드.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "AR-10ライフル用Lancer LCH7ハンドガード。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Guardamanos Lancer LCH7 para fusiles AR-10.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -10612,6 +11652,58 @@
 		},
 		{
 			"ns": "",
+			"key": "3EC2D3534BC1493E0696A39BA00B08F7",
+			"source": "M14",
+			"sourceHash": "e3374c64",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Weapons/DMR/M14/ID_M14.ID_M14.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "3F5375D64E92D8B99083859EFED5BADE",
 			"source": "The HK MP5 End-Cap Buttstock is a short stock for the MP5 family.",
 			"sourceHash": "509731bb",
@@ -10634,10 +11726,10 @@
 				},
 				"ru":
 				{
-					"text": "Затыльник-приклад HK MP5 - укороченный приклад для семейства MP5.",
+					"text": "Затыльник HK MP5 End-Cap - короткий приклад для семейства MP5.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -10659,6 +11751,58 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:40:14Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "3F6A1FB041E4244AC5568DA23919979A",
+			"source": "MK-47 16 Inch",
+			"sourceHash": "c45deeb3",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Barrel/MK-47_16-Inch_762x39_Barrel/ID_MK-47_16-Inch_762x39_Barrel.ID_MK-47_16-Inch_762x39_Barrel.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "MK-47 16 Zoll",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "MK-47 16英寸",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "MK-47 16 дюймов",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "MK-47 16인치",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "MK-47 16インチ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "MK-47 16 pulgadas",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -10686,10 +11830,10 @@
 				},
 				"ru":
 				{
-					"text": "Телескопический приклад - нестандартный приклад для семейства MCX.",
+					"text": "Складной приклад - особый приклад для семейства MCX.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -10872,6 +12016,58 @@
 		},
 		{
 			"ns": "",
+			"key": "4222DAEB44BB85AE2480798C6347DCE4",
+			"source": "16 Inch MK-47 barrel.",
+			"sourceHash": "ceca6322",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Barrel/MK-47_16-Inch_762x39_Barrel/ID_MK-47_16-Inch_762x39_Barrel.ID_MK-47_16-Inch_762x39_Barrel.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "16-Zoll-Lauf für die MK-47.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "16英寸 MK-47 枪管。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "16-дюймовый ствол MK-47.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "16인치 MK-47 총열.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "16インチMK-47バレル。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Cañón MK-47 de 16 pulgadas.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "424D97C74FBB32743CC4D3A1D8E428D1",
 			"source": "Accessory designed for PTR-91 and other HK G3-style rifles. This handguard replaces the standard handguard and offers three Picatinny rails for attaching attachments.",
 			"sourceHash": "53655fc0",
@@ -11041,13 +12237,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Cuerpo a cuerpo",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "近战",
@@ -11075,6 +12264,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Cuerpo a cuerpo",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -11206,10 +12402,10 @@
 				},
 				"ru":
 				{
-					"text": "PWS - усовершенствованная буферная трубка для семейства AR-15.",
+					"text": "PWS - продвинутая буферная трубка для семейства AR-15.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -11726,10 +12922,10 @@
 				},
 				"ru":
 				{
-					"text": "Фиксированный приклад MP5 A3 - надежный и устойчивый приклад для семейства MP5.",
+					"text": "Фиксированный приклад MP5 A3 - надёжный и устойчивый приклад для семейства MP5.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -11977,13 +13173,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Plantilla",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "模板",
@@ -12011,6 +13200,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Plantilla",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -12276,6 +13472,58 @@
 		},
 		{
 			"ns": "",
+			"key": "4BBF977947D6D2AB949ACDA580602B39",
+			"source": "M14 Adapter",
+			"sourceHash": "a4c2d481",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Muzzle/M14_22_Inch_762x51_Muzzle_Adapter/ID_M14_22_Inch_762x51_Muzzle_Adapter.ID_M14_22_Inch_762x51_Muzzle_Adapter.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "M14-Adapter",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "M14 适配器",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Адаптер M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "M14 어댑터",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "M14 アダプター",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Adaptador M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "4BD12C8A486C67CE804E22BE42734248",
 			"source": "To store cherished memories, or other stuff...",
 			"sourceHash": "a0c8de11",
@@ -12284,10 +13532,10 @@
 			{
 				"de":
 				{
-					"text": "Zum Aufbewahren liebgewonnener Erinnerungen - oder anderer Dinge …",
+					"text": "Um wertvolle Erinnerungen aufzubewahren, oder anderes Zeug...",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
@@ -13026,10 +14274,10 @@
 				},
 				"ru":
 				{
-					"text": "Крышка ствольной коробки «Зенитка Б-33» - специализированный компонент для автоматов серии АК-74 и АК-100, выпускаемый российской компанией «Зенит». Она защищает внутренние механизмы оружия и служит платформой для установки дополнительного оборудования.",
+					"text": "Пылезащитная крышка Zenitco B-33 - специализированный компонент для винтовок серий AK-74 и AK-100, производимый российской компанией Zenitco. Эта крышка выполняет двойную задачу: защищает внутренние компоненты винтовки и одновременно служит платформой для установки дополнительных аксессуаров.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -14414,13 +15662,6 @@
 			"origin": "/Game/Blueprints/InventorySystem/Items/Provisions/Drinks/Condensed_Milk/ID_Condensed_Milk.ID_Condensed_Milk.ItemAppearance.Description",
 			"t":
 			{
-				"es-ES":
-				{
-					"text": "Lata de deliciosa leche condensada.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"de":
 				{
 					"text": "Eine Dose köstliche Kondensmilch.",
@@ -14455,6 +15696,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Lata de deliciosa leche condensada.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -15470,10 +16718,10 @@
 				},
 				"ru":
 				{
-					"text": "Жилет JTAC V1 - это тактическая разгрузка, разработанная для авианаводчиков (JTAC), а также для других военных и сотрудников правоохранительных органов. Она предлагает универсальные возможности хранения, модульные точки крепления модулей для снаряжения и функции баллистической защиты. Этот жилет повышает боеготовность и функциональность бойцов во время заданий, гарантируя наличие необходимого снаряжения и защиты в сложных условиях. - Special Edition by Nguyin.",
+					"text": "Жилет JTAC V1 - тактический жилет для авианаводчиков (JTAC), а также других военных и сотрудников правоохранительных органов. Он предлагает разнообразные варианты хранения, модульные точки крепления снаряжения и баллистическую защиту. Этот жилет повышает готовность и эффективность личного состава во время миссий, обеспечивая необходимым снаряжением и защитой для эффективных действий в сложных условиях. - Особое издание от Nguyin.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -15495,6 +16743,58 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:40:14Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "637681EC49598794253F139530CC3F72",
+			"source": "Black polymer chassis for the M14 rifle.",
+			"sourceHash": "95abff78",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Stock/M14_Norinco_M305_Polymer_Chassis/ID_M14_Norinco_M305_Polymer_Chassis.ID_M14_Norinco_M305_Polymer_Chassis.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "Schwarzes Polymer-Chassis für das M14-Gewehr.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "适用于 M14 步枪的黑色聚合物底盘。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Чёрная полимерная ложа для винтовки M14.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "M14 소총용 검은색 폴리머 섀시.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "M14ライフル用の黒いポリマー製シャーシ。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Chasis de polímero negro para el fusil M14.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -15552,6 +16852,58 @@
 		},
 		{
 			"ns": "",
+			"key": "63FDE0894A344E289D287B90B0BDDCF4",
+			"source": "AR-15 CMMG",
+			"sourceHash": "1b00f4b8",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Stock/AR-15_CMMG_Ripstock_Buttstock/ID_AR-15_CMMG_Ripstock_Buttstock.ID_AR-15_CMMG_Ripstock_Buttstock.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "AR-15 CMMG",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "AR-15 CMMG",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "AR-15 CMMG",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "AR-15 CMMG",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "AR-15 CMMG",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "AR-15 CMMG",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "644A449148FF4DE8590A03AC2A7F478A",
 			"source": "I heard it helps with radiation..",
 			"sourceHash": "5a729652",
@@ -15599,6 +16951,58 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:40:14Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "64DAA46A407638D37E05789DF15CD10F",
+			"source": "AR-10 Lancer",
+			"sourceHash": "31423a4b",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Handguard/AR-10_Lancer_LCH7_M-LOK_Handguard/ID_AR-10_Lancer_LCH7_M-LOK_Handguard.ID_AR-10_Lancer_LCH7_M-LOK_Handguard.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "AR-10 Lancer",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "AR-10 Lancer",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "AR-10 Lancer",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "AR-10 Lancer",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "AR-10 Lancer",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "AR-10 Lancer",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -15825,13 +17229,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Plantilla",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "模板",
@@ -15859,6 +17256,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Plantilla",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -16094,10 +17498,10 @@
 				},
 				"ru":
 				{
-					"text": "Жилет AVS PL SGT - это специализированная тактическая разгрузка, разработанная для военных и сотрудников правоохранительных органов. Созданная с прицелом на точность и прочность, она представляет собой модульную платформу с точками крепления модулей и карманами для снаряжения. Этот жилет разработан для командного состава и специалистов, обеспечивая адаптивность и функциональность при выполнении заданий и боевых операций.",
+					"text": "Жилет AVS PL SGT - специализированный тактический жилет для военных и сотрудников правоохранительных органов. Созданный с упором на точность и долговечность, он предлагает модульную платформу с точками крепления и местом для хранения снаряжения и оборудования. Этот жилет предназначен для личного состава на командных или специальных должностях и даёт им гибкость и функциональность, необходимые для выполнения своих задач во время миссий и операций.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -16198,10 +17602,10 @@
 				},
 				"ru":
 				{
-					"text": "Деревянный приклад АК-74 - классический и культовый аксессуар, созданный для автоматов АК-74.",
+					"text": "Деревянный приклад AK-74 - классический, культовый аксессуар для винтовок AK-74.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -16501,13 +17905,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Pistola de 9x19 fabricada por Norinco.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "Norinco 生产的 9x19 手枪。",
@@ -16535,6 +17932,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Pistola de 9x19 fabricada por Norinco.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -17082,10 +18486,10 @@
 				},
 				"ru":
 				{
-					"text": "Рюкзак AVS Delta - это прочный и универсальный рюкзак, созданный для военного и тактического применения. Рассчитанный на высокую прочность, он предлагает вместительное пространство и модульные точки крепления модулей для снаряжения. Этот рюкзак высоко ценится военными и правоохранителями за свою универсальность и вместимость при выполнении заданий и операций, обеспечивая необходимую функциональность в полевых условиях.",
+					"text": "Рюкзак AVS Delta - прочный и адаптируемый рюкзак для военного и тактического применения. Созданный с расчётом на долговечность, он предлагает вместительное пространство для хранения и модульные точки крепления снаряжения и оборудования. Этот рюкзак ценят военные и сотрудники правоохранительных органов за универсальность и возможность нести всё необходимое во время миссий и операций. Он даёт гибкость и функциональность, необходимые личному составу в поле.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -17394,10 +18798,10 @@
 				},
 				"ru":
 				{
-					"text": "Цевьё SAG MK2.1 - универсальный аксессуар для оружия, оснащённого планками Пикатинни.",
+					"text": "Цевьё SAG MK2.1 - универсальный аксессуар для оружия, оснащённого системой планок Picatinny.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -17528,6 +18932,58 @@
 		},
 		{
 			"ns": "",
+			"key": "712DEE5841442AD066202CA546C9E934",
+			"source": "16 inch barrel for the M14 rifle.",
+			"sourceHash": "a4b0cbd4",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Barrel/M14_16_Inch_762x51_Barrel/ID_M14_16_Inch_762x51_Barrel.ID_M14_16_Inch_762x51_Barrel.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "16-Zoll-Lauf für das M14-Gewehr.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "适用于 M14 步枪的 16 英寸枪管。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "16-дюймовый ствол для винтовки M14.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "M14 소총용 16인치 총열.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "M14ライフル用16インチバレル。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Cañón de 16 pulgadas para el fusil M14.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "71386FBA4E95083B4C4B0988A0599B71",
 			"source": "Flash hider for the P90.",
 			"sourceHash": "aacd5b78",
@@ -17627,6 +19083,58 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:40:14Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "71C5DBB54967BECB055114878544A0A7",
+			"source": "RFB Muzzle",
+			"sourceHash": "ea1b1cd4",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Muzzle/RFB_762x51_Muzzle_Device/ID_RFB_762x51_Muzzle_Device.ID_RFB_762x51_Muzzle_Device.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "RFB-Mündung",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "RFB 枪口",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Дуло RFB",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "RFB 총구",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "RFB 銃口",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Boca RFB",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -17840,6 +19348,58 @@
 		},
 		{
 			"ns": "",
+			"key": "73AF14E24780B500986DD7AF2FCD57C5",
+			"source": "RFB",
+			"sourceHash": "757a5920",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Weapons/DMR/Kel_Tec_RFB/ID_Kel_Tec_RFB.ID_Kel_Tec_RFB.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "RFB",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "RFB",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "RFB",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "RFB",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "RFB",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "RFB",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "73B6783D41AD5CB3C5F058931889EF93",
 			"source": "20 Inch barrel for the SR-25",
 			"sourceHash": "74217b8c",
@@ -17939,6 +19499,58 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:40:14Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "741EA40B49499D96FE6E6CAB5E988118",
+			"source": "M14 16 Inch",
+			"sourceHash": "07c9c3ba",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Barrel/M14_16_Inch_762x51_Barrel/ID_M14_16_Inch_762x51_Barrel.ID_M14_16_Inch_762x51_Barrel.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "M14 16 Zoll",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "M14 16英寸",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "M14 16 дюймов",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "M14 16인치",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "M14 16インチ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "M14 16 pulgadas",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -18642,10 +20254,10 @@
 				},
 				"ru":
 				{
-					"text": "Strike SI - усовершенствованная буферная трубка для семейства AR-15.",
+					"text": "Strike SI - продвинутая буферная трубка для семейства AR-15.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -19031,6 +20643,110 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:40:14Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "7C12B2F64EBB55466918AD8BAD6DA5CF",
+			"source": "M14 50rnd",
+			"sourceHash": "1efd6780",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Mag/M14_X-Products_X-14_Drum_762x51_50Rnd/ID_M14_X-Products_X-14_Drum_762x51_50Rnd.ID_M14_X-Products_X-14_Drum_762x51_50Rnd.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "M14 50 Schuss",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "M14 50发",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "M14 50 патр.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "M14 50발",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "M14 50連",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "M14 50 cart.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "7C5E081348435079F69A478446CBEFAA",
+			"source": "Muzzle device for 7.62x51 AR-10 barrels.",
+			"sourceHash": "d3c10cc1",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Muzzle/AR-10_CMMG_SV_762x51_Muzzle_Device/ID_AR-10_CMMG_SV_762x51_Muzzle_Device.ID_AR-10_CMMG_SV_762x51_Muzzle_Device.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "Mündungsgerät für AR-10-Läufe im Kaliber 7.62x51.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "适用于 7.62x51 AR-10 枪管的枪口装置。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Дульное устройство для стволов AR-10 калибра 7.62x51.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "7.62x51 AR-10 총열용 총구 장치.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "7.62x51 AR-10バレル用マズルデバイス。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Dispositivo de boca para cañones AR-10 de 7.62x51.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -19829,13 +21545,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Plantilla",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "模板",
@@ -19863,6 +21572,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Plantilla",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -19915,6 +21631,58 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "82EE66B9444A230202B2B8951B435A52",
+			"source": "Rear iron sight of the RFB rifle.",
+			"sourceHash": "d0fd3e7f",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Sight/RFB_Rear_Sight/ID_RFB_Rear_Sight.ID_RFB_Rear_Sight.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "Hinteres Eisenvisier des RFB-Gewehrs.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "RFB 步枪的后机械瞄具。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Целик винтовки RFB.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "RFB 소총의 후방 아이언사이트.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "RFBライフルのリアアイアンサイト。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Alza trasera del fusil RFB.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -20123,6 +21891,110 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:40:14Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "8447CE1341E51D7ABB9ABD98ECE91C66",
+			"source": "Quad Rail",
+			"sourceHash": "4c617bdc",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Rail/RFB_Quad_Rail_Mount/ID_RFB_Quad_Rail_Mount.ID_RFB_Quad_Rail_Mount.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "Vierfachschiene",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "四导轨",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Четырёхместная планка",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "쿼드 레일",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "クアッドレール",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Riel cuádruple",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "86586C1D4FD2EAAE0540C1958F25074C",
+			"source": "M14 Top",
+			"sourceHash": "193b2dba",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Handguard/M14_Norinco_Black_Top/ID_M14_Norinco_Black_Top.ID_M14_Norinco_Black_Top.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "M14-Oberteil",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "M14 上盖",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Верх M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "M14 상부",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "M14 トップ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Tapa M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -20413,7 +22285,7 @@
 					"text": "Фиксированный приклад MP5 A2 - прочный и функциональный приклад, созданный специально для семейства MP5.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -20435,6 +22307,58 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:40:14Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "881B2E8F46627DC59BF1BA91A7A03AE9",
+			"source": "7.62x39mm 30 round capacity magazine.",
+			"sourceHash": "9c14c306",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Mag/AK_Magpul_PMAG_GEN_M3_762x39_30Rnd/ID_AK_Magpul_PMAG_GEN_M3_762x39_30Rnd.ID_AK_Magpul_PMAG_GEN_M3_762x39_30Rnd.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "Magazin mit 30 Schuss Kapazität im Kaliber 7.62x39mm.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "7.62x39mm 30 发容量弹匣。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Магазин на 30 патронов калибра 7.62x39mm.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "7.62x39mm 30발 용량 탄창.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "7.62x39mm弾用30連マガジン。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Cargador de 30 proyectiles de 7.62x39mm.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -20752,6 +22676,58 @@
 		},
 		{
 			"ns": "",
+			"key": "8AC4F94A47B20E85266FEBA137D402B1",
+			"source": "22 inch barrel for the M14 rifle.",
+			"sourceHash": "ece09128",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Barrel/M14_22_Inch_762x51_Barrel/ID_M14_22_Inch_762x51_Barrel.ID_M14_22_Inch_762x51_Barrel.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "22-Zoll-Lauf für das M14-Gewehr.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "适用于 M14 步枪的 22 英寸枪管。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "22-дюймовый ствол для винтовки M14.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "M14 소총용 22인치 총열.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "M14ライフル用22インチバレル。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Cañón de 22 pulgadas para el fusil M14.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "8B503ACF433FE0F5381E01A9CF4058A6",
 			"source": "It has a misprinted label. Could be worth something to a collector.",
 			"sourceHash": "2b16c397",
@@ -20856,6 +22832,58 @@
 		},
 		{
 			"ns": "",
+			"key": "8BE0A10A4D5E461B6158BD911C2B4AA2",
+			"source": "M14 Mount",
+			"sourceHash": "2ed6fb44",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Rail/M14_SAGE_International_Sight_Mount/ID_M14_SAGE_International_Sight_Mount.ID_M14_SAGE_International_Sight_Mount.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "M14-Montage",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "M14 支架",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Крепление M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "M14 마운트",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "M14 マウント",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Montura M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "8C7D68E04BE9E7512D0ED29EE64EE504",
 			"source": "Picatinny rail for AUG A3.",
 			"sourceHash": "324ef7b9",
@@ -20903,6 +22931,58 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "8CD3653C41B89B521C6457B678BA8D45",
+			"source": "M14 22 Inch",
+			"sourceHash": "6c115ac2",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Barrel/M14_22_Inch_762x51_Barrel/ID_M14_22_Inch_762x51_Barrel.ID_M14_22_Inch_762x51_Barrel.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "M14 22 Zoll",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "M14 22英寸",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "M14 22 дюйма",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "M14 22인치",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "M14 22インチ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "M14 22 pulgadas",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -21086,10 +23166,10 @@
 				},
 				"ru":
 				{
-					"text": "Деревянная пистолетная рукоятка АКМ - классический оружейный аксессуар, предназначенный для автоматов АКМ и AK-47.",
+					"text": "Деревянная пистолетная рукоятка AKM - классический, традиционный аксессуар для винтовок AKM и AK-47.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -21792,6 +23872,58 @@
 		},
 		{
 			"ns": "",
+			"key": "925363674CC4145C01E2B88504547A1C",
+			"source": "M14 Muzzle",
+			"sourceHash": "1296741c",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Muzzle/M14_National_Match_762x51_Muzzle_Brake/ID_M14_National_Match_762x51_Muzzle_Brake.ID_M14_National_Match_762x51_Muzzle_Brake.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "M14-Mündung",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "M14 枪口",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Дуло M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "M14 총구",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "M14 銃口",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Boca M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "9260228147F8E4485FD29BA43969081B",
 			"source": "Holds 7 additional 12-gauge shotgun shells.",
 			"sourceHash": "e8b1baa5",
@@ -22178,10 +24310,10 @@
 				},
 				"ru":
 				{
-					"text": "Цевьё «Зенитка Б-10» - прочный и надёжный аксессуар для оружия с планками Пикатинни.",
+					"text": "Цевьё Zenitco B-10 - прочный и надёжный аксессуар для оружия, оснащённого системой планок Picatinny.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -22359,6 +24491,110 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:40:14Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "95BD954D495304DB26B9DAA4B41C2A55",
+			"source": "Wooden chassis for the M14 rifle.",
+			"sourceHash": "783264d4",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Stock/M14_Springfield_Armory_Wooden_Chassis/ID_M14_Springfield_Armory_Wooden_Chassis.ID_M14_Springfield_Armory_Wooden_Chassis.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "Hölzernes Chassis für das M14-Gewehr.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "适用于 M14 步枪的木质底盘。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Деревянная ложа для винтовки M14.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "M14 소총용 목재 섀시.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "M14ライフル用の木製シャーシ。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Chasis de madera para el fusil M14.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "95EC4E464169DC6E887CE1B9F09E5F9E",
+			"source": "It allows you to mount sights above the receiver.",
+			"sourceHash": "da2cd179",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Rail/M14_Leapers_UTG_Sight_Mount/ID_M14_Leapers_UTG_Sight_Mount.ID_M14_Leapers_UTG_Sight_Mount.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "Damit kannst du Visiere über dem Verschlussgehäuse montieren.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "它可以让你在机匣上方安装瞄具。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Позволяет крепить прицелы над ствольной коробкой.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "리시버 위에 조준기를 장착할 수 있습니다.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "レシーバーの上にサイトを装着できます。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Te permite montar miras encima del cajón de mecanismos.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -22676,6 +24912,58 @@
 		},
 		{
 			"ns": "",
+			"key": "9888127B4CD7D36E8CAC96BA334870AE",
+			"source": "LAMG 150rnd",
+			"sourceHash": "6d6219bd",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Mag/LAMG_Box_556x45_150Rnd/ID_LAMG_Box_556x45_150Rnd.ID_LAMG_Box_556x45_150Rnd.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "LAMG 150 Schuss",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "LAMG 150发",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "LAMG 150 патр.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "LAMG 150발",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "LAMG 150連",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "LAMG 150 cart.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "98AFDF5040E983DEFE85EE96F0277EEF",
 			"source": "9.5 Inch handguard from Geissele for the AR-15 family that is utilizing the M-LOK system.",
 			"sourceHash": "eb008d74",
@@ -22775,58 +25063,6 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:40:14Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "9923658C41A06FEF949B21B6E3B4AAA2",
-			"source": "--",
-			"sourceHash": "5509df0d",
-			"origin": "/Game/Blueprints/InventorySystem/Items/Gadgets/Binoculars/M1050_LRF_Binoculars/Materials/W_IRR_LRF_Reticle.W_IRR_LRF_Reticle_C:ExecuteUbergraph_W_IRR_LRF_Reticle [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": "--",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "--",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "--",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "--",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "--",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "--",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -22983,58 +25219,6 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:40:14Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "99A49AF949A2D339C2DADCA013E1508C",
-			"source": "----",
-			"sourceHash": "447ba803",
-			"origin": "/Game/Blueprints/InventorySystem/Items/Gadgets/Binoculars/M1050_LRF_Binoculars/Materials/W_IRR_LRF_Reticle.W_IRR_LRF_Reticle_C:ExecuteUbergraph_W_IRR_LRF_Reticle [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": "----",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "----",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "----",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "----",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "----",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "----",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -23273,7 +25457,7 @@
 					"text": "Приклад M2 ComforTech Field - специализированный приклад для дробовиков Benelli M2.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -23325,7 +25509,7 @@
 					"text": "Штык-нож M-9 - стандартный нож.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -23842,10 +26026,10 @@
 				},
 				"ru":
 				{
-					"text": "Выдвижной приклад MP5 A3 F - универсальный регулируемый приклад, разработанный для семейства MP5.",
+					"text": "Выдвижной приклад MP5 A3 F - универсальный регулируемый приклад для семейства MP5.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -24491,6 +26675,58 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "A0A149024D703AB6E39EF4B9EEFC43D6",
+			"source": "M14 Sight",
+			"sourceHash": "a2350806",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Sight/M14_Front_Iron_Sight/ID_M14_Front_Iron_Sight.ID_M14_Front_Iron_Sight.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "M14-Visier",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "M14 瞄具",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Прицел M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "M14 조준경",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "M14 サイト",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Mira M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -25744,6 +27980,58 @@
 		},
 		{
 			"ns": "",
+			"key": "A7BC4D33497E3BEBEDE6D7BC5A31E1F6",
+			"source": "RFB 18 Inch",
+			"sourceHash": "ad8f6d0d",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Barrel/RFB_18_Inch_762x51_Barrel/ID_RFB_18_Inch_762x51_Barrel.ID_RFB_18_Inch_762x51_Barrel.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "RFB 18 Zoll",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "RFB 18英寸",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "RFB 18 дюймов",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "RFB 18인치",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "RFB 18インチ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "RFB 18 pulgadas",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "A7F702994B12B2B0229007B2A4802878",
 			"source": "16.4 Inch Barrel for the AUG A3.",
 			"sourceHash": "2cd8ca6c",
@@ -25861,13 +28149,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Un cart?n de leche. ?C?mo es que no se ha estropeado?..",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "一盒牛奶。怎么还没变质？..",
@@ -25895,6 +28176,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Un cart?n de leche. ?C?mo es que no se ha estropeado?..",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -26650,10 +28938,10 @@
 				},
 				"ru":
 				{
-					"text": "Полноразмерное цевьё SRS A2 - специализированный аксессуар, созданный для винтовки Desert Tech SRS A2.",
+					"text": "Полное цевьё SRS A2 - специально созданный аксессуар для винтовки Desert Tech SRS A2.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -26745,13 +29033,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Plantilla",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "模板",
@@ -26779,6 +29060,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Plantilla",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -27156,10 +29444,10 @@
 			{
 				"de":
 				{
-					"text": "Ein Benzinkanister - hoffentlich ist noch was drin!",
+					"text": "Ein Benzinkanister, hoffentlich ist noch etwas drin!",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
@@ -27304,6 +29592,58 @@
 		},
 		{
 			"ns": "",
+			"key": "B22ABCBC4EA0C0B950DCE8A90138BA8E",
+			"source": "CMMG Ripstock Buttstock for AR-15 rifles.",
+			"sourceHash": "d615751d",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Stock/AR-15_CMMG_Ripstock_Buttstock/ID_AR-15_CMMG_Ripstock_Buttstock.ID_AR-15_CMMG_Ripstock_Buttstock.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "CMMG Ripstock-Schulterstütze für AR-15-Gewehre.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "适用于 AR-15 步枪的 CMMG Ripstock 枪托。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Приклад CMMG Ripstock для винтовок AR-15.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "AR-15 소총용 CMMG Ripstock 개머리판.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "AR-15ライフル用CMMG Ripstockバットストック。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Culata CMMG Ripstock para fusiles AR-15.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "B2372A4E40748582F1B37FB036555D1C",
 			"source": "Standard issue flash hider for the MPX smg.",
 			"sourceHash": "d961b5a6",
@@ -27433,7 +29773,7 @@
 					"text": "Leupold Carbine Optic - компактный коллиматорный прицел.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -27534,10 +29874,10 @@
 				},
 				"ru":
 				{
-					"text": "Inforce WMLx - мощный тактический фонарь, подходящий также для пистолетных планок.",
+					"text": "Inforce WMLx - мощный фонарь, подходящий также для пистолетных планок.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -28136,6 +30476,58 @@
 		},
 		{
 			"ns": "",
+			"key": "B5F70B3F40E8FD2AA98C9EB99DB2A709",
+			"source": "AK 7.62x39 75rnd",
+			"sourceHash": "ac1ada1f",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Mag/AK_Molot_Arms_762x39_75Rnd/ID_AK_Molot_Arms_762x39_75Rnd.ID_AK_Molot_Arms_762x39_75Rnd.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "AK 7.62x39 75 Schuss",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "AK 7.62x39 75发",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "AK 7.62x39 75 патр.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "AK 7.62x39 75발",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "AK 7.62x39 75連",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "AK 7.62x39 75 cart.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "B63D3F36432DF9A7402413AD29CFFEDA",
 			"source": "20 Inch Barrel for the AUG A3.",
 			"sourceHash": "eb251e44",
@@ -28287,6 +30679,110 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "B6EB9EB5449EB10AC56EBFA037464709",
+			"source": "AK 7.62x39 30rnd",
+			"sourceHash": "98aeec50",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Mag/AK_Magpul_PMAG_GEN_M3_762x39_30Rnd/ID_AK_Magpul_PMAG_GEN_M3_762x39_30Rnd.ID_AK_Magpul_PMAG_GEN_M3_762x39_30Rnd.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "AK 7.62x39 30 Schuss",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "AK 7.62x39 30发",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "AK 7.62x39 30 патр.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "AK 7.62x39 30발",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "AK 7.62x39 30連",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "AK 7.62x39 30 cart.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "B727B0654AB0C17B2A1A4FA33EB25D81",
+			"source": "M14 Adapter",
+			"sourceHash": "a4c2d481",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Muzzle/M14_16_Inch_762x51_Muzzle_Adapter/ID_M14_16_Inch_762x51_Muzzle_Adapter.ID_M14_16_Inch_762x51_Muzzle_Adapter.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "M14-Adapter",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "M14 适配器",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Адаптер M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "M14 어댑터",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "M14 アダプター",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Adaptador M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -28626,10 +31122,10 @@
 				},
 				"ru":
 				{
-					"text": "Цевьё M2 Field - базовый компонент ружья Benelli M2 Field.",
+					"text": "Цевьё M2 Field - основной компонент дробовика Benelli M2 Field.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -28812,6 +31308,58 @@
 		},
 		{
 			"ns": "",
+			"key": "B8FF01064E22E131CAB5019E2DB3B7EB",
+			"source": "AR-10 CMMG",
+			"sourceHash": "f3230fc0",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Muzzle/AR-10_CMMG_SV_762x51_Muzzle_Device/ID_AR-10_CMMG_SV_762x51_Muzzle_Device.ID_AR-10_CMMG_SV_762x51_Muzzle_Device.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "AR-10 CMMG",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "AR-10 CMMG",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "AR-10 CMMG",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "AR-10 CMMG",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "AR-10 CMMG",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "AR-10 CMMG",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "B961680848160F71465FF8BAF90F5DA9",
 			"source": "Going dark.",
 			"sourceHash": "705972ee",
@@ -28911,6 +31459,58 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:40:14Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "B9FD2F7A405033DC322786BD44A2C3D0",
+			"source": "Muzzle device for the RFB rifle.",
+			"sourceHash": "f0c3535b",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Muzzle/RFB_762x51_Muzzle_Device/ID_RFB_762x51_Muzzle_Device.ID_RFB_762x51_Muzzle_Device.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "Mündungsgerät für das RFB-Gewehr.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "适用于 RFB 步枪的枪口装置。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Дульное устройство для винтовки RFB.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "RFB 소총용 총구 장치.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "RFBライフル用マズルデバイス。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Dispositivo de boca para el fusil RFB.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -29228,6 +31828,58 @@
 		},
 		{
 			"ns": "",
+			"key": "BC07336945FE62B40E9634A45E1F644F",
+			"source": "18 inch barrel for the RFB rifle.",
+			"sourceHash": "b0b3326f",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Barrel/RFB_18_Inch_762x51_Barrel/ID_RFB_18_Inch_762x51_Barrel.ID_RFB_18_Inch_762x51_Barrel.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "18-Zoll-Lauf für das RFB-Gewehr.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "适用于 RFB 步枪的 18 英寸枪管。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "18-дюймовый ствол для винтовки RFB.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "RFB 소총용 18인치 총열.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "RFBライフル用18インチバレル。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Cañón de 18 pulgadas para el fusil RFB.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "BC907B784DC93F86A7649EB137B2D792",
 			"source": "8.5 Inch handguard from KAC for the AR-15 family that is utilizing the M-LOK system.",
 			"sourceHash": "6c15d638",
@@ -29535,6 +32187,110 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:40:14Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "BF312E51459F395520100E9FC3D01F50",
+			"source": "M14 Chassis",
+			"sourceHash": "aee1a30d",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Stock/M14_SAGE_International_Chassis/ID_M14_SAGE_International_Chassis.ID_M14_SAGE_International_Chassis.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "M14-Chassis",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "M14 底盘",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Ложа M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "M14 섀시",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "M14 シャーシ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Chasis M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "C140447448CB582D7AB7B7A5EB456A43",
+			"source": "Front iron sight of the M14 rifle.",
+			"sourceHash": "17a859e8",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Sight/M14_Front_Iron_Sight/ID_M14_Front_Iron_Sight.ID_M14_Front_Iron_Sight.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "Vorderes Eisenvisier des M14-Gewehrs.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "M14 步枪的前机械瞄具。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Мушка винтовки M14.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "M14 소총의 전방 아이언사이트.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "M14ライフルのフロントアイアンサイト。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Punto de mira delantero del fusil M14.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -30112,6 +32868,58 @@
 		},
 		{
 			"ns": "",
+			"key": "C49AF789473DA95AB2DFAB8C72BEED20",
+			"source": "M14 Muzzle",
+			"sourceHash": "1296741c",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Muzzle/M14_Smith_Enterprise_SOCOM_16_762x51_Muzzle_Brake/ID_M14_Smith_Enterprise_SOCOM_16_762x51_Muzzle_Brake.ID_M14_Smith_Enterprise_SOCOM_16_762x51_Muzzle_Brake.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "M14-Mündung",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "M14 枪口",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Дуло M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "M14 총구",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "M14 銃口",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Boca M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "C4E12E2944EFABC6DE76128A4F08F178",
 			"source": "Key for all large safes.",
 			"sourceHash": "daa17376",
@@ -30268,6 +33076,58 @@
 		},
 		{
 			"ns": "",
+			"key": "C564410D41E4C2B25E2D47BA4644289B",
+			"source": "50 round 7.62x51mm drum magazine for the M14.",
+			"sourceHash": "9147b45f",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Mag/M14_X-Products_X-14_Drum_762x51_50Rnd/ID_M14_X-Products_X-14_Drum_762x51_50Rnd.ID_M14_X-Products_X-14_Drum_762x51_50Rnd.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "50-Schuss-Trommelmagazin im Kaliber 7.62x51mm für die M14.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "适用于 M14 的 7.62x51mm 50 发弹鼓。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Барабанный магазин на 50 патронов калибра 7.62x51mm для M14.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "M14용 7.62x51mm 50발 드럼 탄창.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "M14用7.62x51mm弾50連ドラムマガジン。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Cargador de tambor de 50 proyectiles de 7.62x51mm para la M14.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "C5881F2F4054CB6C6F88A68F050E9E03",
 			"source": "50 round 9x19mm drum magazine for the SIG Sauer MPX.",
 			"sourceHash": "b984e4b2",
@@ -30315,6 +33175,58 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:40:14Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "C5FD0288401CFC5511FB539B676C7DB7",
+			"source": "National Match muzzle device for the M14 rifle.",
+			"sourceHash": "2affb0ec",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Muzzle/M14_National_Match_762x51_Muzzle_Brake/ID_M14_National_Match_762x51_Muzzle_Brake.ID_M14_National_Match_762x51_Muzzle_Brake.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "National Match-Mündungsgerät für das M14-Gewehr.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "适用于 M14 步枪的 National Match 枪口装置。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Дульное устройство National Match для винтовки M14.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "M14 소총용 National Match 총구 장치.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "M14ライフル用National Matchマズルデバイス。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Dispositivo de boca National Match para el fusil M14.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -30419,6 +33331,58 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:40:14Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "C76BC16C4D5E58D7BA08FB841E43DF3D",
+			"source": "I think it goes on a 16 inch barrel...",
+			"sourceHash": "9cf3cf2e",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Muzzle/M14_16_Inch_762x51_Muzzle_Adapter/ID_M14_16_Inch_762x51_Muzzle_Adapter.ID_M14_16_Inch_762x51_Muzzle_Adapter.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "Ich glaube, das passt auf einen 16-Zoll-Lauf...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "我觉得它是装在 16 英寸枪管上的...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Кажется, это ставится на 16-дюймовый ствол...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "16인치 총열에 맞는 것 같은데...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "16インチバレルに付けるものだと思う...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Creo que va en un cañón de 16 pulgadas...",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -30840,6 +33804,58 @@
 		},
 		{
 			"ns": "",
+			"key": "C8E80B2D4ECE073C13679F8CFDE065DF",
+			"source": "Rear iron sight of the M14 rifle.",
+			"sourceHash": "287056b7",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Sight/M14_Rear_Iron_Sight/ID_M14_Rear_Iron_Sight.ID_M14_Rear_Iron_Sight.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "Hinteres Eisenvisier des M14-Gewehrs.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "M14 步枪的后机械瞄具。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Целик винтовки M14.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "M14 소총의 후방 아이언사이트.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "M14ライフルのリアアイアンサイト。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Alza trasera del fusil M14.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "C9733F2A48626AB86F1A879BEA968B74",
 			"source": "A Military Radio. Does send on a different frequence.",
 			"sourceHash": "4e85bb97",
@@ -30887,6 +33903,58 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:40:14Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "C9A24DC54BB636B1E60568B069C4C30C",
+			"source": "RFB 24 Inch",
+			"sourceHash": "145ac8cb",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Barrel/RFB_24_Inch_762x51_Barrel/ID_RFB_24_Inch_762x51_Barrel.ID_RFB_24_Inch_762x51_Barrel.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "RFB 24 Zoll",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "RFB 24英寸",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "RFB 24 дюйма",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "RFB 24인치",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "RFB 24インチ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "RFB 24 pulgadas",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -31061,13 +34129,6 @@
 					"by": "ai",
 					"at": "2026-09-28T15:18:14Z"
 				},
-				"es-ES":
-				{
-					"text": "Botella de agua. ?Imprescindible con este calor!",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-28T15:18:14Z"
-				},
 				"zh-Hans":
 				{
 					"text": "一瓶水。这么热的天必不可少！",
@@ -31095,6 +34156,13 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T15:18:57Z"
+				},
+				"es-ES":
+				{
+					"text": "Botella de agua. ?Imprescindible con este calor!",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-09-28T15:18:14Z"
 				}
 			}
 		},
@@ -31932,6 +35000,58 @@
 		},
 		{
 			"ns": "",
+			"key": "D5B655C7449113BC4530F8A150FA3138",
+			"source": "M14 Chassis",
+			"sourceHash": "aee1a30d",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Stock/M14_Norinco_M305_Polymer_Chassis/ID_M14_Norinco_M305_Polymer_Chassis.ID_M14_Norinco_M305_Polymer_Chassis.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "M14-Chassis",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "M14 底盘",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Ложа M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "M14 섀시",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "M14 シャーシ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Chasis M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "D61A33A44E200DD206CC50B6CEAD4FDB",
 			"source": "High capacity drum magazine for PP-19 submachine gun.",
 			"sourceHash": "f5005e45",
@@ -32132,58 +35252,6 @@
 				"es-ES":
 				{
 					"text": "Miras de hierro altas para pistola M9.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "D79B7808452993CA622C1898497098A2",
-			"source": "-----",
-			"sourceHash": "0bb82e7d",
-			"origin": "/Game/Blueprints/InventorySystem/Items/Gadgets/Binoculars/M1050_LRF_Binoculars/Materials/W_IRR_LRF_Reticle.W_IRR_LRF_Reticle_C:WidgetTree.RangeText.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "-----",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "-----",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "-----",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "-----",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "-----",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "-----",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -33128,6 +36196,58 @@
 		},
 		{
 			"ns": "",
+			"key": "DEC664314237039D1EE3A6A90996DA8F",
+			"source": "24 inch barrel for the RFB rifle.",
+			"sourceHash": "bc6dc74a",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Barrel/RFB_24_Inch_762x51_Barrel/ID_RFB_24_Inch_762x51_Barrel.ID_RFB_24_Inch_762x51_Barrel.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "24-Zoll-Lauf für das RFB-Gewehr.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "适用于 RFB 步枪的 24 英寸枪管。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "24-дюймовый ствол для винтовки RFB.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "RFB 소총용 24인치 총열.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "RFBライフル用24インチバレル。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Cañón de 24 pulgadas para el fusil RFB.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "DFC7DAC44B9928098FFBF683CEBBD051",
 			"source": "Offers M-LOK slots for tactical devices and foregrips.",
 			"sourceHash": "55c1aecd",
@@ -33643,6 +36763,58 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:40:14Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "E3A69A5145601187811315AECFE3BB63",
+			"source": "M305",
+			"sourceHash": "ea0040ec",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Weapons/DMR/Norinco_M305/ID_Norinco_M305.ID_Norinco_M305.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "M305",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "M305",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "M305",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "M305",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "M305",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "M305",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -34710,10 +37882,10 @@
 				},
 				"ru":
 				{
-					"text": "Жилет JTAC V1 - это тактическая разгрузка, разработанная для авианаводчиков (JTAC), а также для других военных и сотрудников правоохранительных органов. Она предлагает универсальные возможности хранения, модульные точки крепления модулей для снаряжения и функции баллистической защиты. Этот жилет повышает боеготовность и функциональность бойцов во время заданий, гарантируя наличие необходимого снаряжения и защиты в сложных условиях.",
+					"text": "Жилет JTAC V1 - тактический жилет для авианаводчиков (JTAC), а также других военных и сотрудников правоохранительных органов. Он предлагает разнообразные варианты хранения, модульные точки крепления снаряжения и баллистическую защиту. Этот жилет повышает готовность и эффективность личного состава во время миссий, обеспечивая необходимым снаряжением и защитой для эффективных действий в сложных условиях.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -35468,6 +38640,58 @@
 		},
 		{
 			"ns": "",
+			"key": "ED84117A4694859CA28B0B888ABE5EF3",
+			"source": "20 round 7.62x51mm magazine for the M14.",
+			"sourceHash": "4b7adf8d",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Mag/M14_Standard_762x51_10Rnd/ID_M14_Standard_762x51_10Rnd.ID_M14_Standard_762x51_10Rnd.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "20-Schuss-Magazin im Kaliber 7.62x51mm für die M14.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "适用于 M14 的 7.62x51mm 20 发弹匣。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Магазин на 20 патронов калибра 7.62x51mm для M14.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "M14용 7.62x51mm 20발 탄창.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "M14用7.62x51mm弾20連マガジン。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Cargador de 20 proyectiles de 7.62x51mm para la M14.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "EDAA698341C57CC4E0ED72B58821C148",
 			"source": "Layout guide for a H.A.S.",
 			"sourceHash": "313d7b83",
@@ -35572,6 +38796,110 @@
 		},
 		{
 			"ns": "",
+			"key": "EE680FFA4C405D0EB9B8FA82E7C8E8F1",
+			"source": "Brown top cover for the M14 rifle.",
+			"sourceHash": "19e5d1ad",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Handguard/M14_Springfield_Armory_Brown_Top/ID_M14_Springfield_Armory_Brown_Top.ID_M14_Springfield_Armory_Brown_Top.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "Braune Oberabdeckung für das M14-Gewehr.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "适用于 M14 步枪的棕色上盖。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Коричневая верхняя крышка для винтовки M14.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "M14 소총용 갈색 상부 커버.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "M14ライフル用の茶色のトップカバー。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Cubierta superior marrón para el fusil M14.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "EF152FC444C0B24479D6A8A3F5ADB48A",
+			"source": "It offers quite a lot of attachment space.",
+			"sourceHash": "7843c43f",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Stock/M14_Troy_SASS_Chassis/ID_M14_Troy_SASS_Chassis.ID_M14_Troy_SASS_Chassis.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "Es bietet ziemlich viel Platz für Aufsätze.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "它提供相当多的配件安装空间。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Здесь довольно много места для навесного оборудования.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "부착물을 달 공간이 꽤 많습니다.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "アタッチメント用のスペースがかなりあります。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Ofrece bastante espacio para accesorios.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "EF2CFD484ED01E3C77EECC9668F8DE52",
 			"source": "The standard pistol grip for the PP-19 Vityaz.",
 			"sourceHash": "7db77628",
@@ -35619,6 +38947,58 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:40:14Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "EF582D0F4B54FC6BAAE45498391F675D",
+			"source": "RFB Sight",
+			"sourceHash": "c05cd969",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Sight/RFB_Rear_Sight/ID_RFB_Rear_Sight.ID_RFB_Rear_Sight.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "RFB-Visier",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "RFB 瞄具",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "Прицел RFB",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "RFB 조준경",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "RFB サイト",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Mira RFB",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -35802,10 +39182,10 @@
 				},
 				"ru":
 				{
-					"text": "Приклад с пистолетной рукояткой M2 Tactical - специализированный приклад для Benelli M2.",
+					"text": "Приклад M2 Tactical с пистолетной рукояткой - специализированный приклад для Benelli M2.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
@@ -36144,6 +39524,58 @@
 		},
 		{
 			"ns": "",
+			"key": "F0E8985D43DE00E87F6913A655514CDD",
+			"source": "MK-47 10 Inch",
+			"sourceHash": "7460bce3",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Barrel/MK-47_10-Inch_762x39_Barrel/ID_MK-47_10-Inch_762x39_Barrel.ID_MK-47_10-Inch_762x39_Barrel.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "MK-47 10 Zoll",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "MK-47 10英寸",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "MK-47 10 дюймов",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "MK-47 10인치",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "MK-47 10インチ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "MK-47 10 pulgadas",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "F0EABE854C0B60BD369F02BD9A3A2037",
 			"source": "Key for the room on the middle level of the vehicle lift.",
 			"sourceHash": "a04006a7",
@@ -36191,6 +39623,58 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:40:14Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "F0EBCC794CD992E1B471B9891BF1918E",
+			"source": "10 Inch MK-47 barrel.",
+			"sourceHash": "861b335c",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Barrel/MK-47_10-Inch_762x39_Barrel/ID_MK-47_10-Inch_762x39_Barrel.ID_MK-47_10-Inch_762x39_Barrel.ItemAppearance.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "10-Zoll-Lauf für die MK-47.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "10英寸 MK-47 枪管。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "10-дюймовый ствол MK-47.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "10인치 MK-47 총열.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "10インチMK-47バレル。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "Cañón MK-47 de 10 pulgadas.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -36404,6 +39888,58 @@
 		},
 		{
 			"ns": "",
+			"key": "F412E93C4B87B0799B98758D2D9CE3EE",
+			"source": "M14 20rnd",
+			"sourceHash": "ffb9c113",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Mag/M14_Standard_762x51_20Rnd/ID_M14_Standard_762x51_20Rnd.ID_M14_Standard_762x51_20Rnd.ItemAppearance.Abbreviation",
+			"t":
+			{
+				"de":
+				{
+					"text": "M14 20 Schuss",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "M14 20发",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "M14 20 патр.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "M14 20발",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "M14 20連",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "M14 20 cart.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "F5C580AD46C737257516159D908017DE",
 			"source": "11 Inch handguard for the KRISS Vector offering M-LOK rail slots for potential tactical devices & foregrips.",
 			"sourceHash": "7cfc0b0c",
@@ -36555,58 +40091,6 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:40:14Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "F644616B43E0296FDBAFE399C6B77852",
-			"source": "4.0",
-			"sourceHash": "702d43d1",
-			"origin": "/Game/Blueprints/InventorySystem/Items/Gadgets/Binoculars/M1050_LRF_Binoculars/Materials/W_IRR_LRF_Reticle.W_IRR_LRF_Reticle_C:WidgetTree.MagnificationLevel.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "4.0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "4.0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "4.0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "4.0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "4.0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "4.0",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -37778,10 +41262,10 @@
 				},
 				"ru":
 				{
-					"text": "Kestrel 5700X - это комплексный метеоприбор для измерения и регистрации основных параметров окружающей среды, включая скорость и направление ветра",
+					"text": "Kestrel 5700X - комплексный метеоизмеритель для измерения и записи основных параметров окружающей среды, включая скорость и направление ветра",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-02T05:10:27Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{

@@ -264,58 +264,6 @@
 		},
 		{
 			"ns": "",
-			"key": "16EE2605490F0B1E5246E0A1C5B9F66E",
-			"source": "Start hacking procedure. Interrupt by pressing any key.",
-			"sourceHash": "ba0c456d",
-			"origin": "/Game/Blueprints/MissionSystem/Objects/Terminal/Arguments/BP_TerminalArgument_Hack.Default__BP_TerminalArgument_Hack_C:BP_TerminalSequence_Text_C_0.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "Hacking-Vorgang gestartet. Durch Drücken einer beliebigen Taste abbrechen.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "入侵程序启动。按任意键中断。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Запуск процедуры взлома. Прервать нажатием любой клавиши.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "해킹 절차 시작. 아무 키나 누르면 중단됩니다.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "ハッキング手順を開始。任意のキーを押して中断。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Iniciando procedimiento de pirateo. Pulsa cualquier tecla para interrumpir.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "27EB21ED4FF65F003790159FBBE12E7A",
 			"source": "Extract",
 			"sourceHash": "4f26e863",
@@ -779,6 +727,58 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "877402154F71296A58F97594075D0FC5",
+			"source": "Trade in {count} {targetdata} at the trader.",
+			"sourceHash": "7de6ff94",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/Objectives/SubClasses/BP_IRRObjective_TradeInItem.Default__BP_IRRObjective_TradeInItem_C.Description",
+			"t":
+			{
+				"de":
+				{
+					"text": "Tausche {count} {targetdata} beim Händler ein.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "在商人处交换 {count} 个 {targetdata}。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Обменяй {count} {targetdata} у торговца.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "상인에게 {targetdata} {count}개를 교환하라.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "トレーダーで{targetdata}を{count}個交換しろ。",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Entrega {count} {targetdata} al comerciante.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},

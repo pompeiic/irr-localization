@@ -1,0 +1,110 @@
+{
+	"schemaVersion": 1,
+	"area": "Config",
+	"entries": [
+		{
+			"ns": "",
+			"key": "79606DB14CE0CA2BAEEA4DB8FC19E122",
+			"source": "{GameName} {RHIName}",
+			"sourceHash": "f7e27274",
+			"origin": "Config/DefaultGame.ini(11)",
+			"t":
+			{
+				"de":
+				{
+					"text": "{GameName} {RHIName}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "{GameName} {RHIName}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "{GameName} {RHIName}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "{GameName} {RHIName}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "{GameName} {RHIName}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "{GameName} {RHIName}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "DF73DE3C46BBFE9C60B3D2AC332F15F2",
+			"source": "{GameName} {BuildConfiguration} {PlatformArchitecture} {RHIName}",
+			"sourceHash": "85e0fe24",
+			"origin": "Config/DefaultGame.ini(12)",
+			"t":
+			{
+				"de":
+				{
+					"text": "{GameName} {BuildConfiguration} {PlatformArchitecture} {RHIName}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"zh-Hans":
+				{
+					"text": "{GameName} {BuildConfiguration} {PlatformArchitecture} {RHIName}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ru":
+				{
+					"text": "{GameName} {BuildConfiguration} {PlatformArchitecture} {RHIName}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ko":
+				{
+					"text": "{GameName} {BuildConfiguration} {PlatformArchitecture} {RHIName}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"ja":
+				{
+					"text": "{GameName} {BuildConfiguration} {PlatformArchitecture} {RHIName}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				},
+				"es-ES":
+				{
+					"text": "{GameName} {BuildConfiguration} {PlatformArchitecture} {RHIName}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
+				}
+			}
+		}
+	]
+}

@@ -264,6 +264,58 @@
 		},
 		{
 			"ns": "",
+			"key": "0429A4F049057C0DCAEA8FBBF700EBBF",
+			"source": "0",
+			"sourceHash": "d16f27bd",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/W_IRR_SplitItem_Text.W_IRR_SplitItem_Text_C:WidgetTree.AmountText.HintText",
+			"t":
+			{
+				"de":
+				{
+					"text": "0",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "0",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "0",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "0",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "0",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "0",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "04E5C88C40829F1B324466A17F2044ED",
 			"source": "GENERATE ICONS",
 			"sourceHash": "ba17f2a0",
@@ -628,58 +680,6 @@
 		},
 		{
 			"ns": "",
-			"key": "0CF0AF43403ED00CCF3EA99E0E7F2188",
-			"source": "R",
-			"sourceHash": "40401835",
-			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatPlainTextBox.W_StatPlainTextBox_C:WidgetTree.StatNameText.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "R",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "R",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "R",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "R",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "R",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "R",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "0D264D484FAA04BD0FEB35AC1594DFAD",
 			"source": "$ {x}",
 			"sourceHash": "ffc38c3c",
@@ -784,53 +784,53 @@
 		},
 		{
 			"ns": "",
-			"key": "0F91C30D4E909880423F7499D048C6CE",
-			"source": "-",
-			"sourceHash": "731ca8ff",
-			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatProgressBar.W_StatProgressBar_C:ExecuteUbergraph_W_StatProgressBar [Script Bytecode]",
+			"key": "111088244CE43DEAD459A89BB8C7D43E",
+			"source": "/ 12",
+			"sourceHash": "7e1aef23",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/W_IRR_SplitItem_Text.W_IRR_SplitItem_Text_C:WidgetTree.MaxAmountText.Text",
 			"t":
 			{
 				"de":
 				{
-					"text": "-",
+					"text": "/ 12",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "-",
+					"text": "/ 12",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "-",
+					"text": "/ 12",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "-",
+					"text": "/ 12",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "-",
+					"text": "/ 12",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "-",
+					"text": "/ 12",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -880,58 +880,6 @@
 				"es-ES":
 				{
 					"text": "Armas > Fusiles",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "12D21F0B4231B202E0FF36973C1D7EE4",
-			"source": "{x}{y}",
-			"sourceHash": "75148f8e",
-			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatProgressBar.W_StatProgressBar_C:ExecuteUbergraph_W_StatProgressBar [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": "{x}{y}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "{x}{y}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "{x}{y}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "{x}{y}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "{x}{y}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "{x}{y}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -1044,58 +992,6 @@
 		},
 		{
 			"ns": "",
-			"key": "156FB0CB4DCA49A1FC08BDAE9AB3B06C",
-			"source": "<",
-			"sourceHash": "9bb99805",
-			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatPrice.W_StatPrice_C:WidgetTree.Text_1.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "<",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "<",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "<",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "<",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "<",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "<",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "17FE520C47836D6C1108B3AE01AA0D7A",
 			"source": "You already have pruchased the highest Tier available.",
 			"sourceHash": "20981782",
@@ -1140,58 +1036,6 @@
 				"es-ES":
 				{
 					"text": "Ya has comprado el nivel más alto disponible.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "18E872BA4A1A13E6B0DCED9076AB91FE",
-			"source": "-",
-			"sourceHash": "731ca8ff",
-			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatPlainTextBox.W_StatPlainTextBox_C:SetDisplayText [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": "-",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "-",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "-",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "-",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "-",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "-",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -1616,58 +1460,6 @@
 		},
 		{
 			"ns": "",
-			"key": "206F1CAD4E0E41DBE9C1A6B05D150BBF",
-			"source": "{sign}{Value}{Percent}",
-			"sourceHash": "88c1d057",
-			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatPlainTextBox.W_StatPlainTextBox_C:SetDisplayText [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": "{sign}{Value}{Percent}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "{sign}{Value}{Percent}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "{sign}{Value}{Percent}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "{sign}{Value}{Percent}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "{sign}{Value}{Percent}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "{sign}{Value}{Percent}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "208402C342CE046AA9157CB9BFEC3958",
 			"source": "MODIFY",
 			"sourceHash": "f8269b3a",
@@ -1868,58 +1660,6 @@
 				"es-ES":
 				{
 					"text": "Munición",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "240E508B4F8D640B65B76B873AC2BB9A",
-			"source": "<>",
-			"sourceHash": "a7b416c9",
-			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/W_IRR_Button_Small.Default__W_IRR_Button_Small_C.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "<>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "<>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "<>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "<>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "<>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "<>",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -2336,58 +2076,6 @@
 				"es-ES":
 				{
 					"text": "ARMERO",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "2E19EDE24FBA94114BAED0A95E6AC2D8",
-			"source": "1",
-			"sourceHash": "69d340d8",
-			"origin": "/Game/Blueprints/InventorySystem/Widgets/W_EquipToContainer.W_EquipToContainer_C:WidgetTree.KeyText.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "1",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "1",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "1",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "1",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "1",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "1",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -4996,58 +4684,6 @@
 		},
 		{
 			"ns": "",
-			"key": "4D3AAAF045AAD9EBE48E4398A0ACAC6E",
-			"source": "(70) = 80",
-			"sourceHash": "4019891f",
-			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Repair/W_IRR_RepairStation_Overview.W_IRR_RepairStation_Overview_C:WidgetTree.RepairBonusCash.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "(70) = 80",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "(70) = 80",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "(70) = 80",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "(70) = 80",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "(70) = 80",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "(70) = 80",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "4DB3B45641866F10CF2306B5E6B5DD6B",
 			"source": "Grenades",
 			"sourceHash": "cc279d97",
@@ -5620,58 +5256,6 @@
 		},
 		{
 			"ns": "",
-			"key": "57E554C94B809DFB31FECCA144504742",
-			"source": "$ 1000",
-			"sourceHash": "1052b3a4",
-			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Gunsmith/W_IRR_Gunsmith_AssembleWeapon_Container.W_IRR_Gunsmith_AssembleWeapon_Container_C:WidgetTree.Price.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "$ 1000",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "$ 1000",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "$ 1000",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "$ 1000",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "$ 1000",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "$ 1000",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "59B035854771A6D36166848F2D645B40",
 			"source": "<Strong>[R]</> Rotate <Strong>[F]</> Fold",
 			"sourceHash": "86f304a2",
@@ -5768,58 +5352,6 @@
 				"es-ES":
 				{
 					"text": "<Strong>[R]</> Rotar <Strong>[F]</> {x}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "5BBE304641DE9F4E009A2BB84638F038",
-			"source": "1000",
-			"sourceHash": "d20402ff",
-			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatPrice.W_StatPrice_C:WidgetTree.EstimatedPrice.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "1000",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "1000",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "1000",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "1000",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "1000",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "1000",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -6348,58 +5880,6 @@
 		},
 		{
 			"ns": "",
-			"key": "60FC94A044E5176F48CE66A7F6F4896F",
-			"source": "-",
-			"sourceHash": "731ca8ff",
-			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatCompatibleItems.W_StatCompatibleItems_C:Get_ContextButton_ToolTipWidget [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": "-",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "-",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "-",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "-",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "-",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "-",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "62BFB6714E6097F0AC4A32921F519F1D",
 			"source": "Download",
 			"sourceHash": "83a691c0",
@@ -6600,58 +6080,6 @@
 				"es-ES":
 				{
 					"text": "Subir",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "6474541E4E0C5BF4DED057BF631E6A4E",
-			"source": "20 /",
-			"sourceHash": "8f0dc0ef",
-			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatProgressBar.W_StatProgressBar_C:WidgetTree.CurrentValueText.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "20 /",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "20 /",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "20 /",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "20 /",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "20 /",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "20 /",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -7024,58 +6452,6 @@
 		},
 		{
 			"ns": "",
-			"key": "6B016845485B02D0C59F51845356275D",
-			"source": "(60) = 70",
-			"sourceHash": "68e39e19",
-			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Repair/W_IRR_RepairStation_Overview.W_IRR_RepairStation_Overview_C:WidgetTree.ReplacementValueMaterial.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "(60) = 70",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "(60) = 70",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "(60) = 70",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "(60) = 70",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "(60) = 70",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "(60) = 70",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "6B8BBFE44EB04AE741FDCD8047B0C982",
 			"source": "<Red>{x}</>",
 			"sourceHash": "2bc9c62a",
@@ -7284,6 +6660,58 @@
 		},
 		{
 			"ns": "",
+			"key": "6D2287544750AE5EE0C2DFA241609D8F",
+			"source": "Generate",
+			"sourceHash": "f93f7570",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/Utility/W_Utility_IconGeneration.W_Utility_IconGeneration_C:WidgetTree.TextBlock_89.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "Generieren",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "生成",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "Создать",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "생성",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "生成",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "Generar",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "6E04BD6D4868FB859B4E4B9284D4E936",
 			"source": "Update [Defaults]",
 			"sourceHash": "911cf200",
@@ -7328,58 +6756,6 @@
 				"es-ES":
 				{
 					"text": "Actualizar [predeterminados]",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "716760B34C3B1EF5A2DEC994B4D91657",
-			"source": "+ 30",
-			"sourceHash": "42076c52",
-			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatPlainTextBox.W_StatPlainTextBox_C:WidgetTree.CompareValueText.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "+ 30",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "+ 30",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "+ 30",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "+ 30",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "+ 30",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "+ 30",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -7588,110 +6964,6 @@
 				"es-ES":
 				{
 					"text": "Mercado",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "77CD39804BE79B4836675DAB44CCA724",
-			"source": "(10) = 10",
-			"sourceHash": "1619850b",
-			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Repair/W_IRR_RepairStation_Overview.W_IRR_RepairStation_Overview_C:WidgetTree.BaseValueTextMaterial.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "(10) = 10",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "(10) = 10",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "(10) = 10",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "(10) = 10",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "(10) = 10",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "(10) = 10",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "77FE8FC24E327C8D208BE1861526A144",
-			"source": "test",
-			"sourceHash": "919f0e6b",
-			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Vendor/W_VendorList_Item.W_VendorList_Item_C:WidgetTree.W_IRR_BaseButton.ToolTipText",
-			"t":
-			{
-				"de":
-				{
-					"text": "Test",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "测试",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "тест",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "테스트",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "テスト",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "prueba",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -8168,58 +7440,6 @@
 		},
 		{
 			"ns": "",
-			"key": "7D2FDAE649A32CAFE654DC9FA93F557E",
-			"source": "/ 30",
-			"sourceHash": "963620d5",
-			"origin": "/Game/Blueprints/InventorySystem/Widgets/W_InventoryItem.W_InventoryItem_C:WidgetTree.ItemMaxCapacity.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "/ 30",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "/ 30",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "/ 30",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "/ 30",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "/ 30",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "/ 30",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "7F4D86F048AC8A66641C2DB75698F198",
 			"source": "FEE PAID",
 			"sourceHash": "da05c38e",
@@ -8584,110 +7804,6 @@
 		},
 		{
 			"ns": "",
-			"key": "8274EA8E4DEA0C8A561714BE418CDC50",
-			"source": "95",
-			"sourceHash": "38559fac",
-			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Repair/W_IRR_RepairStation_Overview.W_IRR_RepairStation_Overview_C:WidgetTree.FinalValueMaterial.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "95",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "95",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "95",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "95",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "95",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "95",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "82AAB16C4849560A7F294A93194D3C79",
-			"source": "=",
-			"sourceHash": "2305ff60",
-			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Repair/W_IRR_RepairStation_Overview.W_IRR_RepairStation_Overview_C:WidgetTree.ItemDescription_8.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "=",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "=",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "=",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "=",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "=",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "=",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "832E6DDF49779838E3877EB33CFC5F57",
 			"source": "Repair for ${cash}",
 			"sourceHash": "be940b3f",
@@ -9000,58 +8116,6 @@
 		},
 		{
 			"ns": "",
-			"key": "882D5EEC4F0B03ED7343889B46B36BFB",
-			"source": " 100",
-			"sourceHash": "01eee19f",
-			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatPlainTextBox.W_StatPlainTextBox_C:WidgetTree.MaxValueText.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": " 100",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": " 100",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": " 100",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": " 100",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": " 100",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": " 100",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "88FD425E44604E5E8A550C841FC62766",
 			"source": "<Strong>[R]</> Rotate",
 			"sourceHash": "38e33d46",
@@ -9312,110 +8376,6 @@
 		},
 		{
 			"ns": "",
-			"key": "8AAE7F9142A60AD5DCEDCC83315EEE30",
-			"source": "1200",
-			"sourceHash": "3e3f9c60",
-			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatPrice.W_StatPrice_C:WidgetTree.FullPrice.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "1200",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "1200",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "1200",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "1200",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "1200",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "1200",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "8CCCB43D4FD4A3C902484E80D6EAE49F",
-			"source": "Semi, Auto",
-			"sourceHash": "86351f23",
-			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatPlainTextBox.W_StatPlainTextBox_C:WidgetTree.CurrentValueText.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "Halb, Auto",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "半自动、全自动",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Одиночный, авто",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "단발, 연사",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "セミ, フル",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Semi, auto",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "8CD9DC6A475C7D800A4A9EA53565D48A",
 			"source": "Install",
 			"sourceHash": "75507b39",
@@ -9616,58 +8576,6 @@
 				"es-ES":
 				{
 					"text": "Información de la misión",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "90D7AE0C4F6D953C2E5D289CEA0AEA87",
-			"source": "30",
-			"sourceHash": "9e4b7356",
-			"origin": "/Game/Blueprints/InventorySystem/Widgets/W_InventoryItem.W_InventoryItem_C:WidgetTree.ItemCapacity.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "30",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "30",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "30",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "30",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "30",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "30",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -10196,110 +9104,6 @@
 		},
 		{
 			"ns": "",
-			"key": "9E5A982D4C1A0F663F75CC9078081739",
-			"source": "Test",
-			"sourceHash": "86a07516",
-			"origin": "/Game/Blueprints/InventorySystem/Widgets/W_InventoryHeadline.W_InventoryHeadline_C:WidgetTree.Text.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "Test",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-25T00:37:16Z"
-				},
-				"zh-Hans":
-				{
-					"text": "测试",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-25T00:37:16Z"
-				},
-				"ru":
-				{
-					"text": "Тест",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-25T00:37:16Z"
-				},
-				"ko":
-				{
-					"text": "테스트",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-25T00:37:16Z"
-				},
-				"ja":
-				{
-					"text": "テスト",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-25T00:37:16Z"
-				},
-				"es-ES":
-				{
-					"text": "Prueba",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-25T00:37:16Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "9EFF299E42934ED947AC6393B494C917",
-			"source": "+",
-			"sourceHash": "5677f723",
-			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatProgressBar.W_StatProgressBar_C:ExecuteUbergraph_W_StatProgressBar [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": "+",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "+",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "+",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "+",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "+",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "+",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "9F07FB4F410BF7C9F7C57CA00308F019",
 			"source": "{repairvalue} {unit}",
 			"sourceHash": "e5656071",
@@ -10604,58 +9408,6 @@
 				"es-ES":
 				{
 					"text": "Todo",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "A463EFF34C9D1E30546816ABE8F64539",
-			"source": "+",
-			"sourceHash": "5677f723",
-			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatPlainTextBox.W_StatPlainTextBox_C:SetDisplayText [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": "+",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "+",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "+",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "+",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "+",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "+",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -10976,58 +9728,6 @@
 		},
 		{
 			"ns": "",
-			"key": "A7611F784B9950BF08967E9F496B463C",
-			"source": " / {x}",
-			"sourceHash": "9f73b893",
-			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatPlainTextBox.W_StatPlainTextBox_C:ExecuteUbergraph_W_StatPlainTextBox [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": " / {x}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": " / {x}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": " / {x}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": " / {x}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": " / {x}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": " / {x}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "A81D098B4073839487B57E8CAFD491D5",
 			"source": "Meds",
 			"sourceHash": "565545dd",
@@ -11072,162 +9772,6 @@
 				"es-ES":
 				{
 					"text": "Medicinas",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "A93F0DCB4CE6F7C2810A7DBDC38B463E",
-			"source": "$",
-			"sourceHash": "0e14e775",
-			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatPrice.W_StatPrice_C:WidgetTree.Text_3.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "$",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "$",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "$",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "$",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "$",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "$",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "A9ED3842454C856DFFDDE680EB423E76",
-			"source": "(25) = 95",
-			"sourceHash": "3c5f6f5a",
-			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Repair/W_IRR_RepairStation_Overview.W_IRR_RepairStation_Overview_C:WidgetTree.RepairBonusMaterial.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "(25) = 95",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "(25) = 95",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "(25) = 95",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "(25) = 95",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "(25) = 95",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "(25) = 95",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "AAB7F65C4E0AD4DD1721FCBE27C35A08",
-			"source": "+ 30",
-			"sourceHash": "42076c52",
-			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatProgressBar.W_StatProgressBar_C:WidgetTree.CompareValueText.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "+ 30",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "+ 30",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "+ 30",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "+ 30",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "+ 30",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "+ 30",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -11444,58 +9988,6 @@
 		},
 		{
 			"ns": "",
-			"key": "B08B1A8A438B173F89EC9381552568E3",
-			"source": "{Value}",
-			"sourceHash": "4fa3cfa0",
-			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatPlainTextBox.W_StatPlainTextBox_C:SetDisplayText [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": "{Value}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "{Value}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "{Value}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "{Value}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "{Value}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "{Value}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "B0999C234A66D09599B623B961ECF98E",
 			"source": "Med Box ",
 			"sourceHash": "d4e6e734",
@@ -11704,58 +10196,6 @@
 		},
 		{
 			"ns": "",
-			"key": "B317B6BB4AD18FA0FCB8B3BAF2A0A0F2",
-			"source": "$ 1,700",
-			"sourceHash": "74d9c2cd",
-			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Vendor/W_VendorItem_Price.W_VendorItem_Price_C:WidgetTree.ItemPrice.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "$ 1,700",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "$ 1,700",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "$ 1,700",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "$ 1,700",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "$ 1,700",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "$ 1,700",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "B52B64D147EF911D462C769AE1238948",
 			"source": "DMRS",
 			"sourceHash": "768313c1",
@@ -11800,110 +10240,6 @@
 				"es-ES":
 				{
 					"text": "DMR",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "B6DC54E34438123CCF2208AE23071976",
-			"source": "/ {x}",
-			"sourceHash": "cdb11744",
-			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatProgressBar.W_StatProgressBar_C:ExecuteUbergraph_W_StatProgressBar [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": "/ {x}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "/ {x}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "/ {x}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "/ {x}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "/ {x}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "/ {x}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "B729DA7E44BEE3FDD67085A5CC0CE274",
-			"source": "(5) = 95",
-			"sourceHash": "e038ac5d",
-			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Repair/W_IRR_RepairStation_Overview.W_IRR_RepairStation_Overview_C:WidgetTree.RepairBonusText_1.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "(5) = 95",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "(5) = 95",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "(5) = 95",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "(5) = 95",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "(5) = 95",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "(5) = 95",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -12484,58 +10820,6 @@
 		},
 		{
 			"ns": "",
-			"key": "C0520DA444A812FC70FD4CB955F9FA5D",
-			"source": " 100",
-			"sourceHash": "01eee19f",
-			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatProgressBar.W_StatProgressBar_C:WidgetTree.MaxValueText.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": " 100",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": " 100",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": " 100",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": " 100",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": " 100",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": " 100",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "C33969E447BB661830B3E09C0C6004BB",
 			"source": "SectionName",
 			"sourceHash": "5d3cb74c",
@@ -13108,58 +11392,6 @@
 		},
 		{
 			"ns": "",
-			"key": "CB6EC87743F7A596F887E690CBB92FC9",
-			"source": "80 / 95",
-			"sourceHash": "e7edbb47",
-			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Repair/W_IRR_RepairStation_Overview.W_IRR_RepairStation_Overview_C:WidgetTree.FinalValueCash.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "80 / 95",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "80 / 95",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "80 / 95",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "80 / 95",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "80 / 95",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "80 / 95",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "CB7D1ED748C25A5C0F2C4FAE77235FF0",
 			"source": "Failed to save. Preset name is already taken.",
 			"sourceHash": "35164503",
@@ -13464,58 +11696,6 @@
 				"es-ES":
 				{
 					"text": "Stock: 2/10.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "CFE533D04F5E01B85AAFC28FD1F687CA",
-			"source": " %",
-			"sourceHash": "0bb8e233",
-			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatPlainTextBox.W_StatPlainTextBox_C:SetDisplayText [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": " %",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": " %",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": " %",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": " %",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": " %",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": " %",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -13932,58 +12112,6 @@
 				"es-ES":
 				{
 					"text": "{x} kg",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "DD2CF767436D2937B8C99486C17F2AB3",
-			"source": "Kg",
-			"sourceHash": "b724ce68",
-			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatWeight.W_StatWeight_C:WidgetTree.WeightText_1.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "kg",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "kg",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "кг",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "kg",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "kg",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "kg",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -14452,58 +12580,6 @@
 				"es-ES":
 				{
 					"text": "Medicinas",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "E4B36BB0414A52783923988A2C214237",
-			"source": "3.28",
-			"sourceHash": "371c36ec",
-			"origin": "/Game/Blueprints/InventorySystem/Widgets/Stats/W_StatWeight.W_StatWeight_C:WidgetTree.WeightText.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "3.28",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "3.28",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "3.28",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "3.28",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "3.28",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "3.28",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -16073,52 +14149,52 @@
 		{
 			"ns": "",
 			"key": "FABCF67C4C162A3BAAA603BAAA7D6B45",
-			"source": "Generate Icons",
-			"sourceHash": "01400052",
-			"origin": "/Game/Blueprints/InventorySystem/Widgets/Utility/W_Utility_IconGeneration.W_Utility_IconGeneration_C:WidgetTree.TextBlock_89.Text",
+			"source": "Stop",
+			"sourceHash": "48929fc3",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/Utility/W_Utility_IconGeneration.W_Utility_IconGeneration_C:WidgetTree.TextBlock_1.Text",
 			"t":
 			{
 				"de":
 				{
-					"text": "Icons generieren",
+					"text": "Stopp",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"zh-Hans":
 				{
-					"text": "生成图标",
+					"text": "停止",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ru":
 				{
-					"text": "Сгенерировать иконки",
+					"text": "Стоп",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ko":
 				{
-					"text": "아이콘 생성",
+					"text": "중지",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"ja":
 				{
-					"text": "アイコンを生成",
+					"text": "停止",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				},
 				"es-ES":
 				{
-					"text": "Generar iconos",
+					"text": "Detener",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -16223,6 +14299,58 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "IRRInventory",
+			"key": "SplitMaxAmount",
+			"source": "/ {0}",
+			"sourceHash": "37c9ce1c",
+			"origin": "Source/Test_C/Inventory/Widgets/IRRItemSplitWidget.h(77)",
+			"t":
+			{
+				"de":
+				{
+					"text": "/ {0}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"zh-Hans":
+				{
+					"text": "/ {0}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ru":
+				{
+					"text": "/ {0}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ko":
+				{
+					"text": "/ {0}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"ja":
+				{
+					"text": "/ {0}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
+				},
+				"es-ES":
+				{
+					"text": "/ {0}",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		}
