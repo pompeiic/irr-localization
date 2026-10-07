@@ -842,6 +842,14 @@
 		},
 		{
 			"ns": "",
+			"key": "6545DB8248FC3F3C485BBC9166B0129D",
+			"source": "x",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Gadgets/Binoculars/M1050_LRF_Binoculars/Materials/W_IRR_LRF_Reticle.W_IRR_LRF_Reticle_C:WidgetTree.TextBlock_4.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "",
 			"key": "6FC376C9415C97AFC9637CA09837118C",
 			"source": "Semi-automatic 12 gauge shotgun with a design that closely resembles that of an AR-15.",
 			"origin": "/Game/Blueprints/InventorySystem/Items/Weapons/Shotgun/RIA_VR80/ID_RIA_VR80.ID_RIA_VR80.ItemAppearance.Description",
@@ -863,6 +871,14 @@
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Cooldown.Default__U_Cooldown_C.Unit",
 			"by": "Cleanup (no text)",
 			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "DEF18CE745DF1E6C9CE91C945496260A",
+			"source": "{x} x {y}",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_DefaultSize.U_DefaultSize_C:GetStatValueText [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
 		},
 		{
 			"ns": "",
@@ -914,11 +930,51 @@
 		},
 		{
 			"ns": "",
+			"key": "0D264D484FAA04BD0FEB35AC1594DFAD",
+			"source": "$ {x}",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Gunsmith/W_IRR_Gunsmith_AssembleWeapon_Container.W_IRR_Gunsmith_AssembleWeapon_Container_C:ExecuteUbergraph_W_IRR_Gunsmith_AssembleWeapon_Container [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "",
 			"key": "57E554C94B809DFB31FECCA144504742",
 			"source": "$ 1000",
 			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Gunsmith/W_IRR_Gunsmith_AssembleWeapon_Container.W_IRR_Gunsmith_AssembleWeapon_Container_C:WidgetTree.Price.Text",
 			"by": "Cleanup (no text)",
 			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "CDEFC40E4AAC2D2060CE3F8A582141FC",
+			"source": "({base}) = {base}",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Repair/W_IRR_RepairStation_Overview.W_IRR_RepairStation_Overview_C:SetBaseText [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "",
+			"key": "8EB0AC924583E1C7045924A4DB6393F8",
+			"source": "({bonues}) = {sum}",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Repair/W_IRR_RepairStation_Overview.W_IRR_RepairStation_Overview_C:SetBonusText [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "",
+			"key": "9F07FB4F410BF7C9F7C57CA00308F019",
+			"source": "{repairvalue} {unit}",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Repair/W_IRR_RepairStation_Overview.W_IRR_RepairStation_Overview_C:SetFinalText [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "",
+			"key": "E0743A524E95568A48E76DB66C263A65",
+			"source": "({replacementvalue}) = {sum}",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Repair/W_IRR_RepairStation_Overview.W_IRR_RepairStation_Overview_C:SetReplacementText [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
 		},
 		{
 			"ns": "",
@@ -986,11 +1042,43 @@
 		},
 		{
 			"ns": "",
+			"key": "C399963344FE5489580DEDB6CFA13C3D",
+			"source": "{x}x ",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Vendor/W_ShoppingCartAttachment.W_ShoppingCartAttachment_C:ExecuteUbergraph_W_ShoppingCartAttachment [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "",
+			"key": "E35194764CC4478E3B42A695B2B8C4E6",
+			"source": "{count}{name}",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Vendor/W_ShoppingCartAttachment.W_ShoppingCartAttachment_C:ExecuteUbergraph_W_ShoppingCartAttachment [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "",
+			"key": "502B04F4439422D858D033A1B7550C48",
+			"source": "{count} x {name}",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Vendor/W_ShoppingCartMainItem.W_ShoppingCartMainItem_C:ExecuteUbergraph_W_ShoppingCartMainItem [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "",
 			"key": "B317B6BB4AD18FA0FCB8B3BAF2A0A0F2",
 			"source": "$ 1,700",
 			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Vendor/W_VendorItem_Price.W_VendorItem_Price_C:WidgetTree.ItemPrice.Text",
 			"by": "Cleanup (no text)",
 			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "3FE07F3F4C7CAC5375270DA3E8102E4B",
+			"source": "{current} -> {next}",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Vendor/W_VendorList_Item.W_VendorList_Item_C:GetCategoryText [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
 		},
 		{
 			"ns": "",
@@ -1210,11 +1298,35 @@
 		},
 		{
 			"ns": "",
+			"key": "6B8BBFE44EB04AE741FDCD8047B0C982",
+			"source": "<Red>{x}</>",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/W_InventoryDragWidget.W_InventoryDragWidget_C:ExecuteUbergraph_W_InventoryDragWidget [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "",
 			"key": "9E5A982D4C1A0F663F75CC9078081739",
 			"source": "Test",
 			"origin": "/Game/Blueprints/InventorySystem/Widgets/W_InventoryHeadline.W_InventoryHeadline_C:WidgetTree.Text.Text",
 			"by": "CiaoKakao",
 			"at": "2026-09-28T15:10:04Z"
+		},
+		{
+			"ns": "",
+			"key": "8A73860F495D290A29A7719F41DC325B",
+			"source": "<Red>{Override Message}</>\r\n\r\n{Name}",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/W_InventoryItem.W_InventoryItem_C:Get_ItemHighlight_ToolTipWidget [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "",
+			"key": "E7391C864AD1F9B8EC090C867E592F13",
+			"source": "<Red>{Error Message}</>\r\n\r\n{Name}",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/W_InventoryItem.W_InventoryItem_C:Get_ItemHighlight_ToolTipWidget [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
 		},
 		{
 			"ns": "",
@@ -1231,6 +1343,30 @@
 			"origin": "/Game/Blueprints/InventorySystem/Widgets/W_InventoryItem.W_InventoryItem_C:WidgetTree.ItemMaxCapacity.Text",
 			"by": "Cleanup (no text)",
 			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "87D8763F40AF512B1E5D11B6DA63FB67",
+			"source": "{health}",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/W_PlayerInventory.W_PlayerInventory_C:UpdateHealth [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "",
+			"key": "66F72ED54F0C4D743517A9AB1AD97775",
+			"source": "{count} {item type}",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/W_UpgradeAdditionalStorageButton.W_UpgradeAdditionalStorageButton_C:UpdateButton [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "",
+			"key": "41E0BA8F4FE8792215DF49B3A4605051",
+			"source": "{x}x",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/WeaponUI/W_ShowMagnificationLevel.W_ShowMagnificationLevel_C:ExecuteUbergraph_W_ShowMagnificationLevel [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
 		},
 		{
 			"ns": "",
@@ -1914,6 +2050,14 @@
 		},
 		{
 			"ns": "",
+			"key": "56CB88B9428017C9F28BD9BFA8FA30F3",
+			"source": "{Command} {l} {r} {user}",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/Terminal/Sequences/BP_TerminalSequence_Text.Default__BP_TerminalSequence_Text_C.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "",
 			"key": "C014C4C54CC424D09F9FB2A73C5533ED",
 			"source": "{Minutes}:{Seconds}",
 			"origin": "/Game/Blueprints/MissionSystem/UI/Deploy/WB_DeployTab.WB_DeployTab_C:UpdateDisplay [Script Bytecode]",
@@ -2266,6 +2410,14 @@
 		},
 		{
 			"ns": "",
+			"key": "4EFB18E34BF95041F418AC92BA12672A",
+			"source": "{pre} {amount} %",
+			"origin": "/Game/Blueprints/MissionSystem/UI/JobBoard/W_LoyaltyProgressItem.W_LoyaltyProgressItem_C:ExecuteUbergraph_W_LoyaltyProgressItem [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "",
 			"key": "2CC856B94C23781EDDC0DE8A8B1A9CDF",
 			"source": "+5%",
 			"origin": "/Game/Blueprints/MissionSystem/UI/JobBoard/W_LoyaltyProgressItem.W_LoyaltyProgressItem_C:WidgetTree.IRRTextBlock_0.Text",
@@ -2290,11 +2442,27 @@
 		},
 		{
 			"ns": "",
+			"key": "74A1869347523F694DF89D91137FC410",
+			"source": "{x} - {y}",
+			"origin": "/Game/Blueprints/MissionSystem/UI/JobBoard/W_MissionInfo.W_MissionInfo_C:InitMission [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "",
 			"key": "E9140D61498471142180158E88C7FA92",
 			"source": "test",
 			"origin": "/Game/Blueprints/MissionSystem/UI/JobBoard/W_MissionList_Item.W_MissionList_Item_C:WidgetTree.Button.ToolTipText",
 			"by": "CiaoKakao",
 			"at": "2026-09-28T15:10:04Z"
+		},
+		{
+			"ns": "",
+			"key": "6769ECCF407EE4867233019E1EAB98A4",
+			"source": "{x}-",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Terminal/Response/W_TerminalResponse_Loading.W_TerminalResponse_Loading_C:ExecuteUbergraph_W_TerminalResponse_Loading [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
 		},
 		{
 			"ns": "",
@@ -2370,6 +2538,14 @@
 		},
 		{
 			"ns": "",
+			"key": "E2D9B5164F997BA9E9A4DEA0CD627237",
+			"source": "[{x}]",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Terminal/W_TerminalInput.W_TerminalInput_C:ExecuteUbergraph_W_TerminalInput [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "",
 			"key": "2DCF76624FD0C7A904930DAF5B1B8BBD",
 			"source": ">",
 			"origin": "/Game/Blueprints/MissionSystem/UI/Terminal/W_TerminalInput.W_TerminalInput_C:WidgetTree.symbols_1.Text",
@@ -2442,6 +2618,14 @@
 		},
 		{
 			"ns": "",
+			"key": "CCD5397142836399314C6BAD6EA71BC2",
+			"source": "{build} - {patch type}",
+			"origin": "/Game/Blueprints/UICore/Widgets/Menu/WB_MainMenu.WB_MainMenu_C:ShowPatchNotes [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "",
 			"key": "8DE10C9D4DDA60B6530128BFF1BF71CD",
 			"source": "Credits",
 			"origin": "/Game/Blueprints/UICore/Widgets/Menu/WB_MainMenu.WB_MainMenu_C:WidgetTree.Credits.Text",
@@ -2463,6 +2647,14 @@
 			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_MissionBriefingControl.W_IRR_MissionBriefingControl_C:ExecuteUbergraph_W_IRR_MissionBriefingControl [Script Bytecode]",
 			"by": "Cleanup (no text)",
 			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "E23169BE4B56A15B3577FCB5B7BEB18A",
+			"source": " / {x}",
+			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_MissionBriefingControl.W_IRR_MissionBriefingControl_C:ExecuteUbergraph_W_IRR_MissionBriefingControl [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
 		},
 		{
 			"ns": "",
@@ -2490,6 +2682,22 @@
 		},
 		{
 			"ns": "",
+			"key": "0F05560D4D6DAB21485EA085CC70E461",
+			"source": "\"{x}\"",
+			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_MissionBriefingSubtitles.W_IRR_MissionBriefingSubtitles_C:ExecuteUbergraph_W_IRR_MissionBriefingSubtitles [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "",
+			"key": "D044314C42BEA9E3FCED5F80C8179C09",
+			"source": "$ {x}",
+			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_RaidSummary.W_IRR_RaidSummary_C:ExecuteUbergraph_W_IRR_RaidSummary [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "",
 			"key": "28168B19406C57723FF8E8A31C7034FD",
 			"source": "$ 44,028",
 			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_RaidSummary.W_IRR_RaidSummary_C:WidgetTree.LootValue.Text",
@@ -2511,6 +2719,14 @@
 			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_RaidSummaryFactionItem.W_IRR_RaidSummaryFactionItem_C:ExecuteUbergraph_W_IRR_RaidSummaryFactionItem [Script Bytecode]",
 			"by": "Cleanup (no text)",
 			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "78C794A24FD2612FBFEDAAA1670E4747",
+			"source": "{pre} {amount} %",
+			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_RaidSummaryFactionItem.W_IRR_RaidSummaryFactionItem_C:ExecuteUbergraph_W_IRR_RaidSummaryFactionItem [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
 		},
 		{
 			"ns": "",
@@ -2551,6 +2767,14 @@
 			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_RaidSummaryItem.W_IRR_RaidSummaryItem_C:ExecuteUbergraph_W_IRR_RaidSummaryItem [Script Bytecode]",
 			"by": "Cleanup (no text)",
 			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "01DEC3A6411663BFF804BE92569BA571",
+			"source": " / {x}",
+			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_RaidSummaryLevel.W_IRR_RaidSummaryLevel_C:ExecuteUbergraph_W_IRR_RaidSummaryLevel [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
 		},
 		{
 			"ns": "",
@@ -2698,6 +2922,14 @@
 		},
 		{
 			"ns": "",
+			"key": "B96CC0EC4BEA892519FF5895710768B4",
+			"source": "{Sender}:",
+			"origin": "/Game/Blueprints/UICore/Widgets/SocialTab/WBP_Chatbox.WBP_Chatbox_C:Create Message [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "",
 			"key": "FAB076604411FDBFD9BC48917BE94B98",
 			"source": "toshi.tanaka@government.com",
 			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.AdditionalMission.Email_48_1EF60E214686034DD7C3F3A821AD083A.Author_11_3F8D40714A7213985D5353AF1740D21C",
@@ -2810,6 +3042,14 @@
 		},
 		{
 			"ns": "",
+			"key": "A094253F4075FF7E5032728520B76C0C",
+			"source": "+ {y}",
+			"origin": "/Game/ThirdParty/CMG/Widgets/EmailStyle/WB_SingleEmailReward.WB_SingleEmailReward_C:Get_EmailSubject_Text_0 [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "",
 			"key": "A05F68AF467455C4EBA7FC8ECD04FB53",
 			"source": "+ 5000",
 			"origin": "/Game/ThirdParty/CMG/Widgets/EmailStyle/WB_SingleEmailReward.WB_SingleEmailReward_C:WidgetTree.EmailSubject.Text",
@@ -2881,12 +3121,52 @@
 			"at": "2026-10-06T13:37:18Z"
 		},
 		{
+			"ns": "IRRReward",
+			"key": "ItemLineFormat",
+			"source": "{0}x {1}",
+			"origin": "Source/IRRMissionSystem/Public/Widgets/IRRRewardTextWidget.h(33)",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "IRRReward",
+			"key": "CashLineFormat",
+			"source": "${0} {1}",
+			"origin": "Source/IRRMissionSystem/Public/Widgets/IRRRewardTextWidget.h(38)",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "IRRReward",
+			"key": "CashValueFormat",
+			"source": "${0}",
+			"origin": "Source/IRRMissionSystem/Public/Widgets/IRRRewardWidget.h(81)",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
 			"ns": "IRRPatch",
 			"key": "ResetSeparator",
 			"source": ", ",
 			"origin": "Source/IRRPatchSystem/Private/IRRPatchSubsystem.cpp(647)",
 			"by": "Cleanup (no text)",
 			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "IRRRaidTrader",
+			"key": "CountFormat",
+			"source": "x{0}",
+			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTradeOfferWidget.h(92)",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "IRRRaidTrader",
+			"key": "ValueFormat",
+			"source": "{0} $",
+			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTradeOfferWidget.h(96)",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
 		},
 		{
 			"ns": "IRRSpectatorMenu",
