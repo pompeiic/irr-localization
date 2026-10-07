@@ -888,6 +888,46 @@
 		},
 		{
 			"ns": "",
+			"key": "06573F344791D2CAC87F05BFEC766E10",
+			"source": "{Command} {l} {r} {user}",
+			"sourceHash": "f0cfa1fd",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS.DA_Terminal_UICS:BP_TerminalSequence_Text_C_1.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "07070DEA4D9330F8D02764B2FB4E793A",
 			"source": "Go to the lowest level of the vehicle lift and place the intel inside a secure container.",
 			"sourceHash": "b957d7ea",
@@ -1307,7 +1347,7 @@
 			"key": "08B231094E4849533DD0B89C3888AC6B",
 			"source": "There’s a VLF intel file sitting in their med bay sector — a physical item. You’re going to retrieve it and run a local scan on one of their terminals.\r\nDon’t try to exfil with the asset. Just get the read and move. You’ll likely have company once the system wakes up.\r\nMake it fast.",
 			"sourceHash": "7034ef93",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/BLUEFOR/ADLER/Contracts/Delta/Defense/DA_BLUEFOR_ADLER_Contract_Bunker_Defense_D_LEGACY.DA_BLUEFOR_ADLER_Contract_Bunker_Defense_D_LEGACY.MissionInfo.Briefing.Text(0).Text.Text",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/OPFOR/LY/Contracts/Bunker/Defense/DA_OPFOR_LY_Contract_Bunker_Defense_D.DA_OPFOR_LY_Contract_Bunker_Defense_D.MissionInfo.Briefing.Text(0).Text.Text",
 			"t":
 			{
 				"de":
@@ -1504,162 +1544,6 @@
 				"es-ES":
 				{
 					"text": "Localiza e inicia el terminal.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "0A240ECD45C4F1859C8F139F77C9298C",
-			"source": "Find the Industrial Zone.",
-			"sourceHash": "01be80de",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/SideMissions/DA_FANG_OBSERVER_0002_A_Test.DA_FANG_OBSERVER_0002_A_Test:IRRMissionSequence_0.BP_IRRObjective_FindLocation_C_5.Description",
-			"t":
-			{
-				"de":
-				{
-					"text": "Finde die Industriezone.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "找到工业区。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Найди промышленную зону.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "산업 구역을 찾아라.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "工業区域を見つけよ。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Encuentra la zona industrial.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "0A269633431591F1CDB2AA94FFD85F6C",
-			"source": "shutdown",
-			"sourceHash": "d04343ae",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_IGC.DA_Terminal_IGC.Commands(9).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "shutdown",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "shutdown",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "shutdown",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "shutdown",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "shutdown",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "shutdown",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "0A27F7E14FBBE8A34E00A5BB33E5DB61",
-			"source": "shutdown",
-			"sourceHash": "d04343ae",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY.Commands(9).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "shutdown",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "shutdown",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "shutdown",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "shutdown",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "shutdown",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "shutdown",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -3124,58 +3008,6 @@
 		},
 		{
 			"ns": "",
-			"key": "13D212FA4BC817B401A0EDBE6DC72831",
-			"source": "Download OperationOmega.zip",
-			"sourceHash": "337538ec",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/GREYFOR/CIPHER/Contracts/Quarry/Defense/DA_GREYFOR_CIPHER_Contract_Quarry_Defense_LEGACY.DA_GREYFOR_CIPHER_Contract_Quarry_Defense_LEGACY:IRRMissionSequence_3.IRRMissionObjective_0.Description",
-			"t":
-			{
-				"de":
-				{
-					"text": "OperationOmega.zip herunterladen",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "下载 OperationOmega.zip",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Скачать OperationOmega.zip",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "OperationOmega.zip 다운로드",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "OperationOmega.zipをダウンロード",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Descargar OperationOmega.zip",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "13F7CE7F45F3CA3ACCDDF8BAF40F0316",
 			"source": "Download VLF_MemberData.zip",
 			"sourceHash": "5ae254fd",
@@ -3904,58 +3736,6 @@
 		},
 		{
 			"ns": "",
-			"key": "16C44B0448A33C3F9BF935AF2007AB51",
-			"source": "Locate and boot up the terminal.",
-			"sourceHash": "ff754a3d",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/GREYFOR/CIPHER/Contracts/Quarry/Defense/DA_GREYFOR_CIPHER_Contract_Quarry_Defense_LEGACY.DA_GREYFOR_CIPHER_Contract_Quarry_Defense_LEGACY:IRRMissionSequence_4.IRRMissionObjective_1.Description",
-			"t":
-			{
-				"de":
-				{
-					"text": "Lokalisiere und starte das Terminal.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "找到并启动终端。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Найди и запусти терминал.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "단말기를 찾아 부팅하십시오.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "端末を特定して起動しろ。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Localiza e inicia el terminal.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "16E91C6F4BBFC430B59446B5ECE2C520",
 			"source": "Go to the elevator control room and collect the mission intel.",
 			"sourceHash": "447ebbd1",
@@ -4003,58 +3783,6 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T11:08:07Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "16EAECCC4DB457568F3DB89B492F1F8F",
-			"source": "Find Food Storage.",
-			"sourceHash": "555d3c74",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/SideMissions/DA_FANG_OBSERVER_0002_A_Test.DA_FANG_OBSERVER_0002_A_Test:IRRMissionSequence_0.BP_IRRObjective_FindLocation_C_2.Description",
-			"t":
-			{
-				"de":
-				{
-					"text": "Finde das Lebensmittellager.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "找到食物仓库。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Найди склад продовольствия.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "식량 창고를 찾아라.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "食料倉庫を見つけよ。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Encuentra el almacén de comida.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -5092,58 +4820,6 @@
 				"es-ES":
 				{
 					"text": "Encargo FANG <strong>EXT_140_RR</>: <italic>Extrae en cualquier mapa sin tener una mochila equipada.</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "1BF77B1546CC0260B59873AF2B438735",
-			"source": "help",
-			"sourceHash": "fa6357ed",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_VLF.DA_Terminal_VLF.Commands(0).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "help",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "help",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "help",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "help",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "help",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "help",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -6504,110 +6180,6 @@
 		},
 		{
 			"ns": "",
-			"key": "27397CF8469100614500208BB8C5322A",
-			"source": "run",
-			"sourceHash": "8cedc6c0",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_IGC.DA_Terminal_IGC.Commands(5).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "run",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "run",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "run",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "run",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "run",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "run",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "275AEF424794A2A9B1C1BA9CD4209CE9",
-			"source": "Shutdown Terminal",
-			"sourceHash": "abbfcb95",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/BLUEFOR/ADLER/Contracts/Delta/Defense/DA_BLUEFOR_ADLER_Contract_Bunker_Defense_D_LEGACY.DA_BLUEFOR_ADLER_Contract_Bunker_Defense_D_LEGACY:IRRMissionSequence_0.Headline",
-			"t":
-			{
-				"de":
-				{
-					"text": "Terminal abschalten",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "关闭终端",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Отключить терминал",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "단말기 종료",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "端末をシャットダウン",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Apagar terminal",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "27CFB9AF4EC155522A02C5A7E61C7186",
 			"source": "Stop Convoy",
 			"sourceHash": "496f705a",
@@ -6808,58 +6380,6 @@
 				"es-ES":
 				{
 					"text": "{r} archivo descargado correctamente. ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "28A07E4741333DE7F8995D9A4A123181",
-			"source": "pop",
-			"sourceHash": "3d6b5510",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_IGC.DA_Terminal_IGC.Commands(2).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "pop",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "pop",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "pop",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "pop",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "pop",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "pop",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -8532,58 +8052,6 @@
 		},
 		{
 			"ns": "",
-			"key": "3498CD5C478BBD205D3C0A8D8C951AD9",
-			"source": "Initiating scan of classified document...\r\nPlease wait, retrieving data...",
-			"sourceHash": "d7db15c9",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY:IRRTerminalFile_6.BP_TerminalSequence_Text_C_2.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "Starte Scan des klassifizierten Dokuments...\r\nBitte warten, Daten werden abgerufen...",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "正在启动对机密文件的扫描...\r\n请稍候，正在检索数据...",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Запуск сканирования секретного документа...\r\nПодождите, идёт получение данных...",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "기밀 문서 스캔을 개시한다...\r\n잠시 기다려라. 데이터를 불러오는 중...",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "機密文書のスキャンを開始...\r\nしばらく待て。データを取得中...",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Iniciando escaneo del documento clasificado...\r\nEspera, recuperando datos...",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "34AAD03C49DB1363B86A1487C76F8626",
 			"source": "<italic>Killing so many is wrong. We do not think </><italicstrong>IGC</><italic> destroyed our food. We can show them force as </><italicstrong>LÂM</><italic> says but kill no more than two.</>",
 			"sourceHash": "adfa2f22",
@@ -8680,58 +8148,6 @@
 				"es-ES":
 				{
 					"text": "Asegurar inteligencia",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "34F4DAC94ED9D4D78F6E5A87E8EF48EC",
-			"source": "Shutdown the terminal to erase everything.",
-			"sourceHash": "cdf7414c",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/GREYFOR/CIPHER/Contracts/Quarry/Defense/DA_GREYFOR_CIPHER_Contract_Quarry_Defense_LEGACY.DA_GREYFOR_CIPHER_Contract_Quarry_Defense_LEGACY:IRRMissionSequence_0.IRRMissionObjective_0.Description",
-			"t":
-			{
-				"de":
-				{
-					"text": "Schalte das Terminal ab, um alles zu löschen.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "关闭终端以清除一切。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Отключи терминал, чтобы стереть всё.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "단말기를 종료해 모든 것을 삭제하라.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "端末をシャットダウンしてすべてを消去しろ。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Apaga el terminal para borrar todo.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -9364,58 +8780,6 @@
 		},
 		{
 			"ns": "",
-			"key": "37A984E14FF2AFD909E3B88C0C9EBC66",
-			"source": "download",
-			"sourceHash": "b9144c12",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY.Commands(8).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "download",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "download",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "download",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "download",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "download",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "download",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "37AAADA246D6020BE79A4995631F32F0",
 			"source": "Document Title: “SYSTEM INTEGRITY ALERT – BLACKGRID ANOMALIES”\r\nDate: 2024-12-02\r\nClassification: Command Eyes Only\r\n\r\nDocument successfully scanned and secured.\r\nPreview of Document Content:\r\n\r\n-----------------------------------------------------\r\n\"SYSTEM INTEGRITY ALERT:\r\n\r\nRecent automated audits across peripheral BlackGrid nodes have detected irregular data signatures inconsistent with Iron Guard encryption standards. While no confirmed breach has been identified, multiple markers align with known UICS signal forensics and residual civilian contractor frameworks.\r\n\r\nAffected sectors include logistics mirrors, mission cache relays, and auxiliary terminal endpoints operating under reduced oversight. These anomalies do not appear accidental.\r\n\r\nAll Operators are hereby instructed to immediately scan newly accessed files for tampering indicators, foreign metadata, or unauthorized execution flags. Execution of scripts with unverified origin is strictly prohibited.\r\n\r\nFailure to report irregularities will be treated as willful negligence under Directive IRON-LAW/7.\r\n\r\nThe Iron Guard operates under the assumption of infiltration until proven otherwise.\"\r\n-----------------------------------------------------\r\n",
 			"sourceHash": "6f93c1ef",
@@ -9772,58 +9136,6 @@
 				"es-ES":
 				{
 					"text": "Comandos disponibles:\r\n\r\n1. help - Muestra los comandos disponibles y sus descripciones.\r\n2. dir - Muestra todos los archivos y carpetas del directorio actual.\r\n3. pop - Vuelve al directorio anterior (por ejemplo, retroceder).\r\n4. login - Introduce nuevas credenciales de inicio de sesión para cambiar de usuario y permisos.\r\n5. cd <directory> - Cambia de directorio para navegar por el sistema de la terminal.\r\n6. run <file_id> - Ejecuta el archivo exe.\r\n7. download <file_id> - Descarga contenido del archivo objetivo.\r\n8. scan <file_id> - Escanea el contenido del archivo.\r\n9. read <file_id> - Lee el contenido del archivo.\r\n10. hack - Instala un troyano y hackea la terminal. Recorre los directorios uno a uno y lee/escanea todos los archivos.\r\n11. shutdown - Apaga la terminal.\r\n\r\n**Ayuda adicional**\r\n\r\n> Para buscar un archivo, prueba a cambiar de directorio con cd <directory> y usa el comando dir para mostrar todos los archivos disponibles en el nivel actual\r\n> Algunos directorios requieren acceso especial. Usa el comando login para obtener acceso de administrador. Es posible que tengas que consultar el archivo users para encontrar las credenciales.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "3A071B854720365C4A817D99B678E142",
-			"source": "Download OperationSketch.png",
-			"sourceHash": "dea0d725",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/GREYFOR/CIPHER/Contracts/Quarry/Defense/DA_GREYFOR_CIPHER_Contract_Quarry_Defense_LEGACY.DA_GREYFOR_CIPHER_Contract_Quarry_Defense_LEGACY:IRRMissionSequence_3.IRRMissionObjective_1.Description",
-			"t":
-			{
-				"de":
-				{
-					"text": "OperationSketch.png herunterladen",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "下载 OperationSketch.png",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Скачать OperationSketch.png",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "OperationSketch.png 다운로드",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "OperationSketch.pngをダウンロード",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Descargar OperationSketch.png",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -10456,58 +9768,6 @@
 		},
 		{
 			"ns": "",
-			"key": "3FEE79DF4F0A1DF40813A9A7627138A3",
-			"source": "help",
-			"sourceHash": "fa6357ed",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_IGC.DA_Terminal_IGC.Commands(0).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "help",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "help",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "help",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "help",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "help",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "help",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "40438FD94D306F611FFF71AB475132EC",
 			"source": "Go to the command room and secure the intel.",
 			"sourceHash": "cffa4959",
@@ -10716,58 +9976,6 @@
 		},
 		{
 			"ns": "",
-			"key": "40FB758541AD7A50BC98329C87AB29AE",
-			"source": "cd",
-			"sourceHash": "8f021865",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_VLF.DA_Terminal_VLF.Commands(1).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "cd",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "cd",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "cd",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "cd",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "cd",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "cd",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "4270E43D4CDEC1ABADEDA9B7DC87E12B",
 			"source": "Pickup Intel",
 			"sourceHash": "a99025c4",
@@ -10968,58 +10176,6 @@
 				"es-ES":
 				{
 					"text": "Recuperar pruebas",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "43A61AF74C97E74CE03F58BDF7A93BF3",
-			"source": "Locate Areas",
-			"sourceHash": "5321b609",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/SideMissions/DA_FANG_OBSERVER_0002_A_Test.DA_FANG_OBSERVER_0002_A_Test:IRRMissionSequence_0.Headline",
-			"t":
-			{
-				"de":
-				{
-					"text": "Gebiete lokalisieren",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "定位区域",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Обнаружить зоны",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "구역 위치 파악",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "エリア特定",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Localizar zonas",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -11444,58 +10600,6 @@
 		},
 		{
 			"ns": "",
-			"key": "452D95BA4BC80160AFC987A65E36F0B9",
-			"source": "{r} downloaded and secured in private directory. ",
-			"sourceHash": "534bb828",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY:IRRTerminalFile_6.BP_TerminalSequence_Text_C_1.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "{r} heruntergeladen und im privaten Verzeichnis gesichert. ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "{r} 已下载并保存在私有目录中。 ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "{r} загружен и защищён в личном каталоге. ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "{r} 다운로드 완료 및 개인 디렉터리에 보관됨. ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "{r} をダウンロードし、プライベートディレクトリに保存しました。 ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "{r} descargado y asegurado en el directorio privado. ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "45C0D5BC4C4F5A8A084290951611593C",
 			"source": "Go to the marked outpost on the map and secure the intel.",
 			"sourceHash": "0ba9286e",
@@ -11592,58 +10696,6 @@
 				"es-ES":
 				{
 					"text": "Eliminación",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "4719E642467E70AF87E0449D6CED11B9",
-			"source": "Initiating download of {r}...",
-			"sourceHash": "e48b6c59",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY:IRRTerminalFile_9.BP_TerminalSequence_Text_C_0.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "Download von {r} wird gestartet...",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "正在开始下载 {r}...",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Инициализация загрузки {r}...",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "{r} 다운로드 시작 중...",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "{r} のダウンロードを開始中...",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Iniciando la descarga de {r}...",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -11852,58 +10904,6 @@
 				"es-ES":
 				{
 					"text": "Despejar H.A.S.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "4865AF454E5AEEA1B7A7CDB881C6F308",
-			"source": "Cannot read {file}.",
-			"sourceHash": "94712aa2",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY:BP_TerminalArgument_LookUpFile_C_0.OnFailText",
-			"t":
-			{
-				"de":
-				{
-					"text": "Kann {file} nicht lesen.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "无法读取 {file}。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Не удалось прочитать {file}.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "{file}을(를) 읽을 수 없다.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "{file}を読み取れない。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "No se puede leer {file}.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -12328,58 +11328,6 @@
 		},
 		{
 			"ns": "",
-			"key": "49A369424E7015A08CC9BC99ACE6E86E",
-			"source": "Place the intel in the secure container nearby.",
-			"sourceHash": "9749fb1e",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/BLUEFOR/ADLER/Contracts/Delta/Defense/DA_BLUEFOR_ADLER_Contract_Bunker_Defense_D_LEGACY.DA_BLUEFOR_ADLER_Contract_Bunker_Defense_D_LEGACY:IRRMissionSequence_2.IRRMissionObjective_0.Description",
-			"t":
-			{
-				"de":
-				{
-					"text": "Platziere die Informationen im gesicherten Behälter in der Nähe.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "将情报放入附近的安全容器中。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Помести разведданные в защищённый контейнер неподалёку.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "인근 보안 컨테이너에 정보를 보관하라.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "近くのセキュアコンテナに情報を収めよ。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Coloca la inteligencia en el contenedor seguro cercano.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "49E45E054F8A49DF4DF8CCABA83C5C57",
 			"source": "Go to the factory and place the bombs.",
 			"sourceHash": "fda4b756",
@@ -12424,58 +11372,6 @@
 				"es-ES":
 				{
 					"text": "Ve a la fábrica y coloca las bombas.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "49F02D394EEA52542CEE9FB81B7015A6",
-			"source": "hack",
-			"sourceHash": "a75daea0",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS.DA_Terminal_UICS.Commands(10).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "hack",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "hack",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "hack",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "hack",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "hack",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "hack",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -13212,58 +12108,6 @@
 		},
 		{
 			"ns": "",
-			"key": "4C38D8554E6163570556BCA11F91DE77",
-			"source": "Document Title: \"Quarry – Weather Data\"  \r\nClassification: Confidential – Internal Distribution Only\r\n\r\nDocument successfully downloaded to GCPS.",
-			"sourceHash": "e5bbe44f",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY:IRRTerminalFile_10.BP_TerminalSequence_Text_C_1.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "Dokumenttitel: „Quarry - Wetterdaten“  \r\nEinstufung: Vertraulich - Nur zur internen Verteilung\r\n\r\nDokument erfolgreich auf GCPS heruntergeladen.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-10-06T23:14:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "文件标题：“Quarry - 气象数据”  \r\n密级：机密 - 仅限内部分发\r\n\r\n文件已成功下载至 GCPS。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-10-06T23:14:59Z"
-				},
-				"ru":
-				{
-					"text": "Название документа: «Quarry - Метеоданные»  \r\nГриф: Конфиденциально - Только для внутреннего распространения\r\n\r\nДокумент успешно загружен в GCPS.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-10-06T23:14:59Z"
-				},
-				"ko":
-				{
-					"text": "문서 제목: “Quarry - 기상 데이터”  \r\n등급: 기밀 - 내부 배포 전용\r\n\r\nGCPS로 문서 다운로드 완료.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-10-06T23:14:59Z"
-				},
-				"ja":
-				{
-					"text": "文書タイトル：「Quarry - 気象データ」  \r\n機密区分：機密 - 内部配布限定\r\n\r\n文書の GCPS へのダウンロードに成功した。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-10-06T23:14:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Título del documento: «Quarry - Datos meteorológicos»  \r\nClasificación: Confidencial - Solo distribución interna\r\n\r\nDocumento descargado correctamente en GCPS.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-10-06T23:14:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "4C811BC1482AC3F6676843BB9A7927FC",
 			"source": "Retrieve Keys",
 			"sourceHash": "0fc46a0c",
@@ -13363,58 +12207,6 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-10-06T23:14:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "4CC34053420650CB88A41999C934F3F5",
-			"source": "Initiating download of {r}...",
-			"sourceHash": "e48b6c59",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY:IRRTerminalFile_6.BP_TerminalSequence_Text_C_0.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "Download von {r} wird gestartet...",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "正在开始下载 {r}...",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Инициализация загрузки {r}...",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "{r} 다운로드 시작 중...",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "{r} のダウンロードを開始中...",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Iniciando la descarga de {r}...",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -13568,58 +12360,6 @@
 				"es-ES":
 				{
 					"text": "Buen trabajo. Ni siquiera forman parte del distrito principal de almacenes de <strong>DELTA</>. Posición rara. ¿Y cerrados? Tiene sentido que <strong>UICS</> quiera vigilarlos.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "4D54B2C244809D85E0E6C7A053CDF41F",
-			"source": "Shutting down the terminal...\r\nTerminal secure. You may now extract safely.",
-			"sourceHash": "2e279a96",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY:BP_TerminalSequence_Dir_C_0.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "Terminal wird heruntergefahren...\r\nTerminal gesichert. Du kannst jetzt sicher extrahieren.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "正在关闭终端...\r\n终端已安全。你现在可以安全撤离。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Завершение работы терминала...\r\nТерминал защищён. Теперь можно безопасно эвакуироваться.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "단말기를 종료한다...\r\n단말기 보안 완료. 이제 안전하게 탈출할 수 있다.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "端末をシャットダウン中...\r\n端末は安全だ。これで安全に脱出できる。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Apagando el terminal...\r\nTerminal asegurado. Ya puedes extraer con seguridad.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -13940,58 +12680,6 @@
 		},
 		{
 			"ns": "",
-			"key": "4E8A0EBA49065E5B6C67D2A1F9CF4BCB",
-			"source": "Collect all documents.",
-			"sourceHash": "64715dd1",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Retrieve/DA_FANG_RET_Test.DA_FANG_RET_Test:IRRMissionSequence_0.BP_IRRObjective_LootArea_C_0.Description",
-			"t":
-			{
-				"de":
-				{
-					"text": "Sammle alle Dokumente.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "收集所有文件。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Собери все документы.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "모든 문서를 수집하라.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "すべての文書を回収せよ。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Recoge todos los documentos.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "4E99E9834807769D7A237E8A87355FDD",
 			"source": "Mission brief: Enter the command room covertly to obtain the high-value intel. Subsequently, secure the intel in a container within the pipe maintenance room near the cave. This operation demands stealth and rapid execution.",
 			"sourceHash": "6b7a4219",
@@ -14252,58 +12940,6 @@
 		},
 		{
 			"ns": "",
-			"key": "4FA913EE4853AD6EB42D16BC7FEC1C29",
-			"source": "Place Intel",
-			"sourceHash": "ba4f9193",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/BLUEFOR/ADLER/Contracts/Delta/Defense/DA_BLUEFOR_ADLER_Contract_Bunker_Defense_D_LEGACY.DA_BLUEFOR_ADLER_Contract_Bunker_Defense_D_LEGACY:IRRMissionSequence_2.Headline",
-			"t":
-			{
-				"de":
-				{
-					"text": "Informationen ablegen",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "放置情报",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Подбросить разведданные",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "정보 배치",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "情報を配置",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Colocar inteligencia",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "4FDFCACC47DA7101D0F92D83A512F0B5",
 			"source": "Scan Operation File",
 			"sourceHash": "65aec48b",
@@ -14512,58 +13148,6 @@
 		},
 		{
 			"ns": "",
-			"key": "502CA9A64F3AA16E24880BB3C2EA6AEE",
-			"source": "Place the intel in the marked container on the map.",
-			"sourceHash": "1737b41c",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/GREYFOR/CIPHER/Contracts/Quarry/Defense/DA_GREYFOR_CIPHER_Contract_Quarry_Defense_LEGACY.DA_GREYFOR_CIPHER_Contract_Quarry_Defense_LEGACY:IRRMissionSequence_2.IRRMissionObjective_0.Description",
-			"t":
-			{
-				"de":
-				{
-					"text": "Lege die Informationen in den markierten Container auf der Karte.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "将情报放入地图上标记的容器中。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Положи разведданные в отмеченный контейнер на карте.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "맵에 표시된 컨테이너에 정보를 넣어라.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "マップ上の指定コンテナに情報を置け。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Coloca la inteligencia en el contenedor marcado en el mapa.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "505AF25140AB4D2670F6218757F0BBFA",
 			"source": "Install Jammers",
 			"sourceHash": "5a798d46",
@@ -14660,58 +13244,6 @@
 				"es-ES":
 				{
 					"text": "Entrega {count} {targetdata}.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "50F926C64F884C46B11C60B7FB8DAA30",
-			"source": "Kill all enemies in designated area.",
-			"sourceHash": "fc210ef5",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Test/DA_TestMission_ClearArea.DA_TestMission_ClearArea:IRRMissionSequence_0.IRRMissionObjective_0.Description",
-			"t":
-			{
-				"de":
-				{
-					"text": "Eliminiere alle Feinde im ausgewiesenen Bereich.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "消灭指定区域内的所有敌人。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Уничтожь всех врагов в обозначенной зоне.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "지정된 구역의 모든 적을 처치하십시오.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "指定エリア内の全敵を排除しろ。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Elimina a todos los enemigos de la zona designada.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -14868,58 +13400,6 @@
 				"es-ES":
 				{
 					"text": "Joder, ¿has dicho que los camiones van llenos de mármol? <strong>UICS</>… Deben de haber interceptado los envíos. Eso tiene que venir de <strong>QUARRY</>, al oeste de aquí. Comprueba otra vez que el paquete no esté en el resto de camiones y sal. Quizá se perdió, o algo peor. El sistema solo en papel de <strong>IGC</> hace demasiado fácil que sus camiones desaparezcan o estén donde no deberían.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "52C93898406C417B1F48A18F497B2B55",
-			"source": "cd",
-			"sourceHash": "8f021865",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_IGC.DA_Terminal_IGC.Commands(1).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "cd",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "cd",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "cd",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "cd",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "cd",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "cd",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -16124,58 +14604,6 @@
 		},
 		{
 			"ns": "",
-			"key": "5A322AA7486421F2047E758542B47E45",
-			"source": "VLF Secure Operations Terminal\r\n\r\nUnauthorized access or misuse of this system is strictly prohibited and may be punishable under VLF regulations.\r\n\r\nSecurity Clearance Required",
-			"sourceHash": "7d7a41c8",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY:BP_TerminalSequence_Text_C_3.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "VLF Secure Operations Terminal\r\n\r\nUnbefugter Zugriff oder Missbrauch dieses Systems ist strengstens untersagt und kann nach den VLF-Vorschriften bestraft werden.\r\n\r\nSicherheitsfreigabe erforderlich",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "VLF Secure Operations Terminal\r\n\r\n严禁未经授权访问或滥用本系统，违者可能依 VLF 条例受罚。\r\n\r\n需要安全许可",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "VLF Secure Operations Terminal\r\n\r\nНесанкционированный доступ или злоупотребление этой системой строго запрещены и могут караться по регламенту VLF.\r\n\r\nТребуется допуск безопасности",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "VLF Secure Operations Terminal\r\n\r\n본 시스템에 대한 무단 접근 또는 오용은 엄격히 금지되며 VLF 규정에 따라 처벌받을 수 있다.\r\n\r\n보안 허가 필요",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "VLF Secure Operations Terminal\r\n\r\n本システムへの不正アクセスまたは不正使用は厳禁であり、VLF規則により処罰される場合がある。\r\n\r\nセキュリティ許可が必要",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "VLF Secure Operations Terminal\r\n\r\nEl acceso no autorizado o el uso indebido de este sistema están estrictamente prohibidos y pueden ser sancionados según el reglamento de VLF.\r\n\r\nSe requiere autorización de seguridad",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "5A5439F94AD084BACEB731808940541E",
 			"source": "Good job! ",
 			"sourceHash": "59013376",
@@ -16324,58 +14752,6 @@
 				"es-ES":
 				{
 					"text": "No se puede escanear {file}.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "5ADB11FC4D6AFFAD4BEA8AA17A53138E",
-			"source": "Download Weather Data..",
-			"sourceHash": "3e9b330a",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY:IRRTerminalFile_10.BP_TerminalSequence_Text_C_0.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "Wetterdaten herunterladen..",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "下载天气数据..",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Загрузить метеоданные..",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "기상 데이터 다운로드..",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "気象データをダウンロード..",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Descargar datos meteorológicos..",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -16792,58 +15168,6 @@
 				"es-ES":
 				{
 					"text": "¡Buen trabajo! ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "5CE496074D6E0F5073C2EFBE792B4EF3",
-			"source": "Error: Command \"{command}\" not recognized. Please enter a valid command. Or type \"help\" for a list of available commands.",
-			"sourceHash": "071cb37d",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY:BP_TerminalSequence_Text_C_2.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "Fehler: Befehl \"{command}\" nicht erkannt. Bitte gib einen gültigen Befehl ein. Oder gib \"help\" ein für eine Liste verfügbarer Befehle.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "错误：无法识别命令 \"{command}\"。请输入有效命令。或输入 \"help\" 查看可用命令列表。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Ошибка: команда \"{command}\" не распознана. Пожалуйста, введите корректную команду. Или введите \"help\" для списка доступных команд.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "오류: \"{command}\" 명령을 인식할 수 없습니다. 올바른 명령을 입력하십시오. 또는 사용 가능한 명령 목록을 보려면 \"help\"를 입력하십시오.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "エラー: コマンド \"{command}\" は認識されません。有効なコマンドを入力してください。または利用可能なコマンド一覧を表示するには \"help\" と入力してください。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Error: comando \"{command}\" no reconocido. Por favor, introduce un comando válido. O escribe \"help\" para ver una lista de comandos disponibles.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -17312,58 +15636,6 @@
 				"es-ES":
 				{
 					"text": "Colocar bomba",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "608E826946BACA7B082783AC9C36A383",
-			"source": "PLACEHOLDER",
-			"sourceHash": "7e1e0cdf",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/SideMissions/DA_FANG_OBSERVER_0002_C.DA_FANG_OBSERVER_0002_C.MissionInfo.Debriefing.Text(0).Text.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "PLACEHOLDER",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "占位符",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "PLACEHOLDER",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "플레이스홀더",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "プレースホルダー",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "PLACEHOLDER",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -18152,58 +16424,6 @@
 		},
 		{
 			"ns": "",
-			"key": "65D7EE4843D9D299D012ADA8043EFF01",
-			"source": "scan",
-			"sourceHash": "8261d253",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_VLF.DA_Terminal_VLF.Commands(7).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "scan",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "scan",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "scan",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "scan",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "scan",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "scan",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "65E16B0D45EFBD690B4FAD84824D800D",
 			"source": "A rural region along an offshoot of the Red River- once under VCUP control but since taken over by UICS forces. Mountainsides provide many vantage points for OPFOR personnel.",
 			"sourceHash": "83bf948e",
@@ -18251,58 +16471,6 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-10-06T23:14:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "661587E447B56ADB60EC70AF1E9D6F85",
-			"source": "Shutdown Terminal",
-			"sourceHash": "abbfcb95",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/GREYFOR/CIPHER/Contracts/Quarry/Defense/DA_GREYFOR_CIPHER_Contract_Quarry_Defense_LEGACY.DA_GREYFOR_CIPHER_Contract_Quarry_Defense_LEGACY:IRRMissionSequence_0.Headline",
-			"t":
-			{
-				"de":
-				{
-					"text": "Terminal abschalten",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "关闭终端",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Отключить терминал",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "단말기 종료",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "端末をシャットダウン",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Apagar terminal",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -18404,58 +16572,6 @@
 				"es-ES":
 				{
 					"text": "Solicita un ataque aéreo para detener el convoy.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "668BC54B4FBA85614A58FC89B5D1BD14",
-			"source": "pop",
-			"sourceHash": "3d6b5510",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_VLF.DA_Terminal_VLF.Commands(2).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "pop",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "pop",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "pop",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "pop",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "pop",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "pop",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -18612,58 +16728,6 @@
 				"es-ES":
 				{
 					"text": "Apagar terminal",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "6814334847F1E8D20BB16DB94C92112E",
-			"source": "# UICS Secure Terminal Access Credentials\r\n\r\n## Authorized Users List\r\n\r\n- **Guest**\r\n  - Username: Guest\r\n  - Password: accessUICS\r\n  - Note: Restricted view-only access. Permitted to read non-sensitive operational bulletins and public directives.\r\n\r\n- **Admin**\r\n  - Username: Admin\r\n  - Password: UICS@Root1\r\n  - Note: Full administrative control. Grants access to secure command functions, encrypted channels, and terminal override capabilities.\r\n\r\n## Security Notice\r\n\r\n- All credentials are classified. Sharing or misusing login information constitutes a violation of Protocol 3-C.\r\n- Unauthorized access attempts will be logged and prosecuted under UICS Security Directive 17.4.\r\n- If you suspect credential compromise or terminal tampering, report immediately to Central Systems Authority (CSA).",
-			"sourceHash": "728bb032",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY:IRRTerminalFile_7.BP_TerminalSequence_Text_C_0.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "# UICS Secure Terminal Access Credentials\r\n\r\n## Authorized Users List\r\n\r\n- **Guest**\r\n  - Username: Guest\r\n  - Password: accessUICS\r\n  - Note: Eingeschränkter Nur-Lese-Zugriff. Darf nicht sensible Einsatzbulletins und öffentliche Direktiven lesen.\r\n\r\n- **Admin**\r\n  - Username: Admin\r\n  - Password: UICS@Root1\r\n  - Note: Volle Administratorkontrolle. Gewährt Zugriff auf sichere Kommando-Funktionen, verschlüsselte Kanäle und Terminal-Override-Fähigkeiten.\r\n\r\n## Security Notice\r\n\r\n- Alle Zugangsdaten sind vertraulich. Das Weitergeben oder der Missbrauch von Anmeldedaten stellt einen Verstoß gegen Protocol 3-C dar.\r\n- Unbefugte Zugriffsversuche werden protokolliert und gemäß UICS Security Directive 17.4 strafrechtlich verfolgt.\r\n- Besteht der Verdacht auf Kompromittierung von Zugangsdaten oder Manipulation des Terminals, melde dies sofort der Central Systems Authority (CSA).",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "# UICS Secure Terminal Access Credentials\r\n\r\n## Authorized Users List\r\n\r\n- **Guest**\r\n  - Username: Guest\r\n  - Password: accessUICS\r\n  - Note: 受限的只读访问。可阅读非敏感作战公告与公开指令。\r\n\r\n- **Admin**\r\n  - Username: Admin\r\n  - Password: UICS@Root1\r\n  - Note: 完全管理控制。可访问安全指挥功能、加密信道与终端覆盖能力。\r\n\r\n## Security Notice\r\n\r\n- 所有凭证均为涉密信息。共享或滥用登录信息均构成对 Protocol 3-C 的违反。\r\n- 未经授权的访问尝试将被记录，并依据 UICS Security Directive 17.4 进行追究。\r\n- 如怀疑凭证泄露或终端遭到篡改，请立即向中央系统管理局（CSA）报告。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "# UICS Secure Terminal Access Credentials\r\n\r\n## Authorized Users List\r\n\r\n- **Guest**\r\n  - Username: Guest\r\n  - Password: accessUICS\r\n  - Note: Ограниченный доступ только на чтение. Разрешено читать несекретные оперативные бюллетени и открытые директивы.\r\n\r\n- **Admin**\r\n  - Username: Admin\r\n  - Password: UICS@Root1\r\n  - Note: Полный административный контроль. Даёт доступ к защищённым командным функциям, шифрованным каналам и возможностям переопределения терминала.\r\n\r\n## Security Notice\r\n\r\n- Все учётные данные засекречены. Передача или злоупотребление информацией для входа является нарушением Protocol 3-C.\r\n- Попытки несанкционированного доступа будут зафиксированы и преследоваться по UICS Security Directive 17.4.\r\n- При подозрении на компрометацию учётных данных или вмешательство в терминал немедленно сообщите в Central Systems Authority (CSA).",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "# UICS Secure Terminal Access Credentials\r\n\r\n## Authorized Users List\r\n\r\n- **Guest**\r\n  - Username: Guest\r\n  - Password: accessUICS\r\n  - Note: 제한된 읽기 전용 접근. 비민감 작전 게시물과 공개 지시문 열람 가능.\r\n\r\n- **Admin**\r\n  - Username: Admin\r\n  - Password: UICS@Root1\r\n  - Note: 전체 관리 권한. 보안 지휘 기능, 암호화 채널, 단말기 오버라이드 기능에 접근 가능.\r\n\r\n## Security Notice\r\n\r\n- 모든 자격 증명은 기밀이다. 로그인 정보를 공유하거나 오용하는 행위는 Protocol 3-C 위반에 해당한다.\r\n- 무단 접근 시도는 기록되며 UICS Security Directive 17.4에 따라 처벌된다.\r\n- 자격 증명 유출 또는 단말기 변조가 의심되는 경우 즉시 Central Systems Authority(CSA)에 보고하십시오.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "# UICS Secure Terminal Access Credentials\r\n\r\n## Authorized Users List\r\n\r\n- **Guest**\r\n  - Username: Guest\r\n  - Password: accessUICS\r\n  - Note: 制限付き閲覧専用。非機密の作戦掲示と公開指令の閲覧が許可される。\r\n\r\n- **Admin**\r\n  - Username: Admin\r\n  - Password: UICS@Root1\r\n  - Note: 完全な管理権限。セキュアな指揮機能、暗号化チャネル、端末オーバーライド機能へのアクセスを付与。\r\n\r\n## Security Notice\r\n\r\n- すべての資格情報は機密である。ログイン情報の共有や不正使用は Protocol 3-C の違反となる。\r\n- 不正アクセス試行は記録され、UICS Security Directive 17.4 に基づき処罰される。\r\n- 資格情報の侵害や端末の改ざんが疑われる場合は、直ちに Central Systems Authority（CSA）へ報告してください。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "# UICS Secure Terminal Access Credentials\r\n\r\n## Authorized Users List\r\n\r\n- **Guest**\r\n  - Username: Guest\r\n  - Password: accessUICS\r\n  - Note: Acceso restringido de solo lectura. Permite leer boletines operativos no sensibles y directivas públicas.\r\n\r\n- **Admin**\r\n  - Username: Admin\r\n  - Password: UICS@Root1\r\n  - Note: Control administrativo completo. Concede acceso a funciones de mando seguras, canales cifrados y capacidades de anulación del terminal.\r\n\r\n## Security Notice\r\n\r\n- Todas las credenciales son clasificadas. Compartir o hacer un uso indebido de la información de inicio de sesión constituye una infracción del Protocol 3-C.\r\n- Los intentos de acceso no autorizado se registrarán y se procesarán conforme a la UICS Security Directive 17.4.\r\n- Si sospechas que las credenciales han sido comprometidas o que el terminal ha sido manipulado, infórmalo de inmediato a la Central Systems Authority (CSA).",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -19296,58 +17360,6 @@
 		},
 		{
 			"ns": "",
-			"key": "6B4524C74E2C735A5857AD9AE5FEDD29",
-			"source": "read",
-			"sourceHash": "ac890646",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS.DA_Terminal_UICS.Commands(6).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "read",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "read",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "read",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "read",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "read",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "read",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "6B94D85343A7CF4F15D84290959F0671",
 			"source": "Call in an airstrike to stop the convoy.",
 			"sourceHash": "65c3d15a",
@@ -19455,7 +17467,7 @@
 			"key": "6C396E724B0CC4AE7CAD3799F12B73CB",
 			"source": "We intercepted a courier who was carrying a disc — something they weren’t supposed to have. It’s UICS material, and our sources say it was meant to stay buried.\r\nI need you to recover it, then take it to one of their factory terminals outside the quarry. You’ll have to boot their system and scan the contents.\r\nThat might trigger a response. They guard their secrets well — but we have every right to know what they’re planning. Don’t let them hide behind shadows.",
 			"sourceHash": "333697ad",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/GREYFOR/CIPHER/Contracts/Quarry/Defense/DA_GREYFOR_CIPHER_Contract_Quarry_Defense_D.DA_GREYFOR_CIPHER_Contract_Quarry_Defense_D.MissionInfo.Briefing.Text(0).Text.Text",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/GREYFOR/CIPHER/Contracts/Quarry/Defense/DA_GREYFOR_CIPHER_Contract_Quarry_Defense_LEGACY.DA_GREYFOR_CIPHER_Contract_Quarry_Defense_LEGACY.MissionInfo.Briefing.Text(0).Text.Text",
 			"t":
 			{
 				"de":
@@ -19704,58 +17716,6 @@
 				"es-ES":
 				{
 					"text": "Asegurar inteligencia",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "6C7AC5EA4118C15BE72E52B89AC43A43",
-			"source": "Find the Med Bay.",
-			"sourceHash": "7f66fc7c",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/SideMissions/DA_FANG_OBSERVER_0002_A_Test.DA_FANG_OBSERVER_0002_A_Test:IRRMissionSequence_0.BP_IRRObjective_FindLocation_C_3.Description",
-			"t":
-			{
-				"de":
-				{
-					"text": "Finde die Med Bay.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "找到医务室。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Найди медблок.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "메드 베이를 찾아라.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "メッドベイを見つけよ。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Encuentra la bahía médica.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -20440,58 +18400,6 @@
 		},
 		{
 			"ns": "",
-			"key": "70D45720497FB662798C6F9F78020A03",
-			"source": "run",
-			"sourceHash": "8cedc6c0",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS.DA_Terminal_UICS.Commands(5).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "run",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "run",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "run",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "run",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "run",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "run",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "7183D72B44CD7F1C3751BEB8E253FAA2",
 			"source": "Soldier, an operation is ready for you. The evidence points to UICS leveraging tanks scattered across the map for their communications. Let’s tactfully place jammers in these areas to scramble their signals!",
 			"sourceHash": "7bf189f9",
@@ -20536,110 +18444,6 @@
 				"es-ES":
 				{
 					"text": "Soldado, hay una operación lista para ti. Las pruebas indican que UICS usa tanques dispersos por el mapa para sus comunicaciones. ¡Coloquemos tácticamente inhibidores en estas zonas para interferir sus señales!",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "727EAD594C4B460165ACA4B7F45B86A6",
-			"source": "PLACEHOLDER",
-			"sourceHash": "7e1e0cdf",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/SideMissions/DA_FANG_OBSERVER_0002_B.DA_FANG_OBSERVER_0002_B.MissionInfo.Debriefing.Text(0).Text.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "PLACEHOLDER",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "占位符",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "PLACEHOLDER",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "플레이스홀더",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "プレースホルダー",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "PLACEHOLDER",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "72CEC89E4BBC07DCB2A661B0CBAA6AE8",
-			"source": "dir",
-			"sourceHash": "5e13429f",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_IGC.DA_Terminal_IGC.Commands(3).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "dir",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "dir",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "dir",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "dir",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "dir",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "dir",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -20856,58 +18660,6 @@
 		},
 		{
 			"ns": "",
-			"key": "745D2CA24E20A485A4E2D3B76583F888",
-			"source": "Locate and boot up the terminal at the Med Bay area.",
-			"sourceHash": "019b3389",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/BLUEFOR/ADLER/Contracts/Delta/Defense/DA_BLUEFOR_ADLER_Contract_Bunker_Defense_D_LEGACY.DA_BLUEFOR_ADLER_Contract_Bunker_Defense_D_LEGACY:IRRMissionSequence_4.IRRMissionObjective_1.Description",
-			"t":
-			{
-				"de":
-				{
-					"text": "Lokalisiere und starte das Terminal im Bereich der Med Bay.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "找到并启动医务室区域的终端。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Найди и запусти терминал в зоне медблока.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "메드 베이 구역에 있는 단말기를 찾아 부팅하십시오.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "メッドベイエリアにある端末を特定して起動しろ。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Localiza e inicia el terminal en la zona de la bahía médica.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "7486C75B46E76F37EE0362AF19FCBBB9",
 			"source": "Secure Intel",
 			"sourceHash": "315bdadb",
@@ -20960,58 +18712,6 @@
 		},
 		{
 			"ns": "",
-			"key": "7521932047E4A5A14D1F3B9DC92275BD",
-			"source": "Download VLF_MemberChart.png",
-			"sourceHash": "6c0fb695",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/BLUEFOR/ADLER/Contracts/Delta/Defense/DA_BLUEFOR_ADLER_Contract_Bunker_Defense_D_LEGACY.DA_BLUEFOR_ADLER_Contract_Bunker_Defense_D_LEGACY:IRRMissionSequence_3.IRRMissionObjective_1.Description",
-			"t":
-			{
-				"de":
-				{
-					"text": "VLF_MemberChart.png herunterladen",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "下载 VLF_MemberChart.png",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Скачать VLF_MemberChart.png",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "VLF_MemberChart.png 다운로드",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "VLF_MemberChart.pngをダウンロード",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Descargar VLF_MemberChart.png",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "756AF2AC407063BCEBD755B5B266CC14",
 			"source": "Old Tech",
 			"sourceHash": "c0c91d60",
@@ -21056,58 +18756,6 @@
 				"es-ES":
 				{
 					"text": "Tecnología antigua",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "75C2D3434AB721BC0510E58D80FA0FD4",
-			"source": "Cannot scan {file}.",
-			"sourceHash": "d4004977",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY:BP_TerminalArgument_ExecuteCommandOnFile_C_0.OnFailText",
-			"t":
-			{
-				"de":
-				{
-					"text": "{file} kann nicht gescannt werden.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "无法扫描 {file}。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Не удалось просканировать {file}.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "{file}을(를) 스캔할 수 없습니다.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "{file} をスキャンできません。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "No se puede escanear {file}.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -21532,58 +19180,6 @@
 		},
 		{
 			"ns": "",
-			"key": "795E3A8E46514384E16E3D88921F4F75",
-			"source": "PLACEHOLDER",
-			"sourceHash": "7e1e0cdf",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/SideMissions/DA_FANG_OBSERVER_0002_A.DA_FANG_OBSERVER_0002_A.MissionInfo.Debriefing.Text(0).Text.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "PLACEHOLDER",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "占位符",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "PLACEHOLDER",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "플레이스홀더",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "プレースホルダー",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "PLACEHOLDER",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "7960090747D6D4AE070B80808C58A9C7",
 			"source": "Place Bomb",
 			"sourceHash": "fe8e1622",
@@ -21940,58 +19536,6 @@
 				"es-ES":
 				{
 					"text": "Vas al núcleo. El mando de VLF: donde nacen las órdenes y los secretos no salen de la sala. Hemos marcado un objeto de inteligencia de alto valor y un terminal justo fuera de la sala de guerra.\r\nRecupera la inteligencia. Escanéala en el terminal. Luego extráete. En cuanto arranques su sistema, sabrán que algo va mal.\r\nPero si queremos entender sus próximos movimientos, aquí viven. Rápido y bien.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "7B1939A1455BE710229B9F8C336963AD",
-			"source": "Hand In Items",
-			"sourceHash": "be246270",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Retrieve/DA_FANG_RET_Test.DA_FANG_RET_Test:IRRMissionSequence_1.Headline",
-			"t":
-			{
-				"de":
-				{
-					"text": "Gegenstände abgeben",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "上交物品",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Сдать предметы",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "아이템 제출",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "アイテム提出",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Entregar objetos",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -22780,58 +20324,6 @@
 		},
 		{
 			"ns": "",
-			"key": "7E0D6CC34A943C657C5E7BAD844A0695",
-			"source": "Clear fishing village",
-			"sourceHash": "980ffe9a",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Test/DA_TestMission_ClearArea.DA_TestMission_ClearArea:IRRMissionSequence_0.Headline",
-			"t":
-			{
-				"de":
-				{
-					"text": "Fischerdorf säubern",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "肃清渔村",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Зачистить рыбацкую деревню",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "어촌 소탕",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "漁村を掃討",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Despejar el pueblo pesquero",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "7E4961FA467C1D6E508B54A1A75A3137",
 			"source": "<strong>UICS</> has gone all in with these initial tasks. Find and bug those warehouses of concern. Their location away from the main warehouse district does make them noteworthy, I suppose, but beyond that, being in the field will have to tell. Watch open sightlines on the streets and take out the <strong>IGC</> on the H.A.S. they have taken over. Good luck, stay safe, and get out.",
 			"sourceHash": "3add808b",
@@ -23456,58 +20948,6 @@
 		},
 		{
 			"ns": "",
-			"key": "805BBAF54F68303BF656A88EABF4CFD4",
-			"source": "Shutdown the terminal to erase everything.",
-			"sourceHash": "cdf7414c",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/BLUEFOR/ADLER/Contracts/Delta/Defense/DA_BLUEFOR_ADLER_Contract_Bunker_Defense_D_LEGACY.DA_BLUEFOR_ADLER_Contract_Bunker_Defense_D_LEGACY:IRRMissionSequence_0.IRRMissionObjective_0.Description",
-			"t":
-			{
-				"de":
-				{
-					"text": "Schalte das Terminal ab, um alles zu löschen.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "关闭终端以清除一切。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Отключи терминал, чтобы стереть всё.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "단말기를 종료해 모든 것을 삭제하라.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "端末をシャットダウンしてすべてを消去しろ。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Apaga el terminal para borrar todo.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "81434A4A452C11DBD3E0AAAC656355F0",
 			"source": "Alcohol",
 			"sourceHash": "eed8dcaa",
@@ -23716,58 +21156,6 @@
 		},
 		{
 			"ns": "",
-			"key": "82B0D39744BEA1D62DA51490D44F0547",
-			"source": "Available Commands:\r\n\r\n1. help - Display available commands and their descriptions.\r\n2. dir - Display all of the files and folders in the current directory.\r\n3. pop - Switch back to previous directory (e.g. go back).\r\n4. login - Enter new login credentials to change the user & permissions.\r\n5. cd <directory> - Change directory to navigate within the terminal system.\r\n6. run <file_id> - Execute the exe file.\r\n7. download <file_id> - Download content from target file.\r\n8. scan <file_id> - Scan content from file.\r\n9. read <file_id> - Reading content of file.\r\n10. shutdown - Shutdown the terminal.\r\n\r\n**Additional help**\r\n\r\n> To find a file, try changing directories via cd <directory> and us the dir command to display all available files at the current level\r\n> Some directories require special access. Use the login command to get Admin access. You may have to take a look at the users file to find the credentials.",
-			"sourceHash": "0976ca73",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY:BP_TerminalSequence_Text_C_0.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "Verfügbare Befehle:\r\n\r\n1. help - Verfügbare Befehle und deren Beschreibungen anzeigen.\r\n2. dir - Alle Dateien und Ordner im aktuellen Verzeichnis anzeigen.\r\n3. pop - Zum vorherigen Verzeichnis zurückkehren (z. B. zurückgehen).\r\n4. login - Neue Anmeldedaten eingeben, um Benutzer und Berechtigungen zu ändern.\r\n5. cd <directory> - Verzeichnis wechseln, um innerhalb des Terminalsystems zu navigieren.\r\n6. run <file_id> - Die EXE-Datei ausführen.\r\n7. download <file_id> - Inhalt der Zieldatei herunterladen.\r\n8. scan <file_id> - Inhalt der Datei scannen.\r\n9. read <file_id> - Inhalt der Datei lesen.\r\n10. shutdown - Das Terminal herunterfahren.\r\n\r\n**Zusätzliche Hilfe**\r\n\r\n> Um eine Datei zu finden, wechsle Verzeichnisse über cd <directory> und nutze den Befehl dir, um alle verfügbaren Dateien auf der aktuellen Ebene anzuzeigen\r\n> Einige Verzeichnisse erfordern speziellen Zugriff. Nutze den Befehl login, um Admin-Zugriff zu erhalten. Sieh dir eventuell die Datei users an, um die Anmeldedaten zu finden.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "可用命令：\r\n\r\n1. help - 显示可用命令及其描述。\r\n2. dir - 显示当前目录中的所有文件和文件夹。\r\n3. pop - 返回上一个目录（例如后退）。\r\n4. login - 输入新登录凭据以更改用户与权限。\r\n5. cd <directory> - 更改目录以在终端系统内导航。\r\n6. run <file_id> - 执行 exe 文件。\r\n7. download <file_id> - 从目标文件下载内容。\r\n8. scan <file_id> - 扫描文件内容。\r\n9. read <file_id> - 读取文件内容。\r\n10. shutdown - 关闭终端。\r\n\r\n**更多帮助**\r\n\r\n> 如需查找文件，可尝试通过 cd <directory> 切换目录，并使用 dir 命令显示当前层级的所有可用文件\r\n> 某些目录需要特殊权限。使用 login 命令获取 Admin 访问权限。你可能需要查看 users 文件以获取凭据。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Доступные команды:\r\n\r\n1. help - Отобразить доступные команды и их описания.\r\n2. dir - Показать все файлы и папки в текущем каталоге.\r\n3. pop - Вернуться в предыдущий каталог (например, назад).\r\n4. login - Ввести новые учётные данные для смены пользователя и прав.\r\n5. cd <directory> - Сменить каталог для навигации по системе терминала.\r\n6. run <file_id> - Запустить exe-файл.\r\n7. download <file_id> - Загрузить содержимое целевого файла.\r\n8. scan <file_id> - Сканировать содержимое файла.\r\n9. read <file_id> - Чтение содержимого файла.\r\n10. shutdown - Выключить терминал.\r\n\r\n**Дополнительная помощь**\r\n\r\n> Чтобы найти файл, попробуйте сменить каталог с помощью cd <directory> и используйте команду dir для отображения всех доступных файлов на текущем уровне\r\n> Для некоторых каталогов требуется особый доступ. Используйте команду login для получения доступа Admin. Возможно, вам придётся просмотреть файл users, чтобы найти учётные данные.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "사용 가능한 명령:\r\n\r\n1. help - 사용 가능한 명령 및 설명 표시.\r\n2. dir - 현재 디렉터리의 모든 파일 및 폴더 표시.\r\n3. pop - 이전 디렉터리로 돌아가기(예: 뒤로 가기).\r\n4. login - 사용자 및 권한을 변경하기 위해 새 로그인 자격 증명 입력.\r\n5. cd <directory> - 단말기 시스템 내에서 탐색하기 위해 디렉터리 변경.\r\n6. run <file_id> - exe 파일 실행.\r\n7. download <file_id> - 대상 파일에서 내용 다운로드.\r\n8. scan <file_id> - 파일 내용 스캔.\r\n9. read <file_id> - 파일 내용 읽기.\r\n10. shutdown - 단말기 종료.\r\n\r\n**추가 도움말**\r\n\r\n> 파일을 찾으려면 cd <directory>로 디렉터리를 변경하고 dir 명령을 사용하여 현재 수준의 모든 사용 가능한 파일을 표시해 보라\r\n> 일부 디렉터리는 특수 권한이 필요하다. login 명령을 사용하여 Admin 권한을 획득하라. 자격 증명을 찾으려면 users 파일을 확인해야 할 수도 있다.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "利用可能なコマンド:\r\n\r\n1. help - 利用可能なコマンドとその説明を表示。\r\n2. dir - カレントディレクトリ内のすべてのファイルとフォルダを表示。\r\n3. pop - 前のディレクトリに戻る（例: 戻る）。\r\n4. login - 新しいログイン資格情報を入力してユーザーと権限を変更。\r\n5. cd <directory> - 端末システム内を移動するためにディレクトリを変更。\r\n6. run <file_id> - exeファイルを実行。\r\n7. download <file_id> - 対象ファイルからコンテンツをダウンロード。\r\n8. scan <file_id> - ファイルのコンテンツをスキャン。\r\n9. read <file_id> - ファイルのコンテンツを読み取る。\r\n10. shutdown - 端末をシャットダウン。\r\n\r\n**追加のヘルプ**\r\n\r\n> ファイルを見つけるには、cd <directory> でディレクトリを変更し、dir コマンドを使用して現在の階層で利用可能な全ファイルを表示してみてください\r\n> 一部のディレクトリには特別なアクセス権が必要です。login コマンドを使用して Admin アクセス権を取得してください。資格情報を確認するには users ファイルを確認する必要がある場合があります。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Comandos disponibles:\r\n\r\n1. help - Muestra los comandos disponibles y sus descripciones.\r\n2. dir - Muestra todos los archivos y carpetas del directorio actual.\r\n3. pop - Vuelve al directorio anterior (p. ej., retroceder).\r\n4. login - Introduce nuevas credenciales de inicio de sesión para cambiar el usuario y los permisos.\r\n5. cd <directory> - Cambia de directorio para navegar dentro del sistema de terminal.\r\n6. run <file_id> - Ejecuta el archivo exe.\r\n7. download <file_id> - Descarga contenido del archivo de destino.\r\n8. scan <file_id> - Escanea el contenido del archivo.\r\n9. read <file_id> - Lee el contenido del archivo.\r\n10. shutdown - Apaga el terminal.\r\n\r\n**Ayuda adicional**\r\n\r\n> Para buscar un archivo, prueba a cambiar de directorio mediante cd <directory> y usa el comando dir para mostrar todos los archivos disponibles en el nivel actual\r\n> Algunos directorios requieren un acceso especial. Usa el comando login para obtener acceso de Admin. Es posible que tengas que consultar el archivo users para encontrar las credenciales.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "82B98B2D4D54640528BB58A4DD77558D",
 			"source": "Download Data",
 			"sourceHash": "e3eeaff0",
@@ -23812,58 +21200,6 @@
 				"es-ES":
 				{
 					"text": "Descargar datos",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "82CD132D423CC829C76D91A56D0A871B",
-			"source": "help",
-			"sourceHash": "fa6357ed",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY.Commands(0).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "help",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "help",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "help",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "help",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "help",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "help",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -24236,58 +21572,6 @@
 		},
 		{
 			"ns": "",
-			"key": "8579164B49F3AB464CD983B617998057",
-			"source": "run",
-			"sourceHash": "8cedc6c0",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY.Commands(5).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "run",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "run",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "run",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "run",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "run",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "run",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "8582CE21446AFDC9DBE64FA5774A3DB6",
 			"source": "Destroy Food Containers",
 			"sourceHash": "6ecf7309",
@@ -24444,58 +21728,6 @@
 		},
 		{
 			"ns": "",
-			"key": "869BFA814B192A4A2A92DD9016E3E48F",
-			"source": "download",
-			"sourceHash": "b9144c12",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_VLF.DA_Terminal_VLF.Commands(8).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "download",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "download",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "download",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "download",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "download",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "download",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "8704DFFB470E8AD41639EE8FEFFDF853",
 			"source": "Initiating download of {r}...",
 			"sourceHash": "e48b6c59",
@@ -24644,58 +21876,6 @@
 				"es-ES":
 				{
 					"text": "Escanea IGC_Operations.zip desde el directorio intel en el terminal.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "883D72F042144764D34EE08F5CA63A2F",
-			"source": "read",
-			"sourceHash": "ac890646",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY.Commands(6).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "read",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "read",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "read",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "read",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "read",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "read",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -25120,58 +22300,6 @@
 		},
 		{
 			"ns": "",
-			"key": "8BFC680E47FD34C7223E97814FE26E4B",
-			"source": "cd",
-			"sourceHash": "8f021865",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS.DA_Terminal_UICS.Commands(1).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "cd",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "cd",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "cd",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "cd",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "cd",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "cd",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "8C00F0D448A1BA1AF01E88B38F87F24F",
 			"source": "Hey! It seems to me that our \"friends\" over at the factory might have switched allegiances. Could you sneak in and plant some surveillance devices? We need to ensure these betrayers aren't plotting against us like sinister snakes. No need for kindness.",
 			"sourceHash": "077d4f21",
@@ -25216,58 +22344,6 @@
 				"es-ES":
 				{
 					"text": "¡Eh! Me da que nuestros «amigos» de la fábrica han cambiado de bando. ¿Puedes colarte e instalar dispositivos de vigilancia? Hay que asegurar que estos traidores no conspiran contra nosotros como serpientes. Sin miramientos.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "8C0DEEDD4F0DA55BD816A69651F4C431",
-			"source": "Locate Terminal [Med Bay]",
-			"sourceHash": "e35a5eac",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/BLUEFOR/ADLER/Contracts/Delta/Defense/DA_BLUEFOR_ADLER_Contract_Bunker_Defense_D_LEGACY.DA_BLUEFOR_ADLER_Contract_Bunker_Defense_D_LEGACY:IRRMissionSequence_4.Headline",
-			"t":
-			{
-				"de":
-				{
-					"text": "Terminal finden [Med Bay]",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "定位终端 [医务室]",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Найти терминал [Медблок]",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "단말기 위치 확인 [메드 베이]",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "端末を特定 [メッドベイ]",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Localizar terminal [Bahía médica]",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -25432,58 +22508,6 @@
 		},
 		{
 			"ns": "",
-			"key": "8CF2C94B4AF1A0077BDA73B52FCDB3AB",
-			"source": "shutdown",
-			"sourceHash": "d04343ae",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS.DA_Terminal_UICS.Commands(9).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "shutdown",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "shutdown",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "shutdown",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "shutdown",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "shutdown",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "shutdown",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "8D21F805488EA2932A2D80A42089C550",
 			"source": "Nicely done. I wonder what the <strong>VLF</> will do with that troop movement information. <strong>FANG</> will also analyze what you sent over in case it’s helpful to their cause. If any of the findings are relevant to you or your mission, it will show up on your terminal.\r\n\r\nAs always, let me know if you have any of the following: headaches, dizziness, balance issues, high temp, shortness of breath, or nausea.",
 			"sourceHash": "25d0ec95",
@@ -25528,58 +22552,6 @@
 				"es-ES":
 				{
 					"text": "Bien hecho. Me pregunto qué hará <strong>VLF</> con esa información de movimiento de tropas. <strong>FANG</> también analizará lo que enviaste por si les sirve. Si algún hallazgo es relevante para ti o tu misión, aparecerá en tu terminal.\r\n\r\nComo siempre, avísame si tienes alguno de estos síntomas: dolor de cabeza, mareos, problemas de equilibrio, fiebre alta, falta de aire o náuseas.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "8D3ADF10443280449E076D9F476A4070",
-			"source": "Download Data",
-			"sourceHash": "e3eeaff0",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/BLUEFOR/ADLER/Contracts/Delta/Defense/DA_BLUEFOR_ADLER_Contract_Bunker_Defense_D_LEGACY.DA_BLUEFOR_ADLER_Contract_Bunker_Defense_D_LEGACY:IRRMissionSequence_3.Headline",
-			"t":
-			{
-				"de":
-				{
-					"text": "Daten herunterladen",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "下载数据",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Скачать данные",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "데이터 다운로드",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "データをダウンロード",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Descargar datos",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -25684,58 +22656,6 @@
 				"es-ES":
 				{
 					"text": "Interceptar reunión",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "8D89630844DC3AE043A8B0B789EA7C39",
-			"source": "help",
-			"sourceHash": "fa6357ed",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS.DA_Terminal_UICS.Commands(0).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "help",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "help",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "help",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "help",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "help",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "help",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -25952,58 +22872,6 @@
 		},
 		{
 			"ns": "",
-			"key": "8E45437D4EE9046CEB947F9E3EAF65BD",
-			"source": "scan",
-			"sourceHash": "8261d253",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS.DA_Terminal_UICS.Commands(7).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "scan",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "scan",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "scan",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "scan",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "scan",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "scan",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "8E5B7B254BC742EAF79A62A51A008FEC",
 			"source": "Error: Command \"{command}\" not recognized. Please enter a valid command. Or type \"help\" for a list of available commands.",
 			"sourceHash": "071cb37d",
@@ -26152,58 +23020,6 @@
 				"es-ES":
 				{
 					"text": "Adéntrate en el corazón de Quarry y extrae información vital de la VLF. Luego asegúrate de colocarla en un contenedor seguro de UICS. Debe integrarse sin dejar rastro, como si fuera uno de sus propios secretos. Tu extracción es crucial, pero con el mínimo impacto. Buscamos liberar, no causar más daño.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "8EE870BA403BE606FB356B924FF77640",
-			"source": "shutdown",
-			"sourceHash": "d04343ae",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_VLF.DA_Terminal_VLF.Commands(9).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "shutdown",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "shutdown",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "shutdown",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "shutdown",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "shutdown",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "shutdown",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -27616,58 +24432,6 @@
 		},
 		{
 			"ns": "",
-			"key": "9632861844BEF77FC8AD97B0DF9F4D28",
-			"source": "hack",
-			"sourceHash": "a75daea0",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_IGC.DA_Terminal_IGC.Commands(10).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "hack",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "hack",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "hack",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "hack",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "hack",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "hack",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "9636044C4BD5DAC16451A58A9EAC82FB",
 			"source": "Let’s see if killing <strong>UICS</> soldiers triggers anything. So far, we haven’t picked up any hint that they’re reacting to the footage by dealing with their potential internal corruption. We might need to force their hand, but I’m not sure. Let’s see what <strong>FANG</> decides to do.\r\n\r\nAs always, let me know if you have any of the following: headaches, dizziness, balance issues, high temp, shortness of breath, or nausea.",
 			"sourceHash": "b2afe211",
@@ -27980,58 +24744,6 @@
 		},
 		{
 			"ns": "",
-			"key": "9790801C4033342667BC8FAD2843167B",
-			"source": "scan",
-			"sourceHash": "8261d253",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY.Commands(7).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "scan",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "scan",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "scan",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "scan",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "scan",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "scan",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "97E1E3A847DE5B68B34F26832AE37A3E",
 			"source": "Good day, my friend! Your next performance requires the utmost cunning. Dive into the heart of the Quarry, pilfer top-secret intel from the UICS, and plant it within an Iron Guard Corps stronghold. Do this with the subtlety of a whisper. Make them doubt their own. Once done, exit with the finesse of a noble. Remember, you are the hidden blade of the Tsar.",
 			"sourceHash": "425e63dd",
@@ -28284,58 +24996,6 @@
 				"es-ES":
 				{
 					"text": "Tu esfuerzo recogiendo latas no fue en vano, operador. La <strong>UICS</> ha acordado que hace falta actuar, y las pruebas que has enviado corroboran sus propios hallazgos. Han dado la siguiente misión:",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "99515EC54F9074D9E05A5FA339E60A3D",
-			"source": "run",
-			"sourceHash": "8cedc6c0",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_VLF.DA_Terminal_VLF.Commands(5).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "run",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "run",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "run",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "run",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "run",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "run",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -28604,58 +25264,6 @@
 		},
 		{
 			"ns": "",
-			"key": "9B336EAB4B743416441F739F46C182C7",
-			"source": "# UICS TERMINAL SYSTEM – README\r\n\r\nWelcome to the Unified Intercontinental Command Structure (UICS) Secure Terminal.\r\n\r\nThis terminal is part of the authorized network infrastructure under UICS Directive GridNet-4B. It is designed for use by certified personnel only. Access is monitored, logged, and subject to review by Central Systems Authority (CSA).\r\n\r\n## SYSTEM FUNCTIONS\r\n\r\n- **read** – Open and view a file's contents  \r\n- **run** – Execute a script or terminal-compatible file  \r\n- **scan** – Check a file for security classification or hidden data  \r\n- **download** – Save a file from the terminal to your local device  \r\n\r\nNeed more info? Use the `help` command at any time for detailed usage.\r\n## USER LEVELS\r\n\r\n- Guest: View-only access to non-sensitive bulletins and maintenance schedules\r\n- Admin: Full terminal control, including configuration management and override protocols\r\n\r\n## CODE OF CONDUCT\r\n\r\n- Always verify your clearance level before executing commands.\r\n- Do not share access credentials under any circumstance.\r\n- Report any system anomalies or suspicious activity using form 11-17A (System Irregularity Report).\r\n- In case of compromised access, initiate Lockdown Sequence Alpha and disconnect from the local grid.\r\n\r\n## SUPPORT CONTACT\r\n\r\nFor technical assistance, contact Central Systems Authority via secure channel [Node U-91].\r\n\r\n## FINAL NOTICE\r\n\r\nThis terminal is property of the UICS. Unauthorized use is a breach of intercontinental security law and may result in disciplinary action, including confinement and clearance revocation.\r\n\r\nUICS — Order. Stability. Control.\r\n\r\n> END OF FILE",
-			"sourceHash": "f8923c1e",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY:IRRTerminalFile_0.BP_TerminalSequence_Text_C_0.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "# UICS-TERMINALSYSTEM - README\r\n\r\nWillkommen am sicheren Terminal der Vereinten Interkontinentalen Kommandostruktur (UICS).\r\n\r\nDieses Terminal ist Teil der autorisierten Netzwerkinfrastruktur gemäß UICS-Direktive GridNet-4B. Es ist ausschließlich für zertifiziertes Personal bestimmt. Der Zugriff wird überwacht, protokolliert und unterliegt der Prüfung durch die Zentrale Systembehörde (CSA).\r\n\r\n## SYSTEMFUNKTIONEN\r\n\r\n- **read** - Datei öffnen und Inhalt anzeigen  \r\n- **run** - Skript oder terminalkompatible Datei ausführen  \r\n- **scan** - Datei auf Sicherheitseinstufung oder versteckte Daten prüfen  \r\n- **download** - Datei vom Terminal auf dein lokales Gerät speichern  \r\n\r\nMehr Infos nötig? Nutze jederzeit den Befehl `help` für eine ausführliche Anleitung.\r\n## BENUTZERSTUFEN\r\n\r\n- Gast: Nur Lesezugriff auf nicht sensible Bekanntmachungen und Wartungspläne\r\n- Admin: Volle Terminalkontrolle, einschließlich Konfigurationsverwaltung und Übersteuerungsprotokollen\r\n\r\n## VERHALTENSKODEX\r\n\r\n- Prüfe immer deine Freigabestufe, bevor du Befehle ausführst.\r\n- Gib Zugangsdaten unter keinen Umständen weiter.\r\n- Melde Systemanomalien oder verdächtige Aktivitäten mit Formular 11-17A (Meldung von Systemunregelmäßigkeiten).\r\n- Bei kompromittiertem Zugang leite die Lockdown-Sequenz Alpha ein und trenne die Verbindung zum lokalen Netz.\r\n\r\n## SUPPORT-KONTAKT\r\n\r\nFür technische Unterstützung kontaktiere die Zentrale Systembehörde über den sicheren Kanal [Node U-91].\r\n\r\n## LETZTER HINWEIS\r\n\r\nDieses Terminal ist Eigentum der UICS. Unbefugte Nutzung ist ein Verstoß gegen interkontinentales Sicherheitsrecht und kann Disziplinarmaßnahmen nach sich ziehen, einschließlich Haft und Entzug der Freigabe.\r\n\r\nUICS - Ordnung. Stabilität. Kontrolle.\r\n\r\n> ENDE DER DATEI",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-10-06T23:14:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "# UICS 终端系统 - README\r\n\r\n欢迎使用统一洲际指挥机构（UICS）安全终端。\r\n\r\n本终端是 UICS GridNet-4B 号指令下授权网络基础设施的一部分，仅供认证人员使用。所有访问均受监控、记录，并接受中央系统管理局（CSA）审查。\r\n\r\n## 系统功能\r\n\r\n- **read** - 打开并查看文件内容  \r\n- **run** - 执行脚本或终端兼容文件  \r\n- **scan** - 检查文件的安全密级或隐藏数据  \r\n- **download** - 将文件从终端保存到你的本地设备  \r\n\r\n需要更多信息？随时使用 `help` 命令查看详细用法。\r\n## 用户级别\r\n\r\n- 访客：仅可查看非敏感公告和维护计划\r\n- 管理员：完整终端控制权，包括配置管理和越权协议\r\n\r\n## 行为准则\r\n\r\n- 执行命令前务必确认你的权限级别。\r\n- 任何情况下都不得分享访问凭证。\r\n- 使用 11-17A 表（系统异常报告）报告任何系统异常或可疑活动。\r\n- 如访问遭到入侵，启动封锁序列 Alpha 并断开与本地网络的连接。\r\n\r\n## 支持联系方式\r\n\r\n如需技术支持，请通过安全频道 [Node U-91] 联系中央系统管理局。\r\n\r\n## 最终声明\r\n\r\n本终端为 UICS 财产。未经授权使用即违反洲际安全法，可能导致纪律处分，包括监禁和撤销权限。\r\n\r\nUICS - 秩序。稳定。控制。\r\n\r\n> 文件结束",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-10-06T23:14:59Z"
-				},
-				"ru":
-				{
-					"text": "# ТЕРМИНАЛЬНАЯ СИСТЕМА UICS - README\r\n\r\nДобро пожаловать в защищённый терминал Объединённой межконтинентальной командной структуры (UICS).\r\n\r\nЭтот терминал является частью авторизованной сетевой инфраструктуры согласно директиве UICS GridNet-4B. Он предназначен только для сертифицированного персонала. Доступ отслеживается, регистрируется и подлежит проверке Центральным управлением систем (CSA).\r\n\r\n## ФУНКЦИИ СИСТЕМЫ\r\n\r\n- **read** - Открыть и просмотреть содержимое файла  \r\n- **run** - Выполнить скрипт или совместимый с терминалом файл  \r\n- **scan** - Проверить файл на гриф секретности или скрытые данные  \r\n- **download** - Сохранить файл с терминала на твоё локальное устройство  \r\n\r\nНужно больше информации? Используй команду `help` в любой момент для подробной справки.\r\n## УРОВНИ ПОЛЬЗОВАТЕЛЕЙ\r\n\r\n- Гость: Только просмотр несекретных бюллетеней и графиков обслуживания\r\n- Админ: Полный контроль над терминалом, включая управление конфигурацией и протоколы переопределения\r\n\r\n## КОДЕКС ПОВЕДЕНИЯ\r\n\r\n- Всегда проверяй свой уровень допуска перед выполнением команд.\r\n- Ни при каких обстоятельствах не передавай учётные данные.\r\n- Сообщай о любых сбоях системы или подозрительной активности по форме 11-17A (Отчёт о нарушениях в работе системы).\r\n- При компрометации доступа запусти последовательность блокировки Alpha и отключись от локальной сети.\r\n\r\n## КОНТАКТЫ ПОДДЕРЖКИ\r\n\r\nДля технической помощи свяжись с Центральным управлением систем по защищённому каналу [Node U-91].\r\n\r\n## ПОСЛЕДНЕЕ ПРЕДУПРЕЖДЕНИЕ\r\n\r\nЭтот терминал является собственностью UICS. Несанкционированное использование является нарушением межконтинентального закона о безопасности и может повлечь дисциплинарные меры, включая заключение и отзыв допуска.\r\n\r\nUICS - Порядок. Стабильность. Контроль.\r\n\r\n> КОНЕЦ ФАЙЛА",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-10-06T23:14:59Z"
-				},
-				"ko":
-				{
-					"text": "# UICS 터미널 시스템 - README\r\n\r\n통합 대륙간 지휘 체계(UICS) 보안 터미널에 오신 것을 환영합니다.\r\n\r\n이 터미널은 UICS 지침 GridNet-4B에 따른 인가 네트워크 인프라의 일부입니다. 인증된 인원만 사용할 수 있습니다. 모든 접속은 감시 및 기록되며 중앙 시스템 관리국(CSA)의 검토 대상입니다.\r\n\r\n## 시스템 기능\r\n\r\n- **read** - 파일 열기 및 내용 보기  \r\n- **run** - 스크립트 또는 터미널 호환 파일 실행  \r\n- **scan** - 파일의 보안 등급 또는 숨겨진 데이터 확인  \r\n- **download** - 터미널의 파일을 로컬 장치에 저장  \r\n\r\n더 많은 정보가 필요합니까? 언제든지 `help` 명령으로 자세한 사용법을 확인하십시오.\r\n## 사용자 등급\r\n\r\n- 게스트: 비민감 공지 및 정비 일정 열람 전용\r\n- 관리자: 구성 관리 및 오버라이드 프로토콜을 포함한 터미널 전체 제어\r\n\r\n## 행동 강령\r\n\r\n- 명령을 실행하기 전에 항상 보안 등급을 확인하십시오.\r\n- 어떠한 경우에도 접속 자격 증명을 공유하지 마십시오.\r\n- 시스템 이상이나 의심스러운 활동은 양식 11-17A(시스템 이상 보고서)로 보고하십시오.\r\n- 접속이 탈취된 경우 봉쇄 시퀀스 Alpha를 시작하고 로컬 그리드와의 연결을 끊으십시오.\r\n\r\n## 지원 연락처\r\n\r\n기술 지원이 필요하면 보안 채널 [Node U-91]을 통해 중앙 시스템 관리국에 연락하십시오.\r\n\r\n## 최종 고지\r\n\r\n이 터미널은 UICS의 자산입니다. 무단 사용은 대륙간 보안법 위반이며 구금 및 보안 등급 박탈을 포함한 징계 조치를 받을 수 있습니다.\r\n\r\nUICS - 질서. 안정. 통제.\r\n\r\n> 파일 끝",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-10-06T23:14:59Z"
-				},
-				"ja":
-				{
-					"text": "# UICS ターミナルシステム - README\r\n\r\n統合大陸間指揮機構（UICS）セキュアターミナルへようこそ。\r\n\r\n本ターミナルは UICS 指令 GridNet-4B に基づく認可ネットワークインフラの一部であり、認定された要員専用だ。アクセスは監視・記録され、中央システム管理局（CSA）の審査対象となる。\r\n\r\n## システム機能\r\n\r\n- **read** - ファイルを開いて内容を表示  \r\n- **run** - スクリプトまたはターミナル対応ファイルを実行  \r\n- **scan** - ファイルの機密区分や隠しデータを確認  \r\n- **download** - ターミナルからローカル端末にファイルを保存  \r\n\r\n詳しい情報が必要か？ `help` コマンドでいつでも詳細な使い方を確認できる。\r\n## ユーザーレベル\r\n\r\n- ゲスト：機密性のない告知と保守スケジュールの閲覧のみ\r\n- 管理者：設定管理とオーバーライドプロトコルを含むターミナルの完全な制御\r\n\r\n## 行動規範\r\n\r\n- コマンドを実行する前に必ず自分のクリアランスレベルを確認しろ。\r\n- いかなる状況でもアクセス認証情報を共有するな。\r\n- システムの異常や不審な活動はフォーム 11-17A（システム異常報告）で報告しろ。\r\n- アクセスが侵害された場合はロックダウンシーケンス Alpha を開始し、ローカルグリッドから切断しろ。\r\n\r\n## サポート連絡先\r\n\r\n技術支援が必要な場合は、セキュアチャンネル [Node U-91] 経由で中央システム管理局に連絡しろ。\r\n\r\n## 最終通告\r\n\r\n本ターミナルは UICS の所有物だ。無許可の使用は大陸間安全保障法違反であり、拘禁やクリアランス剥奪を含む懲戒処分の対象となる場合がある。\r\n\r\nUICS - 秩序。安定。統制。\r\n\r\n> ファイル終了",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-10-06T23:14:59Z"
-				},
-				"es-ES":
-				{
-					"text": "# SISTEMA DE TERMINAL UICS - README\r\n\r\nTe damos la bienvenida a la Terminal Segura de la Estructura de Mando Intercontinental Unificada (UICS).\r\n\r\nEsta terminal forma parte de la infraestructura de red autorizada según la Directiva UICS GridNet-4B. Está destinada exclusivamente a personal certificado. El acceso se supervisa, se registra y está sujeto a revisión por la Autoridad Central de Sistemas (CSA).\r\n\r\n## FUNCIONES DEL SISTEMA\r\n\r\n- **read** - Abre y muestra el contenido de un archivo  \r\n- **run** - Ejecuta un script o archivo compatible con la terminal  \r\n- **scan** - Comprueba la clasificación de seguridad o datos ocultos de un archivo  \r\n- **download** - Guarda un archivo de la terminal en tu dispositivo local  \r\n\r\n¿Necesitas más información? Usa el comando `help` en cualquier momento para ver instrucciones detalladas.\r\n## NIVELES DE USUARIO\r\n\r\n- Invitado: Acceso de solo lectura a boletines no sensibles y calendarios de mantenimiento\r\n- Admin: Control total de la terminal, incluida la gestión de configuración y los protocolos de anulación\r\n\r\n## CÓDIGO DE CONDUCTA\r\n\r\n- Verifica siempre tu nivel de autorización antes de ejecutar comandos.\r\n- No compartas tus credenciales de acceso bajo ninguna circunstancia.\r\n- Informa de cualquier anomalía del sistema o actividad sospechosa mediante el formulario 11-17A (Informe de Irregularidad del Sistema).\r\n- Si el acceso se ve comprometido, inicia la Secuencia de Bloqueo Alpha y desconéctate de la red local.\r\n\r\n## CONTACTO DE SOPORTE\r\n\r\nPara asistencia técnica, contacta con la Autoridad Central de Sistemas a través del canal seguro [Node U-91].\r\n\r\n## AVISO FINAL\r\n\r\nEsta terminal es propiedad de la UICS. El uso no autorizado constituye una infracción de la ley de seguridad intercontinental y puede conllevar medidas disciplinarias, incluidos el confinamiento y la revocación de la autorización.\r\n\r\nUICS - Orden. Estabilidad. Control.\r\n\r\n> FIN DEL ARCHIVO",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-10-06T23:14:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "9B4F65884EDB6839359E52B234CDED15",
 			"source": "Take on the triplet extraction challenge. Your mission: extract three times without any harm.",
 			"sourceHash": "d84fd57a",
@@ -28752,58 +25360,6 @@
 				"es-ES":
 				{
 					"text": "Disculpas, operador, pero tengo otras obligaciones. No te preocupes, sigo tus informes de cerca. Además, no hace falta que llames para informar de novedades, ya que no estaré disponible.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "9C8DEC6D4E891A064B0B1592FC8CD608",
-			"source": "Download VLF_MemberData.zip",
-			"sourceHash": "5ae254fd",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/BLUEFOR/ADLER/Contracts/Delta/Defense/DA_BLUEFOR_ADLER_Contract_Bunker_Defense_D_LEGACY.DA_BLUEFOR_ADLER_Contract_Bunker_Defense_D_LEGACY:IRRMissionSequence_3.IRRMissionObjective_0.Description",
-			"t":
-			{
-				"de":
-				{
-					"text": "VLF_MemberData.zip herunterladen",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "下载 VLF_MemberData.zip",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Скачать VLF_MemberData.zip",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "VLF_MemberData.zip 다운로드",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "VLF_MemberData.zipをダウンロード",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Descargar VLF_MemberData.zip",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -29540,58 +26096,6 @@
 		},
 		{
 			"ns": "",
-			"key": "9F833AB948E3EF056303DDA5B10E0223",
-			"source": "Deliver {count} {targetdata}.",
-			"sourceHash": "38def183",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Retrieve/DA_FANG_RET_Test.DA_FANG_RET_Test:IRRMissionSequence_1.BP_IRRObjective_DeliverItem_C_0.Description",
-			"t":
-			{
-				"de":
-				{
-					"text": "Liefere {count} {targetdata} ab.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "送达 {count} 份 {targetdata}。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Доставь {count} {targetdata}.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "{targetdata} {count}개를 전달하라.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "{targetdata}を{count}個届けろ。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Entrega {count} {targetdata}.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "A0162B9C4FA019BE63F36EB360FB2035",
 			"source": "Locate and boot up the terminal.",
 			"sourceHash": "ff754a3d",
@@ -29792,58 +26296,6 @@
 				"es-ES":
 				{
 					"text": "No se puede ejecutar {file}.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "A09B2F4E4FF856B2FAFC76AE80FA7EAE",
-			"source": "{r} downloaded and secured in private directory. ",
-			"sourceHash": "534bb828",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY:IRRTerminalFile_9.BP_TerminalSequence_Text_C_1.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "{r} heruntergeladen und im privaten Verzeichnis gesichert. ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "{r} 已下载并保存在私有目录中。 ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "{r} загружен и защищён в личном каталоге. ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "{r} 다운로드 완료 및 개인 디렉터리에 보관됨. ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "{r} をダウンロードし、プライベートディレクトリに保存しました。 ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "{r} descargado y asegurado en el directorio privado. ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -30320,58 +26772,6 @@
 		},
 		{
 			"ns": "",
-			"key": "A33C14E84D60663B0D31F8B7C4DA4A85",
-			"source": "pop",
-			"sourceHash": "3d6b5510",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS.DA_Terminal_UICS.Commands(2).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "pop",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "pop",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "pop",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "pop",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "pop",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "pop",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "A33F2E5943E7B49127B78C92A74FDBAF",
 			"source": "<italic>The last piece of the satellite antenna is inbound through the same </><strongitalic>IGC</><italic> trucks. It will not arrive for several days. Given the imminent completion of the antenna, it is now important that you know about its operation. The satellite will periodically orbit over Vietnam, among other things, collecting temperature data. This is the same reason you are acquiring each faction’s regional weather data. Due to the positioning of the satellite, its readings cannot cover the full region needed. The data you have been collecting fills in those gaps. These specific temperature readings include the W-Band, 75 to 110 GHz, our primary region of interest. Upon completing the satellite connection, </><strongitalic>FANG</><italic> will be able to spot anomalies in the region.</>",
 			"sourceHash": "23fbea0b",
@@ -30520,58 +26920,6 @@
 				"es-ES":
 				{
 					"text": "Por desgracia, ahora estoy ocupado con otros asuntos. Como no estoy, no estaré de guardia. Eso significa que no hace falta que me informes a mitad de misión. Abajo tienes tu informe.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "A414F00E4867ADA711B38DAACB44CB3F",
-			"source": "login",
-			"sourceHash": "0cdb02e1",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_IGC.DA_Terminal_IGC.Commands(4).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "login",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "login",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "login",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "login",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "login",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "login",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -31152,58 +27500,6 @@
 		},
 		{
 			"ns": "",
-			"key": "A8E926B6464403E1948A9B9E245DFC61",
-			"source": "read",
-			"sourceHash": "ac890646",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_VLF.DA_Terminal_VLF.Commands(6).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "read",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "read",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "read",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "read",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "read",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "read",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "A8EC3AB74DB5ADDAFC50C8B9DCA208A2",
 			"source": "Place the intel in the marked container on the map.",
 			"sourceHash": "1737b41c",
@@ -31404,58 +27700,6 @@
 				"es-ES":
 				{
 					"text": "Localiza e inicia el terminal en la zona de la bahía médica.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "AA247B174851206BAF4DBC8A45F0DBDB",
-			"source": "pop",
-			"sourceHash": "3d6b5510",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY.Commands(2).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "pop",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "pop",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "pop",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "pop",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "pop",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "pop",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -31716,58 +27960,6 @@
 				"es-ES":
 				{
 					"text": "Escanear los datos de la inteligencia recogida.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "ABBE05EE45D109B5EED2AC837A358B5C",
-			"source": "Find the Cave.",
-			"sourceHash": "40f424e3",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/SideMissions/DA_FANG_OBSERVER_0002_A_Test.DA_FANG_OBSERVER_0002_A_Test:IRRMissionSequence_0.BP_IRRObjective_FindLocation_C_0.Description",
-			"t":
-			{
-				"de":
-				{
-					"text": "Finde die Höhle.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "找到洞穴。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Найди пещеру.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "동굴을 찾아라.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "洞窟を見つけよ。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Encuentra la cueva.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -32868,58 +29060,6 @@
 		},
 		{
 			"ns": "",
-			"key": "B1C15E1842663382FE25D9B24C17C66D",
-			"source": "Type \"help\" for a list of available commands.",
-			"sourceHash": "0d013cc9",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY.GuidePrompt",
-			"t":
-			{
-				"de":
-				{
-					"text": "Gib \"help\" ein für eine Liste verfügbarer Befehle.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "输入 \"help\" 可查看可用命令列表。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Введите \"help\" для списка доступных команд.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "사용 가능한 명령 목록은 \"help\"를 입력하라.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "利用可能なコマンド一覧は \"help\" と入力。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Escribe \"help\" para ver la lista de comandos disponibles.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "B1E958B4444CCAF65BF67D8F7C5BF533",
 			"source": "Place the intel in the marked container on the map.",
 			"sourceHash": "1737b41c",
@@ -33440,58 +29580,6 @@
 		},
 		{
 			"ns": "",
-			"key": "B61D228C4050519222D82ABB10A13DD8",
-			"source": "Cannot run {file}.",
-			"sourceHash": "a3ada445",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY:BP_TerminalArgument_LookUpFile_C_1.OnFailText",
-			"t":
-			{
-				"de":
-				{
-					"text": "Kann {file} nicht ausführen.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "无法运行 {file}。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Не удалось выполнить {file}.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "{file}을(를) 실행할 수 없다.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "{file}を実行できない。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "No se puede ejecutar {file}.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "B67770C04D19BC67520C07B531915DB4",
 			"source": "Go to the marked outpost on the map and secure the intel.",
 			"sourceHash": "0ba9286e",
@@ -33848,58 +29936,6 @@
 				"es-ES":
 				{
 					"text": "Apaga el terminal para borrar todo.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "B79CE8D94C1E914BE6F36DB8335A812D",
-			"source": "download",
-			"sourceHash": "b9144c12",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_IGC.DA_Terminal_IGC.Commands(8).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "download",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "download",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "download",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "download",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "download",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "download",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -34636,58 +30672,6 @@
 		},
 		{
 			"ns": "",
-			"key": "BB1FEEAC4765A7C7E35363B1F756FB56",
-			"source": "dir",
-			"sourceHash": "5e13429f",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_VLF.DA_Terminal_VLF.Commands(3).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "dir",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "dir",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "dir",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "dir",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "dir",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "dir",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "BBBB66A24020E75578A39E87F192C573",
 			"source": "Each mission I relay will be a combination of the information <strong>FANG</> has passed along, mission requests from faction bosses and my own notes. Your first mission is just from <strong>FANG</>, though. To get your assignment underway, <strong>FANG</> needs to establish a grounded connection to the satellite quickly. \r\n\r\nIn the DELTA area, there is a large and busy shipping system that connects the <strong>IGC</> to their arms suppliers, food supply, and more. So much goes through their trucks that <strong>FANG</> is confident they can sneak in the antenna parts earlier in the supply chain. But the <strong>IGC</> is careful. None of the information about dates, times, or license plates is digitized. Instead, everything is hand-delivered and done on paper. \r\n\r\nThis can make it easy for a truck to get “lost,” which <strong>FANG</> will use to its benefit. Find the shipping logistics office, steal the dates and times for delivery, and report back. It's simple, so you shouldn't have any problems on this first mission. Be sure to call in with any major updates so I can help make sure you are on the right track. DELTA is a big area, so watch your back, stay out of the streets as much as you can. Good luck and get out.",
 			"sourceHash": "560c9251",
@@ -34992,58 +30976,6 @@
 				"es-ES":
 				{
 					"text": "Ve al almacén e instala los micrófonos.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "BE0A530C431985F7532CE7836066B284",
-			"source": "Initiating scan of classified document...\r\nPlease wait, retrieving data...",
-			"sourceHash": "d7db15c9",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY:IRRTerminalFile_1.BP_TerminalSequence_Text_C_0.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "Starte Scan des klassifizierten Dokuments...\r\nBitte warten, Daten werden abgerufen...",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "正在启动对机密文件的扫描...\r\n请稍候，正在检索数据...",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Запуск сканирования секретного документа...\r\nПодождите, идёт получение данных...",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "기밀 문서 스캔을 개시한다...\r\n잠시 기다려라. 데이터를 불러오는 중...",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "機密文書のスキャンを開始...\r\nしばらく待て。データを取得中...",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Iniciando escaneo del documento clasificado...\r\nEspera, recuperando datos...",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -36092,58 +32024,6 @@
 		},
 		{
 			"ns": "",
-			"key": "C379FC8746BBFFCDD7D471A3AC8B774B",
-			"source": "UICS Command Terminal - Version 1.2 Secure Access at uics-network.org",
-			"sourceHash": "5ad33d72",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY.VersionInfo",
-			"t":
-			{
-				"de":
-				{
-					"text": "UICS Command Terminal - Version 1.2 Secure Access at uics-network.org",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "UICS Command Terminal - Version 1.2 Secure Access at uics-network.org",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "UICS Command Terminal - Version 1.2 Secure Access at uics-network.org",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "UICS Command Terminal - Version 1.2 Secure Access at uics-network.org",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "UICS Command Terminal - Version 1.2 Secure Access at uics-network.org",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "UICS Command Terminal - Version 1.2 Secure Access at uics-network.org",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "C3ED1B7F4953780C741ADF8890D1C5DF",
 			"source": "Place Intel",
 			"sourceHash": "ba4f9193",
@@ -36352,105 +32232,41 @@
 		},
 		{
 			"ns": "",
-			"key": "C4F1394343CC2D9BB14F979322E7C7DF",
-			"source": "Good job! ",
-			"sourceHash": "59013376",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Retrieve/DA_FANG_RET_Test.DA_FANG_RET_Test.MissionInfo.Debriefing.Text(0).Text.Text",
+			"key": "C5760B6045AF6FC78CD5CFA6CB01EC35",
+			"source": "RequestLogin",
+			"sourceHash": "f5a90c45",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY:BP_TerminalSequence_Login_C_0.Command.Command",
 			"t":
 			{
 				"de":
 				{
-					"text": "Gute Arbeit! ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"zh-Hans":
 				{
-					"text": "干得好！ ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"ru":
 				{
-					"text": "Хорошая работа! ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"ko":
 				{
-					"text": "잘했다! ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"ja":
 				{
-					"text": "よくやった！ ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				},
 				"es-ES":
 				{
-					"text": "¡Buen trabajo! ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "C4F5554C44A4354806F4619A5CD33E3B",
-			"source": "dir",
-			"sourceHash": "5e13429f",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS.DA_Terminal_UICS.Commands(3).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "dir",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "dir",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "dir",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "dir",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "dir",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "dir",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -38120,58 +33936,6 @@
 		},
 		{
 			"ns": "",
-			"key": "CD7310DC4438D905ACFFF3AB3FB62C69",
-			"source": "scan",
-			"sourceHash": "8261d253",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_IGC.DA_Terminal_IGC.Commands(7).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "scan",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "scan",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "scan",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "scan",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "scan",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "scan",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "CD83D8EA4451B38CF2B51F84309F8FA9",
 			"source": "Food",
 			"sourceHash": "761df571",
@@ -39212,6 +34976,46 @@
 		},
 		{
 			"ns": "",
+			"key": "D37160424CA2C15D7988CABAABFF0CC1",
+			"source": "RequestLogin",
+			"sourceHash": "f5a90c45",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_IGC.DA_Terminal_IGC:BP_TerminalSequence_Login_C_0.Command.Command",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "D3E5F5B04419B0B491DB6B98AA293DEF",
 			"source": "Venture into the Quarry under the cover of anonymity. Secure classified intel from the Iron Guard Corps and discretely deposit it in a UICS controlled area. Be the unseen hand; leave no evidence of tampering. This operation requires a blend of finesse and stealth. Once the task is complete, withdraw unnoticed, as if you were never there.",
 			"sourceHash": "3313407d",
@@ -39784,58 +35588,6 @@
 		},
 		{
 			"ns": "",
-			"key": "D683D7834308CD422B07E0B07AD9B001",
-			"source": "Place Intel",
-			"sourceHash": "ba4f9193",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/GREYFOR/CIPHER/Contracts/Quarry/Defense/DA_GREYFOR_CIPHER_Contract_Quarry_Defense_LEGACY.DA_GREYFOR_CIPHER_Contract_Quarry_Defense_LEGACY:IRRMissionSequence_2.Headline",
-			"t":
-			{
-				"de":
-				{
-					"text": "Informationen ablegen",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "放置情报",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Подбросить разведданные",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "정보 배치",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "情報を配置",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Colocar inteligencia",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "D68FF5554DF1ABF02EB1A2B9B294B4E2",
 			"source": "Install Jammers",
 			"sourceHash": "5a798d46",
@@ -40252,58 +36004,6 @@
 		},
 		{
 			"ns": "",
-			"key": "D7EC61B042256D2170811185D4B924D3",
-			"source": "dir",
-			"sourceHash": "5e13429f",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY.Commands(3).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "dir",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "dir",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "dir",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "dir",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "dir",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "dir",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "D8BB26D147542500F076D4A6F8F40EEE",
 			"source": "Greetings from here! The warehouse in question is a significant depot for UICS's arms and gear—a prime target for disruption. We task you with setting an explosive with a remote detonator for this operation. Rest easy; you'll be far from the blast zone by the time it detonates.",
 			"sourceHash": "9125d6aa",
@@ -40400,58 +36100,6 @@
 				"es-ES":
 				{
 					"text": "No mencionó las imágenes en absoluto, y <strong>FANG</> no ha registrado grandes matanzas de <strong>UICS</> como él implica. Esas «huellas» son probablemente el USB que dejaste, aunque sigue guardándose las cartas. Dadas sus luchas internas, puede que <strong>LÂM ALEXANDRE</> no haya visto las imágenes si <strong>SỪNG TRÂU</> llegó primero. Puede que <strong>SỪNG TRÂU</> esté esperando antes de lidiar con sus problemas internos. Seguro que te contactarán para resolverlos cuando toque. Ya le resultas invaluable.\r\n\r\nEnhorabuena. En cualquier caso, tu misión: eliminar a un número significativo de <strong>UICS</>. Si te preocupa la ética, siéntete libre de purgar a los ideólogos especialmente violentos entre ellos. Buena suerte y sal de ahí.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "D9EDFF2E46C78A65FEA6899A33B146C7",
-			"source": "download",
-			"sourceHash": "b9144c12",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS.DA_Terminal_UICS.Commands(8).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "download",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "download",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "download",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "download",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "download",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "download",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -40764,110 +36412,6 @@
 				"es-ES":
 				{
 					"text": "Misión cumplida. Los objetivos han sido neutralizados con eficiencia. Fue una acción lamentable, pero necesaria.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "DD1C3D6A445CFF6A64392196779EC13A",
-			"source": "read",
-			"sourceHash": "ac890646",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_IGC.DA_Terminal_IGC.Commands(6).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "read",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "read",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "read",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "read",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "read",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "read",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "DD808E924D5E8C3CA38F15B81227F7EB",
-			"source": "Locate Terminal",
-			"sourceHash": "1b5ea812",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/GREYFOR/CIPHER/Contracts/Quarry/Defense/DA_GREYFOR_CIPHER_Contract_Quarry_Defense_LEGACY.DA_GREYFOR_CIPHER_Contract_Quarry_Defense_LEGACY:IRRMissionSequence_4.Headline",
-			"t":
-			{
-				"de":
-				{
-					"text": "Terminal lokalisieren",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "定位终端",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Найти терминал",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "단말기 위치 파악",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "端末の位置特定",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Localizar terminal",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -41604,58 +37148,6 @@
 		},
 		{
 			"ns": "",
-			"key": "E141111B4811048BBE0CDCBEC4DD4041",
-			"source": "login",
-			"sourceHash": "0cdb02e1",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_VLF.DA_Terminal_VLF.Commands(4).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "login",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "login",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "login",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "login",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "login",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "login",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "E1831EC742691B2D87E72C8931215FC7",
 			"source": "<italic>I know </><strongitalic>SỪNG TRÂU</><italic> uses you for many missions. You will do this for me. Get the papers on troop movement from the command housing on </><strongitalic>DELTA</><italic>. While </><strongitalic>SỪNG TRÂU</><italic> does not care about our enemy, I do.</>",
 			"sourceHash": "019d24c4",
@@ -41755,58 +37247,6 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "E225BBD34347FE7DE7E3F4B19F7AFA66",
-			"source": "Document Title: \"OPERATION OMEGA – Infiltration Orders\"  \r\nDate: 2024-11-30  \r\nClassification: Top Secret\r\n\r\nDocument successfully scanned and secured.  \r\nPreview of Document Content:\r\n-----------------------------------------------------\r\n\"OPERATION OMEGA:  \r\nUICS strike elements are to initiate a rapid-entry operation targeting the bunker complex currently occupied by VLF-aligned forces. Primary objectives include clearing the command room and securing access to active data terminals. Secondary target is the adjacent cave structure—believed to serve as a fallback and storage zone for insurgent operatives.\r\n\r\nMedical bay is to be isolated and swept for potential detainees or intel caches. Operation is time-sensitive. A brief communications blackout window has been scheduled to allow for silent breach and coordinated movement through critical access points...\"\r\n\r\n-----------------------------------------------------\r\n\r\nFull document secured for further review and action.",
-			"sourceHash": "3acc4dd6",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY:IRRTerminalFile_6.BP_TerminalSequence_Text_C_3.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "Dokumenttitel: „OPERATION OMEGA - Infiltrationsbefehle“  \r\nDatum: 2024-11-30  \r\nEinstufung: Streng geheim\r\n\r\nDokument erfolgreich gescannt und gesichert.  \r\nVorschau des Dokumentinhalts:\r\n-----------------------------------------------------\r\n„OPERATION OMEGA:  \r\nUICS-Angriffselemente sollen eine Schnellzugriffsoperation gegen den Bunkerkomplex einleiten, der derzeit von VLF-nahen Kräften besetzt ist. Zu den Hauptzielen gehören das Räumen des Kommandoraums und die Sicherung des Zugangs zu aktiven Datenterminals. Sekundärziel ist die angrenzende Höhlenstruktur, die vermutlich als Rückzugs- und Lagerzone für Aufständische dient.\r\n\r\nDie Krankenstation ist abzuriegeln und nach möglichen Gefangenen oder Informationsverstecken zu durchsuchen. Die Operation ist zeitkritisch. Ein kurzes Fenster für eine Kommunikationssperre wurde angesetzt, um einen lautlosen Einbruch und koordinierte Bewegung durch kritische Zugangspunkte zu ermöglichen...“\r\n\r\n-----------------------------------------------------\r\n\r\nVollständiges Dokument zur weiteren Prüfung und für weitere Maßnahmen gesichert.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-10-06T23:14:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "文件标题：“OMEGA 行动 - 渗透命令”  \r\n日期：2024-11-30  \r\n密级：绝密\r\n\r\n文件扫描并保存成功。  \r\n文件内容预览：\r\n-----------------------------------------------------\r\n“OMEGA 行动：  \r\nUICS 突击分队将发起快速突入行动，目标是目前由 VLF 同盟部队占据的地堡建筑群。主要目标包括肃清指挥室并夺取现役数据终端的访问权。次要目标是相邻的洞穴结构，据信该处为叛乱分子的后撤和储存区域。\r\n\r\n医疗区须予以隔离，并搜查可能的被拘留者或情报藏匿点。行动具有时效性。已安排一段短暂的通信静默窗口，以便静默突破并协调通过关键出入点...”\r\n\r\n-----------------------------------------------------\r\n\r\n完整文件已保存，待进一步审查和行动。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-10-06T23:14:59Z"
-				},
-				"ru":
-				{
-					"text": "Название документа: «ОПЕРАЦИЯ OMEGA - Приказы на проникновение»  \r\nДата: 2024-11-30  \r\nГриф: Совершенно секретно\r\n\r\nДокумент успешно просканирован и сохранён.  \r\nПредпросмотр содержимого документа:\r\n-----------------------------------------------------\r\n«ОПЕРАЦИЯ OMEGA:  \r\nУдарным подразделениям UICS начать операцию быстрого проникновения против бункерного комплекса, который в настоящее время занят силами, связанными с VLF. Основные задачи: зачистить командный пункт и обеспечить доступ к действующим терминалам данных. Второстепенная цель - прилегающая пещерная структура, которая, предположительно, служит запасной позицией и складом для повстанцев.\r\n\r\nМедпункт изолировать и прочесать в поисках возможных задержанных или тайников с разведданными. Операция ограничена по времени. Запланировано короткое окно отключения связи для бесшумного прорыва и скоординированного продвижения через ключевые точки доступа...»\r\n\r\n-----------------------------------------------------\r\n\r\nПолный документ сохранён для дальнейшего рассмотрения и принятия мер.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-10-06T23:14:59Z"
-				},
-				"ko":
-				{
-					"text": "문서 제목: “OMEGA 작전 - 침투 명령”  \r\n날짜: 2024-11-30  \r\n등급: 일급 기밀\r\n\r\n문서 스캔 및 확보 완료.  \r\n문서 내용 미리보기:\r\n-----------------------------------------------------\r\n“OMEGA 작전:  \r\nUICS 타격 부대는 현재 VLF 계열 병력이 점거한 벙커 단지를 목표로 신속 진입 작전을 개시한다. 주요 목표는 지휘실 소탕과 가동 중인 데이터 터미널에 대한 접근 확보다. 부차 목표는 인접한 동굴 구조물로, 반군 요원들의 후퇴 및 보관 구역으로 쓰이는 것으로 추정된다.\r\n\r\n의무실은 격리하고 억류자나 정보 은닉처가 있는지 수색한다. 작전은 시간이 촉박하다. 은밀한 돌파와 주요 진입 지점을 통한 협조 이동을 위해 짧은 통신 두절 시간이 예정되어 있다...”\r\n\r\n-----------------------------------------------------\r\n\r\n추가 검토 및 조치를 위해 전체 문서를 확보했다.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-10-06T23:14:59Z"
-				},
-				"ja":
-				{
-					"text": "文書タイトル：「OMEGA 作戦 - 潜入命令」  \r\n日付：2024-11-30  \r\n機密区分：最高機密\r\n\r\n文書のスキャンと確保に成功した。  \r\n文書内容のプレビュー：\r\n-----------------------------------------------------\r\n「OMEGA 作戦：  \r\nUICS 攻撃部隊は、現在 VLF 系勢力が占拠しているバンカー施設を標的とした迅速突入作戦を開始する。主目標は司令室の制圧と稼働中のデータターミナルへのアクセス確保。副目標は隣接する洞窟構造で、反乱分子の後退拠点および保管区域として使われているとみられる。\r\n\r\n医務室は隔離し、拘束者や情報の隠し場所がないか捜索する。作戦は時間的制約が厳しい。隠密突破と重要アクセスポイントを通じた連携移動のため、短時間の通信遮断ウィンドウが予定されている...」\r\n\r\n-----------------------------------------------------\r\n\r\n今後の審査と対応のため、文書全体を確保した。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-10-06T23:14:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Título del documento: «OPERACIÓN OMEGA - Órdenes de infiltración»  \r\nFecha: 2024-11-30  \r\nClasificación: Alto secreto\r\n\r\nDocumento escaneado y asegurado correctamente.  \r\nVista previa del contenido del documento:\r\n-----------------------------------------------------\r\n«OPERACIÓN OMEGA:  \r\nLos elementos de asalto de la UICS iniciarán una operación de entrada rápida contra el complejo del búnker actualmente ocupado por fuerzas afines al VLF. Los objetivos principales incluyen despejar la sala de mando y asegurar el acceso a las terminales de datos activas. El objetivo secundario es la estructura de cuevas adyacente, que se cree que sirve como zona de repliegue y almacenamiento para operativos insurgentes.\r\n\r\nLa enfermería debe aislarse y registrarse en busca de posibles detenidos o alijos de inteligencia. La operación es urgente. Se ha programado una breve ventana de apagón de comunicaciones para permitir una brecha silenciosa y un movimiento coordinado por los puntos de acceso críticos...»\r\n\r\n-----------------------------------------------------\r\n\r\nDocumento completo asegurado para revisión y acción posteriores.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-10-06T23:14:59Z"
 				}
 			}
 		},
@@ -42639,6 +38079,46 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "E7618BE74EE87DD0FEE859B04A4456A3",
+			"source": "RequestLogin",
+			"sourceHash": "f5a90c45",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_VLF.DA_Terminal_VLF:BP_TerminalSequence_Login_C_0.Command.Command",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -43684,58 +39164,6 @@
 		},
 		{
 			"ns": "",
-			"key": "EECE32F84F903599FB6426917C945BC9",
-			"source": "cd",
-			"sourceHash": "8f021865",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY.Commands(1).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "cd",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "cd",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "cd",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "cd",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "cd",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "cd",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "F027A2CE4EE8EEABE8662CB7E0500777",
 			"source": "Secure Intel",
 			"sourceHash": "315bdadb",
@@ -43780,110 +39208,6 @@
 				"es-ES":
 				{
 					"text": "Asegurar inteligencia",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "F0A13FDD42529FF48F2C4997A57CB590",
-			"source": "Retrieve Evidence",
-			"sourceHash": "8f6a2aac",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Retrieve/DA_FANG_RET_Test.DA_FANG_RET_Test:IRRMissionSequence_0.Headline",
-			"t":
-			{
-				"de":
-				{
-					"text": "Beweise beschaffen",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "获取证据",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Собрать улики",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "증거 확보",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "証拠回収",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Recuperar pruebas",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "F0B4E5184A727D243732FAAABB7E5D0C",
-			"source": "PLACEHOLDER",
-			"sourceHash": "7e1e0cdf",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/SideMissions/DA_FANG_OBSERVER_0002_A_Test.DA_FANG_OBSERVER_0002_A_Test.MissionInfo.Briefing.Text(0).Text.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "PLACEHOLDER",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "占位符",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "PLACEHOLDER",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "플레이스홀더",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "プレースホルダー",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "PLACEHOLDER",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -44152,58 +39476,6 @@
 		},
 		{
 			"ns": "",
-			"key": "F2E539654AF61F5E9CD8B3B762472FF7",
-			"source": "PLACEHOLDER",
-			"sourceHash": "7e1e0cdf",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/SideMissions/DA_FANG_OBSERVER_0002_A_Test.DA_FANG_OBSERVER_0002_A_Test.MissionInfo.Debriefing.Text(0).Text.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "PLACEHOLDER",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "占位符",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "PLACEHOLDER",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "플레이스홀더",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "プレースホルダー",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "PLACEHOLDER",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "F3BA67434A4240DBD5B4F7AA57356255",
 			"source": "Removing <strong>SỪNG TRÂU</> will no doubt be a great gift to Red River. How many of those missing person posters have you seen that could all be linked to this? When he's not committing war crimes, <strong>SỪNG TRÂU</> usually operates in the center of <strong>BUNKER</>. Time is of the essence, so terminate him now at <strong>BUNKER</>. Good luck, kill him, and get out.",
 			"sourceHash": "c5f293cc",
@@ -44352,58 +39624,6 @@
 				"es-ES":
 				{
 					"text": "Por ahora, entrega el USB en la sala de mando de <strong>BUNKER</>. Los registros indican que la sala quizá no parezca gran cosa, pero la <strong>UICS</> está segura de que los jefes lo verán allí. Ah, y no olvides descargar los datos en tu GCPS. Buena suerte y sal de ahí.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "F46811224AD493A972FE2BAB5005B5C2",
-			"source": "hack",
-			"sourceHash": "a75daea0",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_VLF.DA_Terminal_VLF.Commands(10).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "hack",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "hack",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "hack",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "hack",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "hack",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "hack",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -44724,6 +39944,46 @@
 		},
 		{
 			"ns": "",
+			"key": "F611C01D42F7A190EC5D07BA992521FD",
+			"source": "RequestLogin",
+			"sourceHash": "f5a90c45",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS.DA_Terminal_UICS:BP_TerminalSequence_Login_C_0.Command.Command",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "F615942B4A96AE42519128A1F6B577D0",
 			"source": "Shutdown Terminal",
 			"sourceHash": "abbfcb95",
@@ -44768,110 +40028,6 @@
 				"es-ES":
 				{
 					"text": "Apagar terminal",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "F61A95E848997CDF649EB3AF0D28DBA9",
-			"source": "login",
-			"sourceHash": "0cdb02e1",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY.Commands(4).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "login",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "login",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "login",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "login",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "login",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "login",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "F697F5334D85F8529C5360BC60775A8A",
-			"source": "Find the Control Room.",
-			"sourceHash": "0a778cfb",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/SideMissions/DA_FANG_OBSERVER_0002_A_Test.DA_FANG_OBSERVER_0002_A_Test:IRRMissionSequence_0.BP_IRRObjective_FindLocation_C_4.Description",
-			"t":
-			{
-				"de":
-				{
-					"text": "Finde den Kontrollraum.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "找到控制室。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Найди комнату управления.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "제어실을 찾아라.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "制御室を見つけよ。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Encuentra la sala de control.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -45608,58 +40764,6 @@
 		},
 		{
 			"ns": "",
-			"key": "FA320B05437D62C3784088A0ED0ED523",
-			"source": "Download Data",
-			"sourceHash": "e3eeaff0",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/GREYFOR/CIPHER/Contracts/Quarry/Defense/DA_GREYFOR_CIPHER_Contract_Quarry_Defense_LEGACY.DA_GREYFOR_CIPHER_Contract_Quarry_Defense_LEGACY:IRRMissionSequence_3.Headline",
-			"t":
-			{
-				"de":
-				{
-					"text": "Daten herunterladen",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "下载数据",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Скачать данные",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "데이터 다운로드",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "データをダウンロード",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Descargar datos",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "FA9209E5441A11A95CB5F19602A3F300",
 			"source": "Go to the quarry and install the bugs.",
 			"sourceHash": "472e8dbe",
@@ -45868,6 +40972,46 @@
 		},
 		{
 			"ns": "",
+			"key": "FBE7BD984C415F093253E0B36FAFE5D8",
+			"source": "{Command} {l} {r} {user}",
+			"sourceHash": "f0cfa1fd",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_VLF.DA_Terminal_VLF:BP_TerminalArgument_Hack_C_0.BP_TerminalSequence_Text_C_0.Text",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
+				}
+			}
+		},
+		{
+			"ns": "",
 			"key": "FC3EDF204CF384B8065583B27D88F00B",
 			"source": "Nanh Operator, prove your discretion. <redacted>Last Operator we sent never returned.</> <strong>LÂM</> seems not worried by Quân Liên Lục Địa, [That means <strong>UICS</>], building expansions all over Khu mỏ, [That’s <strong>QUARRY</>]. But I know [<strong>UICS</>] hunt after me.",
 			"sourceHash": "7600abe2",
@@ -45967,58 +41111,6 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-28T11:08:07Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "FC4BCDC44879E1539C02EBB0004D5C80",
-			"source": "login",
-			"sourceHash": "0cdb02e1",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS.DA_Terminal_UICS.Commands(4).Commands.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "login",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "login",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "login",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "login",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "login",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "login",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -46336,58 +41428,6 @@
 		},
 		{
 			"ns": "",
-			"key": "FEB49EB845077210FE2E28B9EEA78A48",
-			"source": "Document Title: \"Factories – Site Overview\"  \r\nDate: 2024-11-28  \r\nClassification: Confidential – Internal Distribution Only\r\n\r\nDocument successfully scanned and archived.  \r\nPreview of Document Content:\r\n-----------------------------------------------------\r\n\"FACILITY OVERVIEW – SITE BLOCK-7:  \r\nThe factory installation adjacent to the quarry remains fully operational and is responsible for high-volume processing of marble and composite concrete. The materials produced are used in structural reinforcement, subterranean encasement, and modular defensive installations.\r\n\r\nKey operations include rotary crushing, thermal curing, and form compression. Automated batching units maintain a 24/7 output cycle. All export shipments are routed through controlled rail access under GridSec Protocol 6C.\r\n\r\nPersonnel clearance checks are enforced at two entry gates. Observation drones perform perimeter sweeps at 20-minute intervals. While the site is not classified as a high-risk zone, patrols have been increased following recent interference reports from nearby sectors.\r\n\r\nFacility status: STABLE  \r\nOutput capacity: 91%  \r\nSecurity recommendation: Maintain current protocols. Escalation unnecessary unless actionable intel is confirmed.\"\r\n-----------------------------------------------------\r\n\r\nFull document secured for reference and compliance logging.",
-			"sourceHash": "5d1d7246",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY:IRRTerminalFile_1.BP_TerminalSequence_Text_C_1.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "Dokumenttitel: „Fabriken - Standortübersicht“  \r\nDatum: 2024-11-28  \r\nEinstufung: Vertraulich - Nur zur internen Verteilung\r\n\r\nDokument erfolgreich gescannt und archiviert.  \r\nVorschau des Dokumentinhalts:\r\n-----------------------------------------------------\r\n„ANLAGENÜBERSICHT - STANDORT BLOCK-7:  \r\nDie Fabrikanlage neben dem Steinbruch ist weiterhin voll in Betrieb und für die Verarbeitung großer Mengen Marmor und Verbundbeton zuständig. Die produzierten Materialien werden zur Strukturverstärkung, für unterirdische Ummantelungen und für modulare Verteidigungsanlagen verwendet.\r\n\r\nZu den Kernprozessen gehören Kreiselbrechen, thermisches Aushärten und Formpressen. Automatische Dosieranlagen halten einen Produktionszyklus rund um die Uhr aufrecht. Alle Exportlieferungen werden über kontrollierten Schienenzugang gemäß GridSec-Protokoll 6C geleitet.\r\n\r\nFreigabekontrollen des Personals werden an zwei Eingangstoren durchgeführt. Beobachtungsdrohnen fliegen alle 20 Minuten Perimeterkontrollen. Obwohl der Standort nicht als Hochrisikozone eingestuft ist, wurden die Patrouillen nach jüngsten Störungsmeldungen aus benachbarten Sektoren verstärkt.\r\n\r\nAnlagenstatus: STABIL  \r\nProduktionskapazität: 91%  \r\nSicherheitsempfehlung: Aktuelle Protokolle beibehalten. Eskalation unnötig, sofern keine verwertbaren Informationen bestätigt werden.“\r\n-----------------------------------------------------\r\n\r\nVollständiges Dokument zur Referenz und Compliance-Protokollierung gesichert.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-10-06T23:14:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "文件标题：“工厂 - 场地概况”  \r\n日期：2024-11-28  \r\n密级：机密 - 仅限内部分发\r\n\r\n文件扫描并归档成功。  \r\n文件内容预览：\r\n-----------------------------------------------------\r\n“设施概况 - 场地 BLOCK-7：  \r\n采石场旁的工厂设施仍在全面运转，负责大批量加工大理石和复合混凝土。所产材料用于结构加固、地下封装及模块化防御设施。\r\n\r\n主要作业包括旋回破碎、热养护和模压成型。自动配料单元保持全天候不间断生产。所有出口货物均按照 GridSec 6C 号协议经受控铁路通道运输。\r\n\r\n两处入口大门实施人员权限检查。观测无人机每 20 分钟进行一次周边巡查。尽管该场地未被列为高风险区域，但在附近区域近期出现干扰报告后，巡逻已加强。\r\n\r\n设施状态：稳定  \r\n产能：91%  \r\n安全建议：维持现行协议。除非确认可行动情报，否则无需升级。”\r\n-----------------------------------------------------\r\n\r\n完整文件已保存，供参考及合规记录。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-10-06T23:14:59Z"
-				},
-				"ru":
-				{
-					"text": "Название документа: «Заводы - Обзор объекта»  \r\nДата: 2024-11-28  \r\nГриф: Конфиденциально - Только для внутреннего распространения\r\n\r\nДокумент успешно просканирован и заархивирован.  \r\nПредпросмотр содержимого документа:\r\n-----------------------------------------------------\r\n«ОБЗОР ОБЪЕКТА - УЧАСТОК BLOCK-7:  \r\nЗаводской комплекс рядом с карьером продолжает работать в полном объёме и отвечает за крупносерийную переработку мрамора и композитного бетона. Производимые материалы используются для усиления конструкций, подземной обкладки и модульных оборонительных сооружений.\r\n\r\nОсновные операции включают конусное дробление, термическое отверждение и прессование в формах. Автоматические дозировочные установки поддерживают круглосуточный цикл выпуска. Все экспортные отгрузки направляются через контролируемый железнодорожный подъезд согласно протоколу GridSec 6C.\r\n\r\nПроверка допуска персонала проводится на двух въездных воротах. Дроны наблюдения облетают периметр каждые 20 минут. Хотя объект не отнесён к зонам высокого риска, патрули были усилены после недавних сообщений о помехах из соседних секторов.\r\n\r\nСтатус объекта: СТАБИЛЕН  \r\nПроизводственная мощность: 91%  \r\nРекомендация по безопасности: Сохранять текущие протоколы. Эскалация не требуется, если не будут подтверждены разведданные, требующие действий.»\r\n-----------------------------------------------------\r\n\r\nПолный документ сохранён для справки и учёта соответствия.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-10-06T23:14:59Z"
-				},
-				"ko":
-				{
-					"text": "문서 제목: “공장 - 현장 개요”  \r\n날짜: 2024-11-28  \r\n등급: 기밀 - 내부 배포 전용\r\n\r\n문서 스캔 및 보관 완료.  \r\n문서 내용 미리보기:\r\n-----------------------------------------------------\r\n“시설 개요 - 현장 BLOCK-7:  \r\n채석장에 인접한 공장 시설은 여전히 완전 가동 중이며 대리석과 복합 콘크리트의 대량 가공을 담당한다. 생산된 자재는 구조 보강, 지하 피복 및 모듈식 방어 시설에 사용된다.\r\n\r\n주요 공정은 선회 파쇄, 열 양생, 압축 성형이다. 자동 배합 장치가 24시간 연중무휴 생산 주기를 유지한다. 모든 수출 화물은 GridSec 프로토콜 6C에 따라 통제된 철도 접근로를 통해 운송된다.\r\n\r\n두 곳의 출입문에서 인원 보안 등급 검사가 시행된다. 감시 드론이 20분 간격으로 경계 순찰을 수행한다. 이 현장은 고위험 구역으로 분류되지 않았으나, 최근 인근 구역에서 방해 보고가 들어온 이후 순찰이 강화되었다.\r\n\r\n시설 상태: 안정  \r\n생산 능력: 91%  \r\n보안 권고: 현행 프로토콜 유지. 실행 가능한 정보가 확인되지 않는 한 상향 조치 불필요.”\r\n-----------------------------------------------------\r\n\r\n참조 및 규정 준수 기록용으로 전체 문서를 확보했다.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-10-06T23:14:59Z"
-				},
-				"ja":
-				{
-					"text": "文書タイトル：「工場 - 施設概要」  \r\n日付：2024-11-28  \r\n機密区分：機密 - 内部配布限定\r\n\r\n文書のスキャンとアーカイブに成功した。  \r\n文書内容のプレビュー：\r\n-----------------------------------------------------\r\n「施設概要 - サイト BLOCK-7：  \r\n採石場に隣接する工場施設は引き続き完全稼働しており、大理石と複合コンクリートの大量加工を担っている。生産された資材は構造補強、地下封入、モジュール式防御施設に使用される。\r\n\r\n主な工程は旋動破砕、熱養生、圧縮成形である。自動バッチ処理ユニットが24時間365日の生産サイクルを維持している。すべての出荷は GridSec プロトコル 6C に基づき管理された鉄道アクセスを経由する。\r\n\r\n2か所の入場ゲートで人員のクリアランス確認が実施されている。監視ドローンが20分間隔で周辺を巡回する。本施設は高リスク区域に分類されていないが、近隣セクターからの最近の妨害報告を受けて巡回が強化された。\r\n\r\n施設状況：安定  \r\n生産能力：91%  \r\nセキュリティ勧告：現行プロトコルを維持。対処可能な情報が確認されない限り、エスカレーションは不要。」\r\n-----------------------------------------------------\r\n\r\n文書全体を参照およびコンプライアンス記録用に確保した。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-10-06T23:14:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Título del documento: «Fábricas - Resumen del emplazamiento»  \r\nFecha: 2024-11-28  \r\nClasificación: Confidencial - Solo distribución interna\r\n\r\nDocumento escaneado y archivado correctamente.  \r\nVista previa del contenido del documento:\r\n-----------------------------------------------------\r\n«RESUMEN DE LA INSTALACIÓN - EMPLAZAMIENTO BLOCK-7:  \r\nLa instalación fabril junto a la cantera sigue plenamente operativa y se encarga del procesamiento a gran escala de mármol y hormigón compuesto. Los materiales producidos se emplean en refuerzo estructural, revestimiento subterráneo e instalaciones defensivas modulares.\r\n\r\nLas operaciones clave incluyen trituración giratoria, curado térmico y compresión en molde. Las unidades de dosificación automáticas mantienen un ciclo de producción 24/7. Todos los envíos de exportación se canalizan por un acceso ferroviario controlado según el Protocolo GridSec 6C.\r\n\r\nSe realizan controles de autorización del personal en dos puertas de acceso. Drones de observación barren el perímetro cada 20 minutos. Aunque el emplazamiento no está clasificado como zona de alto riesgo, las patrullas se han reforzado tras recientes informes de interferencias en sectores cercanos.\r\n\r\nEstado de la instalación: ESTABLE  \r\nCapacidad de producción: 91%  \r\nRecomendación de seguridad: Mantener los protocolos actuales. Escalada innecesaria salvo que se confirme inteligencia accionable.»\r\n-----------------------------------------------------\r\n\r\nDocumento completo asegurado para consulta y registro de cumplimiento.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-10-06T23:14:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "FECAF6F14A518F43B383D09ED90AAF71",
 			"source": "Secure Intel",
 			"sourceHash": "315bdadb",
@@ -46588,58 +41628,6 @@
 				"es-ES":
 				{
 					"text": "Extrae sin sufrir daño.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "FF4D97A044DAFF50E029E3BA1C23A61D",
-			"source": "FANG Assignment <strong>RET_267_RR</>: <italic>Retrieve all evidence at marked areas and deliver them.</>",
-			"sourceHash": "54af25c5",
-			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Retrieve/DA_FANG_RET_Test.DA_FANG_RET_Test.MissionInfo.Briefing.Text(0).Text.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "FANG-Auftrag <strong>RET_267_RR</>: <italic>Beschaffe alle Beweise in den markierten Bereichen und liefere sie ab.</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "FANG 任务 <strong>RET_267_RR</>：<italic>在标记区域取回所有证据并送达。</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Задание FANG <strong>RET_267_RR</>: <italic>Собери все улики в отмеченных зонах и доставь их.</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "FANG 과제 <strong>RET_267_RR</>: <italic>표시된 구역에서 모든 증거를 회수해 전달하라.</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "FANG課題 <strong>RET_267_RR</>：<italic>指定区域の証拠をすべて回収し、届けろ。</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Encargo FANG <strong>RET_267_RR</>: <italic>Recupera todas las pruebas en las zonas marcadas y entrégalas.</>",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
