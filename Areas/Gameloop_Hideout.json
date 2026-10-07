@@ -160,58 +160,6 @@
 		},
 		{
 			"ns": "",
-			"key": "638511F04F97E39EE55B429E8A3FAA6F",
-			"source": "NicknameText",
-			"sourceHash": "67b3c565",
-			"origin": "/Game/Blueprints/Gameloop/Hideout/WIdgets/W_SocialTab.W_SocialTab_C:WidgetTree.NicknameText.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "NicknameText",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "NicknameText",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "NicknameText",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "NicknameText",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "NicknameText",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "NicknameText",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "BCE1534C430BB33E4BB101AFFAD140E4",
 			"source": "{x} Joined The Party",
 			"sourceHash": "8d9840fd",
