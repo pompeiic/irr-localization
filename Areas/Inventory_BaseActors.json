@@ -12,45 +12,45 @@
 			{
 				"de":
 				{
-					"text": "Halte <Red>F</>, um den Container zu plündern",
-					"status": "stale",
+					"text": "Halte <Red>F</>, um zu handeln.",
+					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-25T20:56:00Z"
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "按住<Red>F</>搜刮容器",
-					"status": "stale",
+					"text": "按住<Red>F</>开始交易。",
+					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-25T20:56:00Z"
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "Удерживай <Red>F</>, чтобы обыскать контейнер",
-					"status": "stale",
+					"text": "Удерживай <Red>F</>, чтобы начать торговлю.",
+					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-25T20:56:00Z"
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "<Red>F</> 길게 눌러 컨테이너 루팅",
-					"status": "stale",
+					"text": "<Red>F</> 길게 눌러 거래 시작.",
+					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-25T20:56:00Z"
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "<Red>F</>長押しでコンテナを漁る",
-					"status": "stale",
+					"text": "<Red>F</>長押しで取引を開始。",
+					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-25T20:56:00Z"
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "Mantén <Red>F</> para saquear el contenedor",
-					"status": "stale",
+					"text": "Mantén <Red>F</> para empezar a comerciar.",
+					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-25T20:56:00Z"
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -64,45 +64,45 @@
 			{
 				"de":
 				{
-					"text": "Halte <Red>F</>, um den Container zu plündern",
-					"status": "stale",
+					"text": "Halte <Red>F</>, um den sicheren Behälter zu öffnen",
+					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-25T20:56:00Z"
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "按住<Red>F</>搜刮容器",
-					"status": "stale",
+					"text": "按住<Red>F</>打开安全箱",
+					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-25T20:56:00Z"
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "Удерживай <Red>F</>, чтобы обыскать контейнер",
-					"status": "stale",
+					"text": "Удерживай <Red>F</>, чтобы открыть защищённый контейнер",
+					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-25T20:56:00Z"
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "<Red>F</> 길게 눌러 컨테이너 루팅",
-					"status": "stale",
+					"text": "<Red>F</> 길게 눌러 보안 컨테이너 열기",
+					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-25T20:56:00Z"
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "<Red>F</>長押しでコンテナを漁る",
-					"status": "stale",
+					"text": "<Red>F</>長押しでセキュアコンテナを開く",
+					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-25T20:56:00Z"
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "Mantén <Red>F</> para saquear el contenedor",
-					"status": "stale",
+					"text": "Mantén <Red>F</> para abrir el contenedor seguro",
+					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-25T20:56:00Z"
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
