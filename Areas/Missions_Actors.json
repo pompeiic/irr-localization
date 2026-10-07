@@ -784,58 +784,6 @@
 		},
 		{
 			"ns": "",
-			"key": "79DBECCF46385A4C8A53E7BF06D49363",
-			"source": "Press <Red>F</> to <Red>upgrade</> the PLACEHOLDER.",
-			"sourceHash": "3f3439a7",
-			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_Master.BP_HideoutUnit_Master_C:BP_InteractionTarget_Upgrade_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
-			"t":
-			{
-				"de":
-				{
-					"text": "Drücke <Red>F</>, um PLACEHOLDER <Red>aufzurüsten</>.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-25T20:56:00Z"
-				},
-				"zh-Hans":
-				{
-					"text": "按<Red>F</><Red>升级</>PLACEHOLDER。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-25T20:56:00Z"
-				},
-				"ru":
-				{
-					"text": "Нажми <Red>F</>, чтобы <Red>улучшить</> PLACEHOLDER.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-25T20:56:00Z"
-				},
-				"ko":
-				{
-					"text": "<Red>F</> 눌러 PLACEHOLDER <Red>업그레이드</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-25T20:56:00Z"
-				},
-				"ja":
-				{
-					"text": "<Red>F</>でPLACEHOLDERを<Red>強化</>",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-25T20:56:00Z"
-				},
-				"es-ES":
-				{
-					"text": "Pulsa <Red>F</> para <Red>mejorar</> PLACEHOLDER.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-25T20:56:00Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "85814017445A056B5FB049821ACB5B80",
 			"source": "Unlock additional gear storage and increase max resources.",
 			"sourceHash": "a5e267c5",
