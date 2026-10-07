@@ -16764,58 +16764,6 @@
 		},
 		{
 			"ns": "",
-			"key": "6545DB8248FC3F3C485BBC9166B0129D",
-			"source": "x",
-			"sourceHash": "8fcf576f",
-			"origin": "/Game/Blueprints/InventorySystem/Items/Gadgets/Binoculars/M1050_LRF_Binoculars/Materials/W_IRR_LRF_Reticle.W_IRR_LRF_Reticle_C:WidgetTree.TextBlock_4.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "x",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "x",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "x",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "x",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "x",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "x",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "6558D49247DEB124D4142299B3F2A6D3",
 			"source": "10.75 Inch handguard from Geissele for the AR-15 family that is utilizing the M-LOK system.",
 			"sourceHash": "bd0f4881",
@@ -21897,50 +21845,50 @@
 		{
 			"ns": "",
 			"key": "8855FCD84AF53F6F96B708840721DD7D",
-			"source": "RGO Greande Template",
-			"sourceHash": "fcf2eb3f",
+			"source": "Soviet defensive frag. The dense fragment sleeve stays lethal well past the blast, so throw it from cover.",
+			"sourceHash": "2e5370d6",
 			"origin": "/Game/Blueprints/InventorySystem/Items/Grenades/RGO_Grenade/ID_RGO_Grenade.ID_RGO_Grenade.ItemAppearance.Description",
 			"t":
 			{
 				"de":
 				{
 					"text": "RGO-Granaten-Vorlage",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"zh-Hans":
 				{
 					"text": "RGO 手榴弹模板",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"ru":
 				{
 					"text": "Шаблон гранаты РГО",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"ko":
 				{
 					"text": "RGO 수류탄 템플릿",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"ja":
 				{
 					"text": "RGO グレネードテンプレート",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"es-ES":
 				{
 					"text": "Plantilla de granada RGO",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				}
@@ -37849,8 +37797,8 @@
 		{
 			"ns": "",
 			"key": "ED84117A4694859CA28B0B888ABE5EF3",
-			"source": "20 round 7.62x51mm magazine for the M14.",
-			"sourceHash": "4b7adf8d",
+			"source": "10 round 7.62x51mm magazine for the M14.",
+			"sourceHash": "b5f795ec",
 			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Mag/M14_Standard_762x51_10Rnd/ID_M14_Standard_762x51_10Rnd.ID_M14_Standard_762x51_10Rnd.ItemAppearance.Description",
 			"t":
 			{
