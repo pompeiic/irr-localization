@@ -10,8 +10,8 @@
 		"ja",
 		"es-ES"
 	],
-	"exportedAt": "2026-10-06T23:05:17.281Z",
-	"entries": 3912,
+	"exportedAt": "2026-10-07T11:54:38.998Z",
+	"entries": 3633,
 	"areas": [
 		{
 			"area": "Blueprints/Airdrop",
@@ -184,15 +184,15 @@
 		{
 			"area": "Gameloop/Hideout",
 			"file": "Areas/Gameloop_Hideout.json",
-			"entries": 6,
+			"entries": 5,
 			"translated":
 			{
-				"de": 6,
-				"zh-Hans": 6,
-				"ru": 6,
-				"ko": 6,
-				"ja": 6,
-				"es-ES": 6
+				"de": 5,
+				"zh-Hans": 5,
+				"ru": 5,
+				"ko": 5,
+				"ja": 5,
+				"es-ES": 5
 			}
 		},
 		{
@@ -324,29 +324,29 @@
 		{
 			"area": "Inventory/Items",
 			"file": "Areas/Inventory_Items.json",
-			"entries": 798,
+			"entries": 797,
 			"translated":
 			{
-				"de": 725,
-				"zh-Hans": 725,
-				"ru": 725,
-				"ko": 725,
-				"ja": 725,
-				"es-ES": 725
+				"de": 723,
+				"zh-Hans": 723,
+				"ru": 723,
+				"ko": 723,
+				"ja": 723,
+				"es-ES": 723
 			}
 		},
 		{
 			"area": "Inventory/Objects",
 			"file": "Areas/Inventory_Objects.json",
-			"entries": 105,
+			"entries": 104,
 			"translated":
 			{
-				"de": 100,
-				"zh-Hans": 100,
-				"ru": 100,
-				"ko": 100,
-				"ja": 100,
-				"es-ES": 100
+				"de": 104,
+				"zh-Hans": 104,
+				"ru": 104,
+				"ko": 104,
+				"ja": 104,
+				"es-ES": 104
 			}
 		},
 		{
@@ -355,12 +355,12 @@
 			"entries": 18,
 			"translated":
 			{
-				"de": 16,
-				"zh-Hans": 16,
-				"ru": 16,
-				"ko": 16,
-				"ja": 16,
-				"es-ES": 16
+				"de": 18,
+				"zh-Hans": 18,
+				"ru": 18,
+				"ko": 18,
+				"ja": 18,
+				"es-ES": 18
 			}
 		},
 		{
@@ -380,35 +380,35 @@
 		{
 			"area": "Inventory/Templates",
 			"file": "Areas/Inventory_Templates.json",
-			"entries": 62,
+			"entries": 28,
 			"translated":
 			{
-				"de": 62,
-				"zh-Hans": 62,
-				"ru": 62,
-				"ko": 62,
-				"ja": 62,
-				"es-ES": 62
+				"de": 28,
+				"zh-Hans": 28,
+				"ru": 28,
+				"ko": 28,
+				"ja": 28,
+				"es-ES": 28
 			}
 		},
 		{
 			"area": "Inventory/Widgets",
 			"file": "Areas/Inventory_Widgets.json",
-			"entries": 276,
+			"entries": 245,
 			"translated":
 			{
-				"de": 271,
-				"zh-Hans": 271,
-				"ru": 271,
-				"ko": 271,
-				"ja": 271,
-				"es-ES": 271
+				"de": 243,
+				"zh-Hans": 243,
+				"ru": 243,
+				"ko": 243,
+				"ja": 243,
+				"es-ES": 243
 			}
 		},
 		{
 			"area": "Missions/Actors",
 			"file": "Areas/Missions_Actors.json",
-			"entries": 37,
+			"entries": 36,
 			"translated":
 			{
 				"de": 36,
@@ -422,29 +422,29 @@
 		{
 			"area": "Missions/DataAssets",
 			"file": "Areas/Missions_DataAssets.json",
-			"entries": 900,
+			"entries": 805,
 			"translated":
 			{
-				"de": 897,
-				"zh-Hans": 897,
-				"ru": 897,
-				"ko": 897,
-				"ja": 897,
-				"es-ES": 897
+				"de": 799,
+				"zh-Hans": 799,
+				"ru": 799,
+				"ko": 799,
+				"ja": 799,
+				"es-ES": 799
 			}
 		},
 		{
 			"area": "Missions/Objects",
 			"file": "Areas/Missions_Objects.json",
-			"entries": 39,
+			"entries": 35,
 			"translated":
 			{
-				"de": 38,
-				"zh-Hans": 38,
-				"ru": 38,
-				"ko": 38,
-				"ja": 38,
-				"es-ES": 38
+				"de": 35,
+				"zh-Hans": 35,
+				"ru": 35,
+				"ko": 35,
+				"ja": 35,
+				"es-ES": 35
 			}
 		},
 		{
@@ -453,12 +453,12 @@
 			"entries": 13,
 			"translated":
 			{
-				"de": 10,
-				"zh-Hans": 10,
-				"ru": 10,
-				"ko": 10,
-				"ja": 10,
-				"es-ES": 10
+				"de": 13,
+				"zh-Hans": 13,
+				"ru": 13,
+				"ko": 13,
+				"ja": 13,
+				"es-ES": 13
 			}
 		},
 		{
@@ -478,15 +478,15 @@
 		{
 			"area": "Missions/UI",
 			"file": "Areas/Missions_UI.json",
-			"entries": 215,
+			"entries": 201,
 			"translated":
 			{
-				"de": 214,
-				"zh-Hans": 214,
-				"ru": 214,
-				"ko": 214,
-				"ja": 214,
-				"es-ES": 214
+				"de": 200,
+				"zh-Hans": 200,
+				"ru": 200,
+				"ko": 200,
+				"ja": 200,
+				"es-ES": 200
 			}
 		},
 		{
@@ -509,12 +509,12 @@
 			"entries": 2,
 			"translated":
 			{
-				"de": 1,
-				"zh-Hans": 1,
-				"ru": 1,
-				"ko": 1,
-				"ja": 1,
-				"es-ES": 1
+				"de": 2,
+				"zh-Hans": 2,
+				"ru": 2,
+				"ko": 2,
+				"ja": 2,
+				"es-ES": 2
 			}
 		},
 		{
@@ -523,12 +523,12 @@
 			"entries": 26,
 			"translated":
 			{
-				"de": 0,
-				"zh-Hans": 0,
-				"ru": 0,
-				"ko": 0,
-				"ja": 0,
-				"es-ES": 0
+				"de": 26,
+				"zh-Hans": 26,
+				"ru": 26,
+				"ko": 26,
+				"ja": 26,
+				"es-ES": 26
 			}
 		},
 		{
@@ -562,15 +562,15 @@
 		{
 			"area": "ThirdParty/CMG",
 			"file": "Areas/ThirdParty_CMG.json",
-			"entries": 165,
+			"entries": 77,
 			"translated":
 			{
-				"de": 165,
-				"zh-Hans": 165,
-				"ru": 165,
-				"ko": 165,
-				"ja": 165,
-				"es-ES": 165
+				"de": 77,
+				"zh-Hans": 77,
+				"ru": 77,
+				"ko": 77,
+				"ja": 77,
+				"es-ES": 77
 			}
 		},
 		{
@@ -579,12 +579,12 @@
 			"entries": 36,
 			"translated":
 			{
-				"de": 35,
-				"zh-Hans": 35,
-				"ru": 35,
-				"ko": 35,
-				"ja": 35,
-				"es-ES": 35
+				"de": 36,
+				"zh-Hans": 36,
+				"ru": 36,
+				"ko": 36,
+				"ja": 36,
+				"es-ES": 36
 			}
 		},
 		{
@@ -607,12 +607,12 @@
 			"entries": 20,
 			"translated":
 			{
-				"de": 0,
-				"zh-Hans": 0,
-				"ru": 0,
-				"ko": 0,
-				"ja": 0,
-				"es-ES": 0
+				"de": 20,
+				"zh-Hans": 20,
+				"ru": 20,
+				"ko": 20,
+				"ja": 20,
+				"es-ES": 20
 			}
 		},
 		{
@@ -621,12 +621,12 @@
 			"entries": 9,
 			"translated":
 			{
-				"de": 0,
-				"zh-Hans": 0,
-				"ru": 0,
-				"ko": 0,
-				"ja": 0,
-				"es-ES": 0
+				"de": 9,
+				"zh-Hans": 9,
+				"ru": 9,
+				"ko": 9,
+				"ja": 9,
+				"es-ES": 9
 			}
 		},
 		{
@@ -635,26 +635,26 @@
 			"entries": 2,
 			"translated":
 			{
-				"de": 0,
-				"zh-Hans": 0,
-				"ru": 0,
-				"ko": 0,
-				"ja": 0,
-				"es-ES": 0
+				"de": 2,
+				"zh-Hans": 2,
+				"ru": 2,
+				"ko": 2,
+				"ja": 2,
+				"es-ES": 2
 			}
 		},
 		{
 			"area": "UI/Widgets",
 			"file": "Areas/UI_Widgets.json",
-			"entries": 583,
+			"entries": 574,
 			"translated":
 			{
-				"de": 533,
-				"zh-Hans": 533,
-				"ru": 533,
-				"ko": 533,
-				"ja": 533,
-				"es-ES": 533
+				"de": 573,
+				"zh-Hans": 573,
+				"ru": 573,
+				"ko": 573,
+				"ja": 573,
+				"es-ES": 573
 			}
 		}
 	]

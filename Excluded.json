@@ -34,6 +34,14 @@
 		},
 		{
 			"ns": "",
+			"key": "638511F04F97E39EE55B429E8A3FAA6F",
+			"source": "NicknameText",
+			"origin": "/Game/Blueprints/Gameloop/Hideout/WIdgets/W_SocialTab.W_SocialTab_C:WidgetTree.NicknameText.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
 			"key": "4A8FA6EB48469D482BD06FB39B1EFD4C",
 			"source": "Unknown",
 			"origin": "/Game/Blueprints/Gameloop/InGame/WBP_KronosExampleInGamePlayer.WBP_KronosExampleInGamePlayer_C:WidgetTree.PlayerNameText.Text",
@@ -842,6 +850,14 @@
 		},
 		{
 			"ns": "",
+			"key": "6545DB8248FC3F3C485BBC9166B0129D",
+			"source": "x",
+			"origin": "/Game/Blueprints/InventorySystem/Items/Gadgets/Binoculars/M1050_LRF_Binoculars/Materials/W_IRR_LRF_Reticle.W_IRR_LRF_Reticle_C:WidgetTree.TextBlock_4.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "",
 			"key": "6FC376C9415C97AFC9637CA09837118C",
 			"source": "Semi-automatic 12 gauge shotgun with a design that closely resembles that of an AR-15.",
 			"origin": "/Game/Blueprints/InventorySystem/Items/Weapons/Shotgun/RIA_VR80/ID_RIA_VR80.ID_RIA_VR80.ItemAppearance.Description",
@@ -863,6 +879,14 @@
 			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_Cooldown.Default__U_Cooldown_C.Unit",
 			"by": "Cleanup (no text)",
 			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "DEF18CE745DF1E6C9CE91C945496260A",
+			"source": "{x} x {y}",
+			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_DefaultSize.U_DefaultSize_C:GetStatValueText [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
 		},
 		{
 			"ns": "",
@@ -914,11 +938,331 @@
 		},
 		{
 			"ns": "",
+			"key": "07FA4D1E441673A6BEA71B96B8161E23",
+			"source": "PLACERHOLDER",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/545x39/ID_545x39.ID_545x39.ItemAppearance.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "E1B5A12F4A6B4F91FE74A18B1EAC9BAA",
+			"source": "PLACERHOLDER",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/762x39/ID_762x39.ID_762x39.ItemAppearance.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "BEECBFD44D1B230970A88DAF63E649FB",
+			"source": "PLACEHOLDER",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Ammunition/Rounds/762x51/ID_762x51.ID_762x51.ItemAppearance.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "687A21654AF58DE90A7D57B81662B42A",
+			"source": "Placeholder",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Barrel/ID_TemplateBarrel.ID_TemplateBarrel.ItemAppearance.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "CE706D0244C7DB69FEE67A8A3E5CF1CC",
+			"source": "Template",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/DustCover/ID_DustCoverHandguard.ID_DustCoverHandguard.ItemAppearance.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "9B49492E4C1C13C8D15756B332162D75",
+			"source": "Template",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Foregrip/ID_ForegripTemplate.ID_ForegripTemplate.ItemAppearance.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "4B37D1204F2AE73033F51EAB8892182F",
+			"source": "Template",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/GasTube/ID_GasTubeHandguard.ID_GasTubeHandguard.ItemAppearance.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "0B7CA110476C43C12AC97A9AD87219F0",
+			"source": "Template",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Handguard/ID_TemplateHandguard.ID_TemplateHandguard.ItemAppearance.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "5A62395143A79C399934C9835718B087",
+			"source": "Template",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Mag/ID_MagTemplate.ID_MagTemplate.ItemAppearance.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "3DCEDC444FD22048C576BD86FA7705C3",
+			"source": "Template",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Muzzle/ID_TemplateMuzzle.ID_TemplateMuzzle.ItemAppearance.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "7EDA8AA149A068998768E6ADEDCE4CE7",
+			"source": "Template",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/PistolGrip/ID_TemplatePistolGrip.ID_TemplatePistolGrip.ItemAppearance.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "CE9E40B54C38CF6FB82CD3B9E9E45024",
+			"source": "Template",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Rail/ID_TemplateRail.ID_TemplateRail.ItemAppearance.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "7D96B6964E04336F9A7B8FAE11568252",
+			"source": "Template",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Receiver/ID_ReceiverTemplate.ID_ReceiverTemplate.ItemAppearance.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "6E5B76934CBCC4BD053BC8892BEE3FB9",
+			"source": "Template",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Sight/ID_SightTemplate.ID_SightTemplate.ItemAppearance.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "C76D75C345312E45855866807016CBC4",
+			"source": "Template",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Stock/ID_TemplateStock.ID_TemplateStock.ItemAppearance.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "20D7E5B3406CA3AE34A888BF1297054A",
+			"source": "Template",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Attachments/Tactical/ID_TemplateTactical.ID_TemplateTactical.ItemAppearance.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "7B7DD3CF4698E62AD38A40BCBC0A7AEA",
+			"source": "Placeholder",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Barter/ID_BarterTemplate.ID_BarterTemplate.ItemAppearance.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "B7C6A8094389E02A9D9E059021448834",
+			"source": "Template",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Gear/ArmoredRig/ID_ArmoredRigTemplate.ID_ArmoredRigTemplate.ItemAppearance.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "291EBC6E4D120A150E5917B61BEA5509",
+			"source": "Template",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Gear/NightVision/ID_NightVisionTemplate.ID_NightVisionTemplate.ItemAppearance.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "CF41B6B841DD250979B930B5CD4D0ED3",
+			"source": "Template",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Gear/PlateCarrier/ID_PlateCarrierTemplate.ID_PlateCarrierTemplate.ItemAppearance.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "102A3D474D1F50AA2B9808BB6534B509",
+			"source": "Template",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Gear/UnarmoredRig/ID_UnarmoredRigTemplate.ID_UnarmoredRigTemplate.ItemAppearance.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "85FDE5324C0B670D2C6560A3D4625A46",
+			"source": "Template",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Keys/Bunker/ID_KeyTemplate.ID_KeyTemplate.ItemAppearance.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "7D2AAD7D4CCEB62A166B609829CAC509",
+			"source": "Template",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Keys/ID_KeyTemplate.ID_KeyTemplate.ItemAppearance.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "E939BEDE4ADD76E6E5D2208A6143909B",
+			"source": "Template",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Keys/Quarry/ID_KeyTemplate.ID_KeyTemplate.ItemAppearance.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "09BE80514F24114A73AB2385E8F1F454",
+			"source": "Template",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Medical/ID_MedicalTemplate.ID_MedicalTemplate.ItemAppearance.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "02ACF7394857909C1B9633B1C89E6C0B",
+			"source": "Template",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Provisions/Drinks/ID_DrinksTemplate.ID_DrinksTemplate.ItemAppearance.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "1EDD0ED04CB850AEBF3FDFB632CA7CCA",
+			"source": "Template",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Provisions/Food/ID_FoodTemplate.ID_FoodTemplate.ItemAppearance.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "1348BA574FCBCD5489BCD5ADD2C31487",
+			"source": "Template",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Quest/ID_QuestTemplate.ID_QuestTemplate.ItemAppearance.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "4EAC08CC4B4A50AC67EE3FB0C50A0F9E",
+			"source": "Template",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Weapons/DMR/ID_DMRTemplate.ID_DMRTemplate.ItemAppearance.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "A3F9B2BB4386215F58A25EAAFCB5FA1E",
+			"source": "Template",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Weapons/LMG/ID_LMG_Template.ID_LMG_Template.ItemAppearance.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "23C063D146F033B2DCF29ABEF01CD4B0",
+			"source": "Template",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Weapons/Pistol/ID_PistolTemplate.ID_PistolTemplate.ItemAppearance.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "BE01C51D40AE93A15F742686EDFD35BE",
+			"source": "Template",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Weapons/Rifle/ID_RifleTemplate.ID_RifleTemplate.ItemAppearance.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "9EBE2ED5490A09FACD35CF90C0F78ED9",
+			"source": "Template",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Weapons/Shotgun/ID_ShotgunTemplate.ID_ShotgunTemplate.ItemAppearance.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "B5F8F6EE4E11A3A54303C88634795F05",
+			"source": "Template",
+			"origin": "/Game/Blueprints/InventorySystem/Templates/Weapons/SniperRifle/ID_SniperTemplate.ID_SniperTemplate.ItemAppearance.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "0D264D484FAA04BD0FEB35AC1594DFAD",
+			"source": "$ {x}",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Gunsmith/W_IRR_Gunsmith_AssembleWeapon_Container.W_IRR_Gunsmith_AssembleWeapon_Container_C:ExecuteUbergraph_W_IRR_Gunsmith_AssembleWeapon_Container [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "",
 			"key": "57E554C94B809DFB31FECCA144504742",
 			"source": "$ 1000",
 			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Gunsmith/W_IRR_Gunsmith_AssembleWeapon_Container.W_IRR_Gunsmith_AssembleWeapon_Container_C:WidgetTree.Price.Text",
 			"by": "Cleanup (no text)",
 			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "2A85F8454FC51103EEF54FBC49A83CBD",
+			"source": "Placeholder",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Gunsmith/W_IRR_Gunsmith_SavePreset1.Default__W_IRR_Gunsmith_SavePreset1_C.DebugHeadline",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "CDEFC40E4AAC2D2060CE3F8A582141FC",
+			"source": "({base}) = {base}",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Repair/W_IRR_RepairStation_Overview.W_IRR_RepairStation_Overview_C:SetBaseText [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "",
+			"key": "8EB0AC924583E1C7045924A4DB6393F8",
+			"source": "({bonues}) = {sum}",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Repair/W_IRR_RepairStation_Overview.W_IRR_RepairStation_Overview_C:SetBonusText [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "",
+			"key": "9F07FB4F410BF7C9F7C57CA00308F019",
+			"source": "{repairvalue} {unit}",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Repair/W_IRR_RepairStation_Overview.W_IRR_RepairStation_Overview_C:SetFinalText [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "",
+			"key": "E0743A524E95568A48E76DB66C263A65",
+			"source": "({replacementvalue}) = {sum}",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Repair/W_IRR_RepairStation_Overview.W_IRR_RepairStation_Overview_C:SetReplacementText [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
 		},
 		{
 			"ns": "",
@@ -986,11 +1330,43 @@
 		},
 		{
 			"ns": "",
+			"key": "C399963344FE5489580DEDB6CFA13C3D",
+			"source": "{x}x ",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Vendor/W_ShoppingCartAttachment.W_ShoppingCartAttachment_C:ExecuteUbergraph_W_ShoppingCartAttachment [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "",
+			"key": "E35194764CC4478E3B42A695B2B8C4E6",
+			"source": "{count}{name}",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Vendor/W_ShoppingCartAttachment.W_ShoppingCartAttachment_C:ExecuteUbergraph_W_ShoppingCartAttachment [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "",
+			"key": "502B04F4439422D858D033A1B7550C48",
+			"source": "{count} x {name}",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Vendor/W_ShoppingCartMainItem.W_ShoppingCartMainItem_C:ExecuteUbergraph_W_ShoppingCartMainItem [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "",
 			"key": "B317B6BB4AD18FA0FCB8B3BAF2A0A0F2",
 			"source": "$ 1,700",
 			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Vendor/W_VendorItem_Price.W_VendorItem_Price_C:WidgetTree.ItemPrice.Text",
 			"by": "Cleanup (no text)",
 			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "3FE07F3F4C7CAC5375270DA3E8102E4B",
+			"source": "{current} -> {next}",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/NEW_UI/Widgets/Vendor/W_VendorList_Item.W_VendorList_Item_C:GetCategoryText [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
 		},
 		{
 			"ns": "",
@@ -1202,6 +1578,94 @@
 		},
 		{
 			"ns": "",
+			"key": "81C29EA5458EFCF785C96C9D97E6CBEE",
+			"source": "Description",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/Trader/W_RaidTradeWidget.W_RaidTradeWidget_C:WidgetTree.IRRTextBlock_55.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "AE978B29425A5C4044B926A7E53FE3E3",
+			"source": "Upload",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/Utility/W_Sync_Manager_LEGACY.W_Sync_Manager_LEGACY_C:WidgetTree.Text_1.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
+			"ns": "",
+			"key": "85C6069F48787457A4528FB3B1015E09",
+			"source": "Upload",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/Utility/W_Sync_Manager_LEGACY.W_Sync_Manager_LEGACY_C:WidgetTree.Text_2.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
+			"ns": "",
+			"key": "01D0470D4A954DF9239F8FAE505DCA6B",
+			"source": "Upload",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/Utility/W_Sync_Manager_LEGACY.W_Sync_Manager_LEGACY_C:WidgetTree.Text.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
+			"ns": "",
+			"key": "0A937AC9489AA85738102AB16CBB8421",
+			"source": "Item Stats",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/Utility/W_Sync_Manager_LEGACY.W_Sync_Manager_LEGACY_C:WidgetTree.TextBlock_1.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
+			"ns": "",
+			"key": "873AA06C4B9B4439678721858EC57D27",
+			"source": "Download",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/Utility/W_Sync_Manager_LEGACY.W_Sync_Manager_LEGACY_C:WidgetTree.TextBlock_2.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
+			"ns": "",
+			"key": "42D14D7840ED8C3FAEC71191EC88AFA1",
+			"source": "SYNC WITH GDRIVE",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/Utility/W_Sync_Manager_LEGACY.W_Sync_Manager_LEGACY_C:WidgetTree.TextBlock_213.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
+			"ns": "",
+			"key": "90BC0D6D47A624BB62134581F6B66EA3",
+			"source": "Mission Info",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/Utility/W_Sync_Manager_LEGACY.W_Sync_Manager_LEGACY_C:WidgetTree.TextBlock_3.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
+			"ns": "",
+			"key": "BAFF2851402DCDF0336355AC16DDED5C",
+			"source": "Download",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/Utility/W_Sync_Manager_LEGACY.W_Sync_Manager_LEGACY_C:WidgetTree.TextBlock_4.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
+			"ns": "",
+			"key": "B781D056468260EC94E2F68B429FCFA5",
+			"source": "Download",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/Utility/W_Sync_Manager_LEGACY.W_Sync_Manager_LEGACY_C:WidgetTree.TextBlock_7.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
+			"ns": "",
+			"key": "6BDDD0F34197579B54DA16973F232B56",
+			"source": "Vendor Stats",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/Utility/W_Sync_Manager_LEGACY.W_Sync_Manager_LEGACY_C:WidgetTree.TextBlock.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
+			"ns": "",
 			"key": "2E19EDE24FBA94114BAED0A95E6AC2D8",
 			"source": "1",
 			"origin": "/Game/Blueprints/InventorySystem/Widgets/W_EquipToContainer.W_EquipToContainer_C:WidgetTree.KeyText.Text",
@@ -1210,11 +1674,43 @@
 		},
 		{
 			"ns": "",
+			"key": "4173AD154BD7A6D69D95D9B769E5201F",
+			"source": "Text",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/W_InspectWindow.W_InspectWindow_C:WidgetTree.ItemDescriptionText.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "6B8BBFE44EB04AE741FDCD8047B0C982",
+			"source": "<Red>{x}</>",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/W_InventoryDragWidget.W_InventoryDragWidget_C:ExecuteUbergraph_W_InventoryDragWidget [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "",
 			"key": "9E5A982D4C1A0F663F75CC9078081739",
 			"source": "Test",
 			"origin": "/Game/Blueprints/InventorySystem/Widgets/W_InventoryHeadline.W_InventoryHeadline_C:WidgetTree.Text.Text",
 			"by": "CiaoKakao",
 			"at": "2026-09-28T15:10:04Z"
+		},
+		{
+			"ns": "",
+			"key": "8A73860F495D290A29A7719F41DC325B",
+			"source": "<Red>{Override Message}</>\r\n\r\n{Name}",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/W_InventoryItem.W_InventoryItem_C:Get_ItemHighlight_ToolTipWidget [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "",
+			"key": "E7391C864AD1F9B8EC090C867E592F13",
+			"source": "<Red>{Error Message}</>\r\n\r\n{Name}",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/W_InventoryItem.W_InventoryItem_C:Get_ItemHighlight_ToolTipWidget [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
 		},
 		{
 			"ns": "",
@@ -1231,6 +1727,158 @@
 			"origin": "/Game/Blueprints/InventorySystem/Widgets/W_InventoryItem.W_InventoryItem_C:WidgetTree.ItemMaxCapacity.Text",
 			"by": "Cleanup (no text)",
 			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "9C88899D48835329B9897790F652D37D",
+			"source": "TEXT BLOCK",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/W_InventoryItem.W_InventoryItem_C:WidgetTree.ItemName.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "C33969E447BB661830B3E09C0C6004BB",
+			"source": "SectionName",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/W_InventorySection.W_InventorySection_C:WidgetTree.SectionNameText.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "87D8763F40AF512B1E5D11B6DA63FB67",
+			"source": "{health}",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/W_PlayerInventory.W_PlayerInventory_C:UpdateHealth [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "",
+			"key": "0A7422724DDC6DA2621B73885198FDF6",
+			"source": "Test",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/W_UpgradeAdditionalStorageButton.Default__W_UpgradeAdditionalStorageButton_C.ToolTip",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "66F72ED54F0C4D743517A9AB1AD97775",
+			"source": "{count} {item type}",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/W_UpgradeAdditionalStorageButton.W_UpgradeAdditionalStorageButton_C:UpdateButton [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "",
+			"key": "249F74E947876060DD709991D2221343",
+			"source": "Placeholder",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/W_WindowHeader.Default__W_WindowHeader_C.Headline Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "3958B9EB4AA31F9989490DA40D64611C",
+			"source": "Text Block",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/W_WindowHeader.W_WindowHeader_C:WidgetTree.ItemNameText.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "41E0BA8F4FE8792215DF49B3A4605051",
+			"source": "{x}x",
+			"origin": "/Game/Blueprints/InventorySystem/Widgets/WeaponUI/W_ShowMagnificationLevel.W_ShowMagnificationLevel_C:ExecuteUbergraph_W_ShowMagnificationLevel [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "",
+			"key": "79DBECCF46385A4C8A53E7BF06D49363",
+			"source": "Press <Red>F</> to <Red>upgrade</> the PLACEHOLDER.",
+			"origin": "/Game/Blueprints/MissionSystem/Actors/Hideout/BP_HideoutUnit_Master.BP_HideoutUnit_Master_C:BP_InteractionTarget_Upgrade_GEN_VARIABLE.InteractionOption_0.DefaultDisplaySetting.InteractionText",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "275AEF424794A2A9B1C1BA9CD4209CE9",
+			"source": "Shutdown Terminal",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/BLUEFOR/ADLER/Contracts/Delta/Defense/DA_BLUEFOR_ADLER_Contract_Bunker_Defense_D_LEGACY.DA_BLUEFOR_ADLER_Contract_Bunker_Defense_D_LEGACY:IRRMissionSequence_0.Headline",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "805BBAF54F68303BF656A88EABF4CFD4",
+			"source": "Shutdown the terminal to erase everything.",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/BLUEFOR/ADLER/Contracts/Delta/Defense/DA_BLUEFOR_ADLER_Contract_Bunker_Defense_D_LEGACY.DA_BLUEFOR_ADLER_Contract_Bunker_Defense_D_LEGACY:IRRMissionSequence_0.IRRMissionObjective_0.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "4FA913EE4853AD6EB42D16BC7FEC1C29",
+			"source": "Place Intel",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/BLUEFOR/ADLER/Contracts/Delta/Defense/DA_BLUEFOR_ADLER_Contract_Bunker_Defense_D_LEGACY.DA_BLUEFOR_ADLER_Contract_Bunker_Defense_D_LEGACY:IRRMissionSequence_2.Headline",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "49A369424E7015A08CC9BC99ACE6E86E",
+			"source": "Place the intel in the secure container nearby.",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/BLUEFOR/ADLER/Contracts/Delta/Defense/DA_BLUEFOR_ADLER_Contract_Bunker_Defense_D_LEGACY.DA_BLUEFOR_ADLER_Contract_Bunker_Defense_D_LEGACY:IRRMissionSequence_2.IRRMissionObjective_0.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "8D3ADF10443280449E076D9F476A4070",
+			"source": "Download Data",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/BLUEFOR/ADLER/Contracts/Delta/Defense/DA_BLUEFOR_ADLER_Contract_Bunker_Defense_D_LEGACY.DA_BLUEFOR_ADLER_Contract_Bunker_Defense_D_LEGACY:IRRMissionSequence_3.Headline",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "9C8DEC6D4E891A064B0B1592FC8CD608",
+			"source": "Download VLF_MemberData.zip",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/BLUEFOR/ADLER/Contracts/Delta/Defense/DA_BLUEFOR_ADLER_Contract_Bunker_Defense_D_LEGACY.DA_BLUEFOR_ADLER_Contract_Bunker_Defense_D_LEGACY:IRRMissionSequence_3.IRRMissionObjective_0.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "7521932047E4A5A14D1F3B9DC92275BD",
+			"source": "Download VLF_MemberChart.png",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/BLUEFOR/ADLER/Contracts/Delta/Defense/DA_BLUEFOR_ADLER_Contract_Bunker_Defense_D_LEGACY.DA_BLUEFOR_ADLER_Contract_Bunker_Defense_D_LEGACY:IRRMissionSequence_3.IRRMissionObjective_1.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "8C0DEEDD4F0DA55BD816A69651F4C431",
+			"source": "Locate Terminal [Med Bay]",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/BLUEFOR/ADLER/Contracts/Delta/Defense/DA_BLUEFOR_ADLER_Contract_Bunker_Defense_D_LEGACY.DA_BLUEFOR_ADLER_Contract_Bunker_Defense_D_LEGACY:IRRMissionSequence_4.Headline",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "745D2CA24E20A485A4E2D3B76583F888",
+			"source": "Locate and boot up the terminal at the Med Bay area.",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/BLUEFOR/ADLER/Contracts/Delta/Defense/DA_BLUEFOR_ADLER_Contract_Bunker_Defense_D_LEGACY.DA_BLUEFOR_ADLER_Contract_Bunker_Defense_D_LEGACY:IRRMissionSequence_4.IRRMissionObjective_1.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "08B231094E4849533DD0B89C3888AC6B",
+			"source": "There’s a VLF intel file sitting in their med bay sector — a physical item. You’re going to retrieve it and run a local scan on one of their terminals.\r\nDon’t try to exfil with the asset. Just get the read and move. You’ll likely have company once the system wakes up.\r\nMake it fast.",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/BLUEFOR/ADLER/Contracts/Delta/Defense/DA_BLUEFOR_ADLER_Contract_Bunker_Defense_D_LEGACY.DA_BLUEFOR_ADLER_Contract_Bunker_Defense_D_LEGACY.MissionInfo.Briefing.Text(0).Text.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
 		},
 		{
 			"ns": "",
@@ -1522,6 +2170,214 @@
 		},
 		{
 			"ns": "",
+			"key": "4E8A0EBA49065E5B6C67D2A1F9CF4BCB",
+			"source": "Collect all documents.",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Retrieve/DA_FANG_RET_Test.DA_FANG_RET_Test:IRRMissionSequence_0.BP_IRRObjective_LootArea_C_0.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
+			"ns": "",
+			"key": "F0A13FDD42529FF48F2C4997A57CB590",
+			"source": "Retrieve Evidence",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Retrieve/DA_FANG_RET_Test.DA_FANG_RET_Test:IRRMissionSequence_0.Headline",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
+			"ns": "",
+			"key": "9F833AB948E3EF056303DDA5B10E0223",
+			"source": "Deliver {count} {targetdata}.",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Retrieve/DA_FANG_RET_Test.DA_FANG_RET_Test:IRRMissionSequence_1.BP_IRRObjective_DeliverItem_C_0.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
+			"ns": "",
+			"key": "7B1939A1455BE710229B9F8C336963AD",
+			"source": "Hand In Items",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Retrieve/DA_FANG_RET_Test.DA_FANG_RET_Test:IRRMissionSequence_1.Headline",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
+			"ns": "",
+			"key": "FF4D97A044DAFF50E029E3BA1C23A61D",
+			"source": "FANG Assignment <strong>RET_267_RR</>: <italic>Retrieve all evidence at marked areas and deliver them.</>",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Retrieve/DA_FANG_RET_Test.DA_FANG_RET_Test.MissionInfo.Briefing.Text(0).Text.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
+			"ns": "",
+			"key": "C4F1394343CC2D9BB14F979322E7C7DF",
+			"source": "Good job! ",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/Assignments/Retrieve/DA_FANG_RET_Test.DA_FANG_RET_Test.MissionInfo.Debriefing.Text(0).Text.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
+			"ns": "",
+			"key": "ABBE05EE45D109B5EED2AC837A358B5C",
+			"source": "Find the Cave.",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/SideMissions/DA_FANG_OBSERVER_0002_A_Test.DA_FANG_OBSERVER_0002_A_Test:IRRMissionSequence_0.BP_IRRObjective_FindLocation_C_0.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
+			"ns": "",
+			"key": "16EAECCC4DB457568F3DB89B492F1F8F",
+			"source": "Find Food Storage.",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/SideMissions/DA_FANG_OBSERVER_0002_A_Test.DA_FANG_OBSERVER_0002_A_Test:IRRMissionSequence_0.BP_IRRObjective_FindLocation_C_2.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
+			"ns": "",
+			"key": "6C7AC5EA4118C15BE72E52B89AC43A43",
+			"source": "Find the Med Bay.",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/SideMissions/DA_FANG_OBSERVER_0002_A_Test.DA_FANG_OBSERVER_0002_A_Test:IRRMissionSequence_0.BP_IRRObjective_FindLocation_C_3.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
+			"ns": "",
+			"key": "F697F5334D85F8529C5360BC60775A8A",
+			"source": "Find the Control Room.",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/SideMissions/DA_FANG_OBSERVER_0002_A_Test.DA_FANG_OBSERVER_0002_A_Test:IRRMissionSequence_0.BP_IRRObjective_FindLocation_C_4.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
+			"ns": "",
+			"key": "0A240ECD45C4F1859C8F139F77C9298C",
+			"source": "Find the Industrial Zone.",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/SideMissions/DA_FANG_OBSERVER_0002_A_Test.DA_FANG_OBSERVER_0002_A_Test:IRRMissionSequence_0.BP_IRRObjective_FindLocation_C_5.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
+			"ns": "",
+			"key": "43A61AF74C97E74CE03F58BDF7A93BF3",
+			"source": "Locate Areas",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/SideMissions/DA_FANG_OBSERVER_0002_A_Test.DA_FANG_OBSERVER_0002_A_Test:IRRMissionSequence_0.Headline",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
+			"ns": "",
+			"key": "F0B4E5184A727D243732FAAABB7E5D0C",
+			"source": "PLACEHOLDER",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/SideMissions/DA_FANG_OBSERVER_0002_A_Test.DA_FANG_OBSERVER_0002_A_Test.MissionInfo.Briefing.Text(0).Text.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "F2E539654AF61F5E9CD8B3B762472FF7",
+			"source": "PLACEHOLDER",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/SideMissions/DA_FANG_OBSERVER_0002_A_Test.DA_FANG_OBSERVER_0002_A_Test.MissionInfo.Debriefing.Text(0).Text.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "795E3A8E46514384E16E3D88921F4F75",
+			"source": "PLACEHOLDER",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/SideMissions/DA_FANG_OBSERVER_0002_A.DA_FANG_OBSERVER_0002_A.MissionInfo.Debriefing.Text(0).Text.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "727EAD594C4B460165ACA4B7F45B86A6",
+			"source": "PLACEHOLDER",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/SideMissions/DA_FANG_OBSERVER_0002_B.DA_FANG_OBSERVER_0002_B.MissionInfo.Debriefing.Text(0).Text.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "608E826946BACA7B082783AC9C36A383",
+			"source": "PLACEHOLDER",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/FANG/DAWN/SideMissions/DA_FANG_OBSERVER_0002_C.DA_FANG_OBSERVER_0002_C.MissionInfo.Debriefing.Text(0).Text.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "661587E447B56ADB60EC70AF1E9D6F85",
+			"source": "Shutdown Terminal",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/GREYFOR/CIPHER/Contracts/Quarry/Defense/DA_GREYFOR_CIPHER_Contract_Quarry_Defense_LEGACY.DA_GREYFOR_CIPHER_Contract_Quarry_Defense_LEGACY:IRRMissionSequence_0.Headline",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "34F4DAC94ED9D4D78F6E5A87E8EF48EC",
+			"source": "Shutdown the terminal to erase everything.",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/GREYFOR/CIPHER/Contracts/Quarry/Defense/DA_GREYFOR_CIPHER_Contract_Quarry_Defense_LEGACY.DA_GREYFOR_CIPHER_Contract_Quarry_Defense_LEGACY:IRRMissionSequence_0.IRRMissionObjective_0.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "D683D7834308CD422B07E0B07AD9B001",
+			"source": "Place Intel",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/GREYFOR/CIPHER/Contracts/Quarry/Defense/DA_GREYFOR_CIPHER_Contract_Quarry_Defense_LEGACY.DA_GREYFOR_CIPHER_Contract_Quarry_Defense_LEGACY:IRRMissionSequence_2.Headline",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "502CA9A64F3AA16E24880BB3C2EA6AEE",
+			"source": "Place the intel in the marked container on the map.",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/GREYFOR/CIPHER/Contracts/Quarry/Defense/DA_GREYFOR_CIPHER_Contract_Quarry_Defense_LEGACY.DA_GREYFOR_CIPHER_Contract_Quarry_Defense_LEGACY:IRRMissionSequence_2.IRRMissionObjective_0.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "FA320B05437D62C3784088A0ED0ED523",
+			"source": "Download Data",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/GREYFOR/CIPHER/Contracts/Quarry/Defense/DA_GREYFOR_CIPHER_Contract_Quarry_Defense_LEGACY.DA_GREYFOR_CIPHER_Contract_Quarry_Defense_LEGACY:IRRMissionSequence_3.Headline",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "13D212FA4BC817B401A0EDBE6DC72831",
+			"source": "Download OperationOmega.zip",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/GREYFOR/CIPHER/Contracts/Quarry/Defense/DA_GREYFOR_CIPHER_Contract_Quarry_Defense_LEGACY.DA_GREYFOR_CIPHER_Contract_Quarry_Defense_LEGACY:IRRMissionSequence_3.IRRMissionObjective_0.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "3A071B854720365C4A817D99B678E142",
+			"source": "Download OperationSketch.png",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/GREYFOR/CIPHER/Contracts/Quarry/Defense/DA_GREYFOR_CIPHER_Contract_Quarry_Defense_LEGACY.DA_GREYFOR_CIPHER_Contract_Quarry_Defense_LEGACY:IRRMissionSequence_3.IRRMissionObjective_1.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "DD808E924D5E8C3CA38F15B81227F7EB",
+			"source": "Locate Terminal",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/GREYFOR/CIPHER/Contracts/Quarry/Defense/DA_GREYFOR_CIPHER_Contract_Quarry_Defense_LEGACY.DA_GREYFOR_CIPHER_Contract_Quarry_Defense_LEGACY:IRRMissionSequence_4.Headline",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "16C44B0448A33C3F9BF935AF2007AB51",
+			"source": "Locate and boot up the terminal.",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Factions/GREYFOR/CIPHER/Contracts/Quarry/Defense/DA_GREYFOR_CIPHER_Contract_Quarry_Defense_LEGACY.DA_GREYFOR_CIPHER_Contract_Quarry_Defense_LEGACY:IRRMissionSequence_4.IRRMissionObjective_1.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
 			"key": "3FEE79DF4F0A1DF40813A9A7627138A3",
 			"source": "help",
 			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_IGC.DA_Terminal_IGC.Commands(0).Commands.Command",
@@ -1618,6 +2474,158 @@
 		},
 		{
 			"ns": "",
+			"key": "75C2D3434AB721BC0510E58D80FA0FD4",
+			"source": "Cannot scan {file}.",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY:BP_TerminalArgument_ExecuteCommandOnFile_C_0.OnFailText",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "4865AF454E5AEEA1B7A7CDB881C6F308",
+			"source": "Cannot read {file}.",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY:BP_TerminalArgument_LookUpFile_C_0.OnFailText",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "B61D228C4050519222D82ABB10A13DD8",
+			"source": "Cannot run {file}.",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY:BP_TerminalArgument_LookUpFile_C_1.OnFailText",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "4D54B2C244809D85E0E6C7A053CDF41F",
+			"source": "Shutting down the terminal...\r\nTerminal secure. You may now extract safely.",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY:BP_TerminalSequence_Dir_C_0.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "82B0D39744BEA1D62DA51490D44F0547",
+			"source": "Available Commands:\r\n\r\n1. help - Display available commands and their descriptions.\r\n2. dir - Display all of the files and folders in the current directory.\r\n3. pop - Switch back to previous directory (e.g. go back).\r\n4. login - Enter new login credentials to change the user & permissions.\r\n5. cd <directory> - Change directory to navigate within the terminal system.\r\n6. run <file_id> - Execute the exe file.\r\n7. download <file_id> - Download content from target file.\r\n8. scan <file_id> - Scan content from file.\r\n9. read <file_id> - Reading content of file.\r\n10. shutdown - Shutdown the terminal.\r\n\r\n**Additional help**\r\n\r\n> To find a file, try changing directories via cd <directory> and us the dir command to display all available files at the current level\r\n> Some directories require special access. Use the login command to get Admin access. You may have to take a look at the users file to find the credentials.",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY:BP_TerminalSequence_Text_C_0.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "5CE496074D6E0F5073C2EFBE792B4EF3",
+			"source": "Error: Command \"{command}\" not recognized. Please enter a valid command. Or type \"help\" for a list of available commands.",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY:BP_TerminalSequence_Text_C_2.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "5A322AA7486421F2047E758542B47E45",
+			"source": "VLF Secure Operations Terminal\r\n\r\nUnauthorized access or misuse of this system is strictly prohibited and may be punishable under VLF regulations.\r\n\r\nSecurity Clearance Required",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY:BP_TerminalSequence_Text_C_3.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "9B336EAB4B743416441F739F46C182C7",
+			"source": "# UICS TERMINAL SYSTEM – README\r\n\r\nWelcome to the Unified Intercontinental Command Structure (UICS) Secure Terminal.\r\n\r\nThis terminal is part of the authorized network infrastructure under UICS Directive GridNet-4B. It is designed for use by certified personnel only. Access is monitored, logged, and subject to review by Central Systems Authority (CSA).\r\n\r\n## SYSTEM FUNCTIONS\r\n\r\n- **read** – Open and view a file's contents  \r\n- **run** – Execute a script or terminal-compatible file  \r\n- **scan** – Check a file for security classification or hidden data  \r\n- **download** – Save a file from the terminal to your local device  \r\n\r\nNeed more info? Use the `help` command at any time for detailed usage.\r\n## USER LEVELS\r\n\r\n- Guest: View-only access to non-sensitive bulletins and maintenance schedules\r\n- Admin: Full terminal control, including configuration management and override protocols\r\n\r\n## CODE OF CONDUCT\r\n\r\n- Always verify your clearance level before executing commands.\r\n- Do not share access credentials under any circumstance.\r\n- Report any system anomalies or suspicious activity using form 11-17A (System Irregularity Report).\r\n- In case of compromised access, initiate Lockdown Sequence Alpha and disconnect from the local grid.\r\n\r\n## SUPPORT CONTACT\r\n\r\nFor technical assistance, contact Central Systems Authority via secure channel [Node U-91].\r\n\r\n## FINAL NOTICE\r\n\r\nThis terminal is property of the UICS. Unauthorized use is a breach of intercontinental security law and may result in disciplinary action, including confinement and clearance revocation.\r\n\r\nUICS — Order. Stability. Control.\r\n\r\n> END OF FILE",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY:IRRTerminalFile_0.BP_TerminalSequence_Text_C_0.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "BE0A530C431985F7532CE7836066B284",
+			"source": "Initiating scan of classified document...\r\nPlease wait, retrieving data...",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY:IRRTerminalFile_1.BP_TerminalSequence_Text_C_0.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "FEB49EB845077210FE2E28B9EEA78A48",
+			"source": "Document Title: \"Factories – Site Overview\"  \r\nDate: 2024-11-28  \r\nClassification: Confidential – Internal Distribution Only\r\n\r\nDocument successfully scanned and archived.  \r\nPreview of Document Content:\r\n-----------------------------------------------------\r\n\"FACILITY OVERVIEW – SITE BLOCK-7:  \r\nThe factory installation adjacent to the quarry remains fully operational and is responsible for high-volume processing of marble and composite concrete. The materials produced are used in structural reinforcement, subterranean encasement, and modular defensive installations.\r\n\r\nKey operations include rotary crushing, thermal curing, and form compression. Automated batching units maintain a 24/7 output cycle. All export shipments are routed through controlled rail access under GridSec Protocol 6C.\r\n\r\nPersonnel clearance checks are enforced at two entry gates. Observation drones perform perimeter sweeps at 20-minute intervals. While the site is not classified as a high-risk zone, patrols have been increased following recent interference reports from nearby sectors.\r\n\r\nFacility status: STABLE  \r\nOutput capacity: 91%  \r\nSecurity recommendation: Maintain current protocols. Escalation unnecessary unless actionable intel is confirmed.\"\r\n-----------------------------------------------------\r\n\r\nFull document secured for reference and compliance logging.",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY:IRRTerminalFile_1.BP_TerminalSequence_Text_C_1.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "5ADB11FC4D6AFFAD4BEA8AA17A53138E",
+			"source": "Download Weather Data..",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY:IRRTerminalFile_10.BP_TerminalSequence_Text_C_0.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "4C38D8554E6163570556BCA11F91DE77",
+			"source": "Document Title: \"Quarry – Weather Data\"  \r\nClassification: Confidential – Internal Distribution Only\r\n\r\nDocument successfully downloaded to GCPS.",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY:IRRTerminalFile_10.BP_TerminalSequence_Text_C_1.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "4CC34053420650CB88A41999C934F3F5",
+			"source": "Initiating download of {r}...",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY:IRRTerminalFile_6.BP_TerminalSequence_Text_C_0.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "452D95BA4BC80160AFC987A65E36F0B9",
+			"source": "{r} downloaded and secured in private directory. ",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY:IRRTerminalFile_6.BP_TerminalSequence_Text_C_1.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "3498CD5C478BBD205D3C0A8D8C951AD9",
+			"source": "Initiating scan of classified document...\r\nPlease wait, retrieving data...",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY:IRRTerminalFile_6.BP_TerminalSequence_Text_C_2.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "E225BBD34347FE7DE7E3F4B19F7AFA66",
+			"source": "Document Title: \"OPERATION OMEGA – Infiltration Orders\"  \r\nDate: 2024-11-30  \r\nClassification: Top Secret\r\n\r\nDocument successfully scanned and secured.  \r\nPreview of Document Content:\r\n-----------------------------------------------------\r\n\"OPERATION OMEGA:  \r\nUICS strike elements are to initiate a rapid-entry operation targeting the bunker complex currently occupied by VLF-aligned forces. Primary objectives include clearing the command room and securing access to active data terminals. Secondary target is the adjacent cave structure—believed to serve as a fallback and storage zone for insurgent operatives.\r\n\r\nMedical bay is to be isolated and swept for potential detainees or intel caches. Operation is time-sensitive. A brief communications blackout window has been scheduled to allow for silent breach and coordinated movement through critical access points...\"\r\n\r\n-----------------------------------------------------\r\n\r\nFull document secured for further review and action.",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY:IRRTerminalFile_6.BP_TerminalSequence_Text_C_3.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "6814334847F1E8D20BB16DB94C92112E",
+			"source": "# UICS Secure Terminal Access Credentials\r\n\r\n## Authorized Users List\r\n\r\n- **Guest**\r\n  - Username: Guest\r\n  - Password: accessUICS\r\n  - Note: Restricted view-only access. Permitted to read non-sensitive operational bulletins and public directives.\r\n\r\n- **Admin**\r\n  - Username: Admin\r\n  - Password: UICS@Root1\r\n  - Note: Full administrative control. Grants access to secure command functions, encrypted channels, and terminal override capabilities.\r\n\r\n## Security Notice\r\n\r\n- All credentials are classified. Sharing or misusing login information constitutes a violation of Protocol 3-C.\r\n- Unauthorized access attempts will be logged and prosecuted under UICS Security Directive 17.4.\r\n- If you suspect credential compromise or terminal tampering, report immediately to Central Systems Authority (CSA).",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY:IRRTerminalFile_7.BP_TerminalSequence_Text_C_0.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "4719E642467E70AF87E0449D6CED11B9",
+			"source": "Initiating download of {r}...",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY:IRRTerminalFile_9.BP_TerminalSequence_Text_C_0.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "A09B2F4E4FF856B2FAFC76AE80FA7EAE",
+			"source": "{r} downloaded and secured in private directory. ",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY:IRRTerminalFile_9.BP_TerminalSequence_Text_C_1.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
 			"key": "82CD132D423CC829C76D91A56D0A871B",
 			"source": "help",
 			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY.Commands(0).Commands.Command",
@@ -1698,11 +2706,27 @@
 		},
 		{
 			"ns": "",
+			"key": "B1C15E1842663382FE25D9B24C17C66D",
+			"source": "Type \"help\" for a list of available commands.",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY.GuidePrompt",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
 			"key": "C0493B5E4BC2FB5C2E855DA02CF7DE8F",
 			"source": "\r\n██╗   ██╗██╗ ██████╗███████╗                                     \r\n██║   ██║██║██╔════╝██╔════╝                                     \r\n██║   ██║██║██║     ███████╗                                     \r\n██║   ██║██║██║     ╚════██║                                     \r\n╚██████╔╝██║╚██████╗███████║                                     \r\n ╚═════╝ ╚═╝ ╚═════╝╚══════╝                                     \r\n                                                                 \r\n████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     \r\n╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║     \r\n   ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║     \r\n   ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     \r\n   ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗\r\n   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝\r\n                                                                 ",
 			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY.SystemArt",
 			"by": "Cleanup (no text)",
 			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "C379FC8746BBFFCDD7D471A3AC8B774B",
+			"source": "UICS Command Terminal - Version 1.2 Secure Access at uics-network.org",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Terminal/DA_Terminal_UICS_LEGACY.DA_Terminal_UICS_LEGACY.VersionInfo",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
 		},
 		{
 			"ns": "",
@@ -1898,6 +2922,54 @@
 		},
 		{
 			"ns": "",
+			"key": "7E0D6CC34A943C657C5E7BAD844A0695",
+			"source": "Clear fishing village",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Test/DA_TestMission_ClearArea.DA_TestMission_ClearArea:IRRMissionSequence_0.Headline",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
+			"ns": "",
+			"key": "50F926C64F884C46B11C60B7FB8DAA30",
+			"source": "Kill all enemies in designated area.",
+			"origin": "/Game/Blueprints/MissionSystem/DataAssets/Test/DA_TestMission_ClearArea.DA_TestMission_ClearArea:IRRMissionSequence_0.IRRMissionObjective_0.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
+			"ns": "",
+			"key": "C75F041E40E6E24F61FE61A94A07F84A",
+			"source": "Kill enemies in the AREA TAG PLACEHOLDER.",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/Objectives/SubClasses/BP_IRRObjectie_ClearArea.Default__BP_IRRObjectie_ClearArea_C.Description",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "UObjectToolTips",
+			"key": "ContainerItem:CanStack",
+			"source": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFItemDimensions CurrentDimensions;",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/Services/BP_Service_ConvoyDestroyed.TryExecute:K2Node_BreakStruct_2.ShowPinForProperties(10).ShowPinForProperties.PropertyTooltip",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
+			"ns": "UObjectToolTips",
+			"key": "ContainerItem:CurrentState",
+			"source": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFGameplayTagContainer CurrentEquipToRequirements;\nTODO Rename to state and stats and remove everything below",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/Services/BP_Service_ConvoyDestroyed.TryExecute:K2Node_BreakStruct_2.ShowPinForProperties(6).ShowPinForProperties.PropertyTooltip",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
+			"ns": "UObjectToolTips",
+			"key": "ContainerItem:ItemDimensions",
+			"source": "UPROPERTY(EditAnywhere, BlueprintReadWrite, Transient)\n       TArray<FGuid> RequiredFromItemUIDs;",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/Services/BP_Service_ConvoyDestroyed.TryExecute:K2Node_BreakStruct_2.ShowPinForProperties(9).ShowPinForProperties.PropertyTooltip",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
+			"ns": "",
 			"key": "A254F2174A0373F39A2A7E8A5EA0F9B3",
 			"source": "read users.txt",
 			"origin": "/Game/Blueprints/MissionSystem/Objects/Terminal/DirectoryRequirement/BP_TerminalDirectoryRequirement_IsCorrectUser.BP_TerminalDirectoryRequirement_IsCorrectUser_C:GetAccessCommands [Script Bytecode]",
@@ -1911,6 +2983,14 @@
 			"origin": "/Game/Blueprints/MissionSystem/Objects/Terminal/Sequences/BP_TerminalSequence_RequestLogin.Default__BP_TerminalSequence_RequestLogin_C.Command.Command",
 			"by": "CiaoKakao",
 			"at": "2026-10-06T23:32:22Z"
+		},
+		{
+			"ns": "",
+			"key": "56CB88B9428017C9F28BD9BFA8FA30F3",
+			"source": "{Command} {l} {r} {user}",
+			"origin": "/Game/Blueprints/MissionSystem/Objects/Terminal/Sequences/BP_TerminalSequence_Text.Default__BP_TerminalSequence_Text_C.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
 		},
 		{
 			"ns": "",
@@ -1962,6 +3042,38 @@
 		},
 		{
 			"ns": "",
+			"key": "7F0488854B4A80B399221B85D7E3EE9D",
+			"source": "Extract In",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction_LEGACY.W_Extraction_LEGACY_C:WidgetTree.IRRTextBlock_3.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "4EA1BA5B49836BB66261BDB56C086C72",
+			"source": "Wait for players",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction_LEGACY.W_Extraction_LEGACY_C:WidgetTree.IRRTextBlock.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "172858C742E21A7C282987B02374919B",
+			"source": "Extraction Zone",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction_LEGACY.W_Extraction_LEGACY_C:WidgetTree.ItemNameText_2.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "E80819D94C76E3BEBFB18ABA51DACB7F",
+			"source": "Lake Side",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction_LEGACY.W_Extraction_LEGACY_C:WidgetTree.ItemNameText_3.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
 			"key": "352347884DFC60148C0981927843A23E",
 			"source": "0",
 			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction_LEGACY.W_Extraction_LEGACY_C:WidgetTree.PlayerInZone_2.Text",
@@ -1991,6 +3103,30 @@
 			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction_LEGACY.W_Extraction_LEGACY_C:WidgetTree.PlayersAlive.Text",
 			"by": "CiaoKakao",
 			"at": "2026-09-29T10:58:56Z"
+		},
+		{
+			"ns": "",
+			"key": "CF4380504B825A8260CAE0826128E47F",
+			"source": "EXTRACT IN ",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction_LEGACY.W_Extraction_LEGACY_C:WidgetTree.RichTextBlock_1.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "22969B054723B4C9D43C18851C189DD9",
+			"source": "TEAM EXTRACT ",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction_LEGACY.W_Extraction_LEGACY_C:WidgetTree.RichTextBlock_166.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "81BAF1B947A3643115CF12BCA5716002",
+			"source": "WAITING FOR TEAM MATES..",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction_LEGACY.W_Extraction_LEGACY_C:WidgetTree.RichTextBlock_3.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
 		},
 		{
 			"ns": "",
@@ -2242,6 +3378,14 @@
 		},
 		{
 			"ns": "",
+			"key": "40BCD23A4753538BF6E2878328D2BA5A",
+			"source": "email@email.com",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Inbox/W_InboxMessage.W_InboxMessage_C:WidgetTree.AuthorText.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
 			"key": "BE552149469FC20619F58A89133877D3",
 			"source": "18.11.2023",
 			"origin": "/Game/Blueprints/MissionSystem/UI/Inbox/W_InboxMessage.W_InboxMessage_C:WidgetTree.DateText.Text",
@@ -2263,6 +3407,14 @@
 			"origin": "/Game/Blueprints/MissionSystem/UI/JobBoard/W_LoyaltyProgressItem.W_LoyaltyProgressItem_C:ExecuteUbergraph_W_LoyaltyProgressItem [Script Bytecode]",
 			"by": "Cleanup (no text)",
 			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "4EFB18E34BF95041F418AC92BA12672A",
+			"source": "{pre} {amount} %",
+			"origin": "/Game/Blueprints/MissionSystem/UI/JobBoard/W_LoyaltyProgressItem.W_LoyaltyProgressItem_C:ExecuteUbergraph_W_LoyaltyProgressItem [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
 		},
 		{
 			"ns": "",
@@ -2290,11 +3442,35 @@
 		},
 		{
 			"ns": "",
+			"key": "74A1869347523F694DF89D91137FC410",
+			"source": "{x} - {y}",
+			"origin": "/Game/Blueprints/MissionSystem/UI/JobBoard/W_MissionInfo.W_MissionInfo_C:InitMission [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "",
+			"key": "B2A7A79E4B84271C9765639B67C460FB",
+			"source": "Title",
+			"origin": "/Game/Blueprints/MissionSystem/UI/JobBoard/W_MissionList_Header.W_MissionList_Header_C:WidgetTree.TitleButton.Section Name",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
 			"key": "E9140D61498471142180158E88C7FA92",
 			"source": "test",
 			"origin": "/Game/Blueprints/MissionSystem/UI/JobBoard/W_MissionList_Item.W_MissionList_Item_C:WidgetTree.Button.ToolTipText",
 			"by": "CiaoKakao",
 			"at": "2026-09-28T15:10:04Z"
+		},
+		{
+			"ns": "",
+			"key": "6769ECCF407EE4867233019E1EAB98A4",
+			"source": "{x}-",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Terminal/Response/W_TerminalResponse_Loading.W_TerminalResponse_Loading_C:ExecuteUbergraph_W_TerminalResponse_Loading [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
 		},
 		{
 			"ns": "",
@@ -2370,6 +3546,14 @@
 		},
 		{
 			"ns": "",
+			"key": "E2D9B5164F997BA9E9A4DEA0CD627237",
+			"source": "[{x}]",
+			"origin": "/Game/Blueprints/MissionSystem/UI/Terminal/W_TerminalInput.W_TerminalInput_C:ExecuteUbergraph_W_TerminalInput [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "",
 			"key": "2DCF76624FD0C7A904930DAF5B1B8BBD",
 			"source": ">",
 			"origin": "/Game/Blueprints/MissionSystem/UI/Terminal/W_TerminalInput.W_TerminalInput_C:WidgetTree.symbols_1.Text",
@@ -2442,6 +3626,14 @@
 		},
 		{
 			"ns": "",
+			"key": "CCD5397142836399314C6BAD6EA71BC2",
+			"source": "{build} - {patch type}",
+			"origin": "/Game/Blueprints/UICore/Widgets/Menu/WB_MainMenu.WB_MainMenu_C:ShowPatchNotes [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "",
 			"key": "8DE10C9D4DDA60B6530128BFF1BF71CD",
 			"source": "Credits",
 			"origin": "/Game/Blueprints/UICore/Widgets/Menu/WB_MainMenu.WB_MainMenu_C:WidgetTree.Credits.Text",
@@ -2463,6 +3655,14 @@
 			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_MissionBriefingControl.W_IRR_MissionBriefingControl_C:ExecuteUbergraph_W_IRR_MissionBriefingControl [Script Bytecode]",
 			"by": "Cleanup (no text)",
 			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "E23169BE4B56A15B3577FCB5B7BEB18A",
+			"source": " / {x}",
+			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_MissionBriefingControl.W_IRR_MissionBriefingControl_C:ExecuteUbergraph_W_IRR_MissionBriefingControl [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
 		},
 		{
 			"ns": "",
@@ -2490,6 +3690,22 @@
 		},
 		{
 			"ns": "",
+			"key": "0F05560D4D6DAB21485EA085CC70E461",
+			"source": "\"{x}\"",
+			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_MissionBriefingSubtitles.W_IRR_MissionBriefingSubtitles_C:ExecuteUbergraph_W_IRR_MissionBriefingSubtitles [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "",
+			"key": "D044314C42BEA9E3FCED5F80C8179C09",
+			"source": "$ {x}",
+			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_RaidSummary.W_IRR_RaidSummary_C:ExecuteUbergraph_W_IRR_RaidSummary [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "",
 			"key": "28168B19406C57723FF8E8A31C7034FD",
 			"source": "$ 44,028",
 			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_RaidSummary.W_IRR_RaidSummary_C:WidgetTree.LootValue.Text",
@@ -2511,6 +3727,14 @@
 			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_RaidSummaryFactionItem.W_IRR_RaidSummaryFactionItem_C:ExecuteUbergraph_W_IRR_RaidSummaryFactionItem [Script Bytecode]",
 			"by": "Cleanup (no text)",
 			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "78C794A24FD2612FBFEDAAA1670E4747",
+			"source": "{pre} {amount} %",
+			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_RaidSummaryFactionItem.W_IRR_RaidSummaryFactionItem_C:ExecuteUbergraph_W_IRR_RaidSummaryFactionItem [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
 		},
 		{
 			"ns": "",
@@ -2551,6 +3775,14 @@
 			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_RaidSummaryItem.W_IRR_RaidSummaryItem_C:ExecuteUbergraph_W_IRR_RaidSummaryItem [Script Bytecode]",
 			"by": "Cleanup (no text)",
 			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "01DEC3A6411663BFF804BE92569BA571",
+			"source": " / {x}",
+			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_RaidSummaryLevel.W_IRR_RaidSummaryLevel_C:ExecuteUbergraph_W_IRR_RaidSummaryLevel [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
 		},
 		{
 			"ns": "",
@@ -2658,6 +3890,22 @@
 		},
 		{
 			"ns": "",
+			"key": "1C3DE6044B7685D6EE794090D4C8C0BA",
+			"source": "Description",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_SingleSettingBar.Default__WB_SingleSettingBar_C.DescriptionText",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
+			"key": "756515C943E16651600CB99F4CA1EB71",
+			"source": "Title",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_SingleSettingBar.Default__WB_SingleSettingBar_C.Title",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
+		},
+		{
+			"ns": "",
 			"key": "E1342DA04B848E4614321B95344D9073",
 			"source": "...",
 			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_SingleSettingBar.Default__WB_SingleSettingBar_C.WaitingForInputText",
@@ -2671,6 +3919,14 @@
 			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_SingleSettingBar.WB_SingleSettingBar_C:WidgetTree.ValueTxt.Text",
 			"by": "Cleanup (no text)",
 			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "5780828B41D039CB0F4ABB98264B1E4F",
+			"source": "PlayerName",
+			"origin": "/Game/Blueprints/UICore/Widgets/SocialTab/Party/W_IRR_PartyData.W_IRR_PartyData_C:WidgetTree.IRRTextBlock_364.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
 		},
 		{
 			"ns": "",
@@ -2698,6 +3954,150 @@
 		},
 		{
 			"ns": "",
+			"key": "B96CC0EC4BEA892519FF5895710768B4",
+			"source": "{Sender}:",
+			"origin": "/Game/Blueprints/UICore/Widgets/SocialTab/WBP_Chatbox.WBP_Chatbox_C:Create Message [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "",
+			"key": "E0982A024103C1B010AC81A09679ACEF",
+			"source": "ProgressBar",
+			"origin": "/Game/ThirdParty/CMG/Data/E_CounterType.E_CounterType.DisplayNameMap(0 - Value).DisplayNameMap",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:51:15Z"
+		},
+		{
+			"ns": "",
+			"key": "9FEA60D54100C3BCDDD9C6AF9189675B",
+			"source": "TextCounter",
+			"origin": "/Game/ThirdParty/CMG/Data/E_CounterType.E_CounterType.DisplayNameMap(1 - Value).DisplayNameMap",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:51:15Z"
+		},
+		{
+			"ns": "",
+			"key": "679744804F399E25302FC99D8E5CDA9D",
+			"source": "FailMission",
+			"origin": "/Game/ThirdParty/CMG/Data/E_FailSequenceType.E_FailSequenceType.DisplayNameMap(0 - Value).DisplayNameMap",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:51:15Z"
+		},
+		{
+			"ns": "",
+			"key": "BCFD6D2D41CE8FC0176C8AAD574841B5",
+			"source": "FailGame",
+			"origin": "/Game/ThirdParty/CMG/Data/E_FailSequenceType.E_FailSequenceType.DisplayNameMap(1 - Value).DisplayNameMap",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:51:15Z"
+		},
+		{
+			"ns": "",
+			"key": "7D1EE5E547019AF0DEAAA59556B79428",
+			"source": "InGame",
+			"origin": "/Game/ThirdParty/CMG/Data/E_GameState.E_GameState.DisplayNameMap(0 - Value).DisplayNameMap",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:51:15Z"
+		},
+		{
+			"ns": "",
+			"key": "89AF90AC4F15D2E37AC5B7AECF12FA29",
+			"source": "GameLost",
+			"origin": "/Game/ThirdParty/CMG/Data/E_GameState.E_GameState.DisplayNameMap(2 - Value).DisplayNameMap",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:51:15Z"
+		},
+		{
+			"ns": "",
+			"key": "577886D64748F481C11B4F82A9764DB7",
+			"source": "GameWon",
+			"origin": "/Game/ThirdParty/CMG/Data/E_GameState.E_GameState.DisplayNameMap(3 - Value).DisplayNameMap",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:51:15Z"
+		},
+		{
+			"ns": "",
+			"key": "A9C91195476E979A260F1081DF62F552",
+			"source": "None",
+			"origin": "/Game/ThirdParty/CMG/Data/E_MarkerType.E_MarkerType.DisplayNameMap(2 - Value).DisplayNameMap",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:51:15Z"
+		},
+		{
+			"ns": "",
+			"key": "F80363B94765606F284A60A066A34499",
+			"source": "DailyMission",
+			"origin": "/Game/ThirdParty/CMG/Data/E_MissionType.E_MissionType.DisplayNameMap(0 - Value).DisplayNameMap",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:51:15Z"
+		},
+		{
+			"ns": "",
+			"key": "5FD340AB4C562BB0EE3FF8AB801145C7",
+			"source": "MainMission",
+			"origin": "/Game/ThirdParty/CMG/Data/E_MissionType.E_MissionType.DisplayNameMap(1 - Value).DisplayNameMap",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:51:15Z"
+		},
+		{
+			"ns": "",
+			"key": "88AAEC53421026701EA0B88F122F00BA",
+			"source": "SideMission",
+			"origin": "/Game/ThirdParty/CMG/Data/E_MissionType.E_MissionType.DisplayNameMap(2 - Value).DisplayNameMap",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:51:15Z"
+		},
+		{
+			"ns": "",
+			"key": "8B059FD248B504653C310DBCE79ACB42",
+			"source": "EmailType",
+			"origin": "/Game/ThirdParty/CMG/Data/E_MissionType.E_MissionType.DisplayNameMap(3 - Value).DisplayNameMap",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:51:15Z"
+		},
+		{
+			"ns": "",
+			"key": "3C79140A499E327C833366AA4C500443",
+			"source": "Default",
+			"origin": "/Game/ThirdParty/CMG/Data/E_ProgressType.E_ProgressType.DisplayNameMap(5 - Value).DisplayNameMap",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:51:15Z"
+		},
+		{
+			"ns": "",
+			"key": "1820779B46FF9719C65E1A8A09AEFA41",
+			"source": "RevivedPlayers",
+			"origin": "/Game/ThirdParty/CMG/Data/E_ScoreboardTypes.E_ScoreboardTypes.DisplayNameMap(0 - Value).DisplayNameMap",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:51:15Z"
+		},
+		{
+			"ns": "",
+			"key": "A34C14A341EBA70657984FA6AC5E1599",
+			"source": "FinishedObjectives",
+			"origin": "/Game/ThirdParty/CMG/Data/E_ScoreboardTypes.E_ScoreboardTypes.DisplayNameMap(2 - Value).DisplayNameMap",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:51:15Z"
+		},
+		{
+			"ns": "",
+			"key": "0B0B509C4BEDAD6D5444F9B862781E24",
+			"source": "MissionTrigger",
+			"origin": "/Game/ThirdParty/CMG/Data/E_TargetType.E_TargetType.DisplayNameMap(3 - Value).DisplayNameMap",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:51:15Z"
+		},
+		{
+			"ns": "",
+			"key": "120AE40B42145FBAA45D6C89DD2B68DD",
+			"source": "None",
+			"origin": "/Game/ThirdParty/CMG/Data/E_TimerType.E_TimerType.DisplayNameMap(0 - Value).DisplayNameMap",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:51:15Z"
+		},
+		{
+			"ns": "",
 			"key": "FAB076604411FDBFD9BC48917BE94B98",
 			"source": "toshi.tanaka@government.com",
 			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.AdditionalMission.Email_48_1EF60E214686034DD7C3F3A821AD083A.Author_11_3F8D40714A7213985D5353AF1740D21C",
@@ -2714,11 +4114,59 @@
 		},
 		{
 			"ns": "",
+			"key": "3C3E5C344E5C682608119BA0437B87E6",
+			"source": "Friendly Fire",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.AdditionalMission.Email_48_1EF60E214686034DD7C3F3A821AD083A.Subject_2_04F1A6DC42B39029339FBEAC2CCC3A0D",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "9BB1C1C84A93A1896A6FECA991E660C0",
+			"source": "XP",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.AdditionalMission.MissionReward_40_D7D4CDA940E9AC3C17523AA13D265D3A(0).MissionReward_40_D7D4CDA940E9AC3C17523AA13D265D3A.Text_11_5746A83A423C5683D077388C209478A5",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
 			"key": "4841F9DC454C018BA5BF879ED92D6D78",
 			"source": "€",
 			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.AdditionalMission.MissionReward_40_D7D4CDA940E9AC3C17523AA13D265D3A(1).MissionReward_40_D7D4CDA940E9AC3C17523AA13D265D3A.Text_11_5746A83A423C5683D077388C209478A5",
 			"by": "Cleanup (no text)",
 			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "4F5370C54168FAAEA6D498871E2D2D52",
+			"source": "Overlap with Trigger",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.AdditionalMission.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(0).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.NotifyMessage_47_504852634F3F9CBFDFC5708F1DA364E5.NofityMessage_5_657D6799458447A64C0ADC9381470B2C",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "D3CEC0204B387C9F63BBA5A9C00C8A12",
+			"source": "Reach",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.AdditionalMission.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(0).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.ObjectiveTarget_54_272A017B497B914A9AE32B975D5452E7.TargetMarker_69_FCAE92AD4FA7E955C5DBE1B9500FBBFB.Hint_22_5C1F2DDB44D40636829912876FB30F05",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "EDB7CEF54B3BE558E5C40BB84D5D27D8",
+			"source": "Trigger",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.AdditionalMission.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(0).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.ObjectiveTarget_54_272A017B497B914A9AE32B975D5452E7.TargetName_33_DD14EA5348B8EE478369E5875F38CDE9",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "554F096A4766D636D2EE068B84820791",
+			"source": "Overlap with Trigger",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.AdditionalMission.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(0).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.SequenceName_35_8A7A7D4F47DD0FC8D71B65A1ADD2D90A",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
 		},
 		{
 			"ns": "",
@@ -2738,6 +4186,118 @@
 		},
 		{
 			"ns": "",
+			"key": "E2A6A94F4D42B7A62F2FBA94AC973A64",
+			"source": "Terrorism",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.Australia.Email_48_1EF60E214686034DD7C3F3A821AD083A.Subject_2_04F1A6DC42B39029339FBEAC2CCC3A0D",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "3A97DFE14ED882DFD65472B86F16FE12",
+			"source": "XP",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.Australia.MissionReward_40_D7D4CDA940E9AC3C17523AA13D265D3A(0).MissionReward_40_D7D4CDA940E9AC3C17523AA13D265D3A.Text_11_5746A83A423C5683D077388C209478A5",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "9F216F3B40B9667F0B2CF48EF8D228DE",
+			"source": "Dollars",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.Australia.MissionReward_40_D7D4CDA940E9AC3C17523AA13D265D3A(1).MissionReward_40_D7D4CDA940E9AC3C17523AA13D265D3A.Text_11_5746A83A423C5683D077388C209478A5",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "B886ED784EDE1327220659BA4D9B6C62",
+			"source": "Make Sure To Interrupt The Power Supplies To Get Entrance",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.Australia.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(0).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.NotifyMessage_47_504852634F3F9CBFDFC5708F1DA364E5.NofityMessage_5_657D6799458447A64C0ADC9381470B2C",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "B89BE5E648A20CB13283FB8B3FFE063B",
+			"source": "Interact",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.Australia.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(0).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.ObjectiveTarget_54_272A017B497B914A9AE32B975D5452E7.TargetMarker_69_FCAE92AD4FA7E955C5DBE1B9500FBBFB.Hint_22_5C1F2DDB44D40636829912876FB30F05",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "1491F9D74EA6F53CFEC9849C83878B8F",
+			"source": "Electric Box",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.Australia.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(0).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.ObjectiveTarget_54_272A017B497B914A9AE32B975D5452E7.TargetName_33_DD14EA5348B8EE478369E5875F38CDE9",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "77C8A9374BC45CD224B38982DD28EFCE",
+			"source": "Interrupt The Power Supplies",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.Australia.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(0).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.SequenceName_35_8A7A7D4F47DD0FC8D71B65A1ADD2D90A",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "7D1D755E4014DE2BF6810580F44C772E",
+			"source": "Get The Secret File in the Main Building",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.Australia.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(1).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.NotifyMessage_47_504852634F3F9CBFDFC5708F1DA364E5.NofityMessage_5_657D6799458447A64C0ADC9381470B2C",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "2A6603A049316407A2CA7297C302846B",
+			"source": "Interact",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.Australia.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(1).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.ObjectiveTarget_54_272A017B497B914A9AE32B975D5452E7.TargetMarker_69_FCAE92AD4FA7E955C5DBE1B9500FBBFB.Hint_22_5C1F2DDB44D40636829912876FB30F05",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "8537B14E4E3FA6437F061FB378077C89",
+			"source": "File",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.Australia.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(1).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.ObjectiveTarget_54_272A017B497B914A9AE32B975D5452E7.TargetName_33_DD14EA5348B8EE478369E5875F38CDE9",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "F6B458FD4D615E1CCC5F588D22DD64A3",
+			"source": "Get The Secret File",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.Australia.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(1).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.SequenceName_35_8A7A7D4F47DD0FC8D71B65A1ADD2D90A",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "93219DB340AA0B07D1D5419C9D6905E1",
+			"source": "Get Out Of The Building And Extract",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.Australia.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(2).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.NotifyMessage_47_504852634F3F9CBFDFC5708F1DA364E5.NofityMessage_5_657D6799458447A64C0ADC9381470B2C",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "D70A55354F0B3E033D503996526E53EE",
+			"source": "Extraction Point",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.Australia.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(2).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.ObjectiveTarget_54_272A017B497B914A9AE32B975D5452E7.TargetName_33_DD14EA5348B8EE478369E5875F38CDE9",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "CDFCEB5E4845A3DB13450C879E481952",
+			"source": "Extract",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.Australia.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(2).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.SequenceName_35_8A7A7D4F47DD0FC8D71B65A1ADD2D90A",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
 			"key": "DFF24C93456DE8E93DA21C904804D8A9",
 			"source": "toshi.tanaka@government.com",
 			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.BlockoutMission.Email_48_1EF60E214686034DD7C3F3A821AD083A.Author_11_3F8D40714A7213985D5353AF1740D21C",
@@ -2751,6 +4311,54 @@
 			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.BlockoutMission.Email_48_1EF60E214686034DD7C3F3A821AD083A.Content_4_C09FE08643CABC95C2BF36A747E9E267",
 			"by": "CiaoKakao",
 			"at": "2026-09-28T10:09:27Z"
+		},
+		{
+			"ns": "",
+			"key": "E6C92C5B4A794F9424CF72974BB507FF",
+			"source": "Terrorism",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.BlockoutMission.Email_48_1EF60E214686034DD7C3F3A821AD083A.Subject_2_04F1A6DC42B39029339FBEAC2CCC3A0D",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "D8CA09E2404C52BF9405A5AF69A33621",
+			"source": "XP",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.BlockoutMission.MissionReward_40_D7D4CDA940E9AC3C17523AA13D265D3A(0).MissionReward_40_D7D4CDA940E9AC3C17523AA13D265D3A.Text_11_5746A83A423C5683D077388C209478A5",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "93502DB143253F22245F42A67AEAC952",
+			"source": "Dollars",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.BlockoutMission.MissionReward_40_D7D4CDA940E9AC3C17523AA13D265D3A(1).MissionReward_40_D7D4CDA940E9AC3C17523AA13D265D3A.Text_11_5746A83A423C5683D077388C209478A5",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "F2A1002A42624D03CA04CFB17B4B65DD",
+			"source": "Get Out Of The Building And Extract",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.BlockoutMission.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(0).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.NotifyMessage_47_504852634F3F9CBFDFC5708F1DA364E5.NofityMessage_5_657D6799458447A64C0ADC9381470B2C",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "941FF41C49FE204F155D5EB34C5936C8",
+			"source": "Extraction Point",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.BlockoutMission.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(0).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.ObjectiveTarget_54_272A017B497B914A9AE32B975D5452E7.TargetName_33_DD14EA5348B8EE478369E5875F38CDE9",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "DED7408740DE801821C23D858A9708F1",
+			"source": "Extract",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.BlockoutMission.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(0).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.SequenceName_35_8A7A7D4F47DD0FC8D71B65A1ADD2D90A",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
 		},
 		{
 			"ns": "",
@@ -2770,6 +4378,46 @@
 		},
 		{
 			"ns": "",
+			"key": "5350B57743530569F9D171AC622E69EF",
+			"source": "Friendly Fire",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.DeactivateWaveSpawner.Email_48_1EF60E214686034DD7C3F3A821AD083A.Subject_2_04F1A6DC42B39029339FBEAC2CCC3A0D",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "85C7DB4440C73BC8DBA65F9384544B44",
+			"source": "XP",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.DeactivateWaveSpawner.MissionReward_40_D7D4CDA940E9AC3C17523AA13D265D3A(0).MissionReward_40_D7D4CDA940E9AC3C17523AA13D265D3A.Text_11_5746A83A423C5683D077388C209478A5",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "45297D2F427428E459B5F9A1142C839A",
+			"source": "Deactivate the machine",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.DeactivateWaveSpawner.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(0).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.NotifyMessage_47_504852634F3F9CBFDFC5708F1DA364E5.NofityMessage_5_657D6799458447A64C0ADC9381470B2C",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "78DA51C642950E1D3C408B987D940959",
+			"source": "Spawner",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.DeactivateWaveSpawner.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(0).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.ObjectiveTarget_54_272A017B497B914A9AE32B975D5452E7.TargetName_33_DD14EA5348B8EE478369E5875F38CDE9",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "7B2C9D9446F7DDF9EEE5B8A273C965A9",
+			"source": "Deactivate the machine in time!",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.DeactivateWaveSpawner.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(0).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.SequenceName_35_8A7A7D4F47DD0FC8D71B65A1ADD2D90A",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
 			"key": "AFD1B395411EC06D0FC86C987AF5626D",
 			"source": "patrick.miller@resistance.com",
 			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.DemoMission_0.Email_48_1EF60E214686034DD7C3F3A821AD083A.Author_11_3F8D40714A7213985D5353AF1740D21C",
@@ -2783,6 +4431,86 @@
 			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.DemoMission_0.Email_48_1EF60E214686034DD7C3F3A821AD083A.Content_4_C09FE08643CABC95C2BF36A747E9E267",
 			"by": "CiaoKakao",
 			"at": "2026-09-28T10:09:27Z"
+		},
+		{
+			"ns": "",
+			"key": "5A7F3ED147F90F5F6FC0199AA79FAFEB",
+			"source": "Electronic Devices",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.DemoMission_0.Email_48_1EF60E214686034DD7C3F3A821AD083A.Subject_2_04F1A6DC42B39029339FBEAC2CCC3A0D",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "E1D6393D4978520C55C3DEB3730A4C02",
+			"source": "XP",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.DemoMission_0.MissionReward_40_D7D4CDA940E9AC3C17523AA13D265D3A(0).MissionReward_40_D7D4CDA940E9AC3C17523AA13D265D3A.Text_11_5746A83A423C5683D077388C209478A5",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "923982B8428FCB755B1011936D503D84",
+			"source": "Dollars",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.DemoMission_0.MissionReward_40_D7D4CDA940E9AC3C17523AA13D265D3A(1).MissionReward_40_D7D4CDA940E9AC3C17523AA13D265D3A.Text_11_5746A83A423C5683D077388C209478A5",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "E85AD04641E7469415CF63B3F9CAEE53",
+			"source": "Get The Secret File in the Main Building",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.DemoMission_0.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(0).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.NotifyMessage_47_504852634F3F9CBFDFC5708F1DA364E5.NofityMessage_5_657D6799458447A64C0ADC9381470B2C",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "542E355C484DC2042398DE84EA3471DC",
+			"source": "Interact",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.DemoMission_0.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(0).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.ObjectiveTarget_54_272A017B497B914A9AE32B975D5452E7.TargetMarker_69_FCAE92AD4FA7E955C5DBE1B9500FBBFB.Hint_22_5C1F2DDB44D40636829912876FB30F05",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "705083F0425EC5BEC58CB687D6D1A3E2",
+			"source": "File",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.DemoMission_0.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(0).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.ObjectiveTarget_54_272A017B497B914A9AE32B975D5452E7.TargetName_33_DD14EA5348B8EE478369E5875F38CDE9",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "B8B99B884B055E2202E2ED8F50255D67",
+			"source": "Get The Secret File",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.DemoMission_0.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(0).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.SequenceName_35_8A7A7D4F47DD0FC8D71B65A1ADD2D90A",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "BAE6693C43602C237B9A5F98151C5F65",
+			"source": "Get Out Of The Building And Extract",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.DemoMission_0.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(1).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.NotifyMessage_47_504852634F3F9CBFDFC5708F1DA364E5.NofityMessage_5_657D6799458447A64C0ADC9381470B2C",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "4C60113340ADD5023AEB6D921A65EF17",
+			"source": "Extraction Point",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.DemoMission_0.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(1).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.ObjectiveTarget_54_272A017B497B914A9AE32B975D5452E7.TargetName_33_DD14EA5348B8EE478369E5875F38CDE9",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "2971867346834F3199F46F812FEA3E4B",
+			"source": "Extract",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.DemoMission_0.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(1).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.SequenceName_35_8A7A7D4F47DD0FC8D71B65A1ADD2D90A",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
 		},
 		{
 			"ns": "",
@@ -2802,11 +4530,179 @@
 		},
 		{
 			"ns": "",
+			"key": "70152C4940BED0F765E567939D72F34C",
+			"source": "Electronic Devices",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.DemoMission.Email_48_1EF60E214686034DD7C3F3A821AD083A.Subject_2_04F1A6DC42B39029339FBEAC2CCC3A0D",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "768FAC1544AFDF9395156282C058845E",
+			"source": "XP",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.DemoMission.MissionReward_40_D7D4CDA940E9AC3C17523AA13D265D3A(0).MissionReward_40_D7D4CDA940E9AC3C17523AA13D265D3A.Text_11_5746A83A423C5683D077388C209478A5",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "C926D76C48DE5B4D17F75EB5285A9854",
+			"source": "Dollars",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.DemoMission.MissionReward_40_D7D4CDA940E9AC3C17523AA13D265D3A(1).MissionReward_40_D7D4CDA940E9AC3C17523AA13D265D3A.Text_11_5746A83A423C5683D077388C209478A5",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "5B4C4B2E488FD7F55B35318C6353D4C4",
+			"source": "Get The Secret File in the Main Building",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.DemoMission.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(0).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.NotifyMessage_47_504852634F3F9CBFDFC5708F1DA364E5.NofityMessage_5_657D6799458447A64C0ADC9381470B2C",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "4E54B53C458061D036218FA185464F6A",
+			"source": "Interact",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.DemoMission.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(0).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.ObjectiveTarget_54_272A017B497B914A9AE32B975D5452E7.TargetMarker_69_FCAE92AD4FA7E955C5DBE1B9500FBBFB.Hint_22_5C1F2DDB44D40636829912876FB30F05",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "266053344E468A18B9594FB148A427E9",
+			"source": "File",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.DemoMission.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(0).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.ObjectiveTarget_54_272A017B497B914A9AE32B975D5452E7.TargetName_33_DD14EA5348B8EE478369E5875F38CDE9",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "F7FCA81241213D8B8DD9B4BE80F657E3",
+			"source": "Get The Secret File",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.DemoMission.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(0).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.SequenceName_35_8A7A7D4F47DD0FC8D71B65A1ADD2D90A",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "418037FA44B3E99401FF6A9C26E94928",
+			"source": "Find a Car And Extract",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.DemoMission.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(1).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.NotifyMessage_47_504852634F3F9CBFDFC5708F1DA364E5.NofityMessage_5_657D6799458447A64C0ADC9381470B2C",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "7EB595004ACA3CC4C21EC9BD66D00E1D",
+			"source": "Car",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.DemoMission.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(1).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.ObjectiveTarget_54_272A017B497B914A9AE32B975D5452E7.TargetName_33_DD14EA5348B8EE478369E5875F38CDE9",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "ED0705814894046CE24ECB9DBBD9CB34",
+			"source": "Extract",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions_Legacy.DT_ExampleMissions_Legacy.DemoMission.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(1).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.SequenceName_35_8A7A7D4F47DD0FC8D71B65A1ADD2D90A",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
 			"key": "2D87F8CF479CD65FAED6408630E3BF49",
 			"source": "Z@unknown.co",
 			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions.DT_ExampleMissions.DemoMission.Email_48_1EF60E214686034DD7C3F3A821AD083A.Author_11_3F8D40714A7213985D5353AF1740D21C",
 			"by": "CiaoKakao",
 			"at": "2026-10-06T23:32:22Z"
+		},
+		{
+			"ns": "",
+			"key": "0ECF3F3745223EC00475A4963BBA7629",
+			"source": "So I hear you’re one of the best to get shit done around here? If that’s true, got something that might interest you…\r\n\r\nKnow where the Edmonton Grain Factory is? It’s that grimey shithole not far from you.\r\n\r\nAfter everyone fled and went running towards the cities for help, a group of degenerates took over and are hoarding all the supplies, attacking anyone that goes near the place.\r\n\r\nI’ve heard it’s not only supplies they’re hoarding though; rumour has it government vehicles have been spotted going in and out of the place like clockwork… the same government that was supposed to have collapsed.\r\n\r\nAs far as I’m concerned, some shady shit is going on and if you’re up for the task, I’d like you to go there and search the place, see if you can find any files or evidence that explain what the fuck is going on.\r\n\r\nI’ll make this worth your while.\r\n\r\nZ",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions.DT_ExampleMissions.DemoMission.Email_48_1EF60E214686034DD7C3F3A821AD083A.Content_4_C09FE08643CABC95C2BF36A747E9E267",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "C1B83D244C1B0FA47647AFBB3522BC7F",
+			"source": "Factory Degenerates",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions.DT_ExampleMissions.DemoMission.Email_48_1EF60E214686034DD7C3F3A821AD083A.Subject_2_04F1A6DC42B39029339FBEAC2CCC3A0D",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "538A336D491A9AC6817AC8932080EFEA",
+			"source": "Dollars",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions.DT_ExampleMissions.DemoMission.MissionReward_40_D7D4CDA940E9AC3C17523AA13D265D3A(0).MissionReward_40_D7D4CDA940E9AC3C17523AA13D265D3A.Text_11_5746A83A423C5683D077388C209478A5",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "2F3F59A34C70D1BBB5D2EBBC9D33AB95",
+			"source": "Get The Secret File in the Main Building",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions.DT_ExampleMissions.DemoMission.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(0).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.NotifyMessage_47_504852634F3F9CBFDFC5708F1DA364E5.NofityMessage_5_657D6799458447A64C0ADC9381470B2C",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "DD801CC7455F11C30E87F5B4B3C5C8A4",
+			"source": "Interact",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions.DT_ExampleMissions.DemoMission.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(0).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.ObjectiveTarget_54_272A017B497B914A9AE32B975D5452E7.TargetMarker_69_FCAE92AD4FA7E955C5DBE1B9500FBBFB.Hint_22_5C1F2DDB44D40636829912876FB30F05",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "CFB02A954AF41492F2D7AA9AA1CF1725",
+			"source": "File",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions.DT_ExampleMissions.DemoMission.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(0).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.ObjectiveTarget_54_272A017B497B914A9AE32B975D5452E7.TargetName_33_DD14EA5348B8EE478369E5875F38CDE9",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "F9A9C9F945358D505D545D98529BB5B9",
+			"source": "Collect The File",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions.DT_ExampleMissions.DemoMission.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(0).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.SequenceName_35_8A7A7D4F47DD0FC8D71B65A1ADD2D90A",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "95C80EB94C58A95E303607BB22D7F734",
+			"source": "Find a Car And Extract",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions.DT_ExampleMissions.DemoMission.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(1).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.NotifyMessage_47_504852634F3F9CBFDFC5708F1DA364E5.NofityMessage_5_657D6799458447A64C0ADC9381470B2C",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "B86D980242965F9AA972C0A0F8FDBA82",
+			"source": "Extraction Point",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions.DT_ExampleMissions.DemoMission.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(1).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.ObjectiveTarget_54_272A017B497B914A9AE32B975D5452E7.TargetName_33_DD14EA5348B8EE478369E5875F38CDE9",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "F7BB518E4F630B6714C6A3ACC7BD9665",
+			"source": "Extract",
+			"origin": "/Game/ThirdParty/CMG/DemoContent/DT_ExampleMissions.DT_ExampleMissions.DemoMission.Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF(1).Sequences_41_8A3D24AA47AB48C88D748ABBD262B9EF.SequenceName_35_8A7A7D4F47DD0FC8D71B65A1ADD2D90A",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:58:13Z"
+		},
+		{
+			"ns": "",
+			"key": "A094253F4075FF7E5032728520B76C0C",
+			"source": "+ {y}",
+			"origin": "/Game/ThirdParty/CMG/Widgets/EmailStyle/WB_SingleEmailReward.WB_SingleEmailReward_C:Get_EmailSubject_Text_0 [Script Bytecode]",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
 		},
 		{
 			"ns": "",
@@ -2823,6 +4719,14 @@
 			"origin": "/Game/ThirdParty/CMG/Widgets/W_DeathScreen.W_DeathScreen_C:WidgetTree.RemainingTime.Text",
 			"by": "CiaoKakao",
 			"at": "2026-09-29T10:58:56Z"
+		},
+		{
+			"ns": "",
+			"key": "0B8713C84E8B6B91382AA1822DCC9468",
+			"source": "PlayerName",
+			"origin": "/Game/ThirdParty/CMG/Widgets/W_PlayerScoreItem.W_PlayerScoreItem_C:WidgetTree.PlayerNameText.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
 		},
 		{
 			"ns": "",
@@ -2847,6 +4751,14 @@
 			"origin": "/Game/ThirdParty/CMG/Widgets/W_RewardItem.W_RewardItem_C:WidgetTree.TextBlock_68.Text",
 			"by": "Cleanup (no text)",
 			"at": "2026-10-06T13:37:18Z"
+		},
+		{
+			"ns": "",
+			"key": "8764EA5D4C305FF07BD1A2BEDFDB1221",
+			"source": "ScoreType",
+			"origin": "/Game/ThirdParty/CMG/Widgets/W_ScoreboardItem.W_ScoreboardItem_C:WidgetTree.TextBlock_63.Text",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:23:14Z"
 		},
 		{
 			"ns": "",
@@ -2881,6 +4793,30 @@
 			"at": "2026-10-06T13:37:18Z"
 		},
 		{
+			"ns": "IRRReward",
+			"key": "ItemLineFormat",
+			"source": "{0}x {1}",
+			"origin": "Source/IRRMissionSystem/Public/Widgets/IRRRewardTextWidget.h(33)",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "IRRReward",
+			"key": "CashLineFormat",
+			"source": "${0} {1}",
+			"origin": "Source/IRRMissionSystem/Public/Widgets/IRRRewardTextWidget.h(38)",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "IRRReward",
+			"key": "CashValueFormat",
+			"source": "${0}",
+			"origin": "Source/IRRMissionSystem/Public/Widgets/IRRRewardWidget.h(81)",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
 			"ns": "IRRPatch",
 			"key": "ResetSeparator",
 			"source": ", ",
@@ -2889,12 +4825,156 @@
 			"at": "2026-10-06T13:37:18Z"
 		},
 		{
+			"ns": "IRRRaidTrader",
+			"key": "CountFormat",
+			"source": "x{0}",
+			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTradeOfferWidget.h(92)",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "IRRRaidTrader",
+			"key": "ValueFormat",
+			"source": "{0} $",
+			"origin": "Source/Test_C/Inventory/RaidTrader/RaidTradeOfferWidget.h(96)",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T08:21:44Z"
+		},
+		{
+			"ns": "IRRSpectatorMenu",
+			"key": "Title",
+			"source": "Spectator (Debug)",
+			"origin": "Source/Test_C/Spectator/SIRRSpectatorMenu.cpp(121)",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
+			"ns": "IRRSpectatorMenu",
+			"key": "StartHelmet",
+			"source": "Helmet Cam",
+			"origin": "Source/Test_C/Spectator/SIRRSpectatorMenu.cpp(129)",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
 			"ns": "IRRSpectatorMenu",
 			"key": "Close",
 			"source": "X",
 			"origin": "Source/Test_C/Spectator/SIRRSpectatorMenu.cpp(137)",
 			"by": "CiaoKakao",
 			"at": "2026-09-29T10:58:56Z"
+		},
+		{
+			"ns": "IRRSpectatorMenu",
+			"key": "NotSpectating",
+			"source": "Not spectating",
+			"origin": "Source/Test_C/Spectator/SIRRSpectatorMenu.cpp(190)",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
+			"ns": "IRRSpectatorMenu",
+			"key": "WatchingFmt",
+			"source": "Watching {0}  ({1})",
+			"origin": "Source/Test_C/Spectator/SIRRSpectatorMenu.cpp(195)",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
+			"ns": "IRRSpectatorMenu",
+			"key": "WatchingGone",
+			"source": "Watching (target gone)",
+			"origin": "Source/Test_C/Spectator/SIRRSpectatorMenu.cpp(198)",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
+			"ns": "IRRSpectatorMenu",
+			"key": "ModeHelmet",
+			"source": "Helmet",
+			"origin": "Source/Test_C/Spectator/SIRRSpectatorMenu.cpp(208)",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
+			"ns": "IRRSpectatorMenu",
+			"key": "ModeSensor",
+			"source": "Sensor",
+			"origin": "Source/Test_C/Spectator/SIRRSpectatorMenu.cpp(219)",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
+			"ns": "IRRSpectatorMenu",
+			"key": "ModeChase",
+			"source": "Chase",
+			"origin": "Source/Test_C/Spectator/SIRRSpectatorMenu.cpp(230)",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
+			"ns": "IRRSpectatorMenu",
+			"key": "Prev",
+			"source": "< Prev",
+			"origin": "Source/Test_C/Spectator/SIRRSpectatorMenu.cpp(241)",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
+			"ns": "IRRSpectatorMenu",
+			"key": "Next",
+			"source": "Next >",
+			"origin": "Source/Test_C/Spectator/SIRRSpectatorMenu.cpp(252)",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
+			"ns": "IRRSpectatorMenu",
+			"key": "Engaged",
+			"source": "Engaged",
+			"origin": "Source/Test_C/Spectator/SIRRSpectatorMenu.cpp(266)",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
+			"ns": "IRRSpectatorMenu",
+			"key": "Stop",
+			"source": "Stop",
+			"origin": "Source/Test_C/Spectator/SIRRSpectatorMenu.cpp(277)",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
+			"ns": "IRRSpectatorMenu",
+			"key": "NoViewer",
+			"source": "No local player.",
+			"origin": "Source/Test_C/Spectator/SIRRSpectatorMenu.cpp(294)",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
+			"ns": "IRRSpectatorMenu",
+			"key": "NoTargets",
+			"source": "No spectate targets.",
+			"origin": "Source/Test_C/Spectator/SIRRSpectatorMenu.cpp(302)",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
+			"ns": "IRRSpectatorMenu",
+			"key": "StartedFmt",
+			"source": "Helmet cam: {0}",
+			"origin": "Source/Test_C/Spectator/SIRRSpectatorMenu.cpp(310)",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
+		},
+		{
+			"ns": "IRRSpectatorMenu",
+			"key": "Started",
+			"source": "Helmet cam started.",
+			"origin": "Source/Test_C/Spectator/SIRRSpectatorMenu.cpp(312)",
+			"by": "CiaoKakao",
+			"at": "2026-10-07T09:49:40Z"
 		}
 	]
 }

@@ -264,58 +264,6 @@
 		},
 		{
 			"ns": "",
-			"key": "03BCD97444C43346A2A7528FF2C0D720",
-			"source": "RequestLogin {x} {y}",
-			"sourceHash": "9a4ea591",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Terminal/Response/W_TerminalResponse_RequestLogin.W_TerminalResponse_RequestLogin_C:ExecuteUbergraph_W_TerminalResponse_RequestLogin [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": "RequestLogin {x} {y}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "RequestLogin {x} {y}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "RequestLogin {x} {y}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "RequestLogin {x} {y}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "RequestLogin {x} {y}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "RequestLogin {x} {y}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "047FD7584B2162871EBD04B3F5EB86E2",
 			"source": "You need to upgrade your terminal to chose your infill location.",
 			"sourceHash": "121106a2",
@@ -1200,58 +1148,6 @@
 		},
 		{
 			"ns": "",
-			"key": "172858C742E21A7C282987B02374919B",
-			"source": "Extraction Zone",
-			"sourceHash": "bcc44e47",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction_LEGACY.W_Extraction_LEGACY_C:WidgetTree.ItemNameText_2.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "Extraktionszone",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "撤离区域",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Зона эвакуации",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "탈출 구역",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "脱出ゾーン",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Zona de extracción",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "19050F4C4BB61739F6601C875DCAA5F4",
 			"source": "Info",
 			"sourceHash": "ab1c420e",
@@ -1608,58 +1504,6 @@
 				"es-ES":
 				{
 					"text": "SEGUNDO",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "22969B054723B4C9D43C18851C189DD9",
-			"source": "TEAM EXTRACT ",
-			"sourceHash": "5af17e34",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction_LEGACY.W_Extraction_LEGACY_C:WidgetTree.RichTextBlock_166.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "TEAM-EXTRAKTION ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "小队撤离 ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "ЭВАКУАЦИЯ ГРУППЫ ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "팀 탈출 ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "チーム脱出 ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "EXTRACCIÓN EN EQUIPO ",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -3280,58 +3124,6 @@
 		},
 		{
 			"ns": "",
-			"key": "40BCD23A4753538BF6E2878328D2BA5A",
-			"source": "email@email.com",
-			"sourceHash": "0cc01fce",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Inbox/W_InboxMessage.W_InboxMessage_C:WidgetTree.AuthorText.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "email@email.com",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "email@email.com",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "email@email.com",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "email@email.com",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "email@email.com",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "email@email.com",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "41D59A9744CDBCDE7E37119A905E192E",
 			"source": "MATCHMAKING CANCELED",
 			"sourceHash": "bb31ac1a",
@@ -3740,110 +3532,6 @@
 				"es-ES":
 				{
 					"text": "SOLICITANDO RESERVA",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "4EA1BA5B49836BB66261BDB56C086C72",
-			"source": "Wait for players",
-			"sourceHash": "51886372",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction_LEGACY.W_Extraction_LEGACY_C:WidgetTree.IRRTextBlock.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "Auf Spieler warten",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "等待其他玩家",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Ожидание игроков",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "플레이어 대기 중",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "プレイヤーを待機中",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Esperando a los jugadores",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "4EFB18E34BF95041F418AC92BA12672A",
-			"source": "{pre} {amount} %",
-			"sourceHash": "9ac1dfab",
-			"origin": "/Game/Blueprints/MissionSystem/UI/JobBoard/W_LoyaltyProgressItem.W_LoyaltyProgressItem_C:ExecuteUbergraph_W_LoyaltyProgressItem [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": "{pre} {amount} %",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "{pre} {amount} %",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "{pre} {amount} %",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "{pre} {amount} %",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "{pre} {amount} %",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "{pre} {amount} %",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -4840,58 +4528,6 @@
 		},
 		{
 			"ns": "",
-			"key": "6769ECCF407EE4867233019E1EAB98A4",
-			"source": "{x}-",
-			"sourceHash": "2e4dd759",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Terminal/Response/W_TerminalResponse_Loading.W_TerminalResponse_Loading_C:ExecuteUbergraph_W_TerminalResponse_Loading [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": "{x}-",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "{x}-",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "{x}-",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "{x}-",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "{x}-",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "{x}-",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "690512C649F5143CD4866B8709B6FE3F",
 			"source": "Headline",
 			"sourceHash": "091ef016",
@@ -5404,58 +5040,6 @@
 				"es-ES":
 				{
 					"text": "Destruye el depósito de combustible",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "74A1869347523F694DF89D91137FC410",
-			"source": "{x} - {y}",
-			"sourceHash": "74bdb189",
-			"origin": "/Game/Blueprints/MissionSystem/UI/JobBoard/W_MissionInfo.W_MissionInfo_C:InitMission [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": "{x} - {y}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "{x} - {y}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "{x} - {y}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "{x} - {y}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "{x} - {y}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "{x} - {y}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -6036,58 +5620,6 @@
 		},
 		{
 			"ns": "",
-			"key": "7F0488854B4A80B399221B85D7E3EE9D",
-			"source": "Extract In",
-			"sourceHash": "0f9d073a",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction_LEGACY.W_Extraction_LEGACY_C:WidgetTree.IRRTextBlock_3.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "Extraktion in",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "撤离倒计时",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Эвакуация через",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "탈출까지",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "脱出まで",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Extracción en",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "7FC80C414A6F3196CFA763953686D2DE",
 			"source": "UICS",
 			"sourceHash": "8ddbb604",
@@ -6236,58 +5768,6 @@
 				"es-ES":
 				{
 					"text": "Haz clic para eliminar el filtro.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "81BAF1B947A3643115CF12BCA5716002",
-			"source": "WAITING FOR TEAM MATES..",
-			"sourceHash": "9b03c585",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction_LEGACY.W_Extraction_LEGACY_C:WidgetTree.RichTextBlock_3.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "WARTE AUF TEAMMITGLIEDER..",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "等待队友中..",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "ОЖИДАНИЕ ТОВАРИЩЕЙ ПО КОМАНДЕ..",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "팀원 대기 중..",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "チームメイトを待機中..",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "ESPERANDO A LOS COMPAÑEROS DE EQUIPO..",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -6756,58 +6236,6 @@
 				"es-ES":
 				{
 					"text": "ABIERTO",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "8E35A77F44927CB9A1FF729EBC0D095B",
-			"source": "Hiraeth Terminal - Version 1.0\r\nhttps://hiraeth.digital",
-			"sourceHash": "cbdb7bba",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Terminal/W_TerminalConsole.W_TerminalConsole_C:WidgetTree.TVersionInfo.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "Hiraeth Terminal - Version 1.0\r\nhttps://hiraeth.digital",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "Hiraeth Terminal - Version 1.0\r\nhttps://hiraeth.digital",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Hiraeth Terminal - Version 1.0\r\nhttps://hiraeth.digital",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "Hiraeth Terminal - Version 1.0\r\nhttps://hiraeth.digital",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "Hiraeth Terminal - Version 1.0\r\nhttps://hiraeth.digital",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Hiraeth Terminal - Version 1.0\r\nhttps://hiraeth.digital",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -8428,58 +7856,6 @@
 		},
 		{
 			"ns": "",
-			"key": "B2A7A79E4B84271C9765639B67C460FB",
-			"source": "Title",
-			"sourceHash": "dcccf0f0",
-			"origin": "/Game/Blueprints/MissionSystem/UI/JobBoard/W_MissionList_Header.W_MissionList_Header_C:WidgetTree.TitleButton.Section Name",
-			"t":
-			{
-				"de":
-				{
-					"text": "Titel",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "标题",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Название",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "제목",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "タイトル",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Título",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "B3181F954961099896C9D89F1CB716BD",
 			"source": "GPS ENABLED",
 			"sourceHash": "55e3da13",
@@ -9572,58 +8948,6 @@
 		},
 		{
 			"ns": "",
-			"key": "CF4380504B825A8260CAE0826128E47F",
-			"source": "EXTRACT IN ",
-			"sourceHash": "75e2e6b5",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction_LEGACY.W_Extraction_LEGACY_C:WidgetTree.RichTextBlock_1.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "EXTRAKTION IN ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "撤离倒计时 ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "ЭВАКУАЦИЯ ЧЕРЕЗ ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "탈출까지 ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "脱出まで ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "EXTRACCIÓN EN ",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "D30668A24F656E73887375806EE57A32",
 			"source": "Return to combat zone",
 			"sourceHash": "03a8ab75",
@@ -9988,53 +9312,53 @@
 		},
 		{
 			"ns": "",
-			"key": "E2D9B5164F997BA9E9A4DEA0CD627237",
-			"source": "[{x}]",
-			"sourceHash": "41503756",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Terminal/W_TerminalInput.W_TerminalInput_C:ExecuteUbergraph_W_TerminalInput [Script Bytecode]",
+			"key": "E06F38444FD72CDC87A86ABED8F1FE85",
+			"source": "[RETRACKED] MAIN STORY",
+			"sourceHash": "126ab54f",
+			"origin": "/Game/Blueprints/MissionSystem/UI/JobBoard/W_MissionInfo.W_MissionInfo_C:InitMission [Script Bytecode]",
 			"t":
 			{
 				"de":
 				{
-					"text": "[{x}]",
+					"text": "[RETRACKED] HAUPTGESCHICHTE",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "[{x}]",
+					"text": "[RETRACKED] 主线剧情",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "[{x}]",
+					"text": "[RETRACKED] ОСНОВНОЙ СЮЖЕТ",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "[{x}]",
+					"text": "[RETRACKED] 메인 스토리",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "[{x}]",
+					"text": "[RETRACKED] メインストーリー",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "[{x}]",
+					"text": "[RETRACKED] HISTORIA PRINCIPAL",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -10292,58 +9616,6 @@
 				"es-ES":
 				{
 					"text": "(LÍDER)",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "E80819D94C76E3BEBFB18ABA51DACB7F",
-			"source": "Lake Side",
-			"sourceHash": "ddfb9aae",
-			"origin": "/Game/Blueprints/MissionSystem/UI/Extraction/W_Extraction_LEGACY.W_Extraction_LEGACY_C:WidgetTree.ItemNameText_3.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "Uferseite",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "湖畔",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Берег озера",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "호숫가",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "湖畔",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Orilla del lago",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"

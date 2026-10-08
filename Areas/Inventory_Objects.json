@@ -4684,58 +4684,6 @@
 		},
 		{
 			"ns": "",
-			"key": "DEF18CE745DF1E6C9CE91C945496260A",
-			"source": "{x} x {y}",
-			"sourceHash": "8a096aa5",
-			"origin": "/Game/Blueprints/InventorySystem/Objects/Stats/U_DefaultSize.U_DefaultSize_C:GetStatValueText [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": "{x} x {y}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "{x} x {y}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "{x} x {y}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "{x} x {y}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "{x} x {y}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "{x} x {y}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "E07DDA2148ACFA3C2EB1309C7E1433CF",
 			"source": "Expand",
 			"sourceHash": "229307c4",

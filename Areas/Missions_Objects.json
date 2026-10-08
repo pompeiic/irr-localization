@@ -108,58 +108,6 @@
 		},
 		{
 			"ns": "",
-			"key": "10F72B0547CA71D9E575318591D43AFD",
-			"source": "RequestLogin",
-			"sourceHash": "f5a90c45",
-			"origin": "/Game/Blueprints/MissionSystem/Objects/Terminal/Sequences/BP_TerminalSequence_RequestLogin.Default__BP_TerminalSequence_RequestLogin_C.Command.Command",
-			"t":
-			{
-				"de":
-				{
-					"text": "RequestLogin",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "RequestLogin",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "RequestLogin",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "RequestLogin",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "RequestLogin",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "RequestLogin",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "1178FCB24301A5DA90525589B5FFF267",
 			"source": "Find & collect item.",
 			"sourceHash": "c9718a88",
@@ -464,58 +412,6 @@
 				"es-ES":
 				{
 					"text": "Entrega {count} {targetdata} al comerciante.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "56CB88B9428017C9F28BD9BFA8FA30F3",
-			"source": "{Command} {l} {r} {user}",
-			"sourceHash": "f0cfa1fd",
-			"origin": "/Game/Blueprints/MissionSystem/Objects/Terminal/Sequences/BP_TerminalSequence_Text.Default__BP_TerminalSequence_Text_C.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "{Command} {l} {r} {user}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "{Command} {l} {r} {user}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "{Command} {l} {r} {user}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "{Command} {l} {r} {user}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "{Command} {l} {r} {user}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "{Command} {l} {r} {user}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -1096,58 +992,6 @@
 		},
 		{
 			"ns": "",
-			"key": "A254F2174A0373F39A2A7E8A5EA0F9B3",
-			"source": "read users.txt",
-			"sourceHash": "e5d92a9b",
-			"origin": "/Game/Blueprints/MissionSystem/Objects/Terminal/DirectoryRequirement/BP_TerminalDirectoryRequirement_IsCorrectUser.BP_TerminalDirectoryRequirement_IsCorrectUser_C:GetAccessCommands [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": "read users.txt",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "read users.txt",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "read users.txt",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "read users.txt",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "read users.txt",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "read users.txt",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "AA4672204D5CA7F619AF6D86E228DBB5",
 			"source": "Successfully logged in as [{user}].",
 			"sourceHash": "b47b1ea2",
@@ -1348,58 +1192,6 @@
 				"es-ES":
 				{
 					"text": "Coloca {item} en la posición marcada.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "C75F041E40E6E24F61FE61A94A07F84A",
-			"source": "Kill enemies in the AREA TAG PLACEHOLDER.",
-			"sourceHash": "7b34ba80",
-			"origin": "/Game/Blueprints/MissionSystem/Objects/Objectives/SubClasses/BP_IRRObjectie_ClearArea.Default__BP_IRRObjectie_ClearArea_C.Description",
-			"t":
-			{
-				"de":
-				{
-					"text": "Eliminiere Feinde in AREA TAG PLACEHOLDER.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "在 AREA TAG PLACEHOLDER 消灭敌人。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Уничтожь врагов в AREA TAG PLACEHOLDER.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "AREA TAG PLACEHOLDER에서 적을 처치하십시오.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "AREA TAG PLACEHOLDERで敵を排除しろ。",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Elimina a los enemigos en AREA TAG PLACEHOLDER.",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"

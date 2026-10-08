@@ -1107,42 +1107,42 @@
 					"text": "Dienstgewehr, vor allem bekannt aus einem Vietnamkrieg... hmm..",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "一把主要因一场越南战争为人知晓的制式步枪... 嗯..",
+					"text": "主要因某场越南战争而闻名的制式步枪...嗯..",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "Штатная винтовка, известная в основном по одной вьетнамской войне... хм..",
+					"text": "Армейская винтовка, известная в основном по одной войне во Вьетнаме... хмм..",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "베트남 전쟁으로 주로 알려진 제식 소총... 흠..",
+					"text": "주로 어느 베트남 전쟁으로 알려진 제식 소총... 흠..",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "ベトナム戦争で主に知られる制式ライフル... ふむ..",
+					"text": "主にとあるベトナム戦争で知られる制式ライフル...ふむ..",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "Fusil de servicio conocido sobre todo por una guerra de Vietnam... hmm..",
+					"text": "Fusil reglamentario conocido sobre todo por una guerra de Vietnam... mmm..",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -2196,45 +2196,45 @@
 			{
 				"de":
 				{
-					"text": "Schienenaufsatz für deine M14.",
+					"text": "Schienenaufsatz für dein M14.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "适用于你的 M14 的导轨配件。",
+					"text": "适用于你的M14的导轨配件。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "Рельсовое крепление для твоей M14.",
+					"text": "Планка для твоей M14.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "내 M14용 레일 부착물입니다.",
+					"text": "네 M14용 레일 부착물.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "あなたのM14用レールアタッチメント。",
+					"text": "君のM14用レールアタッチメント。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "Accesorio de riel para tu M14.",
+					"text": "Riel para tu M14.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -2719,42 +2719,42 @@
 					"text": "4 Schienen, die Platz für Aufsätze bieten.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "4 条导轨，为配件提供安装空间。",
+					"text": "4条导轨，为配件提供安装空间。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "4 планки, которые дают место для навесного оборудования.",
+					"text": "4 планки, дающие место для обвеса.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "부착물을 달 공간을 제공하는 레일 4개입니다.",
+					"text": "부착물 공간을 제공하는 레일 4개.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "アタッチメント用のスペースを提供する4本のレール。",
+					"text": "アタッチメント用のスペースを確保する4本のレール。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "4 rieles que dan espacio para accesorios.",
+					"text": "4 rieles que ofrecen espacio para accesorios.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -2768,45 +2768,45 @@
 			{
 				"de":
 				{
-					"text": "Nur halbautomatisches Gewehr, basierend auf einem beliebten amerikanischen Gewehr.",
+					"text": "Rein halbautomatisches Gewehr, basierend auf einem beliebten amerikanischen Gewehr.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "基于一款流行的美国步枪、仅能半自动射击的步枪。",
+					"text": "仅限半自动的步枪，基于一款流行的美国步枪。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "Только полуавтоматическая винтовка на базе популярной американской винтовки.",
+					"text": "Исключительно самозарядная винтовка на основе популярной американской винтовки.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
 					"text": "인기 있는 미국 소총을 기반으로 한 반자동 전용 소총.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "人気のあるアメリカ製ライフルを基にしたセミオート専用ライフル。",
+					"text": "人気のアメリカ製ライフルをベースにしたセミオート専用ライフル。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "Fusil solo semiautomático basado en un fusil americano popular.",
+					"text": "Fusil solo semiautomático basado en un popular fusil estadounidense.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -4640,45 +4640,45 @@
 			{
 				"de":
 				{
-					"text": "Das passt ganz sicher auf einen 22-Zoll-Lauf!",
+					"text": "Das kommt ganz sicher auf einen 22-Zoll-Lauf!",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "它肯定是装在 22 英寸枪管上的！",
+					"text": "这肯定是装在22英寸枪管上的！",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "Оно точно ставится на 22-дюймовый ствол!",
+					"text": "Это точно ставится на 22-дюймовый ствол!",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "이건 분명 22인치 총열에 맞습니다!",
+					"text": "이건 분명 22인치 총열용이야!",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "これは間違いなく22インチバレルに付きます！",
+					"text": "これは絶対22インチバレル用だ！",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
 					"text": "¡Seguro que va en un cañón de 22 pulgadas!",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -5472,45 +5472,45 @@
 			{
 				"de":
 				{
-					"text": "20-Schuss-Magazin im Kaliber 7.62x51mm für die M14.",
+					"text": "20-Schuss-Magazin 7.62x51mm für das M14.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "适用于 M14 的 7.62x51mm 20 发弹匣。",
+					"text": "M14用20发7.62x51mm弹匣。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "Магазин на 20 патронов калибра 7.62x51mm для M14.",
+					"text": "Магазин 7.62x51mm на 20 патронов для M14.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "M14용 7.62x51mm 20발 탄창.",
+					"text": "M14용 20발 7.62x51mm 탄창.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "M14用7.62x51mm弾20連マガジン。",
+					"text": "M14用20発7.62x51mmマガジン。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "Cargador de 20 proyectiles de 7.62x51mm para la M14.",
+					"text": "Cargador de 7.62x51mm de 20 cartuchos para el M14.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -6668,45 +6668,45 @@
 			{
 				"de":
 				{
-					"text": "Trommelmagazin mit 75 Schuss Kapazität im Kaliber 7.62x39mm.",
+					"text": "Trommelmagazin 7.62x39mm mit 75 Schuss Kapazität.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "7.62x39mm 75 发容量弹鼓。",
+					"text": "75发容量的7.62x39mm弹鼓。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "Барабанный магазин на 75 патронов калибра 7.62x39mm.",
+					"text": "Барабанный магазин 7.62x39mm на 75 патронов.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "7.62x39mm 75발 용량 드럼 탄창.",
+					"text": "75발 용량의 7.62x39mm 드럼 탄창.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "7.62x39mm弾用75連ドラムマガジン。",
+					"text": "装弾数75発の7.62x39mmドラムマガジン。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "Cargador de tambor de 75 proyectiles de 7.62x39mm.",
+					"text": "Cargador de tambor de 7.62x39mm con capacidad para 75 cartuchos.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -7240,45 +7240,45 @@
 			{
 				"de":
 				{
-					"text": "Sieht aus wie eine Mutante aus AK und AR-15.",
+					"text": "Sieht aus wie ein Mutant aus AK und AR-15.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "看起来像是 AK 和 AR-15 拼出来的变种。",
+					"text": "看起来像是用AK和AR-15拼出来的变种怪物。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
 					"text": "Выглядит как мутант из AK и AR-15.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "AK와 AR-15로 만든 돌연변이처럼 보입니다.",
+					"text": "AK와 AR-15로 만든 돌연변이 같다.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "AKとAR-15から作った変異体のように見える。",
+					"text": "AKとAR-15から生まれたミュータントみたいだ。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
 					"text": "Parece un mutante hecho de AK y AR-15.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -7396,45 +7396,45 @@
 			{
 				"de":
 				{
-					"text": "Halbautomatisches Gewehr von Kel-Tec im Kaliber 7.62x51mm.",
+					"text": "Halbautomatisches Kel-Tec-Gewehr in 7.62x51mm.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "Kel-Tec 7.62x51mm 半自动步枪。",
+					"text": "Kel-Tec 7.62x51mm半自动步枪。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "Полуавтоматическая винтовка Kel-Tec калибра 7.62x51mm.",
+					"text": "Самозарядная винтовка Kel-Tec под 7.62x51mm.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
 					"text": "Kel-Tec 7.62x51mm 반자동 소총.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
 					"text": "Kel-Tec製7.62x51mmセミオートライフル。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
 					"text": "Fusil semiautomático Kel-Tec de 7.62x51mm.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -7500,45 +7500,45 @@
 			{
 				"de":
 				{
-					"text": "Bietet ein verbessertes Gefechtsgewehr-Erlebnis.",
+					"text": "Bietet ein verbessertes Kampfgewehr-Erlebnis.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "提供增强的战斗步枪体验。",
+					"text": "提供强化的战斗步枪体验。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "Даёт улучшенные ощущения от боевой винтовки.",
+					"text": "Дарит улучшенный опыт боевой винтовки.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "향상된 전투소총 경험을 제공합니다.",
+					"text": "향상된 전투 소총 경험을 제공합니다.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "強化されたバトルライフル体験を提供します。",
+					"text": "強化されたバトルライフル体験を提供する。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
 					"text": "Ofrece una experiencia de fusil de combate mejorada.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -8332,45 +8332,45 @@
 			{
 				"de":
 				{
-					"text": "Smith Enterprise-Mündungsgerät für das M14-Gewehr.",
+					"text": "Mündungsaufsatz von Smith Enterprise für das M14-Gewehr.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "适用于 M14 步枪的 Smith Enterprise 枪口装置。",
+					"text": "M14步枪用Smith Enterprise枪口装置。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
 					"text": "Дульное устройство Smith Enterprise для винтовки M14.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
 					"text": "M14 소총용 Smith Enterprise 총구 장치.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
 					"text": "M14ライフル用Smith Enterpriseマズルデバイス。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "Dispositivo de boca Smith Enterprise para el fusil M14.",
+					"text": "Bocacha Smith Enterprise para el fusil M14.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -9791,42 +9791,42 @@
 					"text": "Schwarze Polymer-Oberabdeckung für das M14-Gewehr.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "适用于 M14 步枪的黑色聚合物上盖。",
+					"text": "M14步枪用黑色聚合物上护盖。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
 					"text": "Чёрная полимерная верхняя крышка для винтовки M14.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "M14 소총용 검은색 폴리머 상부 커버.",
+					"text": "M14 소총용 검은색 폴리머 상부 덮개.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "M14ライフル用の黒いポリマー製トップカバー。",
+					"text": "M14ライフル用ブラックポリマー製トップカバー。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
 					"text": "Cubierta superior de polímero negro para el fusil M14.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -9996,45 +9996,45 @@
 			{
 				"de":
 				{
-					"text": "Vorderes Eisenvisier des RFB-Gewehrs.",
+					"text": "Korn des RFB-Gewehrs.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "RFB 步枪的前机械瞄具。",
+					"text": "RFB步枪的前机械瞄具。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
 					"text": "Мушка винтовки RFB.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "RFB 소총의 전방 아이언사이트.",
+					"text": "RFB 소총의 전방 가늠쇠.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
 					"text": "RFBライフルのフロントアイアンサイト。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "Punto de mira delantero del fusil RFB.",
+					"text": "Punto de mira del fusil RFB.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -10204,45 +10204,45 @@
 			{
 				"de":
 				{
-					"text": "Lancer LCH7-Handschutz für AR-10-Gewehre.",
+					"text": "Handschutz Lancer LCH7 für AR-10-Gewehre.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "适用于 AR-10 步枪的 Lancer LCH7 护木。",
+					"text": "适用于AR-10步枪的Lancer LCH7护木。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
 					"text": "Цевьё Lancer LCH7 для винтовок AR-10.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
 					"text": "AR-10 소총용 Lancer LCH7 핸드가드.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
 					"text": "AR-10ライフル用Lancer LCH7ハンドガード。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
 					"text": "Guardamanos Lancer LCH7 para fusiles AR-10.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -11663,42 +11663,42 @@
 					"text": "M14",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
 					"text": "M14",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
 					"text": "M14",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
 					"text": "M14",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
 					"text": "M14",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
 					"text": "M14",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -12024,45 +12024,45 @@
 			{
 				"de":
 				{
-					"text": "16-Zoll-Lauf für die MK-47.",
+					"text": "16-Zoll-Lauf für das MK-47.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "16英寸 MK-47 枪管。",
+					"text": "16英寸MK-47枪管。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
 					"text": "16-дюймовый ствол MK-47.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
 					"text": "16인치 MK-47 총열.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
 					"text": "16インチMK-47バレル。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "Cañón MK-47 de 16 pulgadas.",
+					"text": "Cañón de 16 pulgadas para MK-47.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -16759,42 +16759,42 @@
 					"text": "Schwarzes Polymer-Chassis für das M14-Gewehr.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "适用于 M14 步枪的黑色聚合物底盘。",
+					"text": "M14步枪用黑色聚合物底盘。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "Чёрная полимерная ложа для винтовки M14.",
+					"text": "Чёрное полимерное шасси для винтовки M14.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
 					"text": "M14 소총용 검은색 폴리머 섀시.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "M14ライフル用の黒いポリマー製シャーシ。",
+					"text": "M14ライフル用ブラックポリマーシャーシ。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
 					"text": "Chasis de polímero negro para el fusil M14.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -17107,58 +17107,6 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:40:14Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "6545DB8248FC3F3C485BBC9166B0129D",
-			"source": "x",
-			"sourceHash": "8fcf576f",
-			"origin": "/Game/Blueprints/InventorySystem/Items/Gadgets/Binoculars/M1050_LRF_Binoculars/Materials/W_IRR_LRF_Reticle.W_IRR_LRF_Reticle_C:WidgetTree.TextBlock_4.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "x",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "x",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "x",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "x",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "x",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "x",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
 				}
 			}
 		},
@@ -18943,42 +18891,42 @@
 					"text": "16-Zoll-Lauf für das M14-Gewehr.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "适用于 M14 步枪的 16 英寸枪管。",
+					"text": "M14步枪用16英寸枪管。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
 					"text": "16-дюймовый ствол для винтовки M14.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
 					"text": "M14 소총용 16인치 총열.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
 					"text": "M14ライフル用16インチバレル。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
 					"text": "Cañón de 16 pulgadas para el fusil M14.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -20708,45 +20656,45 @@
 			{
 				"de":
 				{
-					"text": "Mündungsgerät für AR-10-Läufe im Kaliber 7.62x51.",
+					"text": "Mündungsaufsatz für 7.62x51-AR-10-Läufe.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "适用于 7.62x51 AR-10 枪管的枪口装置。",
+					"text": "适用于7.62x51 AR-10枪管的枪口装置。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "Дульное устройство для стволов AR-10 калибра 7.62x51.",
+					"text": "Дульное устройство для стволов AR-10 под 7.62x51.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
 					"text": "7.62x51 AR-10 총열용 총구 장치.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
 					"text": "7.62x51 AR-10バレル用マズルデバイス。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "Dispositivo de boca para cañones AR-10 de 7.62x51.",
+					"text": "Bocacha para cañones AR-10 de 7.62x51.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -21644,45 +21592,45 @@
 			{
 				"de":
 				{
-					"text": "Hinteres Eisenvisier des RFB-Gewehrs.",
+					"text": "Kimme des RFB-Gewehrs.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "RFB 步枪的后机械瞄具。",
+					"text": "RFB步枪的后机械瞄具。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
 					"text": "Целик винтовки RFB.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "RFB 소총의 후방 아이언사이트.",
+					"text": "RFB 소총의 후방 가늠자.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
 					"text": "RFBライフルのリアアイアンサイト。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "Alza trasera del fusil RFB.",
+					"text": "Alza del fusil RFB.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -22320,95 +22268,95 @@
 			{
 				"de":
 				{
-					"text": "Magazin mit 30 Schuss Kapazität im Kaliber 7.62x39mm.",
+					"text": "Magazin 7.62x39mm mit 30 Schuss Kapazität.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "7.62x39mm 30 发容量弹匣。",
+					"text": "30发容量的7.62x39mm弹匣。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "Магазин на 30 патронов калибра 7.62x39mm.",
+					"text": "Магазин 7.62x39mm на 30 патронов.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "7.62x39mm 30발 용량 탄창.",
+					"text": "30발 용량의 7.62x39mm 탄창.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "7.62x39mm弾用30連マガジン。",
+					"text": "装弾数30発の7.62x39mmマガジン。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "Cargador de 30 proyectiles de 7.62x39mm.",
+					"text": "Cargador de 7.62x39mm con capacidad para 30 cartuchos.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
 		{
 			"ns": "",
 			"key": "8855FCD84AF53F6F96B708840721DD7D",
-			"source": "RGO Greande Template",
-			"sourceHash": "fcf2eb3f",
+			"source": "Soviet defensive frag. The dense fragment sleeve stays lethal well past the blast, so throw it from cover.",
+			"sourceHash": "2e5370d6",
 			"origin": "/Game/Blueprints/InventorySystem/Items/Grenades/RGO_Grenade/ID_RGO_Grenade.ID_RGO_Grenade.ItemAppearance.Description",
 			"t":
 			{
 				"de":
 				{
 					"text": "RGO-Granaten-Vorlage",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"zh-Hans":
 				{
 					"text": "RGO 手榴弹模板",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"ru":
 				{
 					"text": "Шаблон гранаты РГО",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"ko":
 				{
 					"text": "RGO 수류탄 템플릿",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"ja":
 				{
 					"text": "RGO グレネードテンプレート",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				},
 				"es-ES":
 				{
 					"text": "Plantilla de granada RGO",
-					"status": "machine",
+					"status": "stale",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
 				}
@@ -22687,42 +22635,42 @@
 					"text": "22-Zoll-Lauf für das M14-Gewehr.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "适用于 M14 步枪的 22 英寸枪管。",
+					"text": "M14步枪用22英寸枪管。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
 					"text": "22-дюймовый ствол для винтовки M14.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
 					"text": "M14 소총용 22인치 총열.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
 					"text": "M14ライフル用22インチバレル。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
 					"text": "Cañón de 22 pulgadas para el fusil M14.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -24504,45 +24452,45 @@
 			{
 				"de":
 				{
-					"text": "Hölzernes Chassis für das M14-Gewehr.",
+					"text": "Holzchassis für das M14-Gewehr.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "适用于 M14 步枪的木质底盘。",
+					"text": "M14步枪用木质底盘。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "Деревянная ложа для винтовки M14.",
+					"text": "Деревянное шасси для винтовки M14.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
 					"text": "M14 소총용 목재 섀시.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "M14ライフル用の木製シャーシ。",
+					"text": "M14ライフル用ウッドシャーシ。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
 					"text": "Chasis de madera para el fusil M14.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -24556,45 +24504,45 @@
 			{
 				"de":
 				{
-					"text": "Damit kannst du Visiere über dem Verschlussgehäuse montieren.",
+					"text": "Damit kannst du Visiere über dem Gehäuse montieren.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "它可以让你在机匣上方安装瞄具。",
+					"text": "可以在机匣上方安装瞄具。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "Позволяет крепить прицелы над ствольной коробкой.",
+					"text": "Позволяет устанавливать прицелы над ствольной коробкой.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
 					"text": "리시버 위에 조준기를 장착할 수 있습니다.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "レシーバーの上にサイトを装着できます。",
+					"text": "レシーバーの上にサイトを取り付けられる。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "Te permite montar miras encima del cajón de mecanismos.",
+					"text": "Te permite montar miras sobre el cajón de mecanismos.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -29600,45 +29548,45 @@
 			{
 				"de":
 				{
-					"text": "CMMG Ripstock-Schulterstütze für AR-15-Gewehre.",
+					"text": "Schaft CMMG Ripstock für AR-15-Gewehre.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "适用于 AR-15 步枪的 CMMG Ripstock 枪托。",
+					"text": "适用于AR-15步枪的CMMG Ripstock枪托。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
 					"text": "Приклад CMMG Ripstock для винтовок AR-15.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
 					"text": "AR-15 소총용 CMMG Ripstock 개머리판.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
 					"text": "AR-15ライフル用CMMG Ripstockバットストック。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
 					"text": "Culata CMMG Ripstock para fusiles AR-15.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -31472,45 +31420,45 @@
 			{
 				"de":
 				{
-					"text": "Mündungsgerät für das RFB-Gewehr.",
+					"text": "Mündungsaufsatz für das RFB-Gewehr.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "适用于 RFB 步枪的枪口装置。",
+					"text": "RFB步枪用枪口装置。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
 					"text": "Дульное устройство для винтовки RFB.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
 					"text": "RFB 소총용 총구 장치.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
 					"text": "RFBライフル用マズルデバイス。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "Dispositivo de boca para el fusil RFB.",
+					"text": "Bocacha para el fusil RFB.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -31839,42 +31787,42 @@
 					"text": "18-Zoll-Lauf für das RFB-Gewehr.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "适用于 RFB 步枪的 18 英寸枪管。",
+					"text": "RFB步枪用18英寸枪管。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
 					"text": "18-дюймовый ствол для винтовки RFB.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
 					"text": "RFB 소총용 18인치 총열.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
 					"text": "RFBライフル用18インチバレル。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
 					"text": "Cañón de 18 pulgadas para el fusil RFB.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -32252,45 +32200,45 @@
 			{
 				"de":
 				{
-					"text": "Vorderes Eisenvisier des M14-Gewehrs.",
+					"text": "Korn des M14-Gewehrs.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "M14 步枪的前机械瞄具。",
+					"text": "M14步枪的前机械瞄具。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
 					"text": "Мушка винтовки M14.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "M14 소총의 전방 아이언사이트.",
+					"text": "M14 소총의 전방 가늠쇠.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
 					"text": "M14ライフルのフロントアイアンサイト。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "Punto de mira delantero del fusil M14.",
+					"text": "Punto de mira del fusil M14.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -33084,45 +33032,45 @@
 			{
 				"de":
 				{
-					"text": "50-Schuss-Trommelmagazin im Kaliber 7.62x51mm für die M14.",
+					"text": "50-Schuss-Trommelmagazin 7.62x51mm für das M14.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "适用于 M14 的 7.62x51mm 50 发弹鼓。",
+					"text": "M14用50发7.62x51mm弹鼓。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "Барабанный магазин на 50 патронов калибра 7.62x51mm для M14.",
+					"text": "Барабанный магазин 7.62x51mm на 50 патронов для M14.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "M14용 7.62x51mm 50발 드럼 탄창.",
+					"text": "M14용 50발 7.62x51mm 드럼 탄창.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "M14用7.62x51mm弾50連ドラムマガジン。",
+					"text": "M14用50発7.62x51mmドラムマガジン。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "Cargador de tambor de 50 proyectiles de 7.62x51mm para la M14.",
+					"text": "Cargador de tambor de 7.62x51mm de 50 cartuchos para el M14.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -33188,45 +33136,45 @@
 			{
 				"de":
 				{
-					"text": "National Match-Mündungsgerät für das M14-Gewehr.",
+					"text": "Mündungsaufsatz National Match für das M14-Gewehr.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "适用于 M14 步枪的 National Match 枪口装置。",
+					"text": "M14步枪用National Match枪口装置。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
 					"text": "Дульное устройство National Match для винтовки M14.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
 					"text": "M14 소총용 National Match 총구 장치.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
 					"text": "M14ライフル用National Matchマズルデバイス。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "Dispositivo de boca National Match para el fusil M14.",
+					"text": "Bocacha National Match para el fusil M14.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -33344,45 +33292,45 @@
 			{
 				"de":
 				{
-					"text": "Ich glaube, das passt auf einen 16-Zoll-Lauf...",
+					"text": "Ich glaube, das kommt auf einen 16-Zoll-Lauf...",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "我觉得它是装在 16 英寸枪管上的...",
+					"text": "我觉得这是装在16英寸枪管上的...",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
 					"text": "Кажется, это ставится на 16-дюймовый ствол...",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "16인치 총열에 맞는 것 같은데...",
+					"text": "16인치 총열에 끼우는 것 같은데...",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "16インチバレルに付けるものだと思う...",
+					"text": "たぶん16インチバレル用だと思う...",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
 					"text": "Creo que va en un cañón de 16 pulgadas...",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -33812,45 +33760,45 @@
 			{
 				"de":
 				{
-					"text": "Hinteres Eisenvisier des M14-Gewehrs.",
+					"text": "Kimme des M14-Gewehrs.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "M14 步枪的后机械瞄具。",
+					"text": "M14步枪的后机械瞄具。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
 					"text": "Целик винтовки M14.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "M14 소총의 후방 아이언사이트.",
+					"text": "M14 소총의 후방 가늠자.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
 					"text": "M14ライフルのリアアイアンサイト。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "Alza trasera del fusil M14.",
+					"text": "Alza del fusil M14.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -36207,42 +36155,42 @@
 					"text": "24-Zoll-Lauf für das RFB-Gewehr.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "适用于 RFB 步枪的 24 英寸枪管。",
+					"text": "RFB步枪用24英寸枪管。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
 					"text": "24-дюймовый ствол для винтовки RFB.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
 					"text": "RFB 소총용 24인치 총열.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
 					"text": "RFBライフル用24インチバレル。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
 					"text": "Cañón de 24 pulgadas para el fusil RFB.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -36779,42 +36727,42 @@
 					"text": "M305",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
 					"text": "M305",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
 					"text": "M305",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
 					"text": "M305",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
 					"text": "M305",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
 					"text": "M305",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -38641,52 +38589,52 @@
 		{
 			"ns": "",
 			"key": "ED84117A4694859CA28B0B888ABE5EF3",
-			"source": "20 round 7.62x51mm magazine for the M14.",
-			"sourceHash": "4b7adf8d",
+			"source": "10 round 7.62x51mm magazine for the M14.",
+			"sourceHash": "b5f795ec",
 			"origin": "/Game/Blueprints/InventorySystem/Items/Attachments/Mag/M14_Standard_762x51_10Rnd/ID_M14_Standard_762x51_10Rnd.ID_M14_Standard_762x51_10Rnd.ItemAppearance.Description",
 			"t":
 			{
 				"de":
 				{
-					"text": "20-Schuss-Magazin im Kaliber 7.62x51mm für die M14.",
+					"text": "20-Schuss-Magazin 7.62x51mm für das M14.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "适用于 M14 的 7.62x51mm 20 发弹匣。",
+					"text": "M14用20发7.62x51mm弹匣。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "Магазин на 20 патронов калибра 7.62x51mm для M14.",
+					"text": "Магазин 7.62x51mm на 20 патронов для M14.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "M14용 7.62x51mm 20발 탄창.",
+					"text": "M14용 20발 7.62x51mm 탄창.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "M14用7.62x51mm弾20連マガジン。",
+					"text": "M14用20発7.62x51mmマガジン。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "Cargador de 20 proyectiles de 7.62x51mm para la M14.",
+					"text": "Cargador de 7.62x51mm de 20 cartuchos para el M14.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -38807,42 +38755,42 @@
 					"text": "Braune Oberabdeckung für das M14-Gewehr.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "适用于 M14 步枪的棕色上盖。",
+					"text": "M14步枪用棕色上护盖。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
 					"text": "Коричневая верхняя крышка для винтовки M14.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "M14 소총용 갈색 상부 커버.",
+					"text": "M14 소총용 갈색 상부 덮개.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "M14ライフル用の茶色のトップカバー。",
+					"text": "M14ライフル用ブラウンのトップカバー。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
 					"text": "Cubierta superior marrón para el fusil M14.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -38859,42 +38807,42 @@
 					"text": "Es bietet ziemlich viel Platz für Aufsätze.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "它提供相当多的配件安装空间。",
+					"text": "提供相当多的配件安装空间。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
-					"text": "Здесь довольно много места для навесного оборудования.",
+					"text": "Даёт довольно много места для обвеса.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
-					"text": "부착물을 달 공간이 꽤 많습니다.",
+					"text": "꽤 많은 부착물 공간을 제공합니다.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
-					"text": "アタッチメント用のスペースがかなりあります。",
+					"text": "かなり多くのアタッチメントスペースがある。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
 					"text": "Ofrece bastante espacio para accesorios.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},
@@ -39636,45 +39584,45 @@
 			{
 				"de":
 				{
-					"text": "10-Zoll-Lauf für die MK-47.",
+					"text": "10-Zoll-Lauf für das MK-47.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"zh-Hans":
 				{
-					"text": "10英寸 MK-47 枪管。",
+					"text": "10英寸MK-47枪管。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ru":
 				{
 					"text": "10-дюймовый ствол MK-47.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ko":
 				{
 					"text": "10인치 MK-47 총열.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"ja":
 				{
 					"text": "10インチMK-47バレル。",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				},
 				"es-ES":
 				{
-					"text": "Cañón MK-47 de 10 pulgadas.",
+					"text": "Cañón de 10 pulgadas para MK-47.",
 					"status": "machine",
 					"by": "ai",
-					"at": "2026-10-07T05:16:24Z"
+					"at": "2026-10-07T12:09:17Z"
 				}
 			}
 		},

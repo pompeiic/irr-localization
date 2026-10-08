@@ -368,58 +368,6 @@
 		},
 		{
 			"ns": "",
-			"key": "01DEC3A6411663BFF804BE92569BA571",
-			"source": " / {x}",
-			"sourceHash": "9f73b893",
-			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_RaidSummaryLevel.W_IRR_RaidSummaryLevel_C:ExecuteUbergraph_W_IRR_RaidSummaryLevel [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": " / {x}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": " / {x}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": " / {x}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": " / {x}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": " / {x}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": " / {x}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "02304D264997A7AC439B959BCDD3BDD3",
 			"source": "LVL {x}",
 			"sourceHash": "4d34caf3",
@@ -2084,58 +2032,6 @@
 		},
 		{
 			"ns": "",
-			"key": "0F05560D4D6DAB21485EA085CC70E461",
-			"source": "\"{x}\"",
-			"sourceHash": "45723150",
-			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_MissionBriefingSubtitles.W_IRR_MissionBriefingSubtitles_C:ExecuteUbergraph_W_IRR_MissionBriefingSubtitles [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": "\"{x}\"",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "\"{x}\"",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "\"{x}\"",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "\"{x}\"",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "\"{x}\"",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "\"{x}\"",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "101FFDE9455CC5D0D59F6EBEDDCB50AE",
 			"source": "Send",
 			"sourceHash": "ccfefe06",
@@ -3335,7 +3231,7 @@
 			"key": "1C3DE6044B7685D6EE794090D4C8C0BA",
 			"source": "Description",
 			"sourceHash": "cbd709e1",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_SingleSettingBar.Default__WB_SingleSettingBar_C.DescriptionText",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GameplaySettings.WB_GameplaySettings_C:WidgetTree.InvertMouse_X.DescriptionText",
 			"t":
 			{
 				"de":
@@ -7856,58 +7752,6 @@
 		},
 		{
 			"ns": "",
-			"key": "45DED01D4A09EF50DB6683A0BB1C22DB",
-			"source": "https://pompeiic.github.io/irr-localization/editor.html",
-			"sourceHash": "10605f90",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GameplaySettings.WB_GameplaySettings_C:WidgetTree.Language.SettingDescriptor.WarningRichText",
-			"t":
-			{
-				"de":
-				{
-					"text": "https://pompeiic.github.io/irr-localization/editor.html",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-10-06T23:14:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "https://pompeiic.github.io/irr-localization/editor.html",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-10-06T23:14:59Z"
-				},
-				"ru":
-				{
-					"text": "https://pompeiic.github.io/irr-localization/editor.html",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-10-06T23:14:59Z"
-				},
-				"ko":
-				{
-					"text": "https://pompeiic.github.io/irr-localization/editor.html",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-10-06T23:14:59Z"
-				},
-				"ja":
-				{
-					"text": "https://pompeiic.github.io/irr-localization/editor.html",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-10-06T23:14:59Z"
-				},
-				"es-ES":
-				{
-					"text": "https://pompeiic.github.io/irr-localization/editor.html",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-10-06T23:14:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "460D74D741EF5381E05B1D9F26A55D3F",
 			"source": "Hideout",
 			"sourceHash": "13589584",
@@ -10292,58 +10136,6 @@
 				"es-ES":
 				{
 					"text": "Ángulo en grados desde donde mira el bot hasta tu posición en el que la IA puede ver al jugador.",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "5780828B41D039CB0F4ABB98264B1E4F",
-			"source": "PlayerName",
-			"sourceHash": "272190f0",
-			"origin": "/Game/Blueprints/UICore/Widgets/SocialTab/Party/W_IRR_PartyData.W_IRR_PartyData_C:WidgetTree.IRRTextBlock_364.Text",
-			"t":
-			{
-				"de":
-				{
-					"text": "Spielername",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "玩家名称",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Имя игрока",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "플레이어 이름",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "プレイヤー名",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "NombreJugador",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
@@ -13212,58 +13004,6 @@
 		},
 		{
 			"ns": "",
-			"key": "756515C943E16651600CB99F4CA1EB71",
-			"source": "Title",
-			"sourceHash": "dcccf0f0",
-			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_SingleSettingBar.Default__WB_SingleSettingBar_C.Title",
-			"t":
-			{
-				"de":
-				{
-					"text": "Titel",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "标题",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "Название",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "제목",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "タイトル",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "Título",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "779B38EB48FACD5DA8A75DBFB7336C2E",
 			"source": "AI Suppress Enemies",
 			"sourceHash": "913570d4",
@@ -13472,58 +13212,6 @@
 		},
 		{
 			"ns": "",
-			"key": "78C794A24FD2612FBFEDAAA1670E4747",
-			"source": "{pre} {amount} %",
-			"sourceHash": "9ac1dfab",
-			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_RaidSummaryFactionItem.W_IRR_RaidSummaryFactionItem_C:ExecuteUbergraph_W_IRR_RaidSummaryFactionItem [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": "{pre} {amount} %",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "{pre} {amount} %",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "{pre} {amount} %",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "{pre} {amount} %",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "{pre} {amount} %",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "{pre} {amount} %",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "78DF8EC643BE24D119AC31967B22D1F5",
 			"source": "HIGH",
 			"sourceHash": "61e414a7",
@@ -13631,7 +13319,7 @@
 			"key": "794BB43B41DB3E94EDD52581AF7A4BD2",
 			"source": "Default Text",
 			"sourceHash": "f9e57256",
-			"origin": "/Game/Blueprints/UICore/Widgets/Misc/WB_SpectatorScreen.Default__WB_SpectatorScreen_C.RequestBoxButtons(0).RequestBoxButtons.ButtonTextSettings_32_0259C12542FE5FAFB70394A7AD700F2B.Text_2_634ECB774367801585F64289E8499E19",
+			"origin": "/Game/Blueprints/UICore/Widgets/Menu/WB_MainMenu.Default__WB_MainMenu_C.RequestBoxButtons(0).RequestBoxButtons.ButtonTextSettings_32_0259C12542FE5FAFB70394A7AD700F2B.Text_2_634ECB774367801585F64289E8499E19",
 			"t":
 			{
 				"de":
@@ -21428,58 +21116,6 @@
 		},
 		{
 			"ns": "",
-			"key": "B96CC0EC4BEA892519FF5895710768B4",
-			"source": "{Sender}:",
-			"sourceHash": "b05bcf32",
-			"origin": "/Game/Blueprints/UICore/Widgets/SocialTab/WBP_Chatbox.WBP_Chatbox_C:Create Message [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": "{Sender}:",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "{Sender}:",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "{Sender}:",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "{Sender}:",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "{Sender}:",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "{Sender}:",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "B97C48504E4D9D391407039EDF5737CF",
 			"source": "{Player} HAS LEFT THE LOBBY",
 			"sourceHash": "486a0e74",
@@ -23924,58 +23560,6 @@
 		},
 		{
 			"ns": "",
-			"key": "CCD5397142836399314C6BAD6EA71BC2",
-			"source": "{build} - {patch type}",
-			"sourceHash": "14334215",
-			"origin": "/Game/Blueprints/UICore/Widgets/Menu/WB_MainMenu.WB_MainMenu_C:ShowPatchNotes [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": "{build} - {patch type}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "{build} - {patch type}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "{build} - {patch type}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "{build} - {patch type}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "{build} - {patch type}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "{build} - {patch type}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "CCEA51DB4E31E33FC6DBB085B082812C",
 			"source": "Fire",
 			"sourceHash": "c622130e",
@@ -24600,58 +24184,6 @@
 		},
 		{
 			"ns": "",
-			"key": "D044314C42BEA9E3FCED5F80C8179C09",
-			"source": "$ {x}",
-			"sourceHash": "ffc38c3c",
-			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_RaidSummary.W_IRR_RaidSummary_C:ExecuteUbergraph_W_IRR_RaidSummary [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": "$ {x}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": "$ {x}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": "$ {x}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": "$ {x}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": "$ {x}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": "$ {x}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
 			"key": "D07C4DA741E94030F4CE619155D8BFF1",
 			"source": "Quit to desktop",
 			"sourceHash": "bd6dea3e",
@@ -24803,6 +24335,46 @@
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
+				}
+			}
+		},
+		{
+			"ns": "",
+			"key": "D253FFF34F6B13F8D94B40B9A0BD5866",
+			"source": "Title",
+			"sourceHash": "dcccf0f0",
+			"origin": "/Game/Blueprints/UICore/Widgets/Settings/WB_GameplaySettings.WB_GameplaySettings_C:WidgetTree.InvertMouse_X.Title",
+			"t":
+			{
+				"de":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"zh-Hans":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ru":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ko":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"ja":
+				{
+					"text": "",
+					"status": "untranslated"
+				},
+				"es-ES":
+				{
+					"text": "",
+					"status": "untranslated"
 				}
 			}
 		},
@@ -26776,58 +26348,6 @@
 				"es-ES":
 				{
 					"text": "Nombre del jugador",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				}
-			}
-		},
-		{
-			"ns": "",
-			"key": "E23169BE4B56A15B3577FCB5B7BEB18A",
-			"source": " / {x}",
-			"sourceHash": "9f73b893",
-			"origin": "/Game/Blueprints/UICore/Widgets/Misc/W_IRR_MissionBriefingControl.W_IRR_MissionBriefingControl_C:ExecuteUbergraph_W_IRR_MissionBriefingControl [Script Bytecode]",
-			"t":
-			{
-				"de":
-				{
-					"text": " / {x}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"zh-Hans":
-				{
-					"text": " / {x}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ru":
-				{
-					"text": " / {x}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ko":
-				{
-					"text": " / {x}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"ja":
-				{
-					"text": " / {x}",
-					"status": "machine",
-					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
-				},
-				"es-ES":
-				{
-					"text": " / {x}",
 					"status": "machine",
 					"by": "ai",
 					"at": "2026-09-24T23:30:59Z"
