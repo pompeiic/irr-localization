@@ -24348,33 +24348,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Titel",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-08T05:10:20Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "标题",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-08T05:10:20Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Заголовок",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-08T05:10:20Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "제목",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-08T05:10:20Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "タイトル",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-08T05:10:20Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Título",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-08T05:10:20Z"
 				}
 			}
 		},

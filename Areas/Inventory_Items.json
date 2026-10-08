@@ -22320,45 +22320,45 @@
 			{
 				"de":
 				{
-					"text": "RGO-Granaten-Vorlage",
-					"status": "stale",
+					"text": "Sowjetische defensive Splittergranate. Die dichte Splitterhülle bleibt weit über die Explosion hinaus tödlich, wirf sie also aus der Deckung.",
+					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-08T05:10:20Z"
 				},
 				"zh-Hans":
 				{
-					"text": "RGO 手榴弹模板",
-					"status": "stale",
+					"text": "苏制防御破片弹。致密破片套在爆炸范围之外仍然致命，因此从掩体后投掷。",
+					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-08T05:10:20Z"
 				},
 				"ru":
 				{
-					"text": "Шаблон гранаты РГО",
-					"status": "stale",
+					"text": "Советская оборонительная осколочная граната. Плотная осколочная рубашка остаётся смертельной далеко за пределами взрыва, поэтому бросай её из укрытия.",
+					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-08T05:10:20Z"
 				},
 				"ko":
 				{
-					"text": "RGO 수류탄 템플릿",
-					"status": "stale",
+					"text": "소련제 방어용 파편수류탄. 조밀한 파편 외피는 폭발 범위를 훨씬 넘어서도 치명적이므로 엄폐물에서 던져라.",
+					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-08T05:10:20Z"
 				},
 				"ja":
 				{
-					"text": "RGO グレネードテンプレート",
-					"status": "stale",
+					"text": "ソ連製の防御用破片手榴弾。高密度の破片外筒は爆風を大きく超えても致死性を保つので、掩体から投げろ。",
+					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-08T05:10:20Z"
 				},
 				"es-ES":
 				{
-					"text": "Plantilla de granada RGO",
-					"status": "stale",
+					"text": "Granada de fragmentación defensiva soviética. La densa camisa de fragmentos sigue siendo letal mucho más allá de la explosión, así que lánzala desde cobertura.",
+					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-08T05:10:20Z"
 				}
 			}
 		},
