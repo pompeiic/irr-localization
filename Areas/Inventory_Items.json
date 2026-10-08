@@ -740,33 +740,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "RFB-Visier",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "RFB 瞄具",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Прицел RFB",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "RFB 조준경",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "RFB サイト",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Mira RFB",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -1716,33 +1728,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14-Visier",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 瞄具",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Прицел M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 조준경",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 サイト",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Mira M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -4356,33 +4380,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14-Oberteil",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 上盖",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Верх M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 상부",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 トップ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Tapa M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -7724,33 +7760,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14-Montage",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 支架",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Крепление M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 마운트",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 マウント",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Montura M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -7764,33 +7812,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14-Chassis",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 底盘",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Ложа M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 섀시",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 シャーシ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Chasis M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -8012,33 +8072,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14-Chassis",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 底盘",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Ложа M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 섀시",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 シャーシ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Chasis M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -8468,33 +8540,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "MK-47",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "MK-47",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "MK-47",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "MK-47",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "MK-47",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "MK-47",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -10016,33 +10100,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 10 Schuss",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 10发",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 10 патр.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 10발",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 10連",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 10 cart.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -11668,33 +11764,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "MK-47 16 Zoll",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "MK-47 16英寸",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "MK-47 16 дюймов",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "MK-47 16인치",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "MK-47 16インチ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "MK-47 16 pulgadas",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -13372,33 +13480,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14-Adapter",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 适配器",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Адаптер M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 어댑터",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 アダプター",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Adaptador M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -16740,33 +16860,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AR-15 CMMG",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AR-15 CMMG",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AR-15 CMMG",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AR-15 CMMG",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AR-15 CMMG",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AR-15 CMMG",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -16832,33 +16964,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AR-10 Lancer",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AR-10 Lancer",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AR-10 Lancer",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AR-10 Lancer",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AR-10 Lancer",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AR-10 Lancer",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -18900,33 +19044,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "RFB-Mündung",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "RFB 枪口",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Дуло RFB",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "RFB 총구",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "RFB 銃口",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Boca RFB",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -19148,33 +19304,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "RFB",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "RFB",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "RFB",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "RFB",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "RFB",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "RFB",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -19292,33 +19460,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 16 Zoll",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 16英寸",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 16 дюймов",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 16인치",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 16インチ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 16 pulgadas",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -20424,33 +20604,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 50 Schuss",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 50发",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 50 патр.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 50발",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 50連",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 50 cart.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -21660,33 +21852,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Vierfachschiene",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "四导轨",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Четырёхместная планка",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "쿼드 레일",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "クアッドレール",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Riel cuádruple",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -21700,33 +21904,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14-Oberteil",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 上盖",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Верх M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 상부",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 トップ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Tapa M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -22104,45 +22320,45 @@
 			{
 				"de":
 				{
-					"text": "RGO-Granaten-Vorlage",
-					"status": "stale",
+					"text": "Sowjetische defensive Splittergranate. Die dichte Splitterhülle bleibt weit über die Explosion hinaus tödlich, wirf sie also aus der Deckung.",
+					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-08T05:10:20Z"
 				},
 				"zh-Hans":
 				{
-					"text": "RGO 手榴弹模板",
-					"status": "stale",
+					"text": "苏制防御破片弹。致密破片套在爆炸范围之外仍然致命，因此从掩体后投掷。",
+					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-08T05:10:20Z"
 				},
 				"ru":
 				{
-					"text": "Шаблон гранаты РГО",
-					"status": "stale",
+					"text": "Советская оборонительная осколочная граната. Плотная осколочная рубашка остаётся смертельной далеко за пределами взрыва, поэтому бросай её из укрытия.",
+					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-08T05:10:20Z"
 				},
 				"ko":
 				{
-					"text": "RGO 수류탄 템플릿",
-					"status": "stale",
+					"text": "소련제 방어용 파편수류탄. 조밀한 파편 외피는 폭발 범위를 훨씬 넘어서도 치명적이므로 엄폐물에서 던져라.",
+					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-08T05:10:20Z"
 				},
 				"ja":
 				{
-					"text": "RGO グレネードテンプレート",
-					"status": "stale",
+					"text": "ソ連製の防御用破片手榴弾。高密度の破片外筒は爆風を大きく超えても致死性を保つので、掩体から投げろ。",
+					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-08T05:10:20Z"
 				},
 				"es-ES":
 				{
-					"text": "Plantilla de granada RGO",
-					"status": "stale",
+					"text": "Granada de fragmentación defensiva soviética. La densa camisa de fragmentos sigue siendo letal mucho más allá de la explosión, así que lánzala desde cobertura.",
+					"status": "machine",
 					"by": "ai",
-					"at": "2026-09-24T23:30:59Z"
+					"at": "2026-10-08T05:10:20Z"
 				}
 			}
 		},
@@ -22572,33 +22788,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14-Montage",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 支架",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Крепление M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 마운트",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 マウント",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Montura M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -22664,33 +22892,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 22 Zoll",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 22英寸",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 22 дюйма",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 22인치",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 22インチ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 22 pulgadas",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -23588,33 +23828,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14-Mündung",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 枪口",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Дуло M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 총구",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 銃口",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Boca M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -24616,33 +24868,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "LAMG 150 Schuss",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "LAMG 150发",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "LAMG 150 патр.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "LAMG 150발",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "LAMG 150連",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "LAMG 150 cart.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -26372,33 +26636,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14-Visier",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 瞄具",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Прицел M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 조준경",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 サイト",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Mira M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -27660,33 +27936,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "RFB 18 Zoll",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "RFB 18英寸",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "RFB 18 дюймов",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "RFB 18인치",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "RFB 18インチ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "RFB 18 pulgadas",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -30144,33 +30432,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AK 7.62x39 75 Schuss",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AK 7.62x39 75发",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AK 7.62x39 75 патр.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AK 7.62x39 75발",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AK 7.62x39 75連",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AK 7.62x39 75 cart.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -30340,33 +30640,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AK 7.62x39 30 Schuss",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AK 7.62x39 30发",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AK 7.62x39 30 патр.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AK 7.62x39 30발",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AK 7.62x39 30連",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AK 7.62x39 30 cart.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -30380,33 +30692,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14-Adapter",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 适配器",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Адаптер M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 어댑터",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 アダプター",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Adaptador M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -30940,33 +31264,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AR-10 CMMG",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AR-10 CMMG",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AR-10 CMMG",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AR-10 CMMG",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AR-10 CMMG",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "AR-10 CMMG",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -31812,33 +32148,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14-Chassis",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 底盘",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Ложа M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 섀시",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 シャーシ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Chasis M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -32476,33 +32824,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14-Mündung",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 枪口",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Дуло M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 총구",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 銃口",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Boca M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -33504,33 +33864,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "RFB 24 Zoll",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "RFB 24英寸",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "RFB 24 дюйма",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "RFB 24인치",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "RFB 24インチ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "RFB 24 pulgadas",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -34584,33 +34956,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14-Chassis",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 底盘",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Ложа M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 섀시",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 シャーシ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Chasis M14",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -38524,33 +38908,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "RFB-Visier",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "RFB 瞄具",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Прицел RFB",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "RFB 조준경",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "RFB サイト",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Mira RFB",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -39084,33 +39480,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "MK-47 10 Zoll",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "MK-47 10英寸",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "MK-47 10 дюймов",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "MK-47 10인치",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "MK-47 10インチ",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "MK-47 10 pulgadas",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},
@@ -39436,33 +39844,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 20 Schuss",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 20发",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 20 патр.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 20발",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 20連",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "M14 20 cart.",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-07T05:16:24Z"
 				}
 			}
 		},

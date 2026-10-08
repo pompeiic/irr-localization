@@ -7344,33 +7344,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Platzhalter",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-08T05:10:20Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "占位符",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-08T05:10:20Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Заполнитель",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-08T05:10:20Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "플레이스홀더",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-08T05:10:20Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "プレースホルダー",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-08T05:10:20Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Marcador",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-08T05:10:20Z"
 				}
 			}
 		},
@@ -12376,33 +12388,45 @@
 			{
 				"de":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Platzhalter",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-08T05:10:20Z"
 				},
 				"zh-Hans":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "占位符",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-08T05:10:20Z"
 				},
 				"ru":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Заполнитель",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-08T05:10:20Z"
 				},
 				"ko":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "플레이스홀더",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-08T05:10:20Z"
 				},
 				"ja":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "プレースホルダー",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-08T05:10:20Z"
 				},
 				"es-ES":
 				{
-					"text": "",
-					"status": "untranslated"
+					"text": "Marcador",
+					"status": "machine",
+					"by": "ai",
+					"at": "2026-10-08T05:10:20Z"
 				}
 			}
 		},
